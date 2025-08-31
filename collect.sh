@@ -13,4 +13,4 @@ JOB_ID=$(grep -Po "Evaluation (\d+) of jobset" result.html \
 
 gcc fast-hydra-parser.c -O2 -o fhp
 
-./fhp result.html | python post-cleanup.py | tee result-$JOB_ID.csv
+./fhp result.html | python post-cleanup.py

@@ -46,8 +46,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git checkout -B results || git checkout results
-          mkdir -p results
-          cp *.csv results/
 
           git add results/
           if git diff --cached --quiet; then
