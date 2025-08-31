@@ -2,7 +2,6 @@ from __future__ import annotations
 from collections import defaultdict
 from dataclasses import dataclass
 
-import json
 import os
 import sys
 
