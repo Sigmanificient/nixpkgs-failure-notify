@@ -3,7 +3,8 @@
 
 set -euo pipefail
 
-curl -L \
+[[ ! -s result.html ]] && \
+  curl -L \
    -A "nixpkgs-failure-notify (reach sigmanificient)" \
    -o result.html \
    https://hydra.nixos.org/jobset/nixpkgs/trunk/latest-eval?full=1
@@ -15,7 +16,13 @@ grep -Po "Evaluation (\d+) of jobset" result.html \
 
 TMP_DIR=$(mktemp -d)
 
-gcc fast-hydra-parser.c -O2 -o "$TMP_DIR/fhp"
-"$TMP_DIR/fhp" result.html | python post-cleanup.py
+if ! command -v fhp >/dev/null 2>&1; then
+  gcc fast-hydra-parser.c -O2 -o "$TMP_DIR/fhp"
 
+  fhp_cmd="$TMP_DIR/fhp"
+else
+  fhp_cmd=fhp
+fi
+
+$fhp_cmd result.html | python post-cleanup.py
 ./filter-maintained-packages.nix > results/concerned-failures.json

@@ -50,8 +50,14 @@
 
       collect = pkgs.writeShellApplication {
         name = "collect.sh";
-        runtimeInputs = with pkgs; [ curl gcc python3 jq ];
         text = (builtins.readFile ./collect.sh);
+        runtimeInputs = with pkgs; [
+          curl
+          gcc
+          python3
+          jq
+          self.packages.${system}.fast-hydra-parser
+        ];
       };
 
       fast-hydra-parser = pkgs.callPackage (
