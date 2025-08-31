@@ -13,7 +13,9 @@ grep -Po "Evaluation (\d+) of jobset" result.html \
   | cut -f 2 -d ' ' \
   | head -n 1 >> results/job_id
 
-gcc fast-hydra-parser.c -O2 -o fhp
-./fhp result.html | python post-cleanup.py
+TMP_DIR=$(mktemp -d)
+
+gcc fast-hydra-parser.c -O2 -o "$TMP_DIR/fhp"
+"$TMP_DIR/fhp" result.html | python post-cleanup.py
 
 ./filter-maintained-packages.nix > results/concerned-failures.json
