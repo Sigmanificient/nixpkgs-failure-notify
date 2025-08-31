@@ -5,6 +5,14 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+env:
+  GH_PUB_KEY:
+    github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
+  GH_BOT_ACC_EMAIL:
+    41898282+github-actions[bot]@users.noreply.github.com
+  GH_BOT_ACC_NAME:
+    github-actions[bot]
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -12,7 +20,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          persist-credentials: false
 
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@v4
@@ -21,20 +29,30 @@ jobs:
         run: |
           ./collect.sh
 
-      - name: Configure Git
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.GH_SSH_PRIVATE_KEY }}
+          known_hosts: $GH_PUB_KEY
+
+      - name: setup git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email $GH_BOT_ACC_EMAIL
+          git config --local user.name $GH_BOT_ACC_NAME
+          git remote add ssh git@github.com:${{ github.repository }}
 
       - name: Commit results
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git checkout -B results || git checkout results
           mkdir -p results
           cp *.csv results/
+
           git add results/
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update Hydra results"
-            git push origin results --force
+            git push ssh results --force
           fi
