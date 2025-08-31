@@ -23,16 +23,13 @@ for line in sys.stdin:
         system
     ) = line.rstrip("\n").split(',')
 
-    parts = (
 # status:
 # D -> Dependency fail
 # F -> Failure
 # S -> Succeeded
 # O -> Output size limit exceeded
-        status[0],
-        # skip id
-        remove_system_suffix(job),
-        system,
-    )
+    if status[0] != 'F':
+        continue
 
+    parts = (id, remove_system_suffix(job), system)
     print(','.join(parts))
