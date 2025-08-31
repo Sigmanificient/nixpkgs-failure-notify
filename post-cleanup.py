@@ -2,6 +2,7 @@ from __future__ import annotations
 from collections import defaultdict
 from dataclasses import dataclass
 
+import json
 import os
 import sys
 
@@ -48,14 +49,10 @@ def write_csv(name: str, header: str, lines):
 
 
 def main():
-    header = next(sys.stdin) # discard first line
+    next(sys.stdin) # discard first line
     raw_data = [line for line in sys.stdin]
 
     os.makedirs("results", exist_ok=True)
-
-    with open("results/0-verbatim.csv", "w+") as f:
-        f.write(header)
-        f.write(''.join(raw_data))
 
     all_jobs = [
         job for job in (Job.from_line(line) for line in raw_data)
