@@ -1,7 +1,7 @@
 import sys
 
 header = next(sys.stdin) # discard first line
-sys.stdout.write("status,job,system,")
+sys.stdout.write("status,job,system\n")
 
 def remove_system_suffix(jobname: str) -> str:
     return min(
