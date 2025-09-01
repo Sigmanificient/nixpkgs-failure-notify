@@ -31,20 +31,40 @@
           doCheck = false;
         } (builtins.readFile path);
 
+      inherit (pkgs) lib;
     in {
       default = pkgs.symlinkJoin {
          name = "zappy";
          paths = with self.packages.${pkgs.system}; [
           collect
           fast-hydra-parser
-          post-cleanup
+          hydra-parser
           create-issues
         ];
 
         meta.mainProgram = "collect";
       };
 
-      post-cleanup = python-script "post-cleanup.py" ./post-cleanup.py;
+      hydra-parser = let
+        pyproj = (lib.importTOML ./python_hydra_parser/pyproject.toml).project;
+      in pkgs.python3Packages.buildPythonPackage {
+        pname = pyproj.name;
+        inherit (pyproj) version;
+        pyproject = true;
+        src = pkgs.lib.cleanSource ./python_hydra_parser;
+
+        build-system = [
+          pkgs.python3Packages.uv-build
+        ];
+
+        pythonImportsCheck = [ "hydra_parser" ];
+
+        meta = {
+          inherit (pyproj) description;
+          mainProgram = "hydra-to-csv";
+          license = lib.getLicenseFromSpdxId pyproj.license;
+        };
+      };
 
       create-issues = python-script "create-issues.py" ./create-issues.py;
 
