@@ -24,5 +24,5 @@ else
   fhp_cmd=fhp
 fi
 
-$fhp_cmd result.html | python post-cleanup.py
+$fhp_cmd result.html | python python_hydra_parser/src/hydra_parser/__init__.py
 ./filter-maintained-packages.nix > results/concerned-failures.json
