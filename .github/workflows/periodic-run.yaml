@@ -39,20 +39,16 @@ jobs:
           git config --local user.name $GH_BOT_ACC_NAME
           git remote add ssh "git@github.com:${{ github.repository }}"
 
-      - name: Rebase main
-        run: |
           git fetch origin
           git checkout results
-          git pull --rebase origin main
 
       - name: Back prev results
         run: |
-          ls -alr . results
           mv results/concerned-failures.json previous.json
 
       - name: Run collect script
         run: |
-          ./collect.sh
+          nix run github:${{ github.repository }}
 
       - name: Open issue for new build failures
         run: |

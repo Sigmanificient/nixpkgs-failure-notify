@@ -34,7 +34,7 @@
       inherit (pkgs) lib;
     in {
       default = pkgs.symlinkJoin {
-         name = "zappy";
+         name = "collect-full";
          paths = with self.packages.${pkgs.system}; [
           collect
           fast-hydra-parser
@@ -42,7 +42,7 @@
           create-issues
         ];
 
-        meta.mainProgram = "collect";
+        meta.mainProgram = "collect.sh";
       };
 
       hydra-parser = let
