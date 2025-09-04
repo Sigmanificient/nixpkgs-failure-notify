@@ -77,6 +77,7 @@
           python3
           jq
           self.packages.${system}.fast-hydra-parser
+          self.packages.${system}.hydra-parser
         ];
       };
 

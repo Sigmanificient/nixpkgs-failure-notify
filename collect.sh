@@ -24,5 +24,11 @@ else
   fhp_cmd=fhp
 fi
 
-$fhp_cmd result.html | python python_hydra_parser/src/hydra_parser/__init__.py
+if ! command -v hydra-to-csv 2>&1; then
+  hydra_to_cvs_cmd="python python_hydra_parser/src/hydra_parser/__init__.py"
+else
+  hydra_to_cvs_cmd="hydra-to-csv"
+fi
+
+$fhp_cmd result.html | $hydra_to_cvs_cmd
 ./filter-maintained-packages.nix > results/concerned-failures.json
