@@ -127,7 +127,7 @@ dleyna,,,306091256,306091257
 dnadd,,,305745803,305745799
 dnslink-std-go,,,305745864,305745861
 docker-machine-kvm2,,306050850,,
-docling-serve,306668807,,,
+docling-serve,306689514,,306689510,306689512
 documenso,305746160,305746159,305746161,305746164
 doomrunner,,,305746287,305746288
 doomseeker,,,305746301,305746294
@@ -207,6 +207,8 @@ gluesql,305754815,305754814,305754812,305754813
 gmu,,,305754903,305754893
 gnome2.ORBit2,,,305755387,305755382
 gns3-server,305755500,305755502,,
+gns3Packages.serverPreview,306684772,306684775,,
+gns3Packages.serverStable,306684773,306684774,,
 gnu-cim,,,305755439,
 gnucobol,305755489,305755488,305755491,305755490
 google-cloud-cpp,,,,305758132
@@ -538,7 +540,6 @@ linuxKernel.packages.linux_6_16.rust-out-of-tree-module,306115478,306115465,,
 linuxKernel.packages.linux_6_16.shufflecake,306115521,306115470,,
 linuxKernel.packages.linux_6_16.tsme-test,,306115485,,
 linuxKernel.packages.linux_6_16.vmm_clock,306115537,,,
-linuxKernel.packages.linux_6_16.zenergy,306115536,,,
 linuxKernel.packages.linux_6_6.acer-wmi-battery,,306657879,,
 linuxKernel.packages.linux_6_6.lenovo-legion-module,,306115619,,
 linuxKernel.packages.linux_6_6.lttng-modules,306115625,306115636,,
@@ -595,7 +596,6 @@ linuxKernel.packages.linux_latest_libre.rust-out-of-tree-module,306115905,306115
 linuxKernel.packages.linux_latest_libre.shufflecake,306115899,306115908,,
 linuxKernel.packages.linux_latest_libre.tsme-test,,306115927,,
 linuxKernel.packages.linux_latest_libre.vmm_clock,306115959,,,
-linuxKernel.packages.linux_latest_libre.zenergy,306115953,,,
 linuxKernel.packages.linux_libre.acer-wmi-battery,,306657954,,
 linuxKernel.packages.linux_libre.ax99100,306115967,306115980,,
 linuxKernel.packages.linux_libre.fwts-efi-runtime,306116030,306116062,,
@@ -638,7 +638,6 @@ linuxKernel.packages.linux_lqx.rtl88xxau-aircrack,306034451,,,
 linuxKernel.packages.linux_lqx.rust-out-of-tree-module,306034452,,,
 linuxKernel.packages.linux_lqx.shufflecake,306034454,,,
 linuxKernel.packages.linux_lqx.vmm_clock,306034483,,,
-linuxKernel.packages.linux_lqx.zenergy,306034497,,,
 linuxKernel.packages.linux_xanmod.ax99100,306251072,,,
 linuxKernel.packages.linux_xanmod.fwts-efi-runtime,306251060,,,
 linuxKernel.packages.linux_xanmod.linux-gpib,306251087,,,
@@ -677,7 +676,6 @@ linuxKernel.packages.linux_xanmod_latest.rtl88xxau-aircrack,306251261,,,
 linuxKernel.packages.linux_xanmod_latest.rust-out-of-tree-module,306251273,,,
 linuxKernel.packages.linux_xanmod_latest.shufflecake,306251254,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,306251418,,,
-linuxKernel.packages.linux_xanmod_latest.zenergy,306251412,,,
 linuxKernel.packages.linux_xanmod_stable.apfs,306251295,,,
 linuxKernel.packages.linux_xanmod_stable.ax99100,306251298,,,
 linuxKernel.packages.linux_xanmod_stable.chipsec,306251394,,,
@@ -707,7 +705,6 @@ linuxKernel.packages.linux_xanmod_stable.rtl88xxau-aircrack,306251379,,,
 linuxKernel.packages.linux_xanmod_stable.rust-out-of-tree-module,306251381,,,
 linuxKernel.packages.linux_xanmod_stable.shufflecake,306251384,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,306251417,,,
-linuxKernel.packages.linux_xanmod_stable.zenergy,306251411,,,
 linuxKernel.packages.linux_zen.apfs,306099357,,,
 linuxKernel.packages.linux_zen.ax99100,306099338,,,
 linuxKernel.packages.linux_zen.chipsec,306099380,,,
@@ -737,7 +734,6 @@ linuxKernel.packages.linux_zen.rtl88xxau-aircrack,306099404,,,
 linuxKernel.packages.linux_zen.rust-out-of-tree-module,306099406,,,
 linuxKernel.packages.linux_zen.shufflecake,306099409,,,
 linuxKernel.packages.linux_zen.vmm_clock,306099448,,,
-linuxKernel.packages.linux_zen.zenergy,306099450,,,
 linuxPackages-libre.acer-wmi-battery,,306658086,,
 linuxPackages-libre.ax99100,306116419,306116415,,
 linuxPackages-libre.fwts-efi-runtime,306116452,306116450,,
@@ -797,7 +793,6 @@ linuxPackages_latest-libre.rust-out-of-tree-module,306116986,306116981,,
 linuxPackages_latest-libre.shufflecake,306116990,306116989,,
 linuxPackages_latest-libre.tsme-test,,306116999,,
 linuxPackages_latest-libre.vmm_clock,306117024,,,
-linuxPackages_latest-libre.zenergy,306117034,,,
 linuxPackages_latest.acer-wmi-battery,,306658114,,
 linuxPackages_latest.apfs,306116634,306116633,,
 linuxPackages_latest.ax99100,306116637,306116641,,
@@ -831,7 +826,6 @@ linuxPackages_latest.rust-out-of-tree-module,306116778,306116774,,
 linuxPackages_latest.shufflecake,306116779,306116780,,
 linuxPackages_latest.tsme-test,,306116792,,
 linuxPackages_latest.vmm_clock,306116817,,,
-linuxPackages_latest.zenergy,306116825,,,
 linuxPackages_lqx.apfs,306034511,,,
 linuxPackages_lqx.ax99100,306034505,,,
 linuxPackages_lqx.chipsec,306034517,,,
@@ -861,7 +855,6 @@ linuxPackages_lqx.rtl88xxau-aircrack,306034585,,,
 linuxPackages_lqx.rust-out-of-tree-module,306034587,,,
 linuxPackages_lqx.shufflecake,306034590,,,
 linuxPackages_lqx.vmm_clock,306034610,,,
-linuxPackages_lqx.zenergy,306034619,,,
 linuxPackages_xanmod.ax99100,306251438,,,
 linuxPackages_xanmod.fwts-efi-runtime,306251454,,,
 linuxPackages_xanmod.linux-gpib,306251474,,,
@@ -900,7 +893,6 @@ linuxPackages_xanmod_latest.rtl88xxau-aircrack,306251644,,,
 linuxPackages_xanmod_latest.rust-out-of-tree-module,306251643,,,
 linuxPackages_xanmod_latest.shufflecake,306251649,,,
 linuxPackages_xanmod_latest.vmm_clock,306251674,,,
-linuxPackages_xanmod_latest.zenergy,306251684,,,
 linuxPackages_xanmod_stable.apfs,306251687,,,
 linuxPackages_xanmod_stable.ax99100,306251691,,,
 linuxPackages_xanmod_stable.chipsec,306251811,,,
@@ -930,7 +922,6 @@ linuxPackages_xanmod_stable.rtl88xxau-aircrack,306251764,,,
 linuxPackages_xanmod_stable.rust-out-of-tree-module,306251768,,,
 linuxPackages_xanmod_stable.shufflecake,306251769,,,
 linuxPackages_xanmod_stable.vmm_clock,306251794,,,
-linuxPackages_xanmod_stable.zenergy,306251801,,,
 linuxPackages_zen.apfs,306099481,,,
 linuxPackages_zen.ax99100,306099480,,,
 linuxPackages_zen.chipsec,306099489,,,
@@ -960,7 +951,6 @@ linuxPackages_zen.rtl88xxau-aircrack,306099558,,,
 linuxPackages_zen.rust-out-of-tree-module,306099559,,,
 linuxPackages_zen.shufflecake,306099563,,,
 linuxPackages_zen.vmm_clock,306099587,,,
-linuxPackages_zen.zenergy,306099591,,,
 litestar,305811916,305811883,305811869,305811853
 live555,,,305811868,305811863
 lixStatic,,,306577691,306577688
@@ -1234,10 +1224,10 @@ python312Packages.deep-chainmap,305868511,305868508,305868509,305868506
 python312Packages.deltalake,306663033,306663031,306663036,306663040
 python312Packages.devito,305868716,305868705,305868711,305868703
 python312Packages.diofant,305868804,305868805,305868803,305868802
-python312Packages.dipy,306663065,306663055,,
+python312Packages.dipy,306689855,306689861,,
 python312Packages.django-pattern-library,305869407,305869400,305869405,305869401
 python312Packages.django-q2,,,306578650,
-python312Packages.docling-serve,306669206,,,
+python312Packages.docling-serve,306689871,,306689876,306689885
 python312Packages.donut-shellcode,,305869951,305869953,305869950
 python312Packages.duckdb,,305870178,,
 python312Packages.e3-core,305870335,305870334,,
@@ -1262,7 +1252,6 @@ python312Packages.geoarrow-c,306663251,306663256,306663243,306663242
 python312Packages.git-dummy,,,305872759,305872758
 python312Packages.gpaw,,,,306592572
 python312Packages.graph-tool,306588530,,,
-python312Packages.greynoise,305873497,305873494,305873498,305873492
 python312Packages.gst-python,,,305873596,305873597
 python312Packages.gstools-cython,305873605,305873603,305873606,305873604
 python312Packages.h3,305873701,305873698,305873702,305873700
@@ -1273,7 +1262,6 @@ python312Packages.http-message-signatures,305874276,305874268,305874269,30587426
 python312Packages.imagecodecs,305874672,305874665,305874673,305874671
 python312Packages.imagededup,306634103,306634108,306634107,306634113
 python312Packages.imbalanced-learn,305874718,305874717,305874716,305874715
-python312Packages.iplotx,306663400,306663384,,
 python312Packages.ipython-sql,305875133,305875132,305875135,305875137
 python312Packages.itemdb,305875250,305875247,305875249,305875246
 python312Packages.iterfzf,,,306663406,306663390
@@ -1308,7 +1296,6 @@ python312Packages.nest,306117714,306117711,306117710,306117712
 python312Packages.neurokit2,306663878,306663880,306663885,306663920
 python312Packages.niaaml,305881245,305881241,305881239,305881242
 python312Packages.nidaqmx,305881281,305881277,305881278,305881276
-python312Packages.nilearn,306663892,306663891,,
 python312Packages.nocasedict,305881377,305881371,305881376,305881372
 python312Packages.nuitka,,,305881533,305881530
 python312Packages.nvdlib,305881623,305881620,305881621,305881618
@@ -1353,7 +1340,6 @@ python312Packages.pyinstaller-versionfile,305885932,305885931,305885936,30588593
 python312Packages.pyinterp,306664111,,,
 python312Packages.pyitachip2ir,,,305885982,305885981
 python312Packages.pyjnius,305886002,305886003,305886004,305885999
-python312Packages.pylance,,,,306664115
 python312Packages.pyliblo3,305886195,305886191,305886193,305886194
 python312Packages.pylit,305886234,305886232,305886237,305886236
 python312Packages.pymssql,305886522,305886525,305886524,305886530
@@ -1406,7 +1392,6 @@ python312Packages.scikit-survival,305891611,305891609,305891618,305891614
 python312Packages.scrapy-fake-useragent,305891705,305891708,305891724,305891715
 python312Packages.scrapy-splash,305891722,305891719,305891723,305891706
 python312Packages.segyio,305891845,305891825,305891826,305891834
-python312Packages.semaphore-bot,305891838,305891835,305891836,305891837
 python312Packages.setuptools-dso,,,305891995,305891992
 python312Packages.skops,,,306664324,
 python312Packages.slack-bolt,305892455,305892457,,305892436
@@ -1506,10 +1491,10 @@ python313Packages.deep-chainmap,305906175,305906173,305906174,305906172
 python313Packages.deltalake,306664892,306664897,306664910,306664907
 python313Packages.devito,305906376,305906381,305906375,305906374
 python313Packages.diofant,305906476,305906472,305906475,305906479
-python313Packages.dipy,306664916,306664931,,
+python313Packages.dipy,306690083,306690077,,
 python313Packages.django-pattern-library,305907084,305907082,305907083,305907080
 python313Packages.django-q2,,,306579867,
-python313Packages.docling-serve,306669292,,,
+python313Packages.docling-serve,306690103,,306690101,306690099
 python313Packages.donut-shellcode,,305907629,305907628,305907624
 python313Packages.dscribe,,,,306664986
 python313Packages.e3-core,305908004,305908006,,
@@ -1532,7 +1517,6 @@ python313Packages.geoarrow-c,306665104,306665109,306665105,306665108
 python313Packages.git-dummy,,,305910389,305910385
 python313Packages.gpaw,,,,306593035
 python313Packages.graph-tool,306588652,,,
-python313Packages.greynoise,305911115,305911118,305911112,305911113
 python313Packages.gst-python,,,305911223,305911208
 python313Packages.gstools-cython,305911218,305911215,305911220,305911214
 python313Packages.h3,305911315,305911311,305911314,305911312
@@ -1544,7 +1528,6 @@ python313Packages.http-message-signatures,305911888,305911889,305911895,30591189
 python313Packages.imagecodecs,305912284,305912275,305912285,305912286
 python313Packages.imagededup,306635508,306635504,306635509,306635512
 python313Packages.imbalanced-learn,305912332,305912329,305912328,305912325
-python313Packages.iplotx,306665242,306665244,,
 python313Packages.ipython-sql,305912743,305912739,305912742,305912738
 python313Packages.itemdb,305912858,305912857,305912860,305912859
 python313Packages.iterfzf,,,306665255,306665252
@@ -1578,7 +1561,6 @@ python313Packages.nest,306118337,306118335,306118334,306118339
 python313Packages.neurokit2,306665736,306665734,,306665733
 python313Packages.niaaml,305918796,305918795,305918794,305918793
 python313Packages.nidaqmx,305918835,305918833,305918836,305918829
-python313Packages.nilearn,306665763,306665747,,
 python313Packages.nocasedict,305918933,305918929,305918930,305918928
 python313Packages.nuitka,,,305919087,305919082
 python313Packages.nvdlib,305919172,305919167,305919170,305919169
@@ -1619,7 +1601,6 @@ python313Packages.pyinfra,305923438,305923452,305923442,305923440
 python313Packages.pyinstaller-versionfile,305923441,305923437,305923439,305923436
 python313Packages.pyitachip2ir,,,305923495,305923491
 python313Packages.pyjnius,305923507,305923509,305923506,305923508
-python313Packages.pylance,,,306665972,
 python313Packages.pyliblo3,305923698,305923691,305923689,305923688
 python313Packages.pylit,305923739,305923738,305923740,305923735
 python313Packages.pymssql,305924021,305924019,305924025,305924017
@@ -1670,7 +1651,6 @@ python313Packages.scikit-survival,305929047,305929039,305929042,305929044
 python313Packages.scrapy-fake-useragent,305929130,305929123,305929132,305929127
 python313Packages.scrapy-splash,305929166,305929144,305929151,305929134
 python313Packages.segyio,305929263,305929253,305929255,305929252
-python313Packages.semaphore-bot,305929272,305929275,305929276,305929274
 python313Packages.setuptools-dso,,,305929430,305929433
 python313Packages.simple-dftd3,306647774,,,
 python313Packages.slack-bolt,305929877,305929854,305930265,
@@ -1849,7 +1829,6 @@ tacent,305957910,,,
 talkfilters,,,305958056,305958052
 tamarin-prover,306658733,306658730,,
 tarantool,,305958138,305958140,305958136
-task-master-ai,305994633,305994635,305994632,
 tau-hydrogen,305958240,305958238,305958239,305958237
 tblite,306258675,306258674,,
 tbls,,,305958284,
@@ -1916,12 +1895,10 @@ vorbisgain,,,305981328,305981327
 vsc-leetcode-cli,305981396,305981394,305981395,305981393
 wapiti,306089138,306089160,306066930,306066923
 warmux,305983485,305983492,,
-wasm-tools,,306586818,,
 wasmer,305983562,,305983557,
 wavm,,,305983646,305983642
 wayland,,,305983700,305983705
 wayv,305983757,305983756,,
-wealthfolio,,306586832,,
 webssh,305983946,305983944,,
 wiiuse,,,305984279,305984275
 windowtolayer,,,305984341,305984339

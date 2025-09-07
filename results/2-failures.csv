@@ -277,7 +277,9 @@ id,name,system
 305745861,dnslink-std-go,aarch64-darwin
 305745864,dnslink-std-go,x86_64-darwin
 306050850,docker-machine-kvm2,aarch64-linux
-306668807,docling-serve,x86_64-linux
+306689512,docling-serve,aarch64-darwin
+306689510,docling-serve,x86_64-darwin
+306689514,docling-serve,x86_64-linux
 305746164,documenso,aarch64-darwin
 305746159,documenso,aarch64-linux
 305746161,documenso,x86_64-darwin
@@ -438,6 +440,10 @@ id,name,system
 305755387,gnome2.ORBit2,x86_64-darwin
 305755502,gns3-server,aarch64-linux
 305755500,gns3-server,x86_64-linux
+306684775,gns3Packages.serverPreview,aarch64-linux
+306684772,gns3Packages.serverPreview,x86_64-linux
+306684774,gns3Packages.serverStable,aarch64-linux
+306684773,gns3Packages.serverStable,x86_64-linux
 305755439,gnu-cim,x86_64-darwin
 305755490,gnucobol,aarch64-darwin
 305755488,gnucobol,aarch64-linux
@@ -1062,7 +1068,6 @@ id,name,system
 306115521,linuxKernel.packages.linux_6_16.shufflecake,x86_64-linux
 306115485,linuxKernel.packages.linux_6_16.tsme-test,aarch64-linux
 306115537,linuxKernel.packages.linux_6_16.vmm_clock,x86_64-linux
-306115536,linuxKernel.packages.linux_6_16.zenergy,x86_64-linux
 306657879,linuxKernel.packages.linux_6_6.acer-wmi-battery,aarch64-linux
 306115619,linuxKernel.packages.linux_6_6.lenovo-legion-module,aarch64-linux
 306115636,linuxKernel.packages.linux_6_6.lttng-modules,aarch64-linux
@@ -1157,7 +1162,6 @@ id,name,system
 306115899,linuxKernel.packages.linux_latest_libre.shufflecake,x86_64-linux
 306115927,linuxKernel.packages.linux_latest_libre.tsme-test,aarch64-linux
 306115959,linuxKernel.packages.linux_latest_libre.vmm_clock,x86_64-linux
-306115953,linuxKernel.packages.linux_latest_libre.zenergy,x86_64-linux
 306657954,linuxKernel.packages.linux_libre.acer-wmi-battery,aarch64-linux
 306115980,linuxKernel.packages.linux_libre.ax99100,aarch64-linux
 306115967,linuxKernel.packages.linux_libre.ax99100,x86_64-linux
@@ -1209,7 +1213,6 @@ id,name,system
 306034452,linuxKernel.packages.linux_lqx.rust-out-of-tree-module,x86_64-linux
 306034454,linuxKernel.packages.linux_lqx.shufflecake,x86_64-linux
 306034483,linuxKernel.packages.linux_lqx.vmm_clock,x86_64-linux
-306034497,linuxKernel.packages.linux_lqx.zenergy,x86_64-linux
 306251072,linuxKernel.packages.linux_xanmod.ax99100,x86_64-linux
 306251060,linuxKernel.packages.linux_xanmod.fwts-efi-runtime,x86_64-linux
 306251087,linuxKernel.packages.linux_xanmod.linux-gpib,x86_64-linux
@@ -1248,7 +1251,6 @@ id,name,system
 306251273,linuxKernel.packages.linux_xanmod_latest.rust-out-of-tree-module,x86_64-linux
 306251254,linuxKernel.packages.linux_xanmod_latest.shufflecake,x86_64-linux
 306251418,linuxKernel.packages.linux_xanmod_latest.vmm_clock,x86_64-linux
-306251412,linuxKernel.packages.linux_xanmod_latest.zenergy,x86_64-linux
 306251295,linuxKernel.packages.linux_xanmod_stable.apfs,x86_64-linux
 306251298,linuxKernel.packages.linux_xanmod_stable.ax99100,x86_64-linux
 306251394,linuxKernel.packages.linux_xanmod_stable.chipsec,x86_64-linux
@@ -1278,7 +1280,6 @@ id,name,system
 306251381,linuxKernel.packages.linux_xanmod_stable.rust-out-of-tree-module,x86_64-linux
 306251384,linuxKernel.packages.linux_xanmod_stable.shufflecake,x86_64-linux
 306251417,linuxKernel.packages.linux_xanmod_stable.vmm_clock,x86_64-linux
-306251411,linuxKernel.packages.linux_xanmod_stable.zenergy,x86_64-linux
 306099357,linuxKernel.packages.linux_zen.apfs,x86_64-linux
 306099338,linuxKernel.packages.linux_zen.ax99100,x86_64-linux
 306099380,linuxKernel.packages.linux_zen.chipsec,x86_64-linux
@@ -1308,7 +1309,6 @@ id,name,system
 306099406,linuxKernel.packages.linux_zen.rust-out-of-tree-module,x86_64-linux
 306099409,linuxKernel.packages.linux_zen.shufflecake,x86_64-linux
 306099448,linuxKernel.packages.linux_zen.vmm_clock,x86_64-linux
-306099450,linuxKernel.packages.linux_zen.zenergy,x86_64-linux
 306658086,linuxPackages-libre.acer-wmi-battery,aarch64-linux
 306116415,linuxPackages-libre.ax99100,aarch64-linux
 306116419,linuxPackages-libre.ax99100,x86_64-linux
@@ -1409,7 +1409,6 @@ id,name,system
 306116990,linuxPackages_latest-libre.shufflecake,x86_64-linux
 306116999,linuxPackages_latest-libre.tsme-test,aarch64-linux
 306117024,linuxPackages_latest-libre.vmm_clock,x86_64-linux
-306117034,linuxPackages_latest-libre.zenergy,x86_64-linux
 306658114,linuxPackages_latest.acer-wmi-battery,aarch64-linux
 306116633,linuxPackages_latest.apfs,aarch64-linux
 306116634,linuxPackages_latest.apfs,x86_64-linux
@@ -1466,7 +1465,6 @@ id,name,system
 306116779,linuxPackages_latest.shufflecake,x86_64-linux
 306116792,linuxPackages_latest.tsme-test,aarch64-linux
 306116817,linuxPackages_latest.vmm_clock,x86_64-linux
-306116825,linuxPackages_latest.zenergy,x86_64-linux
 306034511,linuxPackages_lqx.apfs,x86_64-linux
 306034505,linuxPackages_lqx.ax99100,x86_64-linux
 306034517,linuxPackages_lqx.chipsec,x86_64-linux
@@ -1496,7 +1494,6 @@ id,name,system
 306034587,linuxPackages_lqx.rust-out-of-tree-module,x86_64-linux
 306034590,linuxPackages_lqx.shufflecake,x86_64-linux
 306034610,linuxPackages_lqx.vmm_clock,x86_64-linux
-306034619,linuxPackages_lqx.zenergy,x86_64-linux
 306251438,linuxPackages_xanmod.ax99100,x86_64-linux
 306251454,linuxPackages_xanmod.fwts-efi-runtime,x86_64-linux
 306251474,linuxPackages_xanmod.linux-gpib,x86_64-linux
@@ -1535,7 +1532,6 @@ id,name,system
 306251643,linuxPackages_xanmod_latest.rust-out-of-tree-module,x86_64-linux
 306251649,linuxPackages_xanmod_latest.shufflecake,x86_64-linux
 306251674,linuxPackages_xanmod_latest.vmm_clock,x86_64-linux
-306251684,linuxPackages_xanmod_latest.zenergy,x86_64-linux
 306251687,linuxPackages_xanmod_stable.apfs,x86_64-linux
 306251691,linuxPackages_xanmod_stable.ax99100,x86_64-linux
 306251811,linuxPackages_xanmod_stable.chipsec,x86_64-linux
@@ -1565,7 +1561,6 @@ id,name,system
 306251768,linuxPackages_xanmod_stable.rust-out-of-tree-module,x86_64-linux
 306251769,linuxPackages_xanmod_stable.shufflecake,x86_64-linux
 306251794,linuxPackages_xanmod_stable.vmm_clock,x86_64-linux
-306251801,linuxPackages_xanmod_stable.zenergy,x86_64-linux
 306099481,linuxPackages_zen.apfs,x86_64-linux
 306099480,linuxPackages_zen.ax99100,x86_64-linux
 306099489,linuxPackages_zen.chipsec,x86_64-linux
@@ -1595,7 +1590,6 @@ id,name,system
 306099559,linuxPackages_zen.rust-out-of-tree-module,x86_64-linux
 306099563,linuxPackages_zen.shufflecake,x86_64-linux
 306099587,linuxPackages_zen.vmm_clock,x86_64-linux
-306099591,linuxPackages_zen.zenergy,x86_64-linux
 305811853,litestar,aarch64-darwin
 305811883,litestar,aarch64-linux
 305811869,litestar,x86_64-darwin
@@ -2272,14 +2266,16 @@ id,name,system
 305868805,python312Packages.diofant,aarch64-linux
 305868803,python312Packages.diofant,x86_64-darwin
 305868804,python312Packages.diofant,x86_64-linux
-306663055,python312Packages.dipy,aarch64-linux
-306663065,python312Packages.dipy,x86_64-linux
+306689861,python312Packages.dipy,aarch64-linux
+306689855,python312Packages.dipy,x86_64-linux
 305869401,python312Packages.django-pattern-library,aarch64-darwin
 305869400,python312Packages.django-pattern-library,aarch64-linux
 305869405,python312Packages.django-pattern-library,x86_64-darwin
 305869407,python312Packages.django-pattern-library,x86_64-linux
 306578650,python312Packages.django-q2,x86_64-darwin
-306669206,python312Packages.docling-serve,x86_64-linux
+306689885,python312Packages.docling-serve,aarch64-darwin
+306689876,python312Packages.docling-serve,x86_64-darwin
+306689871,python312Packages.docling-serve,x86_64-linux
 305869950,python312Packages.donut-shellcode,aarch64-darwin
 305869951,python312Packages.donut-shellcode,aarch64-linux
 305869953,python312Packages.donut-shellcode,x86_64-darwin
@@ -2349,10 +2345,6 @@ id,name,system
 305872759,python312Packages.git-dummy,x86_64-darwin
 306592572,python312Packages.gpaw,aarch64-darwin
 306588530,python312Packages.graph-tool,x86_64-linux
-305873492,python312Packages.greynoise,aarch64-darwin
-305873494,python312Packages.greynoise,aarch64-linux
-305873498,python312Packages.greynoise,x86_64-darwin
-305873497,python312Packages.greynoise,x86_64-linux
 305873597,python312Packages.gst-python,aarch64-darwin
 305873596,python312Packages.gst-python,x86_64-darwin
 305873604,python312Packages.gstools-cython,aarch64-darwin
@@ -2390,8 +2382,6 @@ id,name,system
 305874717,python312Packages.imbalanced-learn,aarch64-linux
 305874716,python312Packages.imbalanced-learn,x86_64-darwin
 305874718,python312Packages.imbalanced-learn,x86_64-linux
-306663384,python312Packages.iplotx,aarch64-linux
-306663400,python312Packages.iplotx,x86_64-linux
 305875137,python312Packages.ipython-sql,aarch64-darwin
 305875132,python312Packages.ipython-sql,aarch64-linux
 305875135,python312Packages.ipython-sql,x86_64-darwin
@@ -2508,8 +2498,6 @@ id,name,system
 305881277,python312Packages.nidaqmx,aarch64-linux
 305881278,python312Packages.nidaqmx,x86_64-darwin
 305881281,python312Packages.nidaqmx,x86_64-linux
-306663891,python312Packages.nilearn,aarch64-linux
-306663892,python312Packages.nilearn,x86_64-linux
 305881372,python312Packages.nocasedict,aarch64-darwin
 305881371,python312Packages.nocasedict,aarch64-linux
 305881376,python312Packages.nocasedict,x86_64-darwin
@@ -2651,7 +2639,6 @@ id,name,system
 305886003,python312Packages.pyjnius,aarch64-linux
 305886004,python312Packages.pyjnius,x86_64-darwin
 305886002,python312Packages.pyjnius,x86_64-linux
-306664115,python312Packages.pylance,aarch64-darwin
 305886194,python312Packages.pyliblo3,aarch64-darwin
 305886191,python312Packages.pyliblo3,aarch64-linux
 305886193,python312Packages.pyliblo3,x86_64-darwin
@@ -2814,10 +2801,6 @@ id,name,system
 305891825,python312Packages.segyio,aarch64-linux
 305891826,python312Packages.segyio,x86_64-darwin
 305891845,python312Packages.segyio,x86_64-linux
-305891837,python312Packages.semaphore-bot,aarch64-darwin
-305891835,python312Packages.semaphore-bot,aarch64-linux
-305891836,python312Packages.semaphore-bot,x86_64-darwin
-305891838,python312Packages.semaphore-bot,x86_64-linux
 305891992,python312Packages.setuptools-dso,aarch64-darwin
 305891995,python312Packages.setuptools-dso,x86_64-darwin
 306664324,python312Packages.skops,x86_64-darwin
@@ -3137,14 +3120,16 @@ id,name,system
 305906472,python313Packages.diofant,aarch64-linux
 305906475,python313Packages.diofant,x86_64-darwin
 305906476,python313Packages.diofant,x86_64-linux
-306664931,python313Packages.dipy,aarch64-linux
-306664916,python313Packages.dipy,x86_64-linux
+306690077,python313Packages.dipy,aarch64-linux
+306690083,python313Packages.dipy,x86_64-linux
 305907080,python313Packages.django-pattern-library,aarch64-darwin
 305907082,python313Packages.django-pattern-library,aarch64-linux
 305907083,python313Packages.django-pattern-library,x86_64-darwin
 305907084,python313Packages.django-pattern-library,x86_64-linux
 306579867,python313Packages.django-q2,x86_64-darwin
-306669292,python313Packages.docling-serve,x86_64-linux
+306690099,python313Packages.docling-serve,aarch64-darwin
+306690101,python313Packages.docling-serve,x86_64-darwin
+306690103,python313Packages.docling-serve,x86_64-linux
 305907624,python313Packages.donut-shellcode,aarch64-darwin
 305907629,python313Packages.donut-shellcode,aarch64-linux
 305907628,python313Packages.donut-shellcode,x86_64-darwin
@@ -3209,10 +3194,6 @@ id,name,system
 305910389,python313Packages.git-dummy,x86_64-darwin
 306593035,python313Packages.gpaw,aarch64-darwin
 306588652,python313Packages.graph-tool,x86_64-linux
-305911113,python313Packages.greynoise,aarch64-darwin
-305911118,python313Packages.greynoise,aarch64-linux
-305911112,python313Packages.greynoise,x86_64-darwin
-305911115,python313Packages.greynoise,x86_64-linux
 305911208,python313Packages.gst-python,aarch64-darwin
 305911223,python313Packages.gst-python,x86_64-darwin
 305911214,python313Packages.gstools-cython,aarch64-darwin
@@ -3251,8 +3232,6 @@ id,name,system
 305912329,python313Packages.imbalanced-learn,aarch64-linux
 305912328,python313Packages.imbalanced-learn,x86_64-darwin
 305912332,python313Packages.imbalanced-learn,x86_64-linux
-306665244,python313Packages.iplotx,aarch64-linux
-306665242,python313Packages.iplotx,x86_64-linux
 305912738,python313Packages.ipython-sql,aarch64-darwin
 305912739,python313Packages.ipython-sql,aarch64-linux
 305912742,python313Packages.ipython-sql,x86_64-darwin
@@ -3360,8 +3339,6 @@ id,name,system
 305918833,python313Packages.nidaqmx,aarch64-linux
 305918836,python313Packages.nidaqmx,x86_64-darwin
 305918835,python313Packages.nidaqmx,x86_64-linux
-306665747,python313Packages.nilearn,aarch64-linux
-306665763,python313Packages.nilearn,x86_64-linux
 305918928,python313Packages.nocasedict,aarch64-darwin
 305918929,python313Packages.nocasedict,aarch64-linux
 305918930,python313Packages.nocasedict,x86_64-darwin
@@ -3493,7 +3470,6 @@ id,name,system
 305923509,python313Packages.pyjnius,aarch64-linux
 305923506,python313Packages.pyjnius,x86_64-darwin
 305923507,python313Packages.pyjnius,x86_64-linux
-306665972,python313Packages.pylance,x86_64-darwin
 305923688,python313Packages.pyliblo3,aarch64-darwin
 305923691,python313Packages.pyliblo3,aarch64-linux
 305923689,python313Packages.pyliblo3,x86_64-darwin
@@ -3659,10 +3635,6 @@ id,name,system
 305929253,python313Packages.segyio,aarch64-linux
 305929255,python313Packages.segyio,x86_64-darwin
 305929263,python313Packages.segyio,x86_64-linux
-305929274,python313Packages.semaphore-bot,aarch64-darwin
-305929275,python313Packages.semaphore-bot,aarch64-linux
-305929276,python313Packages.semaphore-bot,x86_64-darwin
-305929272,python313Packages.semaphore-bot,x86_64-linux
 305929433,python313Packages.setuptools-dso,aarch64-darwin
 305929430,python313Packages.setuptools-dso,x86_64-darwin
 306647774,python313Packages.simple-dftd3,x86_64-linux
@@ -4098,9 +4070,6 @@ id,name,system
 305958136,tarantool,aarch64-darwin
 305958138,tarantool,aarch64-linux
 305958140,tarantool,x86_64-darwin
-305994635,task-master-ai,aarch64-linux
-305994632,task-master-ai,x86_64-darwin
-305994633,task-master-ai,x86_64-linux
 305958237,tau-hydrogen,aarch64-darwin
 305958238,tau-hydrogen,aarch64-linux
 305958239,tau-hydrogen,x86_64-darwin
@@ -4243,7 +4212,6 @@ id,name,system
 306089138,wapiti,x86_64-linux
 305983492,warmux,aarch64-linux
 305983485,warmux,x86_64-linux
-306586818,wasm-tools,aarch64-linux
 305983557,wasmer,x86_64-darwin
 305983562,wasmer,x86_64-linux
 305983642,wavm,aarch64-darwin
@@ -4252,7 +4220,6 @@ id,name,system
 305983700,wayland,x86_64-darwin
 305983756,wayv,aarch64-linux
 305983757,wayv,x86_64-linux
-306586832,wealthfolio,aarch64-linux
 305983944,webssh,aarch64-linux
 305983946,webssh,x86_64-linux
 305984275,wiiuse,aarch64-darwin
