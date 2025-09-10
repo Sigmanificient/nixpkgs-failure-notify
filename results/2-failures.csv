@@ -286,7 +286,6 @@ id,name,system
 306660406,ente-desktop,x86_64-darwin
 305748742,equalx,aarch64-darwin
 305748764,equalx,x86_64-darwin
-305748818,eriscmd,aarch64-linux
 305748998,etterna,aarch64-linux
 306085606,eventstore,x86_64-darwin
 305749182,exhaustive,aarch64-darwin
@@ -304,7 +303,6 @@ id,name,system
 305750104,fflas-ffpack,x86_64-darwin
 305750353,finalfrontier,aarch64-darwin
 305750356,finalfrontier,x86_64-darwin
-305750451,firebird_3,x86_64-linux
 305750516,firmware-manager,aarch64-linux
 305750515,firmware-manager,x86_64-linux
 306660499,fishPlugins.fzf-fish,aarch64-darwin
@@ -678,8 +676,6 @@ id,name,system
 305799262,keydb,aarch64-darwin
 305799264,keydb,aarch64-linux
 305799266,keydb,x86_64-linux
-306684951,kgeotag,aarch64-linux
-306684950,kgeotag,x86_64-linux
 305799323,kgt,aarch64-darwin
 305799329,kgt,x86_64-darwin
 306661118,kine,x86_64-darwin
@@ -1528,12 +1524,9 @@ id,name,system
 305814578,lttoolbox,x86_64-linux
 306630732,lua51Packages.rocks-dev-nvim,aarch64-darwin
 306630728,lua51Packages.rocks-dev-nvim,x86_64-darwin
-306661356,lua52Packages.fzf-lua,x86_64-linux
 306630775,lua52Packages.neotest,x86_64-linux
 306630827,lua53Packages.neotest,aarch64-linux
-306661377,lua54Packages.fzf-lua,aarch64-linux
-306661382,lua54Packages.fzf-lua,x86_64-linux
-306661384,luaPackages.fzf-lua,x86_64-linux
+306870794,lua54Packages.fzf-lua,aarch64-linux
 306630949,luaPackages.neotest,x86_64-linux
 305818190,luajitPackages.lrexlib-gnu,aarch64-darwin
 305818195,luajitPackages.lrexlib-gnu,aarch64-linux
@@ -1631,8 +1624,6 @@ id,name,system
 305823433,multipart-parser-c,x86_64-darwin
 305823563,musly,aarch64-darwin
 305823567,musly,x86_64-darwin
-305823679,mygui,aarch64-darwin
-305823681,mygui,x86_64-darwin
 305823919,nanobench,aarch64-darwin
 305823923,nanobench,x86_64-darwin
 305823926,nanodbc,aarch64-darwin
@@ -1761,8 +1752,6 @@ id,name,system
 305829486,opentracing-cpp,x86_64-darwin
 305829493,openttd-grfcodec,aarch64-darwin
 305829495,openttd-grfcodec,x86_64-darwin
-305829531,openvas-smb,aarch64-linux
-305829532,openvas-smb,x86_64-linux
 305829586,ophcrack,aarch64-darwin
 305829589,ophcrack,x86_64-darwin
 305829741,orjail,aarch64-linux
@@ -1898,6 +1887,7 @@ id,name,system
 305856908,pipenv-poetry-migrate,x86_64-linux
 305857051,pkcs11-provider,aarch64-linux
 305857052,pkcs11-provider,x86_64-linux
+306866736,plakar,x86_64-linux
 305857306,plasma5Packages.kdb,aarch64-linux
 305857307,plasma5Packages.kdb,x86_64-linux
 305857512,plasma5Packages.liblastfm,aarch64-darwin
@@ -2039,8 +2029,8 @@ id,name,system
 305866789,python312Packages.cirq-rigetti,x86_64-linux
 305866840,python312Packages.clarifai,aarch64-linux
 305866830,python312Packages.clarifai,x86_64-linux
-306759871,python312Packages.cleanlab,aarch64-linux
-306759872,python312Packages.cleanlab,x86_64-linux
+306870966,python312Packages.cleanlab,aarch64-linux
+306870965,python312Packages.cleanlab,x86_64-linux
 305866955,python312Packages.clickhouse-cityhash,aarch64-darwin
 305866957,python312Packages.clickhouse-cityhash,aarch64-linux
 305866958,python312Packages.clickhouse-cityhash,x86_64-darwin
@@ -2275,8 +2265,6 @@ id,name,system
 306117711,python312Packages.nest,aarch64-linux
 306117710,python312Packages.nest,x86_64-darwin
 306117714,python312Packages.nest,x86_64-linux
-306792003,python312Packages.neurokit2,aarch64-linux
-306792005,python312Packages.neurokit2,x86_64-linux
 305881242,python312Packages.niaaml,aarch64-darwin
 305881241,python312Packages.niaaml,aarch64-linux
 305881239,python312Packages.niaaml,x86_64-darwin
@@ -2630,7 +2618,6 @@ id,name,system
 305894802,python312Packages.tiler,aarch64-linux
 305894807,python312Packages.tiler,x86_64-darwin
 305894809,python312Packages.tiler,x86_64-linux
-306835342,python312Packages.torchWithRocm,x86_64-linux
 306792334,python312Packages.torcheval,aarch64-linux
 306792337,python312Packages.torcheval,x86_64-linux
 305895251,python312Packages.transforms3d,aarch64-darwin
@@ -2674,7 +2661,7 @@ id,name,system
 305898773,python312Packages.watchdog-gevent,aarch64-linux
 305898784,python312Packages.watchdog-gevent,x86_64-darwin
 305898782,python312Packages.watchdog-gevent,x86_64-linux
-306635044,python312Packages.waymax,x86_64-linux
+306871499,python312Packages.waymax,x86_64-linux
 305898950,python312Packages.webssh,aarch64-linux
 305898951,python312Packages.webssh,x86_64-linux
 305899148,python312Packages.wn,aarch64-darwin
@@ -3006,8 +2993,6 @@ id,name,system
 306118335,python313Packages.nest,aarch64-linux
 306118334,python313Packages.nest,x86_64-darwin
 306118337,python313Packages.nest,x86_64-linux
-306792973,python313Packages.neurokit2,aarch64-linux
-306792974,python313Packages.neurokit2,x86_64-linux
 305918793,python313Packages.niaaml,aarch64-darwin
 305918795,python313Packages.niaaml,aarch64-linux
 305918794,python313Packages.niaaml,x86_64-darwin
@@ -3682,8 +3667,6 @@ id,name,system
 305957696,sympa,x86_64-darwin
 305957673,sympa,x86_64-linux
 305957634,sympow,x86_64-darwin
-305957703,syndicate_utils,aarch64-darwin
-305957710,syndicate_utils,x86_64-darwin
 305957723,syntax,aarch64-linux
 305957726,syntax,x86_64-linux
 305957837,syzkaller,aarch64-darwin
