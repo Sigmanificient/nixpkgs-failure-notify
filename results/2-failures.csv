@@ -302,15 +302,14 @@ id,name,system
 307087871,firebird_3,x86_64-linux
 307087938,firmware-manager,aarch64-linux
 307087937,firmware-manager,x86_64-linux
-307583313,fishPlugins.fzf-fish,aarch64-darwin
-307583315,fishPlugins.fzf-fish,x86_64-darwin
+307682551,fishPlugins.fzf-fish,aarch64-darwin
 307088300,flatcc,aarch64-darwin
 307088301,flatcc,x86_64-darwin
 307088363,flex-launcher,aarch64-darwin
 307088365,flex-launcher,x86_64-darwin
 307088672,fmi-reference-fmus,x86_64-darwin
-307088907,forgejo-runner,aarch64-darwin
-307088911,forgejo-runner,x86_64-darwin
+307682554,forgejo-runner,aarch64-darwin
+307682556,forgejo-runner,x86_64-darwin
 307088941,fortanix-sgx-tools,x86_64-linux
 307662201,foxtrotgps,aarch64-darwin
 307662202,foxtrotgps,x86_64-darwin
@@ -628,6 +627,7 @@ id,name,system
 307127069,haskellPackages.zxcvbn-c,x86_64-darwin
 307127232,hdate,aarch64-darwin
 307127233,hdate,x86_64-darwin
+307670513,hm,aarch64-linux
 307628577,home-assistant-component-tests.bsblan,aarch64-linux
 307628609,home-assistant-component-tests.climate,aarch64-linux
 307628807,home-assistant-component-tests.esphome,aarch64-linux
@@ -694,6 +694,7 @@ id,name,system
 307133242,ipfs-cluster,x86_64-darwin
 307133243,ipfs-cluster,x86_64-linux
 307133306,iqtree,x86_64-darwin
+307670553,iqueue,x86_64-linux
 307133363,irrlicht,aarch64-darwin
 307133365,irrlicht,x86_64-darwin
 307133443,ispc,x86_64-darwin
@@ -727,6 +728,8 @@ id,name,system
 307134683,junkie,aarch64-linux
 307134686,junkie,x86_64-darwin
 307134685,junkie,x86_64-linux
+307670653,justbuild,aarch64-linux
+307670654,justbuild,x86_64-linux
 307135000,kaldi,aarch64-darwin
 307135004,kaldi,x86_64-darwin
 307135047,kanagawa-icon-theme,aarch64-darwin
@@ -1632,7 +1635,7 @@ id,name,system
 307158066,mgmt,aarch64-darwin
 307158071,mgmt,aarch64-linux
 307158067,mgmt,x86_64-darwin
-307670821,mgmt,x86_64-linux
+307682614,mgmt,x86_64-linux
 307158131,micronucleus,aarch64-darwin
 307158136,micronucleus,x86_64-darwin
 307158219,millipixels,aarch64-linux
@@ -1787,6 +1790,7 @@ id,name,system
 307166589,op-geth,aarch64-linux
 307166590,op-geth,x86_64-darwin
 307166591,op-geth,x86_64-linux
+307670936,openbabel,aarch64-linux
 307668773,opencloud,x86_64-linux
 307166956,openexrid-unstable,aarch64-darwin
 307166957,openexrid-unstable,aarch64-linux
@@ -1985,6 +1989,8 @@ id,name,system
 307196171,plzip,x86_64-darwin
 307196195,pmenu,aarch64-darwin
 307196198,pmenu,x86_64-darwin
+307671042,poco,aarch64-darwin
+307671043,poco,x86_64-darwin
 307196512,polyml57,x86_64-darwin
 307196663,postfix-tlspol,aarch64-darwin
 307196665,postfix-tlspol,x86_64-darwin
@@ -2379,6 +2385,7 @@ id,name,system
 307219746,python312Packages.nxt-python,aarch64-linux
 307219745,python312Packages.nxt-python,x86_64-darwin
 307219742,python312Packages.nxt-python,x86_64-linux
+307671735,python312Packages.openbabel,aarch64-linux
 307220132,python312Packages.opencontainers,x86_64-darwin
 307220157,python312Packages.openfga-sdk,aarch64-darwin
 307220159,python312Packages.openfga-sdk,aarch64-linux
@@ -3115,6 +3122,7 @@ id,name,system
 307257593,python313Packages.nxt-python,aarch64-linux
 307257596,python313Packages.nxt-python,x86_64-darwin
 307257594,python313Packages.nxt-python,x86_64-linux
+307672694,python313Packages.openbabel,aarch64-linux
 307258113,python313Packages.opentelemetry-instrumentation-botocore,aarch64-darwin
 307258117,python313Packages.opentelemetry-instrumentation-botocore,aarch64-linux
 307258115,python313Packages.opentelemetry-instrumentation-botocore,x86_64-darwin
@@ -3704,6 +3712,7 @@ id,name,system
 307292426,siege,aarch64-darwin
 307292431,siege,x86_64-darwin
 307292623,simple-completion-language-server,x86_64-darwin
+307673104,singular,aarch64-darwin
 307292940,skypilot,aarch64-darwin
 307292942,skypilot,aarch64-linux
 307292939,skypilot,x86_64-darwin
@@ -3824,6 +3833,8 @@ id,name,system
 307299552,tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,x86_64-darwin
 307300910,tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,aarch64-darwin
 307300913,tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,x86_64-darwin
+307673166,textidote,aarch64-darwin
+307673169,textidote,aarch64-linux
 307301657,textlint-rule-diacritics,aarch64-darwin
 307301658,textlint-rule-diacritics,aarch64-linux
 307301678,textlint-rule-diacritics,x86_64-darwin
