@@ -1639,7 +1639,7 @@ id,name,system
 307158066,mgmt,aarch64-darwin
 307158071,mgmt,aarch64-linux
 307158067,mgmt,x86_64-darwin
-307891239,mgmt,x86_64-linux
+308169265,mgmt,x86_64-linux
 307158131,micronucleus,aarch64-darwin
 307158136,micronucleus,x86_64-darwin
 307158219,millipixels,aarch64-linux
@@ -1787,6 +1787,8 @@ id,name,system
 307166589,op-geth,aarch64-linux
 307166590,op-geth,x86_64-darwin
 307166591,op-geth,x86_64-linux
+307891280,open5gs-webui,aarch64-darwin
+307891277,open5gs-webui,x86_64-darwin
 307670936,openbabel,aarch64-linux
 307706775,opencloud,x86_64-darwin
 307166956,openexrid-unstable,aarch64-darwin
@@ -1846,6 +1848,7 @@ id,name,system
 307168530,pantalaimon,x86_64-linux
 307819982,paperless-ngx,aarch64-linux
 307819983,paperless-ngx,x86_64-linux
+307891299,paraview,x86_64-darwin
 307169209,passExtensions.pass-import,x86_64-darwin
 307169233,pax-utils,aarch64-darwin
 307169239,pax-utils,x86_64-darwin
@@ -1965,8 +1968,6 @@ id,name,system
 307194955,pipenv-poetry-migrate,aarch64-linux
 307194961,pipenv-poetry-migrate,x86_64-darwin
 307194956,pipenv-poetry-migrate,x86_64-linux
-307195112,pkcs11-provider,aarch64-linux
-307195114,pkcs11-provider,x86_64-linux
 307660404,plakar,aarch64-darwin
 307195329,plasma5Packages.kdb,aarch64-linux
 307195330,plasma5Packages.kdb,x86_64-linux
@@ -2150,6 +2151,7 @@ id,name,system
 307816192,python312Packages.dask-awkward,aarch64-linux
 307816184,python312Packages.dask-awkward,x86_64-darwin
 307816189,python312Packages.dask-awkward,x86_64-linux
+307891362,python312Packages.datafusion,aarch64-darwin
 307588056,python312Packages.datalad-next,aarch64-darwin
 307660445,python312Packages.datalad-next,aarch64-linux
 307588053,python312Packages.datalad-next,x86_64-darwin
@@ -2193,8 +2195,6 @@ id,name,system
 307658050,python312Packages.equinox,aarch64-darwin
 307658048,python312Packages.equinox,aarch64-linux
 307658049,python312Packages.equinox,x86_64-linux
-307820113,python312Packages.es-client,aarch64-linux
-307820112,python312Packages.es-client,x86_64-linux
 307671272,python312Packages.esig,aarch64-darwin
 307671292,python312Packages.esig,aarch64-linux
 307671273,python312Packages.esig,x86_64-darwin
@@ -2664,6 +2664,8 @@ id,name,system
 307232140,python312Packages.succulent,x86_64-linux
 307658351,python312Packages.swh-journal,aarch64-linux
 307891629,python312Packages.syne-tune,aarch64-darwin
+307891630,python312Packages.syne-tune,aarch64-linux
+307891639,python312Packages.syne-tune,x86_64-linux
 307232529,python312Packages.tbm-utils,aarch64-darwin
 307232544,python312Packages.tbm-utils,aarch64-linux
 307232545,python312Packages.tbm-utils,x86_64-darwin
@@ -2858,6 +2860,7 @@ id,name,system
 307816552,python313Packages.dask-awkward,aarch64-linux
 307816546,python313Packages.dask-awkward,x86_64-darwin
 307816545,python313Packages.dask-awkward,x86_64-linux
+307891671,python313Packages.datafusion,aarch64-darwin
 307588998,python313Packages.datalad-next,aarch64-darwin
 307660726,python313Packages.datalad-next,aarch64-linux
 307588997,python313Packages.datalad-next,x86_64-darwin
@@ -2893,8 +2896,7 @@ id,name,system
 307246345,python313Packages.e3-core,x86_64-linux
 307546086,python313Packages.elastic-apm,aarch64-darwin
 307658492,python313Packages.equinox,aarch64-linux
-307820354,python313Packages.es-client,aarch64-darwin
-307820353,python313Packages.es-client,x86_64-darwin
+308169316,python313Packages.es-client,x86_64-darwin
 307672255,python313Packages.esig,aarch64-darwin
 307672253,python313Packages.esig,aarch64-linux
 307672268,python313Packages.esig,x86_64-darwin
@@ -3367,6 +3369,8 @@ id,name,system
 307270047,python313Packages.swh-perfecthash,aarch64-darwin
 307270045,python313Packages.swh-perfecthash,x86_64-darwin
 307891918,python313Packages.syne-tune,aarch64-darwin
+307891917,python313Packages.syne-tune,aarch64-linux
+307891916,python313Packages.syne-tune,x86_64-linux
 307270296,python313Packages.tbm-utils,aarch64-darwin
 307270292,python313Packages.tbm-utils,aarch64-linux
 307270305,python313Packages.tbm-utils,x86_64-darwin
@@ -3603,6 +3607,7 @@ id,name,system
 307291608,securefs,x86_64-darwin
 307291767,sentry-cli,aarch64-darwin
 307687927,seppo,aarch64-darwin
+307891993,sequoia-sq,aarch64-darwin
 307291871,serious-sam-classic-vulkan,aarch64-linux
 307291870,serious-sam-classic-vulkan,x86_64-linux
 307546702,servo,aarch64-darwin
@@ -3699,7 +3704,6 @@ id,name,system
 307585934,tbls,x86_64-darwin
 307297021,tcld,aarch64-linux
 307297022,tcld,x86_64-linux
-307892018,tebreak,x86_64-linux
 307297215,telepathy-haze,aarch64-darwin
 307297214,telepathy-haze,aarch64-linux
 307297217,telepathy-haze,x86_64-darwin
@@ -3731,8 +3735,8 @@ id,name,system
 307298349,tests.build-environment-info,x86_64-linux
 307298672,tests.cc-multilib-clang,x86_64-linux
 307298778,tests.cc-wrapper.gccTests.gccMultiStdenv,x86_64-linux
-307708515,tests.devShellTools.nixos,aarch64-linux
-307708516,tests.devShellTools.nixos,x86_64-linux
+308169351,tests.devShellTools.nixos,aarch64-linux
+308169352,tests.devShellTools.nixos,x86_64-linux
 307299222,tests.hardeningFlags-clang.allExplicitDisabledPie,aarch64-linux
 307299223,tests.hardeningFlags-clang.allExplicitDisabledPie,x86_64-linux
 307299297,tests.hardeningFlags-clang.pieExplicitDisabled,aarch64-linux
