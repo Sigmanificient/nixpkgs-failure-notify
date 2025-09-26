@@ -325,7 +325,6 @@ id,name,system
 307089095,frawk,x86_64-linux
 307089171,freepv,aarch64-darwin
 307089174,freepv,x86_64-darwin
-308275828,frigate,x86_64-linux
 307089313,fromager,aarch64-darwin
 307089318,fromager,aarch64-linux
 307089319,fromager,x86_64-darwin
@@ -639,10 +638,12 @@ id,name,system
 308278850,home-assistant-component-tests.climate,x86_64-linux
 308279081,home-assistant-component-tests.esphome,aarch64-linux
 308279061,home-assistant-component-tests.esphome,x86_64-linux
+308279516,home-assistant-component-tests.laundrify,aarch64-linux
 308279597,home-assistant-component-tests.matter,aarch64-linux
 308279600,home-assistant-component-tests.matter,x86_64-linux
 308279967,home-assistant-component-tests.qwikswitch,aarch64-linux
 308279959,home-assistant-component-tests.qwikswitch,x86_64-linux
+308280111,home-assistant-component-tests.sensor,aarch64-linux
 308280338,home-assistant-component-tests.tesla_fleet,aarch64-linux
 308280311,home-assistant-component-tests.tesla_fleet,x86_64-linux
 308280394,home-assistant-component-tests.tuya,aarch64-linux
@@ -657,12 +658,12 @@ id,name,system
 307130487,httplz,x86_64-linux
 307130568,hugs,aarch64-linux
 307130569,hugs,x86_64-linux
-307596166,hyprlandPlugins.hyprgrass,aarch64-linux
-307596173,hyprlandPlugins.hyprgrass,x86_64-linux
-307596159,hyprlandPlugins.hyprspace,aarch64-linux
-307596160,hyprlandPlugins.hyprspace,x86_64-linux
-307596181,hyprlandPlugins.hyprsplit,aarch64-linux
-307596161,hyprlandPlugins.hyprsplit,x86_64-linux
+308289585,hyprlandPlugins.hyprgrass,aarch64-linux
+308289584,hyprlandPlugins.hyprgrass,x86_64-linux
+308289593,hyprlandPlugins.hyprspace,aarch64-linux
+308289589,hyprlandPlugins.hyprspace,x86_64-linux
+308289580,hyprlandPlugins.hyprsplit,aarch64-linux
+308289601,hyprlandPlugins.hyprsplit,x86_64-linux
 307131485,i2pd-tools,aarch64-darwin
 307131487,i2pd-tools,x86_64-darwin
 307131762,iconpack-jade,aarch64-linux
@@ -2047,7 +2048,7 @@ id,name,system
 307203650,python312Packages.biosppy,aarch64-linux
 307203654,python312Packages.biosppy,x86_64-darwin
 307203644,python312Packages.biosppy,x86_64-linux
-308173709,python312Packages.blackjax,aarch64-linux
+308289741,python312Packages.blackjax,aarch64-linux
 307657972,python312Packages.blocksat-cli,aarch64-darwin
 307204225,python312Packages.busylight-for-humans,aarch64-darwin
 307204230,python312Packages.busylight-for-humans,aarch64-linux
@@ -2167,6 +2168,7 @@ id,name,system
 307210792,python312Packages.git-dummy,aarch64-darwin
 307210795,python312Packages.git-dummy,x86_64-darwin
 307211665,python312Packages.gst-python,x86_64-darwin
+308281050,python312Packages.gstools,aarch64-darwin
 308257882,python312Packages.gym,x86_64-linux
 307212040,python312Packages.hg-git,aarch64-darwin
 307212038,python312Packages.hg-git,aarch64-linux
@@ -3065,6 +3067,7 @@ id,name,system
 308241085,python313Packages.pymssql,x86_64-linux
 307262597,python313Packages.pynest2d,aarch64-linux
 307262592,python313Packages.pynest2d,x86_64-linux
+308281759,python313Packages.pynetdicom,aarch64-linux
 307701576,python313Packages.pynitrokey,aarch64-darwin
 307701575,python313Packages.pynitrokey,aarch64-linux
 307701573,python313Packages.pynitrokey,x86_64-darwin
@@ -3141,7 +3144,6 @@ id,name,system
 307265778,python313Packages.pywemo,x86_64-darwin
 307265804,python313Packages.pywinbox,aarch64-darwin
 307265803,python313Packages.pywinbox,x86_64-darwin
-308217937,python313Packages.qpsolvers,x86_64-darwin
 307658748,python313Packages.qrcode-terminal,x86_64-darwin
 307266252,python313Packages.ratarmountcore,aarch64-darwin
 307266242,python313Packages.ratarmountcore,aarch64-linux
@@ -3234,6 +3236,7 @@ id,name,system
 307269912,python313Packages.succulent,aarch64-linux
 307269913,python313Packages.succulent,x86_64-darwin
 307269914,python313Packages.succulent,x86_64-linux
+308281832,python313Packages.swh-journal,x86_64-linux
 307270047,python313Packages.swh-perfecthash,aarch64-darwin
 307270045,python313Packages.swh-perfecthash,x86_64-darwin
 308277826,python313Packages.syne-tune,aarch64-darwin
@@ -3258,7 +3261,7 @@ id,name,system
 307271105,python313Packages.torf,aarch64-linux
 307271106,python313Packages.torf,x86_64-linux
 307271214,python313Packages.transforms3d,aarch64-darwin
-307271854,python313Packages.trino-python-client,x86_64-darwin
+308290289,python313Packages.trino-python-client,x86_64-darwin
 307672966,python313Packages.tweedledum,aarch64-darwin
 307672963,python313Packages.tweedledum,aarch64-linux
 307672964,python313Packages.tweedledum,x86_64-darwin
@@ -3520,8 +3523,8 @@ id,name,system
 307293655,sommelier,x86_64-linux
 307293807,soundtracker,aarch64-linux
 307293800,soundtracker,x86_64-linux
-307619094,source-meta-json-schema,aarch64-darwin
-307619093,source-meta-json-schema,x86_64-darwin
+308290320,source-meta-json-schema,aarch64-darwin
+308290322,source-meta-json-schema,x86_64-darwin
 307293872,sozu,x86_64-darwin
 307294034,speech-tools,aarch64-darwin
 307294036,speech-tools,x86_64-darwin
@@ -3670,6 +3673,8 @@ id,name,system
 307317547,vdmfec,aarch64-linux
 307317548,vdmfec,x86_64-darwin
 307317549,vdmfec,x86_64-linux
+308281918,verilator,aarch64-darwin
+308281919,verilator,x86_64-darwin
 307317719,vertcoin,aarch64-linux
 307317722,vertcoin,x86_64-linux
 307317721,vertcoind,aarch64-linux
