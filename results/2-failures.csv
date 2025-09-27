@@ -19,10 +19,9 @@ id,name,system
 307066763,angelscript,x86_64-darwin
 307067197,apacheHttpdPackages.mod_python,aarch64-linux
 307067196,apacheHttpdPackages.mod_python,x86_64-linux
-308275753,apacheHttpdPackages.mod_tile,aarch64-linux
+308293288,apacheHttpdPackages.mod_tile,aarch64-linux
 307067276,apacheHttpdPackages_2_4.mod_python,aarch64-linux
 307067271,apacheHttpdPackages_2_4.mod_python,x86_64-linux
-308275754,apacheHttpdPackages_2_4.mod_tile,aarch64-linux
 307067370,apftool-rs,aarch64-linux
 307595587,applgrid,aarch64-darwin
 307595586,applgrid,aarch64-linux
@@ -282,8 +281,8 @@ id,name,system
 307086157,equalx,aarch64-darwin
 307086159,equalx,x86_64-darwin
 307086410,etterna,aarch64-linux
-307086426,eureka-ideas,aarch64-darwin
-307086428,eureka-ideas,x86_64-darwin
+308293409,eureka-ideas,aarch64-darwin
+308293407,eureka-ideas,x86_64-darwin
 307548945,eventstore,x86_64-darwin
 307086590,exhaustive,aarch64-darwin
 307086589,exhaustive,aarch64-linux
@@ -346,7 +345,6 @@ id,name,system
 307090221,gci,aarch64-linux
 307090228,gci,x86_64-darwin
 307090226,gci,x86_64-linux
-308275837,gdal,x86_64-darwin
 307090378,gdtoolkit_3,aarch64-darwin
 307090372,gdtoolkit_3,aarch64-linux
 307090399,gdtoolkit_3,x86_64-darwin
@@ -710,7 +708,7 @@ id,name,system
 308173486,ironbar,x86_64-linux
 307133363,irrlicht,aarch64-darwin
 307133365,irrlicht,x86_64-darwin
-307133443,ispc,x86_64-darwin
+308293528,ispc,x86_64-darwin
 307133448,ispike,aarch64-darwin
 307133447,ispike,aarch64-linux
 307133449,ispike,x86_64-darwin
@@ -1541,14 +1539,14 @@ id,name,system
 307151399,lttoolbox,aarch64-linux
 307151403,lttoolbox,x86_64-darwin
 307151400,lttoolbox,x86_64-linux
-307660231,lua51Packages.lux-lua,x86_64-darwin
+308293592,lua51Packages.lux-lua,x86_64-darwin
 307152019,lua51Packages.rocks-dev-nvim,aarch64-darwin
 307152021,lua51Packages.rocks-dev-nvim,x86_64-darwin
-307660237,lua52Packages.lux-lua,x86_64-darwin
+308293595,lua52Packages.lux-lua,x86_64-darwin
 307152650,lua52Packages.neotest,aarch64-linux
-307660240,lua53Packages.lux-lua,x86_64-darwin
-307660243,lua54Packages.lux-lua,x86_64-darwin
-307660248,luaPackages.lux-lua,x86_64-darwin
+308293597,lua53Packages.lux-lua,x86_64-darwin
+308293601,lua54Packages.lux-lua,x86_64-darwin
+308293608,luaPackages.lux-lua,x86_64-darwin
 307154847,luaPackages.neotest,aarch64-linux
 307155005,luajitPackages.lrexlib-gnu,aarch64-darwin
 307155004,luajitPackages.lrexlib-gnu,aarch64-linux
@@ -1558,7 +1556,7 @@ id,name,system
 307155031,luajitPackages.lua-cmsgpack,aarch64-linux
 307155033,luajitPackages.lua-cmsgpack,x86_64-darwin
 307155032,luajitPackages.lua-cmsgpack,x86_64-linux
-307660251,luajitPackages.lux-lua,x86_64-darwin
+308293612,luajitPackages.lux-lua,x86_64-darwin
 307155709,lwan,aarch64-linux
 307155970,m1n1,aarch64-darwin
 307156130,maiko,aarch64-darwin
@@ -1571,7 +1569,6 @@ id,name,system
 307156391,manticoresearch,aarch64-linux
 307156390,manticoresearch,x86_64-darwin
 307156393,manticoresearch,x86_64-linux
-308275956,mapserver,aarch64-darwin
 307156674,mariadb_114,x86_64-darwin
 307156678,mariadb_118,x86_64-darwin
 307156767,martin,aarch64-darwin
@@ -1593,7 +1590,6 @@ id,name,system
 307612055,meli,aarch64-linux
 307612058,meli,x86_64-darwin
 307612062,meli,x86_64-linux
-307819924,memos,aarch64-darwin
 307157992,metapixel,aarch64-darwin
 307157994,metapixel,x86_64-darwin
 307158004,meteor,x86_64-darwin
@@ -1682,6 +1678,8 @@ id,name,system
 307161847,newlib,aarch64-darwin
 307161848,newlib,aarch64-linux
 307161850,newlib,x86_64-darwin
+308289674,newsboat,aarch64-darwin
+308289673,newsboat,x86_64-darwin
 307161992,ngadmin,aarch64-darwin
 307161995,ngadmin,x86_64-darwin
 307162051,ngrid,aarch64-darwin
@@ -1750,7 +1748,7 @@ id,name,system
 307166957,openexrid-unstable,aarch64-linux
 307166958,openexrid-unstable,x86_64-darwin
 307166962,openexrid-unstable,x86_64-linux
-307819977,openlist,x86_64-darwin
+308293712,openlist,x86_64-darwin
 307663148,openmodelica.omcompiler,aarch64-linux
 307663149,openmodelica.omcompiler,x86_64-linux
 307167211,openobserve,aarch64-darwin
@@ -2142,8 +2140,7 @@ id,name,system
 307209983,python312Packages.flickrapi,aarch64-linux
 307209984,python312Packages.flickrapi,x86_64-darwin
 307209985,python312Packages.flickrapi,x86_64-linux
-308276277,python312Packages.folium,aarch64-linux
-308276278,python312Packages.folium,x86_64-linux
+308294113,python312Packages.folium,x86_64-darwin
 307210243,python312Packages.fritzconnection,aarch64-darwin
 307210307,python312Packages.func-timeout,aarch64-darwin
 307210306,python312Packages.func-timeout,x86_64-darwin
@@ -2155,8 +2152,6 @@ id,name,system
 307210391,python312Packages.galario,aarch64-linux
 307210392,python312Packages.galario,x86_64-darwin
 307210393,python312Packages.galario,x86_64-linux
-308276292,python312Packages.gdal,aarch64-darwin
-308276297,python312Packages.gdal,x86_64-darwin
 308257848,python312Packages.gdsfactory,aarch64-darwin
 308257851,python312Packages.gdsfactory,aarch64-linux
 308257850,python312Packages.gdsfactory,x86_64-darwin
@@ -2168,7 +2163,6 @@ id,name,system
 307210792,python312Packages.git-dummy,aarch64-darwin
 307210795,python312Packages.git-dummy,x86_64-darwin
 307211665,python312Packages.gst-python,x86_64-darwin
-308281050,python312Packages.gstools,aarch64-darwin
 308257882,python312Packages.gym,x86_64-linux
 307212040,python312Packages.hg-git,aarch64-darwin
 307212038,python312Packages.hg-git,aarch64-linux
@@ -2710,6 +2704,7 @@ id,name,system
 307241658,python313Packages.biosppy,aarch64-linux
 307241685,python313Packages.biosppy,x86_64-darwin
 307241662,python313Packages.biosppy,x86_64-linux
+308290035,python313Packages.blackjax,aarch64-linux
 307242216,python313Packages.busylight-for-humans,aarch64-darwin
 307242218,python313Packages.busylight-for-humans,aarch64-linux
 307242215,python313Packages.busylight-for-humans,x86_64-darwin
@@ -2801,9 +2796,7 @@ id,name,system
 307247922,python313Packages.flickrapi,aarch64-linux
 307247924,python313Packages.flickrapi,x86_64-darwin
 307247923,python313Packages.flickrapi,x86_64-linux
-308277182,python313Packages.folium,aarch64-darwin
-308277178,python313Packages.folium,aarch64-linux
-308277183,python313Packages.folium,x86_64-linux
+308294410,python313Packages.folium,aarch64-linux
 307248086,python313Packages.formulae,aarch64-darwin
 307248088,python313Packages.formulae,aarch64-linux
 307248089,python313Packages.formulae,x86_64-darwin
@@ -2816,7 +2809,6 @@ id,name,system
 307248271,python313Packages.funsor,aarch64-linux
 307248288,python313Packages.funsor,x86_64-darwin
 307248273,python313Packages.funsor,x86_64-linux
-308277187,python313Packages.gdal,x86_64-darwin
 308259125,python313Packages.gdsfactory,aarch64-darwin
 308259127,python313Packages.gdsfactory,aarch64-linux
 308259126,python313Packages.gdsfactory,x86_64-darwin
@@ -2915,7 +2907,6 @@ id,name,system
 307253662,python313Packages.lxml-stubs,x86_64-linux
 307253685,python313Packages.macfsevents,aarch64-darwin
 307253694,python313Packages.macfsevents,x86_64-darwin
-308277573,python313Packages.mapclassify,aarch64-darwin
 307253959,python313Packages.matlink-gpapi,aarch64-darwin
 307253960,python313Packages.matlink-gpapi,aarch64-linux
 307253961,python313Packages.matlink-gpapi,x86_64-darwin
@@ -3067,7 +3058,6 @@ id,name,system
 308241085,python313Packages.pymssql,x86_64-linux
 307262597,python313Packages.pynest2d,aarch64-linux
 307262592,python313Packages.pynest2d,x86_64-linux
-308281759,python313Packages.pynetdicom,aarch64-linux
 307701576,python313Packages.pynitrokey,aarch64-darwin
 307701575,python313Packages.pynitrokey,aarch64-linux
 307701573,python313Packages.pynitrokey,x86_64-darwin
@@ -3360,7 +3350,7 @@ id,name,system
 307277476,radiance,x86_64-darwin
 307277477,radiance,x86_64-linux
 307277669,rappel,aarch64-linux
-307277800,rbdoom-3-bfg,aarch64-darwin
+308294651,rbdoom-3-bfg,aarch64-darwin
 307708417,reaction,x86_64-linux
 307278029,reaper-sws-extension,aarch64-darwin
 307278031,reaper-sws-extension,x86_64-darwin
@@ -3422,7 +3412,6 @@ id,name,system
 307288786,rvvm,aarch64-darwin
 307288788,rvvm,x86_64-darwin
 307288978,sacrifice,x86_64-darwin
-308277915,saga,aarch64-darwin
 307598890,salmon,aarch64-darwin
 307598881,salmon,x86_64-darwin
 307289091,sambamba,x86_64-darwin
@@ -3558,7 +3547,6 @@ id,name,system
 307296627,talkfilters,x86_64-darwin
 307297149,tamarin-prover,aarch64-linux
 307297002,tamarin-prover,x86_64-linux
-308277953,tandoor-recipes,x86_64-linux
 307296705,tarantool,aarch64-darwin
 307296706,tarantool,aarch64-linux
 307296707,tarantool,x86_64-darwin
