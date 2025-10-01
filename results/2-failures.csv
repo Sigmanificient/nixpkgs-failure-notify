@@ -79,8 +79,8 @@ id,name,system
 307072145,bino3d,x86_64-darwin
 307071706,bino3d,x86_64-linux
 307657215,blockstream-electrs,x86_64-linux
-307702201,bluesky-pds,aarch64-darwin
-307702200,bluesky-pds,x86_64-darwin
+308544756,bluesky-pds,aarch64-darwin
+308544753,bluesky-pds,x86_64-darwin
 307072260,bodyclose,aarch64-darwin
 307072265,bodyclose,aarch64-linux
 307072262,bodyclose,x86_64-darwin
@@ -170,10 +170,10 @@ id,name,system
 307078338,clickable,x86_64-darwin
 308540784,clickhouse-backup,aarch64-darwin
 308540786,clickhouse-backup,x86_64-darwin
-307890934,clickhouse-lts,aarch64-darwin
-307890928,clickhouse-lts,x86_64-darwin
-307890930,clickhouse,aarch64-darwin
-307890933,clickhouse,x86_64-darwin
+308547327,clickhouse-lts,aarch64-darwin
+308547326,clickhouse-lts,x86_64-darwin
+308547330,clickhouse,aarch64-darwin
+308547323,clickhouse,x86_64-darwin
 307684032,clj-kondo,x86_64-darwin
 307684035,clojure-lsp,x86_64-linux
 307078807,coan,aarch64-darwin
@@ -386,8 +386,6 @@ id,name,system
 308231085,gitlab-elasticsearch-indexer,aarch64-darwin
 308231089,gitlab-elasticsearch-indexer,x86_64-darwin
 307544541,gittuf,x86_64-darwin
-307092025,glabels,aarch64-linux
-307092020,glabels,x86_64-linux
 307092085,glew110,aarch64-darwin
 307092088,glew110,x86_64-darwin
 307092148,glicol-cli,aarch64-darwin
@@ -496,7 +494,7 @@ id,name,system
 307102186,haskellPackages.bed-and-breakfast,x86_64-darwin
 307103075,haskellPackages.bytestring-encoding,aarch64-darwin
 307103078,haskellPackages.bytestring-encoding,x86_64-darwin
-308170712,haskellPackages.cabal2nix-unstable,aarch64-darwin
+308547411,haskellPackages.cabal2nix-unstable,aarch64-darwin
 307104618,haskellPackages.copilot-c99,aarch64-darwin
 307104624,haskellPackages.copilot-c99,x86_64-darwin
 307105669,haskellPackages.derive-prim,aarch64-darwin
@@ -656,12 +654,15 @@ id,name,system
 308280391,home-assistant-component-tests.tuya,x86_64-linux
 308280504,home-assistant-component-tests.voip,aarch64-linux
 308280521,home-assistant-component-tests.voip,x86_64-linux
+308544874,home-assistant-custom-components.benqprojector,aarch64-linux
+308544875,home-assistant-custom-components.benqprojector,x86_64-linux
 307130183,hop,aarch64-linux
 307130182,hop,x86_64-linux
 307130486,httplz,aarch64-darwin
 307130488,httplz,aarch64-linux
 307130493,httplz,x86_64-darwin
 307130487,httplz,x86_64-linux
+308541281,hugo,x86_64-darwin
 307130568,hugs,aarch64-linux
 307130569,hugs,x86_64-linux
 308399671,hyprlandPlugins.hyprgrass,aarch64-linux
@@ -765,9 +766,9 @@ id,name,system
 307136844,kitsas,aarch64-linux
 307136865,kitsas,x86_64-darwin
 307136845,kitsas,x86_64-linux
-308447039,kitty,aarch64-linux
-308447040,kitty,x86_64-linux
 307549186,knossosnet,x86_64-linux
+308541504,kodiPackages.plex-for-kodi,aarch64-darwin
+308541516,kodiPackages.plex-for-kodi,x86_64-darwin
 307137420,kord,aarch64-darwin
 307137422,kord,x86_64-darwin
 308170854,kube-router,aarch64-linux
@@ -1768,6 +1769,7 @@ id,name,system
 307167210,openobserve,aarch64-linux
 307167382,openobserve,x86_64-darwin
 307167213,openobserve,x86_64-linux
+308542187,openroad,aarch64-darwin
 308542188,openroad,aarch64-linux
 308542190,openroad,x86_64-darwin
 307167345,opensaml-cpp,aarch64-darwin
@@ -1907,6 +1909,7 @@ id,name,system
 308171385,perlPackages.Wx,x86_64-linux
 307192262,perlPackages.libapreq2,aarch64-linux
 307192273,perlPackages.libapreq2,x86_64-linux
+308545096,pgadmin4,x86_64-linux
 307663332,php81Extensions.gnupg,x86_64-darwin
 307663519,php81Extensions.shmop,aarch64-darwin
 307663566,php81Extensions.shmop,x86_64-darwin
@@ -1925,7 +1928,7 @@ id,name,system
 307194619,picat,x86_64-darwin
 307194651,picolibc,aarch64-darwin
 307194654,picolibc,x86_64-darwin
-308384286,pike,aarch64-linux
+308545098,pike,aarch64-linux
 307194907,pinokio,x86_64-darwin
 307194953,pipenv-poetry-migrate,aarch64-darwin
 307194955,pipenv-poetry-migrate,aarch64-linux
@@ -2014,8 +2017,6 @@ id,name,system
 307820050,python312Packages.arelle,aarch64-linux
 307820049,python312Packages.arelle,x86_64-darwin
 307820047,python312Packages.arelle,x86_64-linux
-308418921,python312Packages.asyncua,aarch64-linux
-308418917,python312Packages.asyncua,x86_64-darwin
 308402685,python312Packages.ax-platform,aarch64-darwin
 308402691,python312Packages.ax-platform,aarch64-linux
 308402684,python312Packages.ax-platform,x86_64-linux
@@ -2023,10 +2024,6 @@ id,name,system
 308439817,python312Packages.bayesian-optimization,aarch64-linux
 308439815,python312Packages.bayesian-optimization,x86_64-linux
 308418934,python312Packages.beets,aarch64-darwin
-307203646,python312Packages.biosppy,aarch64-darwin
-307203650,python312Packages.biosppy,aarch64-linux
-307203654,python312Packages.biosppy,x86_64-darwin
-307203644,python312Packages.biosppy,x86_64-linux
 308289741,python312Packages.blackjax,aarch64-linux
 307657972,python312Packages.blocksat-cli,aarch64-darwin
 307204355,python312Packages.canopen,aarch64-darwin
@@ -2410,9 +2407,6 @@ id,name,system
 307228636,python312Packages.redis-om,x86_64-darwin
 307228644,python312Packages.redis-om,x86_64-linux
 307229198,python312Packages.robotframework,x86_64-darwin
-307229230,python312Packages.robotstatuschecker,aarch64-darwin
-307229229,python312Packages.robotstatuschecker,aarch64-linux
-307229237,python312Packages.robotstatuschecker,x86_64-linux
 307229692,python312Packages.sarif-tools,x86_64-darwin
 308440743,python312Packages.sasmodels,aarch64-darwin
 308440734,python312Packages.sasmodels,aarch64-linux
@@ -2475,6 +2469,7 @@ id,name,system
 307232139,python312Packages.succulent,aarch64-linux
 307232141,python312Packages.succulent,x86_64-darwin
 307232140,python312Packages.succulent,x86_64-linux
+308543068,python312Packages.swh-journal,x86_64-linux
 308276954,python312Packages.syne-tune,aarch64-darwin
 307232529,python312Packages.tbm-utils,aarch64-darwin
 307232544,python312Packages.tbm-utils,aarch64-linux
@@ -2514,6 +2509,8 @@ id,name,system
 307236027,python312Packages.typical,aarch64-linux
 307236030,python312Packages.typical,x86_64-darwin
 307236036,python312Packages.typical,x86_64-linux
+308545220,python312Packages.ultralytics,aarch64-darwin
+308545222,python312Packages.ultralytics,x86_64-darwin
 307236220,python312Packages.unicode-slugify,aarch64-darwin
 307236222,python312Packages.unicode-slugify,aarch64-linux
 307236224,python312Packages.unicode-slugify,x86_64-darwin
@@ -2558,6 +2555,7 @@ id,name,system
 307239199,python313Packages.aiosonic,x86_64-darwin
 307239197,python313Packages.aiosonic,x86_64-linux
 307658410,python313Packages.aiounifi,x86_64-darwin
+308545228,python313Packages.asyncua,x86_64-linux
 308403606,python313Packages.ax-platform,aarch64-darwin
 308403607,python313Packages.ax-platform,aarch64-linux
 308403608,python313Packages.ax-platform,x86_64-linux
@@ -2565,10 +2563,6 @@ id,name,system
 308440970,python313Packages.bayesian-optimization,aarch64-linux
 308440968,python313Packages.bayesian-optimization,x86_64-darwin
 308440964,python313Packages.bayesian-optimization,x86_64-linux
-307241655,python313Packages.biosppy,aarch64-darwin
-307241658,python313Packages.biosppy,aarch64-linux
-307241685,python313Packages.biosppy,x86_64-darwin
-307241662,python313Packages.biosppy,x86_64-linux
 308290035,python313Packages.blackjax,aarch64-linux
 307242349,python313Packages.canopen,aarch64-darwin
 307242351,python313Packages.canopen,x86_64-darwin
@@ -2640,10 +2634,6 @@ id,name,system
 307672254,python313Packages.esig,x86_64-linux
 307246848,python313Packages.etelemetry,aarch64-darwin
 307246849,python313Packages.etelemetry,x86_64-darwin
-307248086,python313Packages.formulae,aarch64-darwin
-307248088,python313Packages.formulae,aarch64-linux
-307248089,python313Packages.formulae,x86_64-darwin
-307248090,python313Packages.formulae,x86_64-linux
 307248181,python313Packages.fritzconnection,aarch64-darwin
 307248182,python313Packages.fritzconnection,x86_64-darwin
 307248239,python313Packages.func-timeout,aarch64-darwin
@@ -2746,6 +2736,7 @@ id,name,system
 307254281,python313Packages.mesonpep517,x86_64-darwin
 307254282,python313Packages.mesonpep517,x86_64-linux
 308417818,python313Packages.mlx,aarch64-darwin
+308543579,python313Packages.mmengine,aarch64-darwin
 308543574,python313Packages.mmengine,x86_64-darwin
 307254852,python313Packages.monai-deploy,aarch64-darwin
 307254853,python313Packages.monai-deploy,aarch64-linux
@@ -2948,10 +2939,6 @@ id,name,system
 307266416,python313Packages.redis-om,aarch64-linux
 307266421,python313Packages.redis-om,x86_64-darwin
 307266419,python313Packages.redis-om,x86_64-linux
-307267003,python313Packages.robotstatuschecker,aarch64-darwin
-307267000,python313Packages.robotstatuschecker,aarch64-linux
-307267009,python313Packages.robotstatuschecker,x86_64-darwin
-307267007,python313Packages.robotstatuschecker,x86_64-linux
 308441899,python313Packages.sasmodels,aarch64-darwin
 308441898,python313Packages.sasmodels,aarch64-linux
 308441901,python313Packages.sasmodels,x86_64-darwin
@@ -3055,6 +3042,8 @@ id,name,system
 307273749,python313Packages.typical,aarch64-linux
 307273745,python313Packages.typical,x86_64-darwin
 307273744,python313Packages.typical,x86_64-linux
+308545330,python313Packages.ultralytics,aarch64-darwin
+308545329,python313Packages.ultralytics,x86_64-darwin
 307273940,python313Packages.unicode-slugify,aarch64-darwin
 307273939,python313Packages.unicode-slugify,aarch64-linux
 307273943,python313Packages.unicode-slugify,x86_64-darwin
@@ -3266,6 +3255,7 @@ id,name,system
 307292426,siege,aarch64-darwin
 307292431,siege,x86_64-darwin
 307292623,simple-completion-language-server,x86_64-darwin
+308544112,singular,aarch64-darwin
 307292940,skypilot,aarch64-darwin
 307292942,skypilot,aarch64-linux
 307292939,skypilot,x86_64-darwin
@@ -3298,8 +3288,6 @@ id,name,system
 308294698,spnavcfg,x86_64-darwin
 307294344,sptk,aarch64-linux
 307294347,sptk,x86_64-linux
-307295495,stirling-pdf,aarch64-darwin
-307295521,stirling-pdf,x86_64-darwin
 308375820,stog,aarch64-darwin
 307295283,stract,aarch64-darwin
 307295285,stract,aarch64-linux
@@ -3441,8 +3429,6 @@ id,name,system
 307317547,vdmfec,aarch64-linux
 307317548,vdmfec,x86_64-darwin
 307317549,vdmfec,x86_64-linux
-308281918,verilator,aarch64-darwin
-308281919,verilator,x86_64-darwin
 307317719,vertcoin,aarch64-linux
 307317722,vertcoin,x86_64-linux
 307317721,vertcoind,aarch64-linux
@@ -3529,6 +3515,7 @@ id,name,system
 307325793,xsnow,aarch64-darwin
 307325761,xsnow,aarch64-linux
 307325802,xsnow,x86_64-darwin
+308544612,xyce-parallel,x86_64-linux
 307325955,yaegi,x86_64-darwin
 308442301,ytui-music,aarch64-darwin
 308442302,ytui-music,aarch64-linux
