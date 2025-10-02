@@ -129,6 +129,7 @@ discordchatexporter-cli,,,,307657296
 dleyna,,,307083110,307083108
 dnadd,,,307083183,307083181
 dnslink-std-go,,,307083245,307083242
+docker-machine-kvm2,,308583389,,
 documenso,307083541,307083535,307083542,307083534
 doomseeker,,,307083672,307083675
 dosbox,,,307083711,307083709
@@ -165,7 +166,7 @@ fmi-reference-fmus,,,307088672,
 forgejo-runner,,,307817026,307817028
 fortanix-sgx-tools,307088941,,,
 foxtrotgps,,,307662202,307662201
-framac,,,,308446910
+framac,,,,308583432
 frawk,307089095,307089093,307089094,307089092
 freepv,,,307089174,307089171
 fromager,307089321,307089318,307089319,307089313
@@ -379,7 +380,6 @@ keeperrl,307136544,,,
 keydb,,307136639,,307136637
 kgt,,,307136700,307136699
 kitsas,307136845,307136844,307136865,307136849
-kitty,,,308575930,
 knossosnet,307549186,,,
 kodiPackages.plex-for-kodi,,,308541516,308541504
 kord,,,307137422,307137420
@@ -607,7 +607,7 @@ linuxKernel.packages.linux_libre.shufflecake,308298158,308298152,,
 linuxKernel.packages.linux_libre.tbs,,308298173,,
 linuxKernel.packages.linux_libre.tsme-test,,308298179,,
 linuxKernel.packages.linux_lqx.ax99100,308447147,,,
-linuxKernel.packages.linux_lqx.bcachefs,308447123,,,
+linuxKernel.packages.linux_lqx.bcachefs,308583658,,,
 linuxKernel.packages.linux_lqx.chipsec,308447124,,,
 linuxKernel.packages.linux_lqx.digimend,308447162,,,
 linuxKernel.packages.linux_lqx.fwts-efi-runtime,308447169,,,
@@ -807,7 +807,7 @@ linuxPackages_latest.shufflecake,308298821,308298818,,
 linuxPackages_latest.tsme-test,,308298831,,
 linuxPackages_latest.vmm_clock,308298849,,,
 linuxPackages_lqx.ax99100,308447265,,,
-linuxPackages_lqx.bcachefs,308447266,,,
+linuxPackages_lqx.bcachefs,308583701,,,
 linuxPackages_lqx.chipsec,308447272,,,
 linuxPackages_lqx.digimend,308447273,,,
 linuxPackages_lqx.fwts-efi-runtime,308447281,,,
@@ -961,7 +961,7 @@ meli,307612062,307612055,307612058,307612060
 melmatcheq-lv2,308417124,308417125,,
 metapixel,,,307157994,307157992
 meteor,307158005,,307158004,
-mgmt,,,308257115,308257116
+mgmt,308583753,308583748,308257115,308257116
 micronucleus,,,307158136,307158131
 micropython,,308570494,308570491,
 miniflux,,,307706716,
@@ -1005,15 +1005,14 @@ niftyseg,,,307162116,307162112
 nixStatic,,307596686,307618851,307596675
 nodePackages.cdktf-cli,,,307163639,307163645
 nodePackages.esy,,307163707,,307163706
-nodePackages_latest.cdktf-cli,,,,307596863
-nodePackages_latest.esy,,307597083,,307597085
-nodePackages_latest.joplin,307706763,307706764,,
-nodePackages_latest.keyoxide,307597176,307597193,,307597206
-nodePackages_latest.nodejs,,,307597226,
-nodePackages_latest.vega-cli,307597362,307597367,,307597364
+nodePackages_latest.cdktf-cli,,,308583931,308583873
+nodePackages_latest.esy,,308584069,,308584076
+nodePackages_latest.joplin,308584164,308584159,,
+nodePackages_latest.keyoxide,308584218,308584182,308584191,308584180
+nodePackages_latest.vega-cli,308584400,308584363,308584374,308584362
 nodejs-slim_20,,307164682,,
-nodejs_24,,,307597386,
-nodejs_latest,,,307597390,
+nodejs-slim_24,,,,308584378
+nodejs-slim_latest,,,,308584385
 nomad-pack,,,307164767,307164766
 normcap,,,307165258,
 notify-osd-customizable,307164897,307164895,,
@@ -1327,7 +1326,7 @@ python312Packages.unicode-slugify,307236230,307236222,307236224,307236220
 python312Packages.units-llnl,308417677,308417670,308417678,308417680
 python312Packages.uqbar,307236407,307236404,307236408,307236401
 python312Packages.visions,307236786,307236784,307236788,307236783
-python312Packages.vllm,,,,308551158
+python312Packages.vllm,,,,308604511
 python312Packages.vowpalwabbit,,,307236854,307236853
 python312Packages.watchdog-gevent,,,307685448,307685447
 python312Packages.wgpu-py,,,308400854,308400855
@@ -1587,7 +1586,7 @@ screen-pipe,307291537,307291534,307291565,307291566
 sct,,307291436,,
 securefs,,,307291608,307291604
 sentry-cli,,,,308576568
-seppo,,,,308385861
+seppo,,,,308584840
 sequoia-sq,,,,307891993
 serious-sam-classic-vulkan,307291870,307291871,,
 servo,308260242,308260241,308260243,308260244
@@ -1618,7 +1617,7 @@ speech-tools,,,307294036,307294034
 splitcode,,,307294257,
 spnavcfg,,,308294698,308294701
 sptk,307294347,307294344,,
-stog,,,,308375820
+stog,,,,308584883
 stract,307295286,307295285,307295284,307295283
 stuntrally,307295450,307295447,,
 substudy,307295524,307295522,,
@@ -1697,13 +1696,13 @@ vimPlugins.grug-far-nvim,,308404626,,
 vimPlugins.neotest,,307318199,,
 vixl,,,308202865,
 vkdt,,307319814,,
-vllm,,,,308553779
+vllm,,,,308604892
 vorbisgain,,,307319945,307319942
 vsc-leetcode-cli,307320008,307320007,307320009,307320006
 warmux,307322104,307322094,,
 wasmer,307322170,,307322186,
 wayv,307322368,307322366,,
-why3find,,,,307688013
+why3find,,,,308585079
 wiiuse,,,307322887,307322885
 windowtolayer,,,307322951,307322948
 wml,307323263,307323260,,
