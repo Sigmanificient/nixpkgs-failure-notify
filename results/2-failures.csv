@@ -154,8 +154,6 @@ id,name,system
 308957034,avy,x86_64-linux
 308957035,aw-notify,aarch64-darwin
 308957037,aw-notify,x86_64-darwin
-309259199,awesome,aarch64-linux
-309259198,awesome,x86_64-linux
 308957144,aws-lc,aarch64-darwin
 308957148,aws-lc,x86_64-darwin
 308957259,awscli2,aarch64-darwin
@@ -252,8 +250,6 @@ id,name,system
 308960397,bpp-core,x86_64-linux
 308960443,break-time,aarch64-linux
 308960444,break-time,x86_64-linux
-308960491,brlaser,aarch64-linux
-308960492,brlaser,x86_64-linux
 308960494,brlcad,x86_64-linux
 308960651,btanks,aarch64-darwin
 308960658,btanks,x86_64-darwin
@@ -432,8 +428,6 @@ id,name,system
 308966515,cmtk,x86_64-linux
 308966560,coan,aarch64-darwin
 308966561,coan,x86_64-darwin
-308966806,collada-dom,aarch64-linux
-308966808,collada-dom,x86_64-linux
 309236717,coloquinte,aarch64-linux
 309236718,coloquinte,x86_64-linux
 309236719,commitizen,aarch64-darwin
@@ -453,8 +447,8 @@ id,name,system
 308967260,construoBase,x86_64-darwin
 308967346,coolreader,aarch64-linux
 308967347,coolreader,x86_64-linux
-308967367,copacetic,aarch64-darwin
-308967368,copacetic,x86_64-darwin
+309809332,copacetic,aarch64-darwin
+309809336,copacetic,x86_64-darwin
 308967889,coredns,aarch64-darwin
 308967897,coredns,x86_64-darwin
 308967931,coreth,x86_64-darwin
@@ -560,10 +554,6 @@ id,name,system
 308969773,dcm2niix,aarch64-linux
 308969772,dcm2niix,x86_64-darwin
 308969776,dcm2niix,x86_64-linux
-308969817,ddate,aarch64-darwin
-308969815,ddate,aarch64-linux
-308969816,ddate,x86_64-darwin
-308969818,ddate,x86_64-linux
 308969883,deadpixi-sam-unstable,aarch64-darwin
 308969885,deadpixi-sam-unstable,x86_64-darwin
 308970027,decker,aarch64-darwin
@@ -704,10 +694,10 @@ id,name,system
 308973881,enyo-launcher,aarch64-linux
 308973882,enyo-launcher,x86_64-darwin
 308973884,enyo-launcher,x86_64-linux
-309259432,epsonscan2,x86_64-linux
 308973973,eq10q,x86_64-linux
 308973979,equalx,aarch64-darwin
 308973976,equalx,x86_64-darwin
+309535497,equibop,aarch64-linux
 308974014,ericw-tools,aarch64-darwin
 308974017,ericw-tools,aarch64-linux
 308974018,ericw-tools,x86_64-darwin
@@ -1273,8 +1263,8 @@ id,name,system
 309018496,hypr,aarch64-linux
 309018505,hypr,x86_64-darwin
 309018497,hypr,x86_64-linux
-309018549,hyprlandPlugins.hyprgrass,aarch64-linux
-309018598,hyprlandPlugins.hyprgrass,x86_64-linux
+309809757,hyprlandPlugins.hyprgrass,aarch64-linux
+309809754,hyprlandPlugins.hyprgrass,x86_64-linux
 309018631,i2pd-tools,aarch64-darwin
 309018634,i2pd-tools,x86_64-darwin
 309018798,ibus-engines.openbangla-keyboard,x86_64-linux
@@ -1378,8 +1368,6 @@ id,name,system
 309021136,jerryscript,aarch64-darwin
 309021137,jerryscript,aarch64-linux
 309021138,jerryscript,x86_64-darwin
-309021157,jetbrains.jcef,aarch64-linux
-309021156,jetbrains.jcef,x86_64-linux
 309021161,jetbrains.jdk-no-jcef-17,aarch64-linux
 309259812,jetuml,aarch64-darwin
 309259813,jetuml,x86_64-darwin
@@ -1466,7 +1454,6 @@ id,name,system
 309023890,kgt,x86_64-darwin
 309024032,kitsas,aarch64-linux
 309024034,kitsas,x86_64-linux
-309259842,kitty,aarch64-darwin
 309024155,knightos-genkfs,aarch64-darwin
 309024156,knightos-genkfs,aarch64-linux
 309024160,knightos-genkfs,x86_64-darwin
@@ -1838,7 +1825,7 @@ id,name,system
 309031197,linuxKernel.packages.linux_5_15.bpftrace,x86_64-linux
 309031198,linuxKernel.packages.linux_5_15.dddvb,aarch64-linux
 309031199,linuxKernel.packages.linux_5_15.dddvb,x86_64-linux
-309031245,linuxKernel.packages.linux_5_15.lenovo-legion-module,aarch64-linux
+309809836,linuxKernel.packages.linux_5_15.lenovo-legion-module,aarch64-linux
 309031252,linuxKernel.packages.linux_5_15.lttng-modules,aarch64-linux
 309031254,linuxKernel.packages.linux_5_15.lttng-modules,x86_64-linux
 309031256,linuxKernel.packages.linux_5_15.mbp2018-bridge-drv,aarch64-linux
@@ -1862,7 +1849,7 @@ id,name,system
 309031630,linuxKernel.packages.linux_6_1.bpftrace,x86_64-linux
 309031640,linuxKernel.packages.linux_6_1.dddvb,aarch64-linux
 309031641,linuxKernel.packages.linux_6_1.dddvb,x86_64-linux
-309031687,linuxKernel.packages.linux_6_1.lenovo-legion-module,aarch64-linux
+309809839,linuxKernel.packages.linux_6_1.lenovo-legion-module,aarch64-linux
 309031697,linuxKernel.packages.linux_6_1.mba6x_bl,aarch64-linux
 309031698,linuxKernel.packages.linux_6_1.mba6x_bl,x86_64-linux
 309031696,linuxKernel.packages.linux_6_1.mbp2018-bridge-drv,aarch64-linux
@@ -1881,7 +1868,7 @@ id,name,system
 309031861,linuxKernel.packages.linux_6_12.bpftrace,x86_64-linux
 309237697,linuxKernel.packages.linux_6_12.fwts-efi-runtime,aarch64-linux
 309237698,linuxKernel.packages.linux_6_12.fwts-efi-runtime,x86_64-linux
-309237869,linuxKernel.packages.linux_6_12.lenovo-legion-module,aarch64-linux
+309809841,linuxKernel.packages.linux_6_12.lenovo-legion-module,aarch64-linux
 309237724,linuxKernel.packages.linux_6_12.linux-gpib,aarch64-linux
 309237726,linuxKernel.packages.linux_6_12.linux-gpib,x86_64-linux
 309237730,linuxKernel.packages.linux_6_12.lttng-modules,aarch64-linux
@@ -1905,7 +1892,7 @@ id,name,system
 309032093,linuxKernel.packages.linux_6_12_hardened.bpftrace,x86_64-linux
 309032124,linuxKernel.packages.linux_6_12_hardened.fwts-efi-runtime,aarch64-linux
 309032126,linuxKernel.packages.linux_6_12_hardened.fwts-efi-runtime,x86_64-linux
-309032148,linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module,aarch64-linux
+309809842,linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module,aarch64-linux
 309032150,linuxKernel.packages.linux_6_12_hardened.linux-gpib,aarch64-linux
 309032152,linuxKernel.packages.linux_6_12_hardened.linux-gpib,x86_64-linux
 309032155,linuxKernel.packages.linux_6_12_hardened.lttng-modules,aarch64-linux
@@ -1934,7 +1921,7 @@ id,name,system
 309238075,linuxKernel.packages.linux_6_16.fwts-efi-runtime,x86_64-linux
 309237920,linuxKernel.packages.linux_6_16.hid-ite8291r3,aarch64-linux
 309237921,linuxKernel.packages.linux_6_16.hid-ite8291r3,x86_64-linux
-309237939,linuxKernel.packages.linux_6_16.lenovo-legion-module,aarch64-linux
+309809844,linuxKernel.packages.linux_6_16.lenovo-legion-module,aarch64-linux
 309237943,linuxKernel.packages.linux_6_16.linux-gpib,aarch64-linux
 309237942,linuxKernel.packages.linux_6_16.linux-gpib,x86_64-linux
 309237945,linuxKernel.packages.linux_6_16.lkrg,aarch64-linux
@@ -1990,7 +1977,7 @@ id,name,system
 309238126,linuxKernel.packages.linux_6_17.fwts-efi-runtime,x86_64-linux
 309238293,linuxKernel.packages.linux_6_17.hid-ite8291r3,aarch64-linux
 309238132,linuxKernel.packages.linux_6_17.hid-ite8291r3,x86_64-linux
-309238152,linuxKernel.packages.linux_6_17.lenovo-legion-module,aarch64-linux
+309809847,linuxKernel.packages.linux_6_17.lenovo-legion-module,aarch64-linux
 309238150,linuxKernel.packages.linux_6_17.linux-gpib,aarch64-linux
 309238154,linuxKernel.packages.linux_6_17.linux-gpib,x86_64-linux
 309238156,linuxKernel.packages.linux_6_17.lkrg,aarch64-linux
@@ -2040,7 +2027,7 @@ id,name,system
 309238289,linuxKernel.packages.linux_6_6.acer-wmi-battery,aarch64-linux
 309032769,linuxKernel.packages.linux_6_6.bpftrace,aarch64-linux
 309032782,linuxKernel.packages.linux_6_6.bpftrace,x86_64-linux
-309238359,linuxKernel.packages.linux_6_6.lenovo-legion-module,aarch64-linux
+309809848,linuxKernel.packages.linux_6_6.lenovo-legion-module,aarch64-linux
 309238366,linuxKernel.packages.linux_6_6.lttng-modules,aarch64-linux
 309238367,linuxKernel.packages.linux_6_6.lttng-modules,x86_64-linux
 309238368,linuxKernel.packages.linux_6_6.mba6x_bl,aarch64-linux
@@ -2062,7 +2049,7 @@ id,name,system
 309033002,linuxKernel.packages.linux_hardened.bpftrace,x86_64-linux
 309033034,linuxKernel.packages.linux_hardened.fwts-efi-runtime,aarch64-linux
 309033036,linuxKernel.packages.linux_hardened.fwts-efi-runtime,x86_64-linux
-309033057,linuxKernel.packages.linux_hardened.lenovo-legion-module,aarch64-linux
+309809851,linuxKernel.packages.linux_hardened.lenovo-legion-module,aarch64-linux
 309033059,linuxKernel.packages.linux_hardened.linux-gpib,aarch64-linux
 309033060,linuxKernel.packages.linux_hardened.linux-gpib,x86_64-linux
 309033218,linuxKernel.packages.linux_hardened.lttng-modules,aarch64-linux
@@ -2214,7 +2201,7 @@ id,name,system
 309033947,linuxPackages.bpftrace,x86_64-linux
 309238695,linuxPackages.fwts-efi-runtime,aarch64-linux
 309238698,linuxPackages.fwts-efi-runtime,x86_64-linux
-309238719,linuxPackages.lenovo-legion-module,aarch64-linux
+309809858,linuxPackages.lenovo-legion-module,aarch64-linux
 309238720,linuxPackages.linux-gpib,aarch64-linux
 309238724,linuxPackages.linux-gpib,x86_64-linux
 309238730,linuxPackages.lttng-modules,aarch64-linux
@@ -2245,7 +2232,7 @@ id,name,system
 309238914,linuxPackages_latest.fwts-efi-runtime,x86_64-linux
 309238919,linuxPackages_latest.hid-ite8291r3,aarch64-linux
 309238916,linuxPackages_latest.hid-ite8291r3,x86_64-linux
-309238940,linuxPackages_latest.lenovo-legion-module,aarch64-linux
+309809859,linuxPackages_latest.lenovo-legion-module,aarch64-linux
 309238942,linuxPackages_latest.linux-gpib,aarch64-linux
 309238943,linuxPackages_latest.linux-gpib,x86_64-linux
 309238945,linuxPackages_latest.lkrg,aarch64-linux
@@ -2881,8 +2868,8 @@ id,name,system
 309051185,obitools3,aarch64-linux
 309051184,obitools3,x86_64-darwin
 309051186,obitools3,x86_64-linux
-309051534,octavePackages.geometry,aarch64-darwin
-309051537,octavePackages.geometry,x86_64-darwin
+309810036,octavePackages.geometry,aarch64-darwin
+309810042,octavePackages.geometry,x86_64-darwin
 309051739,oculante,aarch64-linux
 309051740,oculante,x86_64-linux
 309051741,odamex,aarch64-darwin
@@ -2959,8 +2946,6 @@ id,name,system
 309053102,opentracing-cpp,x86_64-linux
 309260153,opentx,aarch64-linux
 309260154,opentx,x86_64-linux
-309053190,openxcom,aarch64-linux
-309053186,openxcom,x86_64-linux
 309053219,ophcrack,aarch64-darwin
 309053204,ophcrack,x86_64-darwin
 309053223,opl3bankeditor,aarch64-darwin
@@ -3158,6 +3143,17 @@ id,name,system
 309080092,pipenv-poetry-migrate,aarch64-linux
 309080090,pipenv-poetry-migrate,x86_64-darwin
 309080091,pipenv-poetry-migrate,x86_64-linux
+309535960,pkgsRocm.cloudcompare,x86_64-linux
+309535986,pkgsRocm.getdp,x86_64-linux
+309535998,pkgsRocm.highfive-mpi,x86_64-linux
+309535991,pkgsRocm.itk_5_2,x86_64-linux
+309536008,pkgsRocm.mirtk,x86_64-linux
+309536012,pkgsRocm.mpifileutils,x86_64-linux
+309536045,pkgsRocm.pdi,x86_64-linux
+309536425,pkgsRocm.scipopt-scip,x86_64-linux
+309536411,pkgsRocm.siesta-mpi,x86_64-linux
+309536431,pkgsRocm.trilinos-mpi,x86_64-linux
+309536450,pkgsRocm.tt-metal,x86_64-linux
 309080464,plasma5Packages.kdb,aarch64-linux
 309080469,plasma5Packages.kdb,x86_64-linux
 309080477,plasma5Packages.kdiagram,aarch64-darwin
@@ -3367,14 +3363,6 @@ id,name,system
 309086272,python312Packages.aiorwlock,x86_64-linux
 309086324,python312Packages.aiosonic,aarch64-darwin
 309086334,python312Packages.aiosonic,x86_64-darwin
-309087114,python312Packages.arelle-headless,aarch64-darwin
-309087073,python312Packages.arelle-headless,aarch64-linux
-309087134,python312Packages.arelle-headless,x86_64-darwin
-309087037,python312Packages.arelle-headless,x86_64-linux
-309087058,python312Packages.arelle,aarch64-darwin
-309087052,python312Packages.arelle,aarch64-linux
-309087102,python312Packages.arelle,x86_64-darwin
-309087036,python312Packages.arelle,x86_64-linux
 309529691,python312Packages.ax-platform,aarch64-linux
 309529692,python312Packages.ax-platform,x86_64-linux
 309089060,python312Packages.boltztrap2,aarch64-darwin
@@ -5225,10 +5213,6 @@ id,name,system
 309182570,taco,x86_64-linux
 309182574,tagainijisho,aarch64-linux
 309182575,tagainijisho,x86_64-linux
-309182585,taglib_extras,aarch64-darwin
-309182590,taglib_extras,aarch64-linux
-309182596,taglib_extras,x86_64-darwin
-309182589,taglib_extras,x86_64-linux
 309182601,tagutil,aarch64-linux
 309182602,tagutil,x86_64-linux
 309182660,taisei,aarch64-darwin

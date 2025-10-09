@@ -60,7 +60,6 @@ avidemux,308956995,,,
 avro-cpp,308957029,308957025,308957027,308957026
 avy,308957034,308957033,,
 aw-notify,,,308957037,308957035
-awesome,309259198,309259199,,
 aws-lc,,,308957148,308957144
 awscli2,308957212,308957225,308957213,308957259
 azurite,,,308957993,308957999
@@ -98,7 +97,6 @@ bowtie2,308960329,308960326,308960327,308960328
 bpftrace,308960385,308960386,,
 bpp-core,308960397,308960396,308960395,308960394
 break-time,308960444,308960443,,
-brlaser,308960492,308960491,,
 brlcad,308960494,,,
 btanks,,,308960658,308960651
 buildah-unwrapped,,,308960796,308960794
@@ -171,7 +169,6 @@ cm256cc,308966434,308966427,308966429,308966424
 cmdstan,,,308966630,308966636
 cmtk,308966515,308966513,308966512,308966511
 coan,,,308966561,308966560
-collada-dom,308966808,308966806,,
 coloquinte,309236718,309236717,,
 commitizen,309236722,309236721,309236720,309236719
 commitmsgfmt,308967011,308967000,308966999,308966997
@@ -180,7 +177,7 @@ conserve,,,308967234,
 construo,,,308967254,308967256
 construoBase,,,308967260,308967259
 coolreader,308967347,308967346,,
-copacetic,,,308967368,308967367
+copacetic,,,309809336,309809332
 coredns,,,308967897,308967889
 coreth,,,308967931,
 corto,308967985,308967983,308967984,308967982
@@ -219,7 +216,6 @@ davix-copy,308969613,308969612,,
 davix,308969610,308969607,308969609,308969606
 db-rest,,,308969644,308969639
 dcm2niix,308969776,308969773,308969772,308969769
-ddate,308969818,308969815,308969816,308969817
 deadpixi-sam-unstable,,,308969885,308969883
 decker,,,308969966,308970027
 degate,,,,308969992
@@ -276,9 +272,9 @@ ente-auth,308974240,308974197,,
 ente-desktop,,,309259430,309259431
 entwine,309236897,309236901,,
 enyo-launcher,308973884,308973881,308973882,308973889
-epsonscan2,309259432,,,
 eq10q,308973973,,,
 equalx,,,308973976,308973979
+equibop,,309535497,,
 ericw-tools,308974019,308974017,308974018,308974014
 eternity,308974182,308974180,,
 etlegacy-unwrapped,,,308974212,308974214
@@ -523,7 +519,7 @@ httraqt,309017683,309017689,,
 hugs,309017719,309017718,,
 hyperscan,309018431,,309018499,
 hypr,309018497,309018496,309018505,309018500
-hyprlandPlugins.hyprgrass,309018598,309018549,,
+hyprlandPlugins.hyprgrass,309809754,309809757,,
 i2pd-tools,,,309018634,309018631
 ibus-engines.openbangla-keyboard,309018798,,,
 ibus-engines.table-chinese,309018793,309018801,,
@@ -570,7 +566,6 @@ jbofihe,,,309020956,309020955
 jdupes,,,309021067,309021063
 jellyflix,309021431,309021176,,
 jerryscript,,309021137,309021138,309021136
-jetbrains.jcef,309021156,309021157,,
 jetbrains.jdk-no-jcef-17,,309021161,,
 jetuml,,,309259813,309259812
 jextract-21,309021201,309021198,,
@@ -610,7 +605,6 @@ keystone,309023871,309023869,309023872,309023870
 kgraphviewer,309023885,309023892,,
 kgt,,,309023890,309023887
 kitsas,309024034,309024032,,
-kitty,,,,309259842
 knightos-genkfs,309024157,309024156,309024160,309024155
 knightos-kcc,309024162,309024159,309024161,309024158
 knightos-kimg,309024170,309024164,309024165,309024167
@@ -765,7 +759,7 @@ linuxKernel.packages.linux_5_15.acer-wmi-battery,,309031178,,
 linuxKernel.packages.linux_5_15.akvcam,309031189,309031181,,
 linuxKernel.packages.linux_5_15.bpftrace,309031197,309031184,,
 linuxKernel.packages.linux_5_15.dddvb,309031199,309031198,,
-linuxKernel.packages.linux_5_15.lenovo-legion-module,,309031245,,
+linuxKernel.packages.linux_5_15.lenovo-legion-module,,309809836,,
 linuxKernel.packages.linux_5_15.lttng-modules,309031254,309031252,,
 linuxKernel.packages.linux_5_15.mbp2018-bridge-drv,309031257,309031256,,
 linuxKernel.packages.linux_5_15.netatop,309031268,309031267,,
@@ -783,7 +777,7 @@ linuxKernel.packages.linux_5_4.tbs,309031578,,,
 linuxKernel.packages.linux_6_1.acer-wmi-battery,,309031619,,
 linuxKernel.packages.linux_6_1.bpftrace,309031630,309031629,,
 linuxKernel.packages.linux_6_1.dddvb,309031641,309031640,,
-linuxKernel.packages.linux_6_1.lenovo-legion-module,,309031687,,
+linuxKernel.packages.linux_6_1.lenovo-legion-module,,309809839,,
 linuxKernel.packages.linux_6_1.mba6x_bl,309031698,309031697,,
 linuxKernel.packages.linux_6_1.mbp2018-bridge-drv,309031699,309031696,,
 linuxKernel.packages.linux_6_1.netatop,309031710,309031709,,
@@ -795,7 +789,7 @@ linuxKernel.packages.linux_6_12.acer-wmi-battery,,309237659,,
 linuxKernel.packages.linux_6_12.ax99100,309237667,309237666,,
 linuxKernel.packages.linux_6_12.bpftrace,309031861,309031860,,
 linuxKernel.packages.linux_6_12.fwts-efi-runtime,309237698,309237697,,
-linuxKernel.packages.linux_6_12.lenovo-legion-module,,309237869,,
+linuxKernel.packages.linux_6_12.lenovo-legion-module,,309809841,,
 linuxKernel.packages.linux_6_12.linux-gpib,309237726,309237724,,
 linuxKernel.packages.linux_6_12.lttng-modules,309237731,309237730,,
 linuxKernel.packages.linux_6_12.mba6x_bl,309237732,309237871,,
@@ -809,7 +803,7 @@ linuxKernel.packages.linux_6_12_hardened.acer-wmi-battery,,309032073,,
 linuxKernel.packages.linux_6_12_hardened.ax99100,309032144,309032138,,
 linuxKernel.packages.linux_6_12_hardened.bpftrace,309032093,309032110,,
 linuxKernel.packages.linux_6_12_hardened.fwts-efi-runtime,309032126,309032124,,
-linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module,,309032148,,
+linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module,,309809842,,
 linuxKernel.packages.linux_6_12_hardened.linux-gpib,309032152,309032150,,
 linuxKernel.packages.linux_6_12_hardened.lttng-modules,309032156,309032155,,
 linuxKernel.packages.linux_6_12_hardened.mba6x_bl,309032158,309032157,,
@@ -826,7 +820,7 @@ linuxKernel.packages.linux_6_16.chipsec,309237897,,,
 linuxKernel.packages.linux_6_16.digimend,309237903,309237994,,
 linuxKernel.packages.linux_6_16.fwts-efi-runtime,309238075,309237915,,
 linuxKernel.packages.linux_6_16.hid-ite8291r3,309237921,309237920,,
-linuxKernel.packages.linux_6_16.lenovo-legion-module,,309237939,,
+linuxKernel.packages.linux_6_16.lenovo-legion-module,,309809844,,
 linuxKernel.packages.linux_6_16.linux-gpib,309237942,309237943,,
 linuxKernel.packages.linux_6_16.lkrg,309238088,309237945,,
 linuxKernel.packages.linux_6_16.lttng-modules,309237946,309237947,,
@@ -858,7 +852,7 @@ linuxKernel.packages.linux_6_17.chipsec,309238104,,,
 linuxKernel.packages.linux_6_17.digimend,309238112,309238232,,
 linuxKernel.packages.linux_6_17.fwts-efi-runtime,309238126,309238124,,
 linuxKernel.packages.linux_6_17.hid-ite8291r3,309238132,309238293,,
-linuxKernel.packages.linux_6_17.lenovo-legion-module,,309238152,,
+linuxKernel.packages.linux_6_17.lenovo-legion-module,,309809847,,
 linuxKernel.packages.linux_6_17.linux-gpib,309238154,309238150,,
 linuxKernel.packages.linux_6_17.lkrg,309238158,309238156,,
 linuxKernel.packages.linux_6_17.lttng-modules,309238159,309238157,,
@@ -887,7 +881,7 @@ linuxKernel.packages.linux_6_17.tsme-test,,309238255,,
 linuxKernel.packages.linux_6_17.vmm_clock,309238278,,,
 linuxKernel.packages.linux_6_6.acer-wmi-battery,,309238289,,
 linuxKernel.packages.linux_6_6.bpftrace,309032782,309032769,,
-linuxKernel.packages.linux_6_6.lenovo-legion-module,,309238359,,
+linuxKernel.packages.linux_6_6.lenovo-legion-module,,309809848,,
 linuxKernel.packages.linux_6_6.lttng-modules,309238367,309238366,,
 linuxKernel.packages.linux_6_6.mba6x_bl,309238369,309238368,,
 linuxKernel.packages.linux_6_6.mbp2018-bridge-drv,309238371,309238370,,
@@ -900,7 +894,7 @@ linuxKernel.packages.linux_hardened.acer-wmi-battery,,309032994,,
 linuxKernel.packages.linux_hardened.ax99100,309033079,309033067,,
 linuxKernel.packages.linux_hardened.bpftrace,309033002,309033008,,
 linuxKernel.packages.linux_hardened.fwts-efi-runtime,309033036,309033034,,
-linuxKernel.packages.linux_hardened.lenovo-legion-module,,309033057,,
+linuxKernel.packages.linux_hardened.lenovo-legion-module,,309809851,,
 linuxKernel.packages.linux_hardened.linux-gpib,309033060,309033059,,
 linuxKernel.packages.linux_hardened.lttng-modules,309033065,309033218,,
 linuxKernel.packages.linux_hardened.mba6x_bl,309033068,309033066,,
@@ -1037,7 +1031,7 @@ linuxPackages.acer-wmi-battery,,309238659,,
 linuxPackages.ax99100,309238667,309238672,,
 linuxPackages.bpftrace,309033947,309033949,,
 linuxPackages.fwts-efi-runtime,309238698,309238695,,
-linuxPackages.lenovo-legion-module,,309238719,,
+linuxPackages.lenovo-legion-module,,309809858,,
 linuxPackages.linux-gpib,309238724,309238720,,
 linuxPackages.lttng-modules,309238729,309238730,,
 linuxPackages.mba6x_bl,309238732,309238731,,
@@ -1055,7 +1049,7 @@ linuxPackages_latest.chipsec,309238896,,,
 linuxPackages_latest.digimend,309238903,309238899,,
 linuxPackages_latest.fwts-efi-runtime,309238914,309238922,,
 linuxPackages_latest.hid-ite8291r3,309238916,309238919,,
-linuxPackages_latest.lenovo-legion-module,,309238940,,
+linuxPackages_latest.lenovo-legion-module,,309809859,,
 linuxPackages_latest.linux-gpib,309238943,309238942,,
 linuxPackages_latest.lkrg,309238946,309238945,,
 linuxPackages_latest.lttng-modules,309238951,309238947,,
@@ -1385,7 +1379,7 @@ nvramtool,,309051007,,
 nxpmicro-mfgtools,309051082,309051079,309051080,309051078
 oatpp,309051141,309051139,309051140,309051138
 obitools3,309051186,309051185,309051184,309051183
-octavePackages.geometry,,,309051537,309051534
+octavePackages.geometry,,,309810042,309810036
 oculante,309051740,309051739,,
 odamex,309051747,309051742,309051743,309051741
 odhcp6c,309051758,309051757,,
@@ -1417,7 +1411,6 @@ opensoldat,309052974,,,
 openspades,309260144,,,
 opentracing-cpp,309053102,309053100,309053103,309053101
 opentx,309260154,309260153,,
-openxcom,309053186,309053190,,
 ophcrack,,,309053204,309053219
 opl3bankeditor,309053224,309053221,309053222,309053223
 opn2bankeditor,309053226,309053225,309053229,309053245
@@ -1511,6 +1504,17 @@ pingus,309080023,309080024,,
 pinokio,,,309080042,
 pioneer,309080058,,,
 pipenv-poetry-migrate,309080091,309080092,309080090,309080089
+pkgsRocm.cloudcompare,309535960,,,
+pkgsRocm.getdp,309535986,,,
+pkgsRocm.highfive-mpi,309535998,,,
+pkgsRocm.itk_5_2,309535991,,,
+pkgsRocm.mirtk,309536008,,,
+pkgsRocm.mpifileutils,309536012,,,
+pkgsRocm.pdi,309536045,,,
+pkgsRocm.scipopt-scip,309536425,,,
+pkgsRocm.siesta-mpi,309536411,,,
+pkgsRocm.trilinos-mpi,309536431,,,
+pkgsRocm.tt-metal,309536450,,,
 plasma5Packages.kdb,309080469,309080464,,
 plasma5Packages.kdiagram,309080480,309080479,309080524,309080477
 plasma5Packages.kf5gpgmepp,309080499,309080502,,
@@ -1581,8 +1585,6 @@ pycoin,,,,309085214
 pyinfra,309085249,309085242,309085244,309085243
 python312Packages.aiorwlock,309086272,309086269,309086271,309086266
 python312Packages.aiosonic,,,309086334,309086324
-python312Packages.arelle-headless,309087037,309087073,309087134,309087114
-python312Packages.arelle,309087036,309087052,309087102,309087058
 python312Packages.ax-platform,309529692,309529691,,
 python312Packages.boltztrap2,309089073,309089067,309089065,309089060
 python312Packages.bx-py-utils,309089405,,,
@@ -2308,7 +2310,6 @@ t4kcommon,309182535,309182528,,
 tacent,309182562,,,
 taco,309182570,309182571,309182572,309182566
 tagainijisho,309182575,309182574,,
-taglib_extras,309182589,309182590,309182596,309182585
 tagutil,309182602,309182601,,
 taisei,,,309182674,309182660
 talkfilters,,,309182708,309182705
