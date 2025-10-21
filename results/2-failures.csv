@@ -2817,7 +2817,6 @@ id,name,system
 309107542,python312Packages.protobuf4,x86_64-linux
 309107554,python312Packages.proton-core,aarch64-darwin
 309107556,python312Packages.proton-core,x86_64-darwin
-310304769,python312Packages.psycopg,x86_64-linux
 309107924,python312Packages.py-multiaddr,aarch64-darwin
 309107894,python312Packages.py-multiaddr,aarch64-linux
 309107914,python312Packages.py-multiaddr,x86_64-darwin
@@ -3215,7 +3214,6 @@ id,name,system
 309145588,python313Packages.protobuf4,x86_64-linux
 309145602,python313Packages.proton-core,aarch64-darwin
 309145604,python313Packages.proton-core,x86_64-darwin
-310305588,python313Packages.psycopg,x86_64-linux
 309145706,python313Packages.psycopg2cffi,aarch64-linux
 309145707,python313Packages.psycopg2cffi,x86_64-linux
 309145976,python313Packages.py-multiaddr,aarch64-darwin
