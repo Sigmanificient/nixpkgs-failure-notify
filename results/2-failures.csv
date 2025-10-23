@@ -348,7 +348,7 @@ id,name,system
 308967983,corto,aarch64-linux
 308967984,corto,x86_64-darwin
 308967985,corto,x86_64-linux
-309823422,couchdb3,x86_64-darwin
+310345961,couchdb3,x86_64-darwin
 308968142,cp437,aarch64-darwin
 308968147,cp437,x86_64-darwin
 308968175,cpp-ipfs-http-client,x86_64-darwin
@@ -696,7 +696,7 @@ id,name,system
 308979665,gitlab-elasticsearch-indexer,x86_64-darwin
 309936828,gitlab-runner,x86_64-darwin
 308979779,gitui,aarch64-darwin
-310306108,gleam,x86_64-darwin
+310346000,gleam,x86_64-darwin
 308979885,glew110,aarch64-darwin
 308979886,glew110,x86_64-darwin
 308979945,glicol-cli,aarch64-darwin
@@ -1039,10 +1039,14 @@ id,name,system
 310331541,home-assistant-component-tests.aemet,x86_64-linux
 310331525,home-assistant-component-tests.airly,aarch64-linux
 310331539,home-assistant-component-tests.airly,x86_64-linux
+310332007,home-assistant-component-tests.folder_watcher,aarch64-linux
+310332098,home-assistant-component-tests.google,aarch64-linux
+310333177,home-assistant-component-tests.stream,x86_64-linux
 310333191,home-assistant-component-tests.tautulli,aarch64-linux
 310333205,home-assistant-component-tests.tautulli,x86_64-linux
 310333356,home-assistant-component-tests.vera,aarch64-linux
 310333364,home-assistant-component-tests.vera,x86_64-linux
+310333445,home-assistant-component-tests.wemo,aarch64-linux
 309017010,home-assistant-custom-components.benqprojector,aarch64-linux
 309017009,home-assistant-custom-components.benqprojector,x86_64-linux
 309017330,hop,aarch64-linux
@@ -1331,10 +1335,6 @@ id,name,system
 309026455,libcardiacarrest,x86_64-darwin
 309026521,libcifpp,aarch64-darwin
 309026527,libcifpp,x86_64-darwin
-309026540,libclipboard,aarch64-darwin
-309026547,libclipboard,aarch64-linux
-309026553,libclipboard,x86_64-darwin
-309026551,libclipboard,x86_64-linux
 309026593,libcork,aarch64-darwin
 309026592,libcork,aarch64-linux
 309026595,libcork,x86_64-darwin
@@ -1901,6 +1901,8 @@ id,name,system
 309042039,manticoresearch,x86_64-linux
 309823734,mapserver,aarch64-darwin
 309823739,mapserver,x86_64-darwin
+310333770,mariadb-embedded,x86_64-darwin
+310333766,mariadb,x86_64-darwin
 309042322,mariadb_114,x86_64-darwin
 309042328,mariadb_118,x86_64-darwin
 309042388,marl,aarch64-darwin
@@ -1936,7 +1938,6 @@ id,name,system
 310326440,meli,x86_64-linux
 309043385,melmatcheq-lv2,aarch64-linux
 309043386,melmatcheq-lv2,x86_64-linux
-309823755,mercury,x86_64-darwin
 309044558,mesonlsp,aarch64-darwin
 309043648,metapixel,aarch64-darwin
 309043650,metapixel,x86_64-darwin
@@ -1945,7 +1946,7 @@ id,name,system
 309043726,mgmt,aarch64-darwin
 309937999,mgmt,aarch64-linux
 309043768,mgmt,x86_64-darwin
-310201682,mgmt,x86_64-linux
+310346249,mgmt,x86_64-linux
 309043769,microdnf,aarch64-linux
 309043772,microdnf,x86_64-linux
 310201686,micromamba,aarch64-darwin
@@ -2010,12 +2011,12 @@ id,name,system
 309045053,move-mount-beneath,x86_64-darwin
 310326462,mozart2,aarch64-linux
 310326463,mozart2,x86_64-linux
-309045188,mpd-small,aarch64-darwin
-309045205,mpd-small,x86_64-darwin
+310346262,mpd-small,aarch64-darwin
+310346258,mpd-small,x86_64-darwin
 309045172,mpd-touch-screen-gui,aarch64-linux
 309045179,mpd-touch-screen-gui,x86_64-linux
-309045176,mpd,aarch64-darwin
-309045173,mpd,x86_64-darwin
+310346259,mpd,aarch64-darwin
+310346257,mpd,x86_64-darwin
 309045245,mpifileutils,aarch64-linux
 309045285,mpifileutils,x86_64-linux
 309045266,mplayer,aarch64-darwin
@@ -2654,10 +2655,6 @@ id,name,system
 309092007,python312Packages.diofant,aarch64-linux
 309092012,python312Packages.diofant,x86_64-darwin
 309092014,python312Packages.diofant,x86_64-linux
-310171287,python312Packages.docling-parse,aarch64-darwin
-310171282,python312Packages.docling-parse,aarch64-linux
-310171289,python312Packages.docling-parse,x86_64-darwin
-310171284,python312Packages.docling-parse,x86_64-linux
 309093175,python312Packages.donut-shellcode,aarch64-darwin
 309093176,python312Packages.donut-shellcode,aarch64-linux
 309093177,python312Packages.donut-shellcode,x86_64-darwin
@@ -3037,6 +3034,7 @@ id,name,system
 309810590,python313Packages.arelle-headless,aarch64-linux
 310308284,python313Packages.asyncua,aarch64-linux
 310328192,python313Packages.ax-platform,aarch64-linux
+310334613,python313Packages.blackjax,x86_64-linux
 309127233,python313Packages.boltztrap2,aarch64-darwin
 309127242,python313Packages.boltztrap2,aarch64-linux
 309127239,python313Packages.boltztrap2,x86_64-darwin
@@ -3081,10 +3079,6 @@ id,name,system
 309130215,python313Packages.diofant,x86_64-darwin
 309130217,python313Packages.diofant,x86_64-linux
 309131060,python313Packages.django-tasks,x86_64-darwin
-310172220,python313Packages.docling-parse,aarch64-darwin
-310172219,python313Packages.docling-parse,aarch64-linux
-310172216,python313Packages.docling-parse,x86_64-darwin
-310172221,python313Packages.docling-parse,x86_64-linux
 309131323,python313Packages.donut-shellcode,aarch64-darwin
 309131324,python313Packages.donut-shellcode,aarch64-linux
 309131322,python313Packages.donut-shellcode,x86_64-darwin
@@ -3188,6 +3182,7 @@ id,name,system
 309143715,python313Packages.optype,aarch64-linux
 309143716,python313Packages.optype,x86_64-darwin
 309143718,python313Packages.optype,x86_64-linux
+310334887,python313Packages.orbax-checkpoint,aarch64-darwin
 310305522,python313Packages.osxphotos,aarch64-linux
 310305536,python313Packages.osxphotos,x86_64-linux
 309144174,python313Packages.paramz,aarch64-darwin
@@ -3809,8 +3804,6 @@ id,name,system
 309182893,tau-hydrogen,aarch64-linux
 309182894,tau-hydrogen,x86_64-darwin
 309182896,tau-hydrogen,x86_64-linux
-309182916,tbe,aarch64-linux
-309182915,tbe,x86_64-linux
 310130505,tbls,x86_64-darwin
 309183085,tcld,aarch64-linux
 309183083,tcld,x86_64-linux
@@ -4014,7 +4007,6 @@ id,name,system
 309203706,vesta,x86_64-darwin
 309203722,vgm2x,aarch64-darwin
 309203725,vgm2x,x86_64-darwin
-309204174,vimPlugins.neotest,aarch64-linux
 309205749,vite,aarch64-linux
 309205750,vite,x86_64-linux
 309205783,vixl,aarch64-darwin
@@ -4171,15 +4163,7 @@ id,name,system
 309213031,zet,x86_64-darwin
 309213035,zet,x86_64-linux
 309213097,zig-zlint,aarch64-darwin
-309213272,zmqpp,aarch64-darwin
-309213274,zmqpp,aarch64-linux
-309213271,zmqpp,x86_64-darwin
-309213273,zmqpp,x86_64-linux
 309213601,zsync2,aarch64-linux
 309213606,zsync2,x86_64-linux
 310026765,zug,aarch64-darwin
 310026767,zug,x86_64-darwin
-310173306,zulip-term,aarch64-darwin
-310173305,zulip-term,aarch64-linux
-310173303,zulip-term,x86_64-darwin
-310173304,zulip-term,x86_64-linux
