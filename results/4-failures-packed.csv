@@ -68,6 +68,7 @@ buildstream,310528626,310528628,,
 bullet-roboschool,310528646,310528645,,310528644
 c3c,,,310528896,
 cairo-lang,310529001,310528998,310528994,310528995
+calibre,,312635581,,
 calligraplan,311340077,311340076,,
 candle,,,310529122,310529119
 caneda,310529128,310529126,,
@@ -112,7 +113,7 @@ clever-tools,,311371363,311371366,311371365
 clfft,,,311237823,311237820
 clickable,,,310533746,
 clickhouse-backup,,,310533758,310533757
-clickhouse-lts,,,312635597,312635602
+clickhouse-lts,,,312693083,312693082
 clight-gui,310533784,310533783,,
 clightning,,,312635600,312635599
 cloudsmith-cli,310534057,310534059,310534060,310534065
@@ -177,7 +178,6 @@ drat,,,311418542,311418541
 driftnet,,,311667602,311667600
 drogon,,,310539858,310539856
 dt,,,310539965,310539959
-dumphfdl,310540119,310540115,,
 dune3d,,,311319853,311319854
 ebtks,312635688,312635689,312635691,312635690
 ecl_16_1_2,310540511,310540508,310540507,
@@ -208,13 +208,15 @@ fflas-ffpack,,,310543020,
 filen-cli,,,310543249,310543243
 files-to-prompt,310543255,310543251,310543253,310543250
 finalfrontier,,,310543280,310543277
+firefox-beta-unwrapped,,312635744,,
+firefox-devedition-unwrapped,,312635748,,
 firestarter,310543424,,,
 firmware-manager,310543440,310543439,,
 fishPlugins.pure,,,311301169,
 fittrackee,311301168,311301159,,
 flamerobin,311418712,311418711,,
 flann,,,310543732,310543726
-flashfocus,310543808,310543803,,
+flashfocus,312693140,312693139,,
 flatcc,,,310543798,310543795
 flclash,312625901,312625899,,
 fleng,,,,310543847
@@ -251,7 +253,7 @@ gerbil,310546184,310546182,310546181,310546187
 getdp,312576427,312576428,,
 getxbook,,,310546264,310546263
 gfxreconstruct,310546331,310546330,,
-ggshield,,311371717,,311301254
+ggshield,,312693152,,312693154
 ggz_base_libs,310546350,310546351,,
 ghdl-gcc,310546456,,,
 ghdl-llvm,310546458,,,
@@ -507,7 +509,7 @@ lean2,310593410,,310593414,
 lean3,,,310593412,310593409
 leela-zero,310593466,310593467,,
 legitify,310593516,310593512,310593509,310593508
-lektor,310594064,310593676,310593674,310594125
+lektor,312693298,312693299,312693297,312693296
 lenmus,,,311419024,311419028
 lerna_6,,310593609,,
 lib3270,310593729,310593722,,
@@ -629,7 +631,6 @@ linuxKernel.packages.linux_6_12_hardened.shufflecake,312138509,312138506,,
 linuxKernel.packages.linux_6_12_hardened.tbs,,312138517,,
 linuxKernel.packages.linux_6_12_hardened.tsme-test,,312138521,,
 linuxKernel.packages.linux_6_17.acer-wmi-battery,,312138569,,
-linuxKernel.packages.linux_6_17.apfs,312138566,312138585,,
 linuxKernel.packages.linux_6_17.ax99100,312138636,312138607,,
 linuxKernel.packages.linux_6_17.chipsec,312138589,,,
 linuxKernel.packages.linux_6_17.digimend,312138591,312138590,,
@@ -682,7 +683,6 @@ linuxKernel.packages.linux_hardened.rust-out-of-tree-module,312139128,312139126,
 linuxKernel.packages.linux_hardened.shufflecake,312139134,312139133,,
 linuxKernel.packages.linux_hardened.tbs,,312139152,,
 linuxKernel.packages.linux_hardened.tsme-test,,312139147,,
-linuxKernel.packages.linux_lqx.apfs,312635987,,,
 linuxKernel.packages.linux_lqx.ax99100,312635989,,,
 linuxKernel.packages.linux_lqx.bcachefs,312636042,,,
 linuxKernel.packages.linux_lqx.chipsec,312636098,,,
@@ -721,7 +721,6 @@ linuxKernel.packages.linux_xanmod.netatop,312623764,,,
 linuxKernel.packages.linux_xanmod.odp-dpdk,311242364,,,
 linuxKernel.packages.linux_xanmod.rust-out-of-tree-module,312623790,,,
 linuxKernel.packages.linux_xanmod.shufflecake,312623806,,,
-linuxKernel.packages.linux_xanmod_latest.apfs,312623847,,,
 linuxKernel.packages.linux_xanmod_latest.ax99100,312623851,,,
 linuxKernel.packages.linux_xanmod_latest.chipsec,312623856,,,
 linuxKernel.packages.linux_xanmod_latest.digimend,312623849,,,
@@ -749,7 +748,6 @@ linuxKernel.packages.linux_xanmod_latest.rtl88xxau-aircrack,312623917,,,
 linuxKernel.packages.linux_xanmod_latest.rust-out-of-tree-module,312623930,,,
 linuxKernel.packages.linux_xanmod_latest.shufflecake,312623924,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,312623992,,,
-linuxKernel.packages.linux_xanmod_stable.apfs,312624082,,,
 linuxKernel.packages.linux_xanmod_stable.ax99100,312623966,,,
 linuxKernel.packages.linux_xanmod_stable.chipsec,312624085,,,
 linuxKernel.packages.linux_xanmod_stable.digimend,312623977,,,
@@ -777,7 +775,6 @@ linuxKernel.packages.linux_xanmod_stable.rtl88xxau-aircrack,312624043,,,
 linuxKernel.packages.linux_xanmod_stable.rust-out-of-tree-module,312624047,,,
 linuxKernel.packages.linux_xanmod_stable.shufflecake,312624050,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,312624074,,,
-linuxKernel.packages.linux_zen.apfs,312139668,,,
 linuxKernel.packages.linux_zen.ax99100,312139666,,,
 linuxKernel.packages.linux_zen.chipsec,312139647,,,
 linuxKernel.packages.linux_zen.digimend,312139651,,,
@@ -819,7 +816,6 @@ linuxPackages.shufflecake,312139911,312139910,,
 linuxPackages.tbs,,312139924,,
 linuxPackages.tsme-test,,312139926,,
 linuxPackages_latest.acer-wmi-battery,,312139970,,
-linuxPackages_latest.apfs,312139980,312139982,,
 linuxPackages_latest.ax99100,312139986,312139987,,
 linuxPackages_latest.chipsec,312139998,,,
 linuxPackages_latest.digimend,312140005,312140002,,
@@ -849,7 +845,6 @@ linuxPackages_latest.rust-out-of-tree-module,312140126,312140123,,
 linuxPackages_latest.shufflecake,312140129,312140128,,
 linuxPackages_latest.tsme-test,,312140142,,
 linuxPackages_latest.vmm_clock,312140166,,,
-linuxPackages_lqx.apfs,312636125,,,
 linuxPackages_lqx.ax99100,312636128,,,
 linuxPackages_lqx.bcachefs,312636127,,,
 linuxPackages_lqx.chipsec,312636135,,,
@@ -888,7 +883,6 @@ linuxPackages_xanmod.netatop,312624149,,,
 linuxPackages_xanmod.odp-dpdk,311242819,,,
 linuxPackages_xanmod.rust-out-of-tree-module,312624186,,,
 linuxPackages_xanmod.shufflecake,312624188,,,
-linuxPackages_xanmod_latest.apfs,312624231,,,
 linuxPackages_xanmod_latest.ax99100,312624232,,,
 linuxPackages_xanmod_latest.chipsec,312624240,,,
 linuxPackages_xanmod_latest.digimend,312624245,,,
@@ -916,7 +910,6 @@ linuxPackages_xanmod_latest.rtl88xxau-aircrack,312624310,,,
 linuxPackages_xanmod_latest.rust-out-of-tree-module,312624312,,,
 linuxPackages_xanmod_latest.shufflecake,312624315,,,
 linuxPackages_xanmod_latest.vmm_clock,312624340,,,
-linuxPackages_xanmod_stable.apfs,312624355,,,
 linuxPackages_xanmod_stable.ax99100,312624354,,,
 linuxPackages_xanmod_stable.chipsec,312624363,,,
 linuxPackages_xanmod_stable.digimend,312624368,,,
@@ -944,7 +937,6 @@ linuxPackages_xanmod_stable.rtl88xxau-aircrack,312624434,,,
 linuxPackages_xanmod_stable.rust-out-of-tree-module,312624435,,,
 linuxPackages_xanmod_stable.shufflecake,312624440,,,
 linuxPackages_xanmod_stable.vmm_clock,312624465,,,
-linuxPackages_zen.apfs,312140641,,,
 linuxPackages_zen.ax99100,312140642,,,
 linuxPackages_zen.chipsec,312140650,,,
 linuxPackages_zen.digimend,312140651,,,
@@ -1186,22 +1178,20 @@ pioneer,310647698,,,
 pipenv-poetry-migrate,310647735,310647732,310647734,310647731
 pkgsRocm.getdp,312576583,,,
 pkgsRocm.itk_5_2,312636449,,,
-pkgsRocm.opensplat,311665956,,,
+pkgsRocm.opensplat,312693440,,,
 pkgsRocm.pdi,311663301,,,
-pkgsRocm.python3Packages.ax-platform,312581455,,,
-pkgsRocm.python3Packages.colbert-ai,311665991,,,
-pkgsRocm.python3Packages.funsor,311666019,,,
-pkgsRocm.python3Packages.pymanopt,311666155,,,
-pkgsRocm.python3Packages.pytorch-pfn-extras,311666164,,,
-pkgsRocm.python3Packages.sirius,311663590,,,
-pkgsRocm.python3Packages.syne-tune,312576596,,,
-pkgsRocm.python3Packages.torchao,311666219,,,
-pkgsRocm.python3Packages.torchcrepe,312581590,,,
-pkgsRocm.python3Packages.vllm,312576600,,,
+pkgsRocm.python3Packages.colbert-ai,312693469,,,
+pkgsRocm.python3Packages.funsor,312693503,,,
+pkgsRocm.python3Packages.gliner,312693513,,,
+pkgsRocm.python3Packages.pymanopt,312693633,,,
+pkgsRocm.python3Packages.pytorch-pfn-extras,312693627,,,
+pkgsRocm.python3Packages.sirius,312693656,,,
+pkgsRocm.python3Packages.syne-tune,312693717,,,
+pkgsRocm.python3Packages.torchao,312693696,,,
+pkgsRocm.python3Packages.vllm,312693725,,,
 pkgsRocm.scipopt-gcg,312581588,,,
-pkgsRocm.sirius,311663682,,,
+pkgsRocm.sirius,312693715,,,
 pkgsRocm.tt-metal,311663680,,,
-pkgsRocm.vllm,312576603,,,
 pkgsRocm.xyce-parallel,311663707,,,
 plasma5Packages.kdb,310648644,310648643,,
 plasma5Packages.kf5gpgmepp,310648672,310648671,,
@@ -1382,11 +1372,11 @@ python312Packages.taxi,310685974,310685972,310685973,310685971
 python312Packages.tikzplotlib,310686483,310686482,310686486,310686477
 python312Packages.timezonefinder,310686544,310686535,310686537,310686534
 python312Packages.torchao,,,311666456,311666455
-python312Packages.torchcrepe,312582641,312582646,,312582638
 python312Packages.transforms3d,,,,310686950
 python312Packages.tweedledum,310687747,310687744,310687755,310687743
 python312Packages.typesystem,310689482,310689486,310689483,310689485
 python312Packages.typical,311308460,311308454,311308461,311308453
+python312Packages.ultralytics,,,312636977,312636982
 python312Packages.visions,310690265,310690258,310690257,310690256
 python312Packages.vowpalwabbit,,,310690332,310690330
 python312Packages.web3,,,311308498,
@@ -1430,6 +1420,7 @@ python313Packages.fritzconnection,,,,310701753
 python313Packages.func-timeout,,,310701819,310701815
 python313Packages.funsor,311449018,311449019,311449025,311449020
 python313Packages.git-dummy,,,310702286,310702284
+python313Packages.gliner,312637106,,312637107,312637105
 python313Packages.graph-tool,,,310702920,310702919
 python313Packages.greynoise,310703018,310703016,310703017,310703019
 python313Packages.gym,311466898,,,
@@ -1460,7 +1451,7 @@ python313Packages.openbabel,,310711637,,
 python313Packages.opensfm,310711761,310711766,,
 python313Packages.opentelemetry-instrumentation-botocore,311380239,311380238,311310030,311310044
 python313Packages.opytimark,310711957,,,
-python313Packages.orbax-checkpoint,,,,311450151
+python313Packages.orbax-checkpoint,,,,312695001
 python313Packages.osxphotos,310712175,310712171,,
 python313Packages.overpy,,,,310712174
 python313Packages.papis,310712361,310712353,310712355,310712354
@@ -1536,12 +1527,12 @@ python313Packages.taxi,310724049,310724048,310724047,310724046
 python313Packages.tikzplotlib,310724546,310724543,310724541,310724544
 python313Packages.timezonefinder,310724595,310724596,310724614,310724609
 python313Packages.torchao,,,311666693,311666690
-python313Packages.torchcrepe,312583679,312583683,312583686,312583681
 python313Packages.transforms3d,,,,310725011
 python313Packages.trino-python-client,,,,311310680
 python313Packages.tweedledum,310725812,310725824,310725813,310725804
 python313Packages.typesystem,310727547,310727557,310727553,310727551
 python313Packages.typical,311312102,311312093,311312092,311312101
+python313Packages.ultralytics,,,312637395,312637406
 python313Packages.visions,310728317,310728319,310728321,310728314
 python313Packages.vowpalwabbit,,,310728394,310728391
 python313Packages.vxi11,310728439,310728434,310728438,310728436
@@ -1830,7 +1821,6 @@ xstow,,,310778887,310778884
 xtreemfs,311316453,311316454,,
 xyce-parallel,311665165,,,
 xyce,311463712,,,
-ytcc,311467541,,311467537,311467533
 ytui-music,311467549,,311467560,311467550
 zabbix74.agent2,,,310779878,310779877
 zbar,,,311332894,311332892

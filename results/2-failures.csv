@@ -143,6 +143,7 @@ id,name,system
 310528998,cairo-lang,aarch64-linux
 310528994,cairo-lang,x86_64-darwin
 310529001,cairo-lang,x86_64-linux
+312635581,calibre,aarch64-linux
 311340076,calligraplan,aarch64-linux
 311340077,calligraplan,x86_64-linux
 310529119,candle,aarch64-darwin
@@ -242,8 +243,8 @@ id,name,system
 310533746,clickable,x86_64-darwin
 310533757,clickhouse-backup,aarch64-darwin
 310533758,clickhouse-backup,x86_64-darwin
-312635602,clickhouse-lts,aarch64-darwin
-312635597,clickhouse-lts,x86_64-darwin
+312693082,clickhouse-lts,aarch64-darwin
+312693083,clickhouse-lts,x86_64-darwin
 310533783,clight-gui,aarch64-linux
 310533784,clight-gui,x86_64-linux
 312635599,clightning,aarch64-darwin
@@ -375,8 +376,6 @@ id,name,system
 310539858,drogon,x86_64-darwin
 310539959,dt,aarch64-darwin
 310539965,dt,x86_64-darwin
-310540115,dumphfdl,aarch64-linux
-310540119,dumphfdl,x86_64-linux
 311319854,dune3d,aarch64-darwin
 311319853,dune3d,x86_64-darwin
 312635690,ebtks,aarch64-darwin
@@ -440,6 +439,8 @@ id,name,system
 310543255,files-to-prompt,x86_64-linux
 310543277,finalfrontier,aarch64-darwin
 310543280,finalfrontier,x86_64-darwin
+312635744,firefox-beta-unwrapped,aarch64-linux
+312635748,firefox-devedition-unwrapped,aarch64-linux
 310543424,firestarter,x86_64-linux
 310543439,firmware-manager,aarch64-linux
 310543440,firmware-manager,x86_64-linux
@@ -450,8 +451,8 @@ id,name,system
 311418712,flamerobin,x86_64-linux
 310543726,flann,aarch64-darwin
 310543732,flann,x86_64-darwin
-310543803,flashfocus,aarch64-linux
-310543808,flashfocus,x86_64-linux
+312693139,flashfocus,aarch64-linux
+312693140,flashfocus,x86_64-linux
 310543795,flatcc,aarch64-darwin
 310543798,flatcc,x86_64-darwin
 312625899,flclash,aarch64-linux
@@ -531,8 +532,8 @@ id,name,system
 310546264,getxbook,x86_64-darwin
 310546330,gfxreconstruct,aarch64-linux
 310546331,gfxreconstruct,x86_64-linux
-311301254,ggshield,aarch64-darwin
-311371717,ggshield,aarch64-linux
+312693154,ggshield,aarch64-darwin
+312693152,ggshield,aarch64-linux
 310546351,ggz_base_libs,aarch64-linux
 310546350,ggz_base_libs,x86_64-linux
 310546456,ghdl-gcc,x86_64-linux
@@ -1098,10 +1099,10 @@ id,name,system
 310593512,legitify,aarch64-linux
 310593509,legitify,x86_64-darwin
 310593516,legitify,x86_64-linux
-310594125,lektor,aarch64-darwin
-310593676,lektor,aarch64-linux
-310593674,lektor,x86_64-darwin
-310594064,lektor,x86_64-linux
+312693296,lektor,aarch64-darwin
+312693299,lektor,aarch64-linux
+312693297,lektor,x86_64-darwin
+312693298,lektor,x86_64-linux
 311419028,lenmus,aarch64-darwin
 311419024,lenmus,x86_64-darwin
 310593609,lerna_6,aarch64-linux
@@ -1320,8 +1321,6 @@ id,name,system
 312138517,linuxKernel.packages.linux_6_12_hardened.tbs,aarch64-linux
 312138521,linuxKernel.packages.linux_6_12_hardened.tsme-test,aarch64-linux
 312138569,linuxKernel.packages.linux_6_17.acer-wmi-battery,aarch64-linux
-312138585,linuxKernel.packages.linux_6_17.apfs,aarch64-linux
-312138566,linuxKernel.packages.linux_6_17.apfs,x86_64-linux
 312138607,linuxKernel.packages.linux_6_17.ax99100,aarch64-linux
 312138636,linuxKernel.packages.linux_6_17.ax99100,x86_64-linux
 312138589,linuxKernel.packages.linux_6_17.chipsec,x86_64-linux
@@ -1411,7 +1410,6 @@ id,name,system
 312139134,linuxKernel.packages.linux_hardened.shufflecake,x86_64-linux
 312139152,linuxKernel.packages.linux_hardened.tbs,aarch64-linux
 312139147,linuxKernel.packages.linux_hardened.tsme-test,aarch64-linux
-312635987,linuxKernel.packages.linux_lqx.apfs,x86_64-linux
 312635989,linuxKernel.packages.linux_lqx.ax99100,x86_64-linux
 312636042,linuxKernel.packages.linux_lqx.bcachefs,x86_64-linux
 312636098,linuxKernel.packages.linux_lqx.chipsec,x86_64-linux
@@ -1450,7 +1448,6 @@ id,name,system
 311242364,linuxKernel.packages.linux_xanmod.odp-dpdk,x86_64-linux
 312623790,linuxKernel.packages.linux_xanmod.rust-out-of-tree-module,x86_64-linux
 312623806,linuxKernel.packages.linux_xanmod.shufflecake,x86_64-linux
-312623847,linuxKernel.packages.linux_xanmod_latest.apfs,x86_64-linux
 312623851,linuxKernel.packages.linux_xanmod_latest.ax99100,x86_64-linux
 312623856,linuxKernel.packages.linux_xanmod_latest.chipsec,x86_64-linux
 312623849,linuxKernel.packages.linux_xanmod_latest.digimend,x86_64-linux
@@ -1478,7 +1475,6 @@ id,name,system
 312623930,linuxKernel.packages.linux_xanmod_latest.rust-out-of-tree-module,x86_64-linux
 312623924,linuxKernel.packages.linux_xanmod_latest.shufflecake,x86_64-linux
 312623992,linuxKernel.packages.linux_xanmod_latest.vmm_clock,x86_64-linux
-312624082,linuxKernel.packages.linux_xanmod_stable.apfs,x86_64-linux
 312623966,linuxKernel.packages.linux_xanmod_stable.ax99100,x86_64-linux
 312624085,linuxKernel.packages.linux_xanmod_stable.chipsec,x86_64-linux
 312623977,linuxKernel.packages.linux_xanmod_stable.digimend,x86_64-linux
@@ -1506,7 +1502,6 @@ id,name,system
 312624047,linuxKernel.packages.linux_xanmod_stable.rust-out-of-tree-module,x86_64-linux
 312624050,linuxKernel.packages.linux_xanmod_stable.shufflecake,x86_64-linux
 312624074,linuxKernel.packages.linux_xanmod_stable.vmm_clock,x86_64-linux
-312139668,linuxKernel.packages.linux_zen.apfs,x86_64-linux
 312139666,linuxKernel.packages.linux_zen.ax99100,x86_64-linux
 312139647,linuxKernel.packages.linux_zen.chipsec,x86_64-linux
 312139651,linuxKernel.packages.linux_zen.digimend,x86_64-linux
@@ -1557,8 +1552,6 @@ id,name,system
 312139924,linuxPackages.tbs,aarch64-linux
 312139926,linuxPackages.tsme-test,aarch64-linux
 312139970,linuxPackages_latest.acer-wmi-battery,aarch64-linux
-312139982,linuxPackages_latest.apfs,aarch64-linux
-312139980,linuxPackages_latest.apfs,x86_64-linux
 312139987,linuxPackages_latest.ax99100,aarch64-linux
 312139986,linuxPackages_latest.ax99100,x86_64-linux
 312139998,linuxPackages_latest.chipsec,x86_64-linux
@@ -1610,7 +1603,6 @@ id,name,system
 312140129,linuxPackages_latest.shufflecake,x86_64-linux
 312140142,linuxPackages_latest.tsme-test,aarch64-linux
 312140166,linuxPackages_latest.vmm_clock,x86_64-linux
-312636125,linuxPackages_lqx.apfs,x86_64-linux
 312636128,linuxPackages_lqx.ax99100,x86_64-linux
 312636127,linuxPackages_lqx.bcachefs,x86_64-linux
 312636135,linuxPackages_lqx.chipsec,x86_64-linux
@@ -1649,7 +1641,6 @@ id,name,system
 311242819,linuxPackages_xanmod.odp-dpdk,x86_64-linux
 312624186,linuxPackages_xanmod.rust-out-of-tree-module,x86_64-linux
 312624188,linuxPackages_xanmod.shufflecake,x86_64-linux
-312624231,linuxPackages_xanmod_latest.apfs,x86_64-linux
 312624232,linuxPackages_xanmod_latest.ax99100,x86_64-linux
 312624240,linuxPackages_xanmod_latest.chipsec,x86_64-linux
 312624245,linuxPackages_xanmod_latest.digimend,x86_64-linux
@@ -1677,7 +1668,6 @@ id,name,system
 312624312,linuxPackages_xanmod_latest.rust-out-of-tree-module,x86_64-linux
 312624315,linuxPackages_xanmod_latest.shufflecake,x86_64-linux
 312624340,linuxPackages_xanmod_latest.vmm_clock,x86_64-linux
-312624355,linuxPackages_xanmod_stable.apfs,x86_64-linux
 312624354,linuxPackages_xanmod_stable.ax99100,x86_64-linux
 312624363,linuxPackages_xanmod_stable.chipsec,x86_64-linux
 312624368,linuxPackages_xanmod_stable.digimend,x86_64-linux
@@ -1705,7 +1695,6 @@ id,name,system
 312624435,linuxPackages_xanmod_stable.rust-out-of-tree-module,x86_64-linux
 312624440,linuxPackages_xanmod_stable.shufflecake,x86_64-linux
 312624465,linuxPackages_xanmod_stable.vmm_clock,x86_64-linux
-312140641,linuxPackages_zen.apfs,x86_64-linux
 312140642,linuxPackages_zen.ax99100,x86_64-linux
 312140650,linuxPackages_zen.chipsec,x86_64-linux
 312140651,linuxPackages_zen.digimend,x86_64-linux
@@ -2188,22 +2177,20 @@ id,name,system
 310647735,pipenv-poetry-migrate,x86_64-linux
 312576583,pkgsRocm.getdp,x86_64-linux
 312636449,pkgsRocm.itk_5_2,x86_64-linux
-311665956,pkgsRocm.opensplat,x86_64-linux
+312693440,pkgsRocm.opensplat,x86_64-linux
 311663301,pkgsRocm.pdi,x86_64-linux
-312581455,pkgsRocm.python3Packages.ax-platform,x86_64-linux
-311665991,pkgsRocm.python3Packages.colbert-ai,x86_64-linux
-311666019,pkgsRocm.python3Packages.funsor,x86_64-linux
-311666155,pkgsRocm.python3Packages.pymanopt,x86_64-linux
-311666164,pkgsRocm.python3Packages.pytorch-pfn-extras,x86_64-linux
-311663590,pkgsRocm.python3Packages.sirius,x86_64-linux
-312576596,pkgsRocm.python3Packages.syne-tune,x86_64-linux
-311666219,pkgsRocm.python3Packages.torchao,x86_64-linux
-312581590,pkgsRocm.python3Packages.torchcrepe,x86_64-linux
-312576600,pkgsRocm.python3Packages.vllm,x86_64-linux
+312693469,pkgsRocm.python3Packages.colbert-ai,x86_64-linux
+312693503,pkgsRocm.python3Packages.funsor,x86_64-linux
+312693513,pkgsRocm.python3Packages.gliner,x86_64-linux
+312693633,pkgsRocm.python3Packages.pymanopt,x86_64-linux
+312693627,pkgsRocm.python3Packages.pytorch-pfn-extras,x86_64-linux
+312693656,pkgsRocm.python3Packages.sirius,x86_64-linux
+312693717,pkgsRocm.python3Packages.syne-tune,x86_64-linux
+312693696,pkgsRocm.python3Packages.torchao,x86_64-linux
+312693725,pkgsRocm.python3Packages.vllm,x86_64-linux
 312581588,pkgsRocm.scipopt-gcg,x86_64-linux
-311663682,pkgsRocm.sirius,x86_64-linux
+312693715,pkgsRocm.sirius,x86_64-linux
 311663680,pkgsRocm.tt-metal,x86_64-linux
-312576603,pkgsRocm.vllm,x86_64-linux
 311663707,pkgsRocm.xyce-parallel,x86_64-linux
 310648643,plasma5Packages.kdb,aarch64-linux
 310648644,plasma5Packages.kdb,x86_64-linux
@@ -2720,9 +2707,6 @@ id,name,system
 310686544,python312Packages.timezonefinder,x86_64-linux
 311666455,python312Packages.torchao,aarch64-darwin
 311666456,python312Packages.torchao,x86_64-darwin
-312582638,python312Packages.torchcrepe,aarch64-darwin
-312582646,python312Packages.torchcrepe,aarch64-linux
-312582641,python312Packages.torchcrepe,x86_64-linux
 310686950,python312Packages.transforms3d,aarch64-darwin
 310687743,python312Packages.tweedledum,aarch64-darwin
 310687744,python312Packages.tweedledum,aarch64-linux
@@ -2736,6 +2720,8 @@ id,name,system
 311308454,python312Packages.typical,aarch64-linux
 311308461,python312Packages.typical,x86_64-darwin
 311308460,python312Packages.typical,x86_64-linux
+312636982,python312Packages.ultralytics,aarch64-darwin
+312636977,python312Packages.ultralytics,x86_64-darwin
 310690256,python312Packages.visions,aarch64-darwin
 310690258,python312Packages.visions,aarch64-linux
 310690257,python312Packages.visions,x86_64-darwin
@@ -2850,6 +2836,9 @@ id,name,system
 311449018,python313Packages.funsor,x86_64-linux
 310702284,python313Packages.git-dummy,aarch64-darwin
 310702286,python313Packages.git-dummy,x86_64-darwin
+312637105,python313Packages.gliner,aarch64-darwin
+312637107,python313Packages.gliner,x86_64-darwin
+312637106,python313Packages.gliner,x86_64-linux
 310702919,python313Packages.graph-tool,aarch64-darwin
 310702920,python313Packages.graph-tool,x86_64-darwin
 310703019,python313Packages.greynoise,aarch64-darwin
@@ -2932,7 +2921,7 @@ id,name,system
 311310030,python313Packages.opentelemetry-instrumentation-botocore,x86_64-darwin
 311380239,python313Packages.opentelemetry-instrumentation-botocore,x86_64-linux
 310711957,python313Packages.opytimark,x86_64-linux
-311450151,python313Packages.orbax-checkpoint,aarch64-darwin
+312695001,python313Packages.orbax-checkpoint,aarch64-darwin
 310712171,python313Packages.osxphotos,aarch64-linux
 310712175,python313Packages.osxphotos,x86_64-linux
 310712174,python313Packages.overpy,aarch64-darwin
@@ -3143,10 +3132,6 @@ id,name,system
 310724595,python313Packages.timezonefinder,x86_64-linux
 311666690,python313Packages.torchao,aarch64-darwin
 311666693,python313Packages.torchao,x86_64-darwin
-312583681,python313Packages.torchcrepe,aarch64-darwin
-312583683,python313Packages.torchcrepe,aarch64-linux
-312583686,python313Packages.torchcrepe,x86_64-darwin
-312583679,python313Packages.torchcrepe,x86_64-linux
 310725011,python313Packages.transforms3d,aarch64-darwin
 311310680,python313Packages.trino-python-client,aarch64-darwin
 310725804,python313Packages.tweedledum,aarch64-darwin
@@ -3161,6 +3146,8 @@ id,name,system
 311312093,python313Packages.typical,aarch64-linux
 311312092,python313Packages.typical,x86_64-darwin
 311312102,python313Packages.typical,x86_64-linux
+312637406,python313Packages.ultralytics,aarch64-darwin
+312637395,python313Packages.ultralytics,x86_64-darwin
 310728314,python313Packages.visions,aarch64-darwin
 310728319,python313Packages.visions,aarch64-linux
 310728321,python313Packages.visions,x86_64-darwin
@@ -3745,9 +3732,6 @@ id,name,system
 311316453,xtreemfs,x86_64-linux
 311665165,xyce-parallel,x86_64-linux
 311463712,xyce,x86_64-linux
-311467533,ytcc,aarch64-darwin
-311467537,ytcc,x86_64-darwin
-311467541,ytcc,x86_64-linux
 311467550,ytui-music,aarch64-darwin
 311467560,ytui-music,x86_64-darwin
 311467549,ytui-music,x86_64-linux
