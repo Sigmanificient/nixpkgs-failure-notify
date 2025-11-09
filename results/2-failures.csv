@@ -2072,7 +2072,6 @@ id,name,system
 310660175,python312Packages.diofant,x86_64-darwin
 310660179,python312Packages.diofant,x86_64-linux
 312749539,python312Packages.django-postgres-extra,x86_64-darwin
-312693867,python312Packages.django_5_1,x86_64-darwin
 310661330,python312Packages.donut-shellcode,aarch64-darwin
 310661331,python312Packages.donut-shellcode,aarch64-linux
 310661332,python312Packages.donut-shellcode,x86_64-darwin
