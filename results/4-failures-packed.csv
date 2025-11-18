@@ -22,7 +22,7 @@ ath9k-htc-blobless-firmware,,313300051,,
 atlauncher,,313300193,,
 av1an-unwrapped,313300471,313300469,,313300468
 avy,313300544,313300545,,
-aw-notify,,,313978140,313978134
+aw-notify,,,314060230,314060226
 aws-lc,,,313300654,313300652
 aws-sam-cli,313938601,313938600,313938598,313938599
 azahar,,,313300799,313300804
@@ -33,7 +33,7 @@ banana-vera,,,313301693,313301690
 bazel-remote,,313301984,,
 bazel,,,313301980,313301971
 bazel_7,,,313301994,313301993
-bencode,313302658,,,
+bencode,314060233,,,
 bino3d,313302938,313302936,313302945,313303374
 bitwarden-cli,,,313303249,
 bluesky-pds,,,313901455,313901453
@@ -149,7 +149,7 @@ dleyna,,,313314558,313314555
 dnadd,,,313314639,313314637
 dnslink-std-go,,,313314702,313314697
 dockapps.wmsm-app,,,313314875,313314873
-docker-machine-kvm2,,313314934,,
+docker-machine-kvm2,,314027959,,
 dosbox,,,313315177,313315185
 dotherside,313315243,313315241,,
 dotnetCorePackages.dotnet_9.vmr,,,,313901708
@@ -185,10 +185,8 @@ fbv,,,313318778,313318783
 fflas-ffpack,,,313319118,
 fftwMpi,,,313319223,313319217
 filen-cli,,,313319341,313319340
-fira-math,,,313319452,313319451
+fira-math,,,314028005,314028004
 firestarter,313319512,,,
-fish,,,313319537,313319533
-fishMinimal,,,313319553,313319548
 flann,,,313319821,313319817
 flashfocus,313319868,313319865,,
 flatcc,,,313319889,313319886
@@ -204,7 +202,7 @@ foxtrotgps,,,,313320706
 framac,,,,313938796
 freelens-bin,,,313320796,313320797
 freepv,313320817,313320815,313320818,313320816
-frigate,313978666,,,
+frigate,314028031,,,
 fteqw,313321084,313321083,,
 g15daemon,,,313321288,313321285
 gallia,313321365,313321366,,
@@ -212,7 +210,6 @@ garble,313321488,313321489,,
 gccNGPackages_15.gcc-unwrapped,,,313321766,313321763
 gccNGPackages_15.libquadmath,313321820,,,
 gci,313321881,313321876,313321880,313321878
-gdtoolkit_3,313322033,313322024,313322023,313322028
 gerbil-unstable,313322284,313322283,313322290,313322285
 gerbil,313322282,313322279,313322287,313322280
 getxbook,,,313322365,313322364
@@ -248,7 +245,6 @@ goxlr-utility,,,313327840,313327839
 gpio-utils,313891057,313891056,,
 gpt4all,313327962,313327963,,
 gptscript,313327979,313327977,313327980,313327976
-gpupad,313327989,313327987,,
 gpx,313327998,313327997,313327999,313327996
 gqlint,313328031,313328032,313328033,313328029
 gradm,,313328108,,
@@ -393,7 +389,6 @@ karlyriceditor,313366708,313366705,,
 kcl-language-server,313366807,313366805,,
 kclvm,,,313366810,
 kdePackages.appstream-qt,,,313366887,313366888
-kdePackages.maplibre-native-qt,313367569,313367566,313367567,313367576
 kdePackages.qt5compat,,,313367745,
 kdePackages.sierra-breeze-enhanced,313929230,313929204,,
 kdePackages.waylib,313368033,313368026,,
@@ -518,12 +513,6 @@ linuxKernel.packages.linux_6_17.mbp2018-bridge-drv,313891477,313891465,,
 linuxKernel.packages.linux_6_17.msi-ec,,313891488,,
 linuxKernel.packages.linux_6_17.netatop,313891486,313891509,,
 linuxKernel.packages.linux_6_17.odp-dpdk,313376601,,,
-linuxKernel.packages.linux_6_17.rtl8188eus-aircrack,313891514,313891522,,
-linuxKernel.packages.linux_6_17.rtl8192eu,313891548,,,
-linuxKernel.packages.linux_6_17.rtl8723ds,313891523,313891516,,
-linuxKernel.packages.linux_6_17.rtl8852au,313891521,,,
-linuxKernel.packages.linux_6_17.rtl88x2bu,313891533,313891529,,
-linuxKernel.packages.linux_6_17.rtl88xxau-aircrack,313891537,313891526,,
 linuxKernel.packages.linux_6_17.tsme-test,,313891556,,
 linuxKernel.packages.linux_6_17.vmm_clock,313891616,,,
 linuxKernel.packages.linux_6_6.acer-wmi-battery,,313376715,,
@@ -553,12 +542,6 @@ linuxKernel.packages.linux_lqx.mba6x_bl,313377211,,,
 linuxKernel.packages.linux_lqx.mbp2018-bridge-drv,313377213,,,
 linuxKernel.packages.linux_lqx.netatop,313377219,,,
 linuxKernel.packages.linux_lqx.odp-dpdk,313377231,,,
-linuxKernel.packages.linux_lqx.rtl8188eus-aircrack,313377243,,,
-linuxKernel.packages.linux_lqx.rtl8192eu,313377246,,,
-linuxKernel.packages.linux_lqx.rtl8723ds,313377247,,,
-linuxKernel.packages.linux_lqx.rtl8852au,313377249,,,
-linuxKernel.packages.linux_lqx.rtl88x2bu,313377253,,,
-linuxKernel.packages.linux_lqx.rtl88xxau-aircrack,313377254,,,
 linuxKernel.packages.linux_lqx.vmm_clock,313377285,,,
 linuxKernel.packages.linux_xanmod.lttng-modules,313891671,,,
 linuxKernel.packages.linux_xanmod.mba6x_bl,313891659,,,
@@ -573,12 +556,6 @@ linuxKernel.packages.linux_xanmod_latest.mba6x_bl,313891798,,,
 linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,313891790,,,
 linuxKernel.packages.linux_xanmod_latest.netatop,313891805,,,
 linuxKernel.packages.linux_xanmod_latest.odp-dpdk,313377509,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8188eus-aircrack,313891833,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8192eu,313891827,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8723ds,313891820,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8852au,313891829,,,
-linuxKernel.packages.linux_xanmod_latest.rtl88x2bu,313891836,,,
-linuxKernel.packages.linux_xanmod_latest.rtl88xxau-aircrack,313891828,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,313891855,,,
 linuxKernel.packages.linux_xanmod_stable.chipsec,313891996,,,
 linuxKernel.packages.linux_xanmod_stable.digimend,313891884,,,
@@ -588,12 +565,6 @@ linuxKernel.packages.linux_xanmod_stable.mba6x_bl,313891916,,,
 linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,313891917,,,
 linuxKernel.packages.linux_xanmod_stable.netatop,313891926,,,
 linuxKernel.packages.linux_xanmod_stable.odp-dpdk,313377646,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8188eus-aircrack,313891943,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8192eu,313891946,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8723ds,313891947,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8852au,313891950,,,
-linuxKernel.packages.linux_xanmod_stable.rtl88x2bu,313891952,,,
-linuxKernel.packages.linux_xanmod_stable.rtl88xxau-aircrack,313891953,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,313891984,,,
 linuxKernel.packages.linux_zen.chipsec,313377729,,,
 linuxKernel.packages.linux_zen.digimend,313377737,,,
@@ -603,12 +574,6 @@ linuxKernel.packages.linux_zen.mba6x_bl,313377769,,,
 linuxKernel.packages.linux_zen.mbp2018-bridge-drv,313377771,,,
 linuxKernel.packages.linux_zen.netatop,313377776,,,
 linuxKernel.packages.linux_zen.odp-dpdk,313377786,,,
-linuxKernel.packages.linux_zen.rtl8188eus-aircrack,313377798,,,
-linuxKernel.packages.linux_zen.rtl8192eu,313377803,,,
-linuxKernel.packages.linux_zen.rtl8723ds,313377802,,,
-linuxKernel.packages.linux_zen.rtl8852au,313377806,,,
-linuxKernel.packages.linux_zen.rtl88x2bu,313377809,,,
-linuxKernel.packages.linux_zen.rtl88xxau-aircrack,313377810,,,
 linuxKernel.packages.linux_zen.vmm_clock,313377839,,,
 linuxPackages.acer-wmi-battery,,313892002,,
 linuxPackages.lttng-modules,313892078,313892077,,
@@ -628,12 +593,6 @@ linuxPackages_latest.mbp2018-bridge-drv,313892298,313892292,,
 linuxPackages_latest.msi-ec,,313892347,,
 linuxPackages_latest.netatop,313892310,313892308,,
 linuxPackages_latest.odp-dpdk,313378199,,,
-linuxPackages_latest.rtl8188eus-aircrack,313892341,313892339,,
-linuxPackages_latest.rtl8192eu,313892348,,,
-linuxPackages_latest.rtl8723ds,313892349,313892346,,
-linuxPackages_latest.rtl8852au,313892353,,,
-linuxPackages_latest.rtl88x2bu,313892356,313892439,,
-linuxPackages_latest.rtl88xxau-aircrack,313892358,313892357,,
 linuxPackages_latest.tsme-test,,313892381,,
 linuxPackages_latest.vmm_clock,313892400,,,
 linuxPackages_lqx.bcachefs,313378319,,,
@@ -645,12 +604,6 @@ linuxPackages_lqx.mba6x_bl,313378356,,,
 linuxPackages_lqx.mbp2018-bridge-drv,313378355,,,
 linuxPackages_lqx.netatop,313378362,,,
 linuxPackages_lqx.odp-dpdk,313378372,,,
-linuxPackages_lqx.rtl8188eus-aircrack,313378384,,,
-linuxPackages_lqx.rtl8192eu,313378387,,,
-linuxPackages_lqx.rtl8723ds,313378389,,,
-linuxPackages_lqx.rtl8852au,313378392,,,
-linuxPackages_lqx.rtl88x2bu,313378395,,,
-linuxPackages_lqx.rtl88xxau-aircrack,313378394,,,
 linuxPackages_lqx.vmm_clock,313378425,,,
 linuxPackages_xanmod.lttng-modules,313892475,,,
 linuxPackages_xanmod.mba6x_bl,313892477,,,
@@ -665,12 +618,6 @@ linuxPackages_xanmod_latest.mba6x_bl,313892606,,,
 linuxPackages_xanmod_latest.mbp2018-bridge-drv,313892607,,,
 linuxPackages_xanmod_latest.netatop,313892615,,,
 linuxPackages_xanmod_latest.odp-dpdk,313378650,,,
-linuxPackages_xanmod_latest.rtl8188eus-aircrack,313892632,,,
-linuxPackages_xanmod_latest.rtl8192eu,313892635,,,
-linuxPackages_xanmod_latest.rtl8723ds,313892637,,,
-linuxPackages_xanmod_latest.rtl8852au,313892641,,,
-linuxPackages_xanmod_latest.rtl88x2bu,313892642,,,
-linuxPackages_xanmod_latest.rtl88xxau-aircrack,313892643,,,
 linuxPackages_xanmod_latest.vmm_clock,313892673,,,
 linuxPackages_xanmod_stable.chipsec,313892694,,,
 linuxPackages_xanmod_stable.digimend,313892699,,,
@@ -680,12 +627,6 @@ linuxPackages_xanmod_stable.mba6x_bl,313892728,,,
 linuxPackages_xanmod_stable.mbp2018-bridge-drv,313892729,,,
 linuxPackages_xanmod_stable.netatop,313892736,,,
 linuxPackages_xanmod_stable.odp-dpdk,313378797,,,
-linuxPackages_xanmod_stable.rtl8188eus-aircrack,313892755,,,
-linuxPackages_xanmod_stable.rtl8192eu,313892758,,,
-linuxPackages_xanmod_stable.rtl8723ds,313892759,,,
-linuxPackages_xanmod_stable.rtl8852au,313892763,,,
-linuxPackages_xanmod_stable.rtl88x2bu,313892765,,,
-linuxPackages_xanmod_stable.rtl88xxau-aircrack,313892764,,,
 linuxPackages_xanmod_stable.vmm_clock,313892792,,,
 linuxPackages_zen.chipsec,313378866,,,
 linuxPackages_zen.digimend,313378875,,,
@@ -695,12 +636,6 @@ linuxPackages_zen.mba6x_bl,313378904,,,
 linuxPackages_zen.mbp2018-bridge-drv,313378905,,,
 linuxPackages_zen.netatop,313378912,,,
 linuxPackages_zen.odp-dpdk,313378922,,,
-linuxPackages_zen.rtl8188eus-aircrack,313378934,,,
-linuxPackages_zen.rtl8192eu,313378938,,,
-linuxPackages_zen.rtl8723ds,313378936,,,
-linuxPackages_zen.rtl8852au,313378942,,,
-linuxPackages_zen.rtl88x2bu,313378945,,,
-linuxPackages_zen.rtl88xxau-aircrack,313378943,,,
 linuxPackages_zen.vmm_clock,313378978,,,
 linuxkit,,,313379006,313379003
 live555,,,313379154,313379152
@@ -709,8 +644,7 @@ llpp,313379483,313379451,313379544,313379477
 loganalyzer,,,313380472,313380458
 logdy,,,313380465,
 loki,,,313380591,313380589
-lomiri.lomiri-indicator-network,,313929358,,
-lomiri.lomiri-ui-toolkit,313929374,,,
+lomiri.lomiri-telephony-service,,314006364,,
 lparchive2epub,313380814,313380809,313381086,313380901
 lua51Packages.lux-lua,,,313902088,
 lua51Packages.rocks-dev-nvim,,,313381575,313381576
@@ -824,6 +758,7 @@ odp-dpdk,313400248,,,
 odyssey,313400253,,,
 oguri,313400321,313400320,,
 olaris-server,313400398,313400394,313400399,313400396
+ollama,,,314028360,314028357
 oneDNN_2,,313400496,,
 op-geth,313400611,313400610,313400613,313400608
 open-english-wordnet,,,313400661,313400657
@@ -839,7 +774,7 @@ openmvs,,313401252,,
 openpa,,,313401294,313401292
 openroad,,313981869,,
 opensaml-cpp,313401409,313401407,313401402,313401405
-openscad-unstable,,313929725,,
+openscad-unstable,,314006469,,
 ophcrack,,,313401715,313401716
 opl3bankeditor,,,,313401736
 opn2bankeditor,,,,313401735
@@ -876,7 +811,6 @@ perl538Packages.NetIPXS,,,,313408444
 perl538Packages.PDL,313981957,313981955,,
 perl538Packages.SDL,313409411,313409416,313409460,313409383
 perl538Packages.TestLWPUserAgent,,,313410090,313410095
-perl538Packages.Wx,313410936,313410937,313410941,313410932
 perl538Packages.libapreq2,313411251,313411248,,
 perl540Packages.BerkeleyDB,,,313411753,313411751
 perl540Packages.BoostGeometryUtils,,,313411767,313411769
@@ -888,7 +822,6 @@ perl540Packages.NetIPXS,,,,313416043
 perl540Packages.PDL,313981965,313981967,,
 perl540Packages.SDL,313416981,313416985,313416959,313416986
 perl540Packages.TestLWPUserAgent,,,313417694,313417695
-perl540Packages.Wx,313418537,313418538,313418531,313418540
 perl540Packages.libapreq2,313418835,313418831,,
 perlPackages.BerkeleyDB,,,313419321,313419320
 perlPackages.BoostGeometryUtils,,,313419345,313419352
@@ -900,7 +833,6 @@ perlPackages.NetIPXS,,,,313423631
 perlPackages.PDL,313981975,313981974,,
 perlPackages.SDL,313424552,313424556,313424619,313424679
 perlPackages.TestLWPUserAgent,,,313425280,313425270
-perlPackages.Wx,313426173,313426104,313426105,313426103
 perlPackages.libapreq2,313426438,313426414,,
 php83Extensions.shmop,,,313427613,
 phytool,,,313428775,313428768
@@ -910,15 +842,14 @@ pidginPackages.purple-lurch,313428889,313428892,,
 pike,,313892938,,
 pingvin-share.backend,313429060,313429048,313429054,313429044
 pinokio,,,313429062,
-pkcs11-provider,,313429280,,
-pkgsRocm.frigate,313982067,,,
+pkgsRocm.frigate,314028399,,,
 pkgsRocm.opensplat,313429420,,,
 pkgsRocm.python3Packages.ax-platform,314003989,,,
 pkgsRocm.python3Packages.cvxpy,313429480,,,
 pkgsRocm.python3Packages.docling-ibm-models,313982087,,,
 pkgsRocm.python3Packages.funsor,313429523,,,
 pkgsRocm.python3Packages.gradio,314003985,,,
-pkgsRocm.python3Packages.mmengine,314004030,,,
+pkgsRocm.python3Packages.mmengine,314028402,,,
 pkgsRocm.python3Packages.pymanopt,314004033,,,
 pkgsRocm.python3Packages.pytorch-pfn-extras,313982192,,,
 pkgsRocm.python3Packages.rerun-sdk,313941306,,,
@@ -950,7 +881,6 @@ postgresqlPackages.omnigres,313432881,313432880,313432843,313432842
 postsrsd,,,313433143,313433135
 powertabeditor,,,313433224,313433223
 pq-cli,313433291,313433285,313433296,313433290
-pqiv,313433278,313433272,313433275,313433273
 prime-server,,,313433451,313433449
 prometheus-mikrotik-exporter,,,313433828,313433821
 prometheus-statsd-exporter,,,313433979,
@@ -993,9 +923,7 @@ python312Packages.docling-ibm-models,313983151,313983146,,
 python312Packages.donut-shellcode,,313442814,313442820,313442819
 python312Packages.esig,313443668,313443665,313443659,313443663
 python312Packages.etelemetry,,,313443709,313443708
-python312Packages.ffmpeg-progress-yield,313444265,313444261,313444267,313444262
 python312Packages.filterpy,,,,313444334
-python312Packages.firebase-admin,313983330,313983329,313983333,313983353
 python312Packages.flask-alembic,313983351,313983347,313983361,313983352
 python312Packages.flask-bcrypt,313444547,313444546,313444549,313444552
 python312Packages.fritzconnection,,,313445068,
@@ -1010,6 +938,7 @@ python312Packages.gradio,314004269,314004291,,
 python312Packages.graph-tool,,,313446250,313446242
 python312Packages.greynoise,313446345,313446344,313446343,313446342
 python312Packages.hid-parser,313446859,313446857,313446860,313446858
+python312Packages.highdicom,314028523,314028524,,
 python312Packages.hikari,313983606,313983617,313983616,313983605
 python312Packages.hmmlearn,,313446951,313446953,313446958
 python312Packages.imagededup,,,313447559,
@@ -1031,7 +960,7 @@ python312Packages.meeko,,,313451163,313451161
 python312Packages.mistral-common,,,313984362,313984356
 python312Packages.mkdocs-glightbox,313451629,313451634,313451615,313451628
 python312Packages.mkdocs-swagger-ui-tag,313451730,313451734,313451687,313451722
-python312Packages.mmengine,314004496,314004500,,
+python312Packages.mmengine,314028561,314028563,,
 python312Packages.monosat,313451912,313451916,313451922,313451911
 python312Packages.myhdl,313452392,,,
 python312Packages.netgen-mesher,,,313454109,313454107
@@ -1074,7 +1003,6 @@ python312Packages.pymupdf,,,313941564,313941566
 python312Packages.pyopen-wakeword,,313459931,,
 python312Packages.pyrevolve,313460440,313460435,313460436,313460439
 python312Packages.pyscf,,,,313460566
-python312Packages.pysdl2,313460597,313460596,313460603,313460598
 python312Packages.pysdl3,,,313460602,313460599
 python312Packages.pyside6-qtads,,,313460737,313460673
 python312Packages.pysmartapp,313460783,313460782,313460790,313460779
@@ -1129,7 +1057,7 @@ python313Packages.aiolifx-connection,,,313987514,
 python313Packages.aiorwlock,313474254,313474253,313474257,313474255
 python313Packages.aiosonic,,,313474309,313474311
 python313Packages.aligator,,,,313987554
-python313Packages.ax-platform,314004868,,,
+python313Packages.ax-platform,314004868,314004869,,
 python313Packages.basswood-av,313476482,313476481,313476480,313476483
 python313Packages.canopen,,,313477501,313477505
 python313Packages.cassandra-driver,,,313944732,313944733
@@ -1150,9 +1078,7 @@ python313Packages.docling-ibm-models,313988191,313988186,,
 python313Packages.donut-shellcode,,313481154,313481153,313481156
 python313Packages.esig,313481989,313481986,313482000,313481997
 python313Packages.etelemetry,,,313482051,313482053
-python313Packages.ffmpeg-progress-yield,313482591,313482585,313482592,313482588
 python313Packages.filterpy,,,,313482659
-python313Packages.firebase-admin,313988376,313988372,313988377,313988371
 python313Packages.flask-bcrypt,313482864,313482861,313482867,313482866
 python313Packages.fritzconnection,,,,313483385
 python313Packages.funsor,313483485,313483472,313483482,313483473
@@ -1163,6 +1089,7 @@ python313Packages.gradio,314004996,314004968,,
 python313Packages.graph-tool,,,313484548,313484551
 python313Packages.greynoise,313484648,313484647,313484653,313484651
 python313Packages.hebg,313485085,313485080,313485087,313485095
+python313Packages.highdicom,314028761,314028760,,
 python313Packages.hikari,313988652,313988668,313988656,313988647
 python313Packages.hmmlearn,,313485259,313485263,313485256
 python313Packages.imagededup,,,313485866,
@@ -1182,7 +1109,7 @@ python313Packages.meeko,,,313489464,313489462
 python313Packages.mistral-common,,,313989399,313989402
 python313Packages.mkdocs-glightbox,313489907,313489913,313489898,313489911
 python313Packages.mkdocs-swagger-ui-tag,313489973,313489979,313489972,313489974
-python313Packages.mmengine,314005192,314005178,,
+python313Packages.mmengine,314028806,314028797,,
 python313Packages.monosat,313490218,313490199,313490204,313490187
 python313Packages.moto,,,,313989464
 python313Packages.myhdl,313490648,,,
@@ -1223,7 +1150,6 @@ python313Packages.pymssql,313497959,313497962,313497970,313497958
 python313Packages.pymupdf,,,313941898,313941897
 python313Packages.pyopen-wakeword,,313498189,,
 python313Packages.pyscf,,,,313498828
-python313Packages.pysdl2,313498852,313498849,313498855,313498851
 python313Packages.pysdl3,,,313498857,313498863
 python313Packages.pyside6-qtads,,,313498955,313498969
 python313Packages.pysmartapp,313499041,313499033,313499042,313499035
@@ -1283,7 +1209,6 @@ qgrep,,,313511873,313511871
 qrq,,,313512051,313512050
 qt6.qt5compat,,,313512272,
 qt6Packages.appstream-qt,,,313512427,313512454
-qt6Packages.maplibre-native-qt,313512474,313512476,313512472,313512466
 qt6Packages.qt5compat,,,313512526,
 qt6Packages.sierra-breeze-enhanced,313930163,313930162,,
 qt6Packages.waylib,313512729,313512728,,
@@ -1326,7 +1251,6 @@ rlottie,,,313514709,313514707
 rnnoise-plugin,,,313514791,313514792
 rosie,,,313515174,313515169
 rp,,313515277,,
-rpcs3,313515301,313515316,,
 rpm-ostree,313515329,313515330,,
 rsop,,,,313515433
 rubyPackages_3_5.curses,,,313520208,313520206
@@ -1356,7 +1280,7 @@ screen-pipe,313524465,313524458,313524412,313524428
 scriv,314005536,314005537,314005538,314005535
 sct,,313524327,,
 serious-sam-classic-vulkan,313524759,313524756,,
-sesh,,,313524805,
+sesh,,,314028979,314028977
 sfrotz,313524883,,,
 sgfutils,,,313524912,313524908
 sgx-psw,313524925,,,
@@ -1407,7 +1331,6 @@ tealdeer,,,,313530127
 tengine,,,313530378,313530379
 teos-watchtower-plugin,,,313530406,313530403
 termbook,313530423,313530421,313530422,313530420
-termimage,313530452,313530447,313530464,313530450
 terminal-typeracer,313530479,313530473,313530472,313530465
 tests.build-environment-info,313531657,313531363,313531695,313531430
 tests.buildRustCrate.tests.crateBinWithPathOutputsDebug,,,313531750,313531747
@@ -1428,12 +1351,10 @@ tests.hardeningFlags-gcc.sfa3explicitDisabledDoesntDisableSfa1ExecTest,,,3135327
 tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,,,313532780,313532779
 tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,313534134,313534131
 theft,,,313942226,
-thelounge,,,313535090,
 tic-80,,,313535206,313535201
 tinycc,,,313535453,
 tpm2-tss,,,313536329,313536323
 transmission-rss,,,313536567,313536563
-tremor-rs,313537202,313537197,313537200,313537193
 trgui-ng,,,313905800,313905792
 truecrack,,,313537335,313537333
 ts-warp,,,313537390,313537391
@@ -1512,6 +1433,5 @@ xyce,313942345,,,
 yaegi,,313561525,,
 ytui-music,314005689,314005693,314005690,314005692
 zee,,,313562526,313562521
-zet,313562629,313562625,313562624,313562626
 zig-zlint,,,,313562697
 zug,,,313563232,313563226
