@@ -19,7 +19,6 @@ atuin-desktop,314310277,,,
 av1an-unwrapped,314310582,314310583,,314310581
 avy,314310654,314310653,,
 aw-notify,,,314310661,314310657
-aws-lc,,,314310763,314310762
 aws-sam-cli,315123328,315123331,315123329,315123330
 aws-sdk-cpp,,,314310783,
 azahar,,,,314310972
@@ -170,6 +169,8 @@ fbv,,,314328952,314328948
 fceux-qt6,314329016,314329034,,
 fcp,314329053,314329052,314329047,314329042
 fflas-ffpack,,,314329284,
+ffmpeg-full,,,,315167080
+ffmpeg_8-full,,,,315167088
 filen-cli,,,314329523,314329521
 files-cli,,315102488,,
 fira-math,,,315102497,315102496
@@ -208,6 +209,7 @@ git-chain,,,314333167,314333165
 git-gamble,,,314333265,
 git-together,,,314333514,314333513
 gitbeaker-cli,,314333606,314333633,
+gitlab-container-registry,,,315167133,
 gitlab-elasticsearch-indexer,,,314333729,314333723
 gittuf,,,314333824,
 gitui,,,,314333838
@@ -234,6 +236,7 @@ gradm,,314338317,,
 grafx2,,,314338511,314338509
 grap,314338538,314338540,,
 graphia,314338698,,,
+grype,,,315167256,
 gt,314339135,314339133,,
 guile-git,,,,314339409
 gupnp-tools,314339573,314339567,314339572,314339566
@@ -316,16 +319,16 @@ haskellPackages.xmonad-utils,,,314368009,314368007
 haskellPackages.zlib-bytes,,,314368524,314368487
 haskellPackages.zot,,,314368505,314368506
 haskellPackages.zxcvbn-c,,,314368519,314368518
-hatch,315130580,315130578,,315130577
+hatch,315167264,315167270,315167269,
 hdate,,,314368674,314368673
 hercules-ci-agent,,,314368951,314369035
 hexagonrpc,,,315112862,315112867
-home-assistant-component-tests.assist_pipeline,,315159525,,
-home-assistant-component-tests.mopeka,,315160476,,
-home-assistant-component-tests.openrgb,,315160638,,
-home-assistant-component-tests.recorder,315160816,,,
-home-assistant-component-tests.tuya,315161232,315161233,,
-home-assistant-component-tests.zha,,315161447,,
+home-assistant-component-tests.mopeka,315168344,,,
+home-assistant-component-tests.sensor,,315168774,,
+home-assistant-component-tests.songpal,315168884,,,
+home-assistant-component-tests.stream,315168939,,,
+home-assistant-component-tests.tuya,315169087,315169086,,
+home-assistant-component-tests.vacuum,315169132,,,
 honeycomb-refinery,,314371672,,
 hsd,,,314371830,314371826
 httplz,314372005,314372000,314371997,314371999
@@ -439,6 +442,7 @@ libucontext,,314384613,,
 libui-ng,,,314384645,314384633
 libui,,,314384631,314384626
 libuiohook,,,314384627,
+libwacom-surface,315161662,315161661,,
 libxc_7,,,314384909,
 lightway,,,,314385355
 lilypond,,,314385375,314385405
@@ -621,8 +625,8 @@ micronucleus,,,314397881,314397880
 micropython,,,314397889,
 mlkit,,,314398483,
 mlt,,,314398499,314398496
-mlterm-wayland,,,314398602,314398504
-mlterm,,,314398601,314398503
+mlterm-wayland,,,315169435,315169426
+mlterm,,,315169436,315169425
 mlton,,,,314398505
 mlton20130715,314398509,,,
 mlton20210117,,,,314398514
@@ -689,6 +693,7 @@ ocamlPackages.janeStreet.janestreet_cpuid,,314406850,,314406849
 ocamlPackages.janestreet_cpuid,,314407282,,314407281
 ocamlPackages.llvm,,,314407516,314407513
 ocamlPackages.magic-trace,,315162472,,
+ocamlPackages.ocamlmerlin-mlx,,,315169665,
 ocamlPackages.owl,,,,314408442
 ocamlPackages.processor,,,314408879,
 ocamlPackages.stog,,,,315162855
@@ -795,19 +800,17 @@ pinokio,,,314439140,
 pkgsRocm.opensplat,314439499,,,
 pkgsRocm.paraview,315117102,,,
 pkgsRocm.python3Packages.ax-platform,315123906,,,
-pkgsRocm.python3Packages.brax,315133321,,,
 pkgsRocm.python3Packages.docling-ibm-models,315117121,,,
 pkgsRocm.python3Packages.funsor,314439594,,,
-pkgsRocm.python3Packages.gradio,315123916,,,
 pkgsRocm.python3Packages.pymanopt,314439737,,,
 pkgsRocm.python3Packages.sirius,314439881,,,
 pkgsRocm.python3Packages.syne-tune,315106615,,,
 pkgsRocm.python3Packages.tinygrad,315117181,,,
 pkgsRocm.python3Packages.torchao,315117194,,,
 pkgsRocm.python3Packages.torchcodec,314439819,,,
-pkgsRocm.python3Packages.vllm,315133334,,,
+pkgsRocm.python3Packages.vllm,315172103,,,
 pkgsRocm.sirius,314439894,,,
-pkgsRocm.vllm,315133336,,,
+pkgsRocm.vllm,315172111,,,
 pkgsRocm.xyce-parallel,314439948,,,
 plasma5Packages.libcommuni,,,314440243,314440241
 plasma5Packages.mlt,,,314440313,314440334
@@ -837,7 +840,6 @@ prime-server,,,314443290,314443288
 prometheus-mikrotik-exporter,,,314443660,314443657
 prometheus-statsd-exporter,,,314443815,
 proteus,314443898,314443896,,
-protobuf_29,,,314443928,314443926
 protoc-gen-twirp,314444039,314444037,314444038,314444034
 prox,,,314444143,
 puredata,,,314444549,314444546
@@ -853,6 +855,7 @@ python312Packages.aiorwlock,314445752,314445749,314445750,314445747
 python312Packages.aiosonic,,,314445802,314445800
 python312Packages.asyncua,314446900,,,
 python312Packages.ax-platform,315123951,315123953,,
+python312Packages.bentoml,,,315170001,
 python312Packages.canopen,,,,314449022
 python312Packages.cexprtk,,,314449241,314449238
 python312Packages.clr-loader,314449728,314449726,314449771,314449793
@@ -880,8 +883,7 @@ python312Packages.galario,314455132,314455127,314455129,314455126
 python312Packages.gguf,,,314455495,314455461
 python312Packages.gilknocker,,,314455498,
 python312Packages.git-dummy,,,314455521,314455519
-python312Packages.gluonts,,,,314455638
-python312Packages.gradio,315124080,315124084,315117329,315117328
+python312Packages.gluonts,,,,315170050
 python312Packages.graph-tool,,,314456150,314456148
 python312Packages.halide,,,314456525,314456514
 python312Packages.hid-parser,314456760,314456757,314456759,314456755
@@ -896,7 +898,7 @@ python312Packages.klayout,,,314459007,314459005
 python312Packages.kopf,,,314459064,
 python312Packages.kserve-storage,,,315107384,315107385
 python312Packages.labgrid,314459158,314459155,,
-python312Packages.lerobot,,315117357,,
+python312Packages.lerobot,,315172475,,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
 python312Packages.line-profiler,314459853,314459850,314459847,314459840
@@ -904,7 +906,7 @@ python312Packages.meeko,,,314461074,314461073
 python312Packages.mistral-common,,,315133631,315133632
 python312Packages.mkdocs-swagger-ui-tag,314461603,314461633,314461602,314461600
 python312Packages.mlt,,,314461646,314461643
-python312Packages.mmengine,,,,315133639
+python312Packages.mmengine,,,,315172510
 python312Packages.monosat,314461834,314461838,314461832,314461830
 python312Packages.myhdl,314462266,,,
 python312Packages.netgen-mesher,,,314464031,314464030
@@ -922,7 +924,6 @@ python312Packages.powerapi,,,314466887,314466885
 python312Packages.protobuf4,314467164,314467163,314467161,314467162
 python312Packages.proton-client,314467176,314467171,,
 python312Packages.proton-core,,,314467181,314467178
-python312Packages.proton-vpn-local-agent,,314467186,,
 python312Packages.py-multiaddr,314467518,314467513,314467517,314467514
 python312Packages.py-slvs,314467572,314467571,314467575,314467569
 python312Packages.pyamg,,,314467719,314467716
@@ -967,9 +968,9 @@ python312Packages.solidpython2,,,314475971,314475969
 python312Packages.speechbrain,,,315108329,315108330
 python312Packages.splinter,314476543,314476602,314476532,314476536
 python312Packages.srctools,,314476799,,314476701
-python312Packages.succulent,314477169,314477339,314477144,314477142
 python312Packages.symfc,,,314477348,
 python312Packages.syne-tune,,315108370,,
+python312Packages.temporalio,315172645,315172639,315172640,315172644
 python312Packages.tiledb,,,314478040,314478035
 python312Packages.tinyio,,,,314478137
 python312Packages.torch-geometric,,,314478299,314478297
@@ -1014,8 +1015,7 @@ python313Packages.func-timeout,,,314493516,
 python313Packages.funsor,314493548,314493550,314493558,314493555
 python313Packages.gguf,,,314493924,314493922
 python313Packages.git-dummy,,,314493987,314493985
-python313Packages.gluonts,,,,314494112
-python313Packages.gradio,315124450,315124446,315117705,315117706
+python313Packages.gluonts,,,,315170462
 python313Packages.graph-tool,,,314494620,314494623
 python313Packages.halide,,,314494996,314495025
 python313Packages.hebg,314495153,314495155,314495151,314495149
@@ -1027,7 +1027,7 @@ python313Packages.jupyter-book,314497067,314497066,314497102,314497080
 python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,314497529,,314497532,
 python313Packages.labgrid,314497601,314497592,,
-python313Packages.lerobot,,315117739,,
+python313Packages.lerobot,,315173032,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
 python313Packages.line-profiler,314498310,314498308,314498311,314498309
@@ -1036,7 +1036,7 @@ python313Packages.meeko,,,314499556,314499534
 python313Packages.mistral-common,,,315134038,315134039
 python313Packages.mkdocs-swagger-ui-tag,314500049,314500047,314500051,314500089
 python313Packages.mlt,,,314500087,314500088
-python313Packages.mmengine,,,315134047,315134046
+python313Packages.mmengine,,,315173068,
 python313Packages.monosat,314500280,314500272,314500277,314500279
 python313Packages.myhdl,314500785,,,
 python313Packages.nats-py,,,314502253,
@@ -1054,7 +1054,6 @@ python313Packages.powerapi,,,314505307,314505312
 python313Packages.protobuf4,314505584,314505581,314505589,314505583
 python313Packages.proton-client,314505599,314505594,,
 python313Packages.proton-core,,,314505613,314505602
-python313Packages.proton-vpn-local-agent,,314505603,,
 python313Packages.psycopg2cffi,314505704,314505698,,
 python313Packages.py-multiaddr,314505963,314505949,314505958,314505962
 python313Packages.py-slvs,314506013,314506004,314506006,314506009
@@ -1099,12 +1098,12 @@ python313Packages.spectral-cube,,,,314514514
 python313Packages.speechbrain,,,315110121,315110118
 python313Packages.splinter,314514885,314514883,314514881,314514875
 python313Packages.srctools,,314515048,,314515046
-python313Packages.succulent,314515529,314515528,314515532,314515531
 python313Packages.swh-core,,315114149,,
 python313Packages.swh-journal,315114144,,,
 python313Packages.swh-shard,,,314515682,314515678
 python313Packages.symfc,,,314515733,
 python313Packages.syne-tune,315110158,315110159,,
+python313Packages.temporalio,315173203,315173207,315173209,
 python313Packages.tiledb,,,314516420,314516419
 python313Packages.tinyio,,,314516523,
 python313Packages.torch-geometric,,,314516679,314516684
@@ -1302,6 +1301,7 @@ unshieldv3,,,314563491,314563489
 untrunc-anthwlock,314563515,314563513,,
 urn-timer,,,314563709,314563705
 urweb,,,314563719,
+uv,,,,315170934
 uxn11,,,315136549,315136551
 vangers,314564085,314564083,314564086,314564084
 vapoursynth-eedi3,314564116,,,
@@ -1328,7 +1328,7 @@ wasmer,314568977,,314568976,
 wayv,314569174,314569173,,
 welle-io,,,315114476,315114475
 wiiuse,,,314569699,314569697
-winboat,314569809,,,
+winboat,315171001,,,
 windowtolayer,,,314569765,314569763
 wiredtiger,,,314569867,
 wownero,,,314570445,314570444
