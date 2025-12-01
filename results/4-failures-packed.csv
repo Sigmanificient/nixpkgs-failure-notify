@@ -120,7 +120,6 @@ dico,,,314324231,314324230
 dillo-plus,,,314324400,314324396
 direvent,,,314324480,314324478
 direwolf-unstable,,,315102296,315102293
-discord-screenaudio,314324534,314324543,,
 discordchatexporter-cli,,,,315112714
 djgpp,,,314324669,
 djgpp_i586,,,314324670,
@@ -139,7 +138,6 @@ dt,,,314326103,314326093
 dump1090-fa,,,315112747,315112748
 easyaudiosync,314326553,314326531,,314326576
 eb-garamond,,,314326592,314326585
-ebtks,314326605,314326602,314326606,314326603
 ecl_16_1_2,314326650,314326648,314326651,
 eggnog-mapper,,,314326967,314326972
 egoboo,,,314326987,314326977
@@ -183,7 +181,6 @@ frawk,314330928,314330926,314330927,314330925
 fre,,,314330930,
 freelens-bin,,,314330991,314330988
 freepv,314331013,314331011,314331012,314331010
-fritzing,314331218,314331161,,314331158
 fteqw,314331279,314331277,,
 fx,,,314331435,
 g15daemon,,,314331481,314331480
@@ -198,6 +195,7 @@ gfxreconstruct,314332627,314332625,,
 ggz_base_libs,314332651,314332648,,
 ghdl-gcc,314332769,,,
 ghidra-extensions.gnudisassembler,,,,314332826
+giac-with-xcas,,315273550,,
 git-chain,,,314333167,314333165
 git-gamble,,,314333265,
 git-together,,,314333514,314333513
@@ -221,7 +219,6 @@ goresym,,,314337841,
 gorm-gentool,314337837,314337834,314337836,314337833
 gossip,314337882,314337885,314337888,314337883
 goxlr-utility,,,314338051,314338047
-gpio-utils,315102763,315102764,,
 gpt4all,314338223,314338209,,
 gpx,314338207,314338206,314338208,314338204
 gqlint,314338240,314338238,314338243,314338239
@@ -636,7 +633,6 @@ musly,,,314400202,314400203
 naev,314400449,314400450,,
 nanobench,,,314400550,314400546
 nearcore,314400897,,,
-neothesia,314401006,314401007,,
 nest-cli,,,,315113256
 netgen,,,314401495,314401474
 netifd,314401493,314401492,,
@@ -648,7 +644,7 @@ newlib,,314401634,314401636,314401631
 newsboat,,,315105754,
 nexttrace,,,315271203,315271204
 ngadmin,,,314401784,314401779
-nitrokey-fido2-firmware,315105783,315105781,,315105782
+nitrokey-fido2-firmware,315297487,315297488,,315297489
 nodePackages.esy,,314403405,,314403402
 nodePackages_latest.esy,,314403585,,314403587
 nodePackages_latest.vega-cli,314403692,314403693,314403689,314403700
@@ -787,7 +783,7 @@ pkgsRocm.python3Packages.pymanopt,314439737,,,
 pkgsRocm.python3Packages.sirius,314439881,,,
 pkgsRocm.python3Packages.syne-tune,315273985,,,
 pkgsRocm.python3Packages.tinygrad,315190685,,,
-pkgsRocm.python3Packages.torchao,315117194,,,
+pkgsRocm.python3Packages.torchao,315297527,,,
 pkgsRocm.python3Packages.torchcodec,314439819,,,
 pkgsRocm.python3Packages.vllm,315273988,,,
 pkgsRocm.sirius,314439894,,,
@@ -863,7 +859,7 @@ python312Packages.galario,314455132,314455127,314455129,314455126
 python312Packages.gguf,,,314455495,314455461
 python312Packages.gilknocker,,,314455498,
 python312Packages.git-dummy,,,314455521,314455519
-python312Packages.gluonts,,,,315170050
+python312Packages.gluonts,,,,315297603
 python312Packages.graph-tool,,,314456150,314456148
 python312Packages.halide,,,314456525,314456514
 python312Packages.hid-parser,314456760,314456757,314456759,314456755
@@ -885,7 +881,7 @@ python312Packages.meeko,,,315192514,315192518
 python312Packages.mistral-common,,,315133631,315133632
 python312Packages.mkdocs-swagger-ui-tag,314461603,314461633,314461602,314461600
 python312Packages.mlt,,,314461646,314461643
-python312Packages.mmengine,,,,315172510
+python312Packages.mmengine,,,,315297630
 python312Packages.monosat,314461834,314461838,314461832,314461830
 python312Packages.myhdl,314462266,,,
 python312Packages.netgen-mesher,,,314464031,314464030
@@ -928,7 +924,6 @@ python312Packages.python-djvulibre,,,314471817,314471814
 python312Packages.python-fontconfig,,,314471884,
 python312Packages.python-prctl,,314472289,,
 python312Packages.python-redis-lock,,,314472307,314472305
-python312Packages.python-roborock,,315172602,,
 python312Packages.pytorch-tokenizers,,,315117495,315117501
 python312Packages.pyvera,,,314472826,
 python312Packages.pywinbox,,,314472984,314472996
@@ -952,7 +947,7 @@ python312Packages.syne-tune,,,,315274171
 python312Packages.tiledb,,,314478040,314478035
 python312Packages.tinyio,,,,314478137
 python312Packages.torch-geometric,,,314478299,314478297
-python312Packages.torchao,,,315117586,315117567
+python312Packages.torchao,,,315297684,315297681
 python312Packages.torchdata,,,315108434,315108427
 python312Packages.ultralytics,,,315191020,315191030
 python312Packages.utitools,,,314481579,314481593
@@ -989,7 +984,7 @@ python313Packages.func-timeout,,,314493516,
 python313Packages.funsor,314493548,314493550,314493558,314493555
 python313Packages.gguf,,,314493924,314493922
 python313Packages.git-dummy,,,314493987,314493985
-python313Packages.gluonts,,,,315170462
+python313Packages.gluonts,,,,315297764
 python313Packages.graph-tool,,,314494620,314494623
 python313Packages.halide,,,314494996,314495025
 python313Packages.hebg,314495153,314495155,314495151,314495149
@@ -1010,7 +1005,7 @@ python313Packages.meeko,,,315192696,315192694
 python313Packages.mistral-common,,,315134038,315134039
 python313Packages.mkdocs-swagger-ui-tag,314500049,314500047,314500051,314500089
 python313Packages.mlt,,,314500087,314500088
-python313Packages.mmengine,,,315173068,
+python313Packages.mmengine,,,315297791,
 python313Packages.monosat,314500280,314500272,314500277,314500279
 python313Packages.myhdl,314500785,,,
 python313Packages.nats-py,,,314502253,
@@ -1078,7 +1073,7 @@ python313Packages.syne-tune,315274390,315274391,,315274392
 python313Packages.tiledb,,,314516420,314516419
 python313Packages.tinyio,,,314516523,
 python313Packages.torch-geometric,,,314516679,314516684
-python313Packages.torchao,,,315117921,315117918
+python313Packages.torchao,,,315297847,315297846
 python313Packages.torchdata,,,315110221,
 python313Packages.ultralytics,,,315191304,315191302
 python313Packages.utitools,,,314519948,314519961
@@ -1219,7 +1214,6 @@ taisei,314540963,314540838,314540847,314540835
 talkfilters,,,314540885,314540881
 tartan,314540997,314540996,,
 tau-hydrogen,314541083,314541080,314541082,314541079
-tbls,,,314541109,
 tengine,,,314541619,314541611
 teos-watchtower-plugin,,,314541645,314541638
 tere,,,314541647,
@@ -1246,7 +1240,7 @@ tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,314545375,314545
 tic-80,,,314546451,314546449
 tinycc,,,314546700,
 tkgl,,,314546827,314546825
-tootik,315111657,315111656,,
+tootik,315307021,,,
 tpm2-tss,,,314547595,314547586
 transmission-rss,,,314547831,314547826
 trgui-ng,,,314548478,314548479
