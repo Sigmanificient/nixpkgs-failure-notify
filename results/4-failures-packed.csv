@@ -2,6 +2,7 @@ id,namex86_64-linux,aarch64-linux,x86_64-darwin,aarch64-darwin
 ac-library,,314305808,,
 acl2-minimal,,315408400,,
 acpica-tools,,,,314305873
+airwin2rack,315520997,,,
 alice-tools-qt6,,,,314307817
 angelscript,,,314308185,
 ants,315518681,315518683,315518684,315518679
@@ -14,8 +15,10 @@ applgrid,,315271030,,
 arduino-create-agent,314309114,314309113,314309112,314309111
 argagg,,,314309144,
 armTrustedFirmwareTools,,,314309480,314309709
+asleap,315521014,315521013,,
 ath9k-htc-blobless-firmware,,314310158,,
 atlauncher,,314310279,,
+atuin-desktop,,315639996,,315639995
 avy,314310654,314310653,,
 aw-notify,,,314310661,314310657
 aws-sam-cli,315521025,315521026,315521024,315521031
@@ -182,7 +185,7 @@ foonathan-memory,,,314330691,314330689
 footage,,,314330704,314330700
 fortitude,,,314330769,314330767
 foxtrotgps,,,315102528,315102529
-framac,,,,315159347
+framac,,,,315640402
 frawk,314330928,314330926,314330927,314330925
 fre,,,314330930,
 freelens-bin,,,314330991,314330988
@@ -317,6 +320,8 @@ haskellPackages.zxcvbn-c,,,314368519,314368518
 hdate,,,314368674,314368673
 hercules-ci-agent,,,315353557,315353563
 hexagonrpc,,,315353555,315353559
+home-assistant-component-tests.concord232,,315521429,,
+home-assistant-component-tests.wemo,,315523109,,
 honeycomb-refinery,,314371672,,
 hsd,,,314371830,314371826
 httplz,314372005,314372000,314371997,314371999
@@ -692,19 +697,18 @@ nvramtool,,314404570,,
 obitools3,314404743,314404742,314404744,314404741
 obs-studio-plugins.obs-color-monitor,315393363,315393374,,
 obs-studio-plugins.obs-vertical-canvas,315393412,315393432,,
-ocamlPackages.class_group_vdf,,,314405436,314405418
-ocamlPackages.ecaml,,,314405950,314405947
+ocamlPackages.class_group_vdf,,,315641031,315641026
+ocamlPackages.ecaml,,,315641418,315641406
 ocamlPackages.eigen,,,314405952,
-ocamlPackages.gapi-ocaml,,,314406176,314406190
-ocamlPackages.janeStreet.ecaml,,,314406766,314406769
-ocamlPackages.janeStreet.janestreet_cpuid,,314406850,,314406849
-ocamlPackages.janestreet_cpuid,,314407282,,314407281
+ocamlPackages.gapi-ocaml,,,315641528,315641525
+ocamlPackages.janeStreet.ecaml,,,315642036,315642030
+ocamlPackages.janeStreet.janestreet_cpuid,,315642152,,315642138
+ocamlPackages.janestreet_cpuid,,315642520,,315642519
 ocamlPackages.llvm,,,314407516,314407513
-ocamlPackages.magic-trace,,315162472,,
-ocamlPackages.ocamlmerlin-mlx,,,315169665,
-ocamlPackages.owl,,,,314408442
+ocamlPackages.magic-trace,,315642769,,
+ocamlPackages.owl,,,,315643260
 ocamlPackages.processor,,,314408879,
-ocamlPackages.stog,,,,315162855
+ocamlPackages.stog,,,,315643972
 ocm,,,315403802,
 octavePackages.geometry,,,314410109,314410102
 odamex,,,314410269,314410271
@@ -806,6 +810,7 @@ pkgsRocm.python3Packages.funsor,314439594,,,
 pkgsRocm.python3Packages.pymanopt,314439737,,,
 pkgsRocm.python3Packages.sirius,314439881,,,
 pkgsRocm.python3Packages.syne-tune,315370729,,,
+pkgsRocm.python3Packages.tinygrad,315644537,,,
 pkgsRocm.python3Packages.torchao,315403947,,,
 pkgsRocm.python3Packages.torchcodec,314439819,,,
 pkgsRocm.python3Packages.vllm,315523751,,,
@@ -837,6 +842,7 @@ postgresqlPackages.pgvectorscale,314442862,,,
 postsrsd,,,314442974,314442976
 powertabeditor,,,,314443090
 pq-cli,315190749,315190751,315190750,315190748
+pretix,315523787,315523785,,
 prime-server,,,314443290,314443288
 prometheus-mikrotik-exporter,,,314443660,314443657
 prometheus-statsd-exporter,,,314443815,
@@ -957,7 +963,7 @@ python312Packages.s3-credentials,314474756,314474584,314474525,314474524
 python312Packages.salmon-mail,314474599,314474598,314474600,314474596
 python312Packages.scrapy-fake-useragent,314474999,314474881,314475323,314475271
 python312Packages.scrapy-splash,314474948,314475062,314475059,314474975
-python312Packages.snakemake,,,,315404568
+python312Packages.simple-dftd3,315524654,,,
 python312Packages.solidpython2,,,314475971,314475969
 python312Packages.srctools,,314476799,,314476701
 python312Packages.syne-tune,,,,315371553
@@ -965,6 +971,7 @@ python312Packages.tiledb,,,314478040,314478035
 python312Packages.tinyio,,,,314478137
 python312Packages.torch-geometric,,,314478299,314478297
 python312Packages.torchao,,,315404621,315404625
+python312Packages.ultralytics,,,315644724,315644719
 python312Packages.utitools,,,314481579,314481593
 python312Packages.vowpalwabbit,,,314481915,314481914
 python312Packages.webassets,,,314482183,314482177
@@ -1010,6 +1017,7 @@ python313Packages.jupyter-book,315525100,315525087,315525098,315525086
 python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,,315322597,315322596,
 python313Packages.labgrid,314497601,314497592,,
+python313Packages.lerobot,,315644772,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
 python313Packages.line-profiler,314498310,314498308,314498311,314498309
@@ -1060,6 +1068,7 @@ python313Packages.python-djvulibre,,,314510225,314510220
 python313Packages.python-fontconfig,,,314510290,
 python313Packages.python-prctl,,314510688,,
 python313Packages.python-redis-lock,,,314510717,314510713
+python313Packages.python-roborock,,,,315525624
 python313Packages.pywinbox,,,314511380,314511385
 python313Packages.ratarmountcore,314511828,314511821,314511826,314511830
 python313Packages.raylib-python-cffi,,,314511852,314511850
@@ -1071,6 +1080,7 @@ python313Packages.s3-credentials,314512896,314512897,314512904,314512892
 python313Packages.salmon-mail,314512968,314512969,314512970,314512967
 python313Packages.scrapy-fake-useragent,314513522,314513556,314513665,314513752
 python313Packages.scrapy-splash,314513353,314513253,314513310,314513611
+python313Packages.simple-dftd3,315525669,,,
 python313Packages.slack-sdk,,,315110102,315110097
 python313Packages.solidpython2,,,314514330,314514326
 python313Packages.srctools,,314515048,,314515046
@@ -1080,7 +1090,7 @@ python313Packages.tiledb,,,314516420,314516419
 python313Packages.tinyio,,,314516523,
 python313Packages.torch-geometric,,,314516679,314516684
 python313Packages.torchao,,,315405281,315405296
-python313Packages.ultralytics,,,,315525771
+python313Packages.ultralytics,,,315644857,315644865
 python313Packages.utitools,,,314519948,314519961
 python313Packages.vowpalwabbit,,,314520289,314520286
 python313Packages.vxi11,314520339,314520336,314520337,314520335
@@ -1089,6 +1099,7 @@ python313Packages.wgpu-py,,,315356407,315356398
 python313Packages.ws4py,,,314520902,314520977
 python313Packages.xcffib,,314521029,,
 python313Packages.xtensor-python,314521241,314521247,314521225,314521248
+python313Packages.zigpy,,315525805,,
 qcm,314521997,314521974,,
 qemu-python-utils,,,315191349,315191350
 qgo,,,314522021,314522019
@@ -1191,7 +1202,7 @@ sptk,314538579,314538577,314538578,314538576
 sse2neon,,,,314538869
 stag,,,314539108,314539106
 stalwart-mail,,,,314539129
-stog,,,,315163128
+stog,,,,315644983
 stract,314539523,314539530,314539521,314539520
 stuntrally,314539667,314539666,,
 substudy,314539761,,,314539756
@@ -1214,6 +1225,7 @@ tau-hydrogen,314541083,314541080,314541082,314541079
 tengine,,,314541619,314541611
 teos-watchtower-plugin,,,314541645,314541638
 tere,,,314541647,
+terramate,,315525894,,
 tests.build-environment-info,314542608,314542607,314542629,314542632
 tests.cc-multilib-clang,314543084,,,
 tests.cc-wrapper.default,,,314543062,314543060
@@ -1238,6 +1250,7 @@ tkgl,,,314546827,314546825
 tootik,315307021,,,
 tpm2-tss,,,314547595,314547586
 transmission-rss,,,314547831,314547826
+trgui-ng,,,315645051,315645048
 truecrack,,,314548594,314548589
 ts-warp,,,314548644,314548643
 tsduck,,,315111686,315111687
@@ -1256,6 +1269,7 @@ urn-timer,,,314563709,314563705
 urweb,,,314563719,
 uxn11,,,315136549,315136551
 vangers,314564085,314564083,314564086,314564084
+vaporizer2,315526190,315526189,,
 vapoursynth-eedi3,314564116,,,
 vapoursynth-nnedi3,,314564120,,314564121
 vapoursynth-nnedi3cl,314564126,,,
