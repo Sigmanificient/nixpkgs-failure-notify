@@ -27,17 +27,19 @@ id,name,system
 315521013,asleap,aarch64-linux
 315521014,asleap,x86_64-linux
 314310158,ath9k-htc-blobless-firmware,aarch64-linux
-314310279,atlauncher,aarch64-linux
+315649857,atlauncher,aarch64-linux
 315639995,atuin-desktop,aarch64-darwin
 315639996,atuin-desktop,aarch64-linux
+315639994,atuin-desktop,x86_64-darwin
+315639993,atuin-desktop,x86_64-linux
 314310653,avy,aarch64-linux
 314310654,avy,x86_64-linux
 314310657,aw-notify,aarch64-darwin
 314310661,aw-notify,x86_64-darwin
-315521031,aws-sam-cli,aarch64-darwin
-315521026,aws-sam-cli,aarch64-linux
-315521024,aws-sam-cli,x86_64-darwin
-315521025,aws-sam-cli,x86_64-linux
+315649863,aws-sam-cli,aarch64-darwin
+315649864,aws-sam-cli,aarch64-linux
+315649861,aws-sam-cli,x86_64-darwin
+315649865,aws-sam-cli,x86_64-linux
 314310783,aws-sdk-cpp,x86_64-darwin
 314310972,azahar,aarch64-darwin
 315112590,azurehound,x86_64-linux
@@ -94,8 +96,6 @@ id,name,system
 314315593,cargo-semver-checks,x86_64-darwin
 314315671,cargo-ui,aarch64-darwin
 314315675,cargo-ui,x86_64-darwin
-315353164,cargo-valgrind,aarch64-linux
-315353165,cargo-valgrind,x86_64-linux
 314315754,carps-cups,aarch64-darwin
 314315750,carps-cups,x86_64-darwin
 314315773,cassandra-cpp-driver,x86_64-darwin
@@ -131,8 +131,7 @@ id,name,system
 314316243,cegui,aarch64-darwin
 314316246,cegui,x86_64-darwin
 314316325,cernlib,x86_64-darwin
-315322060,cfspeedtest,aarch64-darwin
-315322058,cfspeedtest,x86_64-darwin
+315649884,cfspeedtest,aarch64-darwin
 314316453,cfv,aarch64-darwin
 314316455,cfv,x86_64-darwin
 314316658,check-sieve,aarch64-darwin
@@ -225,8 +224,6 @@ id,name,system
 314323662,deadpixi-sam-unstable,x86_64-darwin
 314323705,decker,aarch64-darwin
 314323707,decker,x86_64-darwin
-315389807,deeptools,aarch64-darwin
-315389820,deeptools,x86_64-darwin
 314323792,degate,aarch64-darwin
 314323778,degit,aarch64-darwin
 314323776,degit,aarch64-linux
@@ -261,6 +258,8 @@ id,name,system
 314325049,dockapps.wmsm-app,aarch64-darwin
 314325053,dockapps.wmsm-app,x86_64-darwin
 315270522,docker-machine-kvm2,aarch64-linux
+315640337,dorion,aarch64-linux
+315640339,dorion,x86_64-linux
 314325348,dosbox,aarch64-darwin
 314325347,dosbox,x86_64-darwin
 314325413,dotherside,aarch64-linux
@@ -377,6 +376,8 @@ id,name,system
 314331435,fx,x86_64-darwin
 314331480,g15daemon,aarch64-darwin
 314331481,g15daemon,x86_64-darwin
+315640411,gale,aarch64-linux
+315640410,gale,x86_64-linux
 314331684,garble,aarch64-linux
 314331685,garble,x86_64-linux
 314331974,gccNGPackages_15.gcc-unwrapped,aarch64-darwin
@@ -398,7 +399,7 @@ id,name,system
 314332648,ggz_base_libs,aarch64-linux
 314332651,ggz_base_libs,x86_64-linux
 314332769,ghdl-gcc,x86_64-linux
-314332826,ghidra-extensions.gnudisassembler,aarch64-darwin
+315650071,ghidra-extensions.gnudisassembler,aarch64-darwin
 315273550,giac-with-xcas,aarch64-linux
 314333165,git-chain,aarch64-darwin
 314333167,git-chain,x86_64-darwin
@@ -680,7 +681,7 @@ id,name,system
 314374643,io,x86_64-linux
 314374657,iodash,aarch64-linux
 314374658,iodash,x86_64-linux
-314374688,ioq3-scion,aarch64-darwin
+315650157,ioq3-scion,aarch64-darwin
 314374783,ip2unix,aarch64-linux
 315393224,ipfs-cluster,x86_64-linux
 314374906,iqtree,x86_64-darwin
@@ -706,10 +707,10 @@ id,name,system
 314375688,jetbrains.jdk-no-jcef-17,aarch64-linux
 314375716,jetuml,aarch64-darwin
 314375717,jetuml,x86_64-darwin
-314375723,jextract-21,aarch64-linux
-314375725,jextract-21,x86_64-linux
-314375718,jextract,aarch64-darwin
-314375720,jextract,x86_64-darwin
+315650176,jextract-21,aarch64-linux
+315650179,jextract-21,x86_64-linux
+315650184,jextract,aarch64-darwin
+315650182,jextract,x86_64-darwin
 314376140,jrsonnet,aarch64-darwin
 314376141,jrsonnet,aarch64-linux
 314376147,jrsonnet,x86_64-darwin
@@ -820,7 +821,7 @@ id,name,system
 314382736,libopensmtpd,x86_64-darwin
 314382888,libpisp,aarch64-darwin
 314382882,libpisp,x86_64-darwin
-314383010,libpulsar,aarch64-darwin
+315650229,libpulsar,aarch64-darwin
 314383106,libredwg,aarch64-darwin
 314383112,libredwg,x86_64-darwin
 314383671,libsForQt5.libcommuni,aarch64-darwin
@@ -1178,8 +1179,8 @@ id,name,system
 314399902,mspds,x86_64-darwin
 314399903,mspds,x86_64-linux
 315105655,mtail,aarch64-linux
-314400189,mucommander,aarch64-darwin
-314400183,mucommander,x86_64-darwin
+315650294,mucommander,aarch64-darwin
+315650301,mucommander,x86_64-darwin
 314400056,multipart-parser-c,aarch64-darwin
 314400058,multipart-parser-c,x86_64-darwin
 314400203,musly,aarch64-darwin
@@ -1253,10 +1254,10 @@ id,name,system
 314404742,obitools3,aarch64-linux
 314404744,obitools3,x86_64-darwin
 314404743,obitools3,x86_64-linux
-315393374,obs-studio-plugins.obs-color-monitor,aarch64-linux
-315393363,obs-studio-plugins.obs-color-monitor,x86_64-linux
-315393432,obs-studio-plugins.obs-vertical-canvas,aarch64-linux
-315393412,obs-studio-plugins.obs-vertical-canvas,x86_64-linux
+315650368,obs-studio-plugins.obs-color-monitor,aarch64-linux
+315650370,obs-studio-plugins.obs-color-monitor,x86_64-linux
+315650425,obs-studio-plugins.obs-vertical-canvas,aarch64-linux
+315650440,obs-studio-plugins.obs-vertical-canvas,x86_64-linux
 315641026,ocamlPackages.class_group_vdf,aarch64-darwin
 315641031,ocamlPackages.class_group_vdf,x86_64-darwin
 315641406,ocamlPackages.ecaml,aarch64-darwin
@@ -1273,6 +1274,7 @@ id,name,system
 314407513,ocamlPackages.llvm,aarch64-darwin
 314407516,ocamlPackages.llvm,x86_64-darwin
 315642769,ocamlPackages.magic-trace,aarch64-linux
+315642858,ocamlPackages.mirage-crypto-rng,x86_64-darwin
 315643260,ocamlPackages.owl,aarch64-darwin
 314408879,ocamlPackages.processor,x86_64-darwin
 315643972,ocamlPackages.stog,aarch64-darwin
@@ -1456,6 +1458,7 @@ id,name,system
 314439140,pinokio,x86_64-darwin
 315519834,pkgsRocm.ants,x86_64-linux
 314439499,pkgsRocm.opensplat,x86_64-linux
+315650606,pkgsRocm.python3Packages.clu,x86_64-linux
 314439594,pkgsRocm.python3Packages.funsor,x86_64-linux
 314439737,pkgsRocm.python3Packages.pymanopt,x86_64-linux
 314439881,pkgsRocm.python3Packages.sirius,x86_64-linux
@@ -1463,6 +1466,7 @@ id,name,system
 315644537,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 315403947,pkgsRocm.python3Packages.torchao,x86_64-linux
 314439819,pkgsRocm.python3Packages.torchcodec,x86_64-linux
+315644544,pkgsRocm.python3Packages.torchdata,x86_64-linux
 315523751,pkgsRocm.python3Packages.vllm,x86_64-linux
 314439894,pkgsRocm.sirius,x86_64-linux
 315523774,pkgsRocm.vllm,x86_64-linux
@@ -1650,6 +1654,7 @@ id,name,system
 315107384,python312Packages.kserve-storage,x86_64-darwin
 314459155,python312Packages.labgrid,aarch64-linux
 314459158,python312Packages.labgrid,x86_64-linux
+315650929,python312Packages.lerobot,aarch64-linux
 314459660,python312Packages.libpwquality,aarch64-darwin
 314459666,python312Packages.libpwquality,x86_64-darwin
 314459672,python312Packages.libredwg,aarch64-darwin
@@ -1667,7 +1672,6 @@ id,name,system
 314461603,python312Packages.mkdocs-swagger-ui-tag,x86_64-linux
 314461643,python312Packages.mlt,aarch64-darwin
 314461646,python312Packages.mlt,x86_64-darwin
-315409774,python312Packages.mmengine,aarch64-darwin
 314461830,python312Packages.monosat,aarch64-darwin
 314461838,python312Packages.monosat,aarch64-linux
 314461832,python312Packages.monosat,x86_64-darwin
@@ -1924,7 +1928,7 @@ id,name,system
 315322596,python313Packages.kopf,x86_64-darwin
 314497592,python313Packages.labgrid,aarch64-linux
 314497601,python313Packages.labgrid,x86_64-linux
-315644772,python313Packages.lerobot,aarch64-linux
+315651677,python313Packages.lerobot,aarch64-linux
 314498123,python313Packages.libpwquality,aarch64-darwin
 314498130,python313Packages.libpwquality,x86_64-darwin
 314498133,python313Packages.libredwg,aarch64-darwin
@@ -1942,8 +1946,6 @@ id,name,system
 314500049,python313Packages.mkdocs-swagger-ui-tag,x86_64-linux
 314500088,python313Packages.mlt,aarch64-darwin
 314500087,python313Packages.mlt,x86_64-darwin
-315410377,python313Packages.mmengine,aarch64-darwin
-315410378,python313Packages.mmengine,x86_64-darwin
 314500279,python313Packages.monosat,aarch64-darwin
 314500272,python313Packages.monosat,aarch64-linux
 314500277,python313Packages.monosat,x86_64-darwin
@@ -2029,7 +2031,6 @@ id,name,system
 314510688,python313Packages.python-prctl,aarch64-linux
 314510713,python313Packages.python-redis-lock,aarch64-darwin
 314510717,python313Packages.python-redis-lock,x86_64-darwin
-315525624,python313Packages.python-roborock,aarch64-darwin
 314511385,python313Packages.pywinbox,aarch64-darwin
 314511380,python313Packages.pywinbox,x86_64-darwin
 314511830,python313Packages.ratarmountcore,aarch64-darwin
@@ -2126,6 +2127,8 @@ id,name,system
 314522892,qt6Packages.wayqt,aarch64-linux
 314522891,qt6Packages.wayqt,x86_64-linux
 314522970,qtwebapp,aarch64-darwin
+315644872,quantframe,aarch64-linux
+315644873,quantframe,x86_64-linux
 314522988,quartz-wm,aarch64-darwin
 314522989,quartz-wm,x86_64-darwin
 314522994,quasselDaemon,aarch64-darwin
@@ -2198,6 +2201,10 @@ id,name,system
 314525446,rp,aarch64-linux
 315192768,rpm-ostree,aarch64-linux
 315192767,rpm-ostree,x86_64-linux
+315644915,rquickshare,aarch64-darwin
+315644914,rquickshare,aarch64-linux
+315644913,rquickshare,x86_64-darwin
+315644912,rquickshare,x86_64-linux
 314525593,rsop,aarch64-darwin
 314531174,rubyPackages_3_5.curses,aarch64-darwin
 314531175,rubyPackages_3_5.curses,x86_64-darwin
@@ -2245,6 +2252,10 @@ id,name,system
 314535968,serious-sam-classic-vulkan,aarch64-linux
 314536049,serious-sam-classic-vulkan,x86_64-linux
 314536083,sfrotz,x86_64-linux
+315644942,sftool-gui,aarch64-darwin
+315644946,sftool-gui,aarch64-linux
+315644943,sftool-gui,x86_64-darwin
+315644944,sftool-gui,x86_64-linux
 314536114,sgfutils,aarch64-darwin
 314536117,sgfutils,x86_64-darwin
 314536127,sgx-psw,x86_64-linux
@@ -2486,6 +2497,8 @@ id,name,system
 314568977,wasmer,x86_64-linux
 314569173,wayv,aarch64-linux
 314569174,wayv,x86_64-linux
+315645087,wealthfolio,aarch64-linux
+315645085,wealthfolio,x86_64-linux
 315114475,welle-io,aarch64-darwin
 315114476,welle-io,x86_64-darwin
 314569697,wiiuse,aarch64-darwin
