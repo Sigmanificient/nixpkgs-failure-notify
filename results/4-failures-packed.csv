@@ -389,8 +389,10 @@ kdesvn,314378302,314378254,,
 keeperrl,314378327,,,
 keyleds,314378428,314378427,,
 kgt,,,314378481,314378478
+knot-resolver_6,,,,315945839
 koboredux-free,314378840,314378837,314378838,314378835
 kodiPackages.plex-for-kodi,,,314378978,314378983
+komikku,315945841,,,
 kord,314379220,314379219,314379218,314379217
 kore,,,314379223,314379222
 kube-router,,315403650,,
@@ -647,6 +649,8 @@ mobsql,,,314398653,314398651
 monoid,,,314398874,314398878
 monotone,,,314398890,314398891
 moosefs,,,314398950,314398952
+mopidy-tidal,,315946034,,315946117
+mopidyPackages.mopidy-tidal,,315946098,,315946118
 mosml,,,314399200,314399198
 mountpoint-s3,,314399231,,
 move-mount-beneath,,,314399247,314399244
@@ -702,6 +706,7 @@ ocamlPackages.class_group_vdf,,,315946557,315946490
 ocamlPackages.ecaml,,,315946841,315946842
 ocamlPackages.eigen,,,314405952,
 ocamlPackages.gapi-ocaml,,,315946964,315946985
+ocamlPackages.httpun-ws,,,,315947183
 ocamlPackages.janeStreet.ecaml,,,315947462,315947459
 ocamlPackages.janeStreet.janestreet_cpuid,,315947560,,315947563
 ocamlPackages.janestreet_cpuid,,315947942,,315947943
@@ -808,11 +813,13 @@ pingvin-share.backend,315322295,315322305,315322297,315322301
 pinokio,,,314439140,
 pkgsRocm.ants,315519834,,,
 pkgsRocm.opensplat,314439499,,,
+pkgsRocm.python3Packages.ax-platform,315949670,,,
 pkgsRocm.python3Packages.clu,315949684,,,
 pkgsRocm.python3Packages.funsor,314439594,,,
 pkgsRocm.python3Packages.pymanopt,314439737,,,
 pkgsRocm.python3Packages.sirius,314439881,,,
 pkgsRocm.python3Packages.syne-tune,315370729,,,
+pkgsRocm.python3Packages.tianshou,315949723,,,
 pkgsRocm.python3Packages.tinygrad,315644537,,,
 pkgsRocm.python3Packages.torchao,315403947,,,
 pkgsRocm.python3Packages.torchcodec,314439819,,,
@@ -863,6 +870,8 @@ python312Packages.aiorwlock,314445752,314445749,314445750,314445747
 python312Packages.aiosonic,,,314445802,314445800
 python312Packages.asyncua,314446900,,,
 python312Packages.ax-platform,,315949802,,
+python312Packages.bayesian-optimization,315949807,,,
+python312Packages.blackjax,315949817,,,
 python312Packages.canopen,,,,314449022
 python312Packages.cassandra-driver,,,315271380,
 python312Packages.cexprtk,,,314449241,314449238
@@ -873,12 +882,14 @@ python312Packages.dashscope,,,315190788,315190792
 python312Packages.deepsearch-glm,314451259,314451257,,
 python312Packages.devito,314451429,314451430,314451425,314451422
 python312Packages.diofant,314451530,314451528,314451531,314451527
+python312Packages.django-q2,,,315949937,
 python312Packages.dmsuite,,,314452530,
 python312Packages.donut-shellcode,,314452707,314452709,314452708
 python312Packages.dulwich,,,315113450,
 python312Packages.eigenpy,,,314453246,
 python312Packages.esig,314453558,314453557,314453556,314453553
 python312Packages.etelemetry,,,314453606,314453605
+python312Packages.fastmcp,,,,315950012
 python312Packages.fenics-dolfinx,,,,315404110
 python312Packages.filterpy,,,,314454239
 python312Packages.flask-alembic,315107218,315107222,315107220,315107217
@@ -966,8 +977,10 @@ python312Packages.s3-credentials,314474756,314474584,314474525,314474524
 python312Packages.salmon-mail,314474599,314474598,314474600,314474596
 python312Packages.scrapy-fake-useragent,314474999,314474881,314475323,314475271
 python312Packages.scrapy-splash,314474948,314475062,314475059,314474975
+python312Packages.skops,,,315950381,
 python312Packages.solidpython2,,,314475971,314475969
 python312Packages.srctools,,314476799,,314476701
+python312Packages.swh-journal,,315950408,,
 python312Packages.syne-tune,,,,315371553
 python312Packages.tiledb,,,314478040,314478035
 python312Packages.tinyio,,,,314478137
@@ -984,6 +997,7 @@ python313Packages.aggdraw,314483621,314483616,314483618,314483613
 python313Packages.aiorwlock,314484257,314484254,314484256,314484255
 python313Packages.aiosonic,,,314484322,314484310
 python313Packages.ax-platform,315950515,315950520,,
+python313Packages.bayesian-optimization,315950525,,,
 python313Packages.canopen,,,314487513,314487512
 python313Packages.cexprtk,314487737,314487736,314487738,314487735
 python313Packages.chatlas,,,315404709,
@@ -995,6 +1009,7 @@ python313Packages.dashscope,,,315191085,315191081
 python313Packages.deepsearch-glm,314489743,314489739,,
 python313Packages.devito,314489916,314489917,314489931,314489918
 python313Packages.diofant,314490019,314490015,314490012,314490018
+python313Packages.django-q2,,,315950662,315950661
 python313Packages.django_5,,,,315393697
 python313Packages.django_5_2,,,,315393698
 python313Packages.dmsuite,,,314491024,
@@ -1017,6 +1032,7 @@ python313Packages.imagededup,,,314495936,
 python313Packages.iterfzf,,,314496537,314496530
 python313Packages.johnnycanencrypt,314496789,314496776,314496777,314496778
 python313Packages.jupyter-book,315950805,315950804,315950808,315950812
+python313Packages.jupyterhub,315950824,,,
 python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,,315322597,315322596,
 python313Packages.labgrid,314497601,314497592,,

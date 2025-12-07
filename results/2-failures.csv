@@ -756,12 +756,14 @@ id,name,system
 314378428,keyleds,x86_64-linux
 314378478,kgt,aarch64-darwin
 314378481,kgt,x86_64-darwin
+315945839,knot-resolver_6,aarch64-darwin
 314378835,koboredux-free,aarch64-darwin
 314378837,koboredux-free,aarch64-linux
 314378838,koboredux-free,x86_64-darwin
 314378840,koboredux-free,x86_64-linux
 314378983,kodiPackages.plex-for-kodi,aarch64-darwin
 314378978,kodiPackages.plex-for-kodi,x86_64-darwin
+315945841,komikku,x86_64-linux
 314379217,kord,aarch64-darwin
 314379219,kord,aarch64-linux
 314379218,kord,x86_64-darwin
@@ -1160,6 +1162,10 @@ id,name,system
 314398890,monotone,x86_64-darwin
 314398952,moosefs,aarch64-darwin
 314398950,moosefs,x86_64-darwin
+315946117,mopidy-tidal,aarch64-darwin
+315946034,mopidy-tidal,aarch64-linux
+315946118,mopidyPackages.mopidy-tidal,aarch64-darwin
+315946098,mopidyPackages.mopidy-tidal,aarch64-linux
 314399198,mosml,aarch64-darwin
 314399200,mosml,x86_64-darwin
 314399231,mountpoint-s3,aarch64-linux
@@ -1266,6 +1272,7 @@ id,name,system
 314405952,ocamlPackages.eigen,x86_64-darwin
 315946985,ocamlPackages.gapi-ocaml,aarch64-darwin
 315946964,ocamlPackages.gapi-ocaml,x86_64-darwin
+315947183,ocamlPackages.httpun-ws,aarch64-darwin
 315947459,ocamlPackages.janeStreet.ecaml,aarch64-darwin
 315947462,ocamlPackages.janeStreet.ecaml,x86_64-darwin
 315947563,ocamlPackages.janeStreet.janestreet_cpuid,aarch64-darwin
@@ -1459,11 +1466,13 @@ id,name,system
 314439140,pinokio,x86_64-darwin
 315519834,pkgsRocm.ants,x86_64-linux
 314439499,pkgsRocm.opensplat,x86_64-linux
+315949670,pkgsRocm.python3Packages.ax-platform,x86_64-linux
 315949684,pkgsRocm.python3Packages.clu,x86_64-linux
 314439594,pkgsRocm.python3Packages.funsor,x86_64-linux
 314439737,pkgsRocm.python3Packages.pymanopt,x86_64-linux
 314439881,pkgsRocm.python3Packages.sirius,x86_64-linux
 315370729,pkgsRocm.python3Packages.syne-tune,x86_64-linux
+315949723,pkgsRocm.python3Packages.tianshou,x86_64-linux
 315644537,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 315403947,pkgsRocm.python3Packages.torchao,x86_64-linux
 314439819,pkgsRocm.python3Packages.torchcodec,x86_64-linux
@@ -1564,6 +1573,8 @@ id,name,system
 314445802,python312Packages.aiosonic,x86_64-darwin
 314446900,python312Packages.asyncua,x86_64-linux
 315949802,python312Packages.ax-platform,aarch64-linux
+315949807,python312Packages.bayesian-optimization,x86_64-linux
+315949817,python312Packages.blackjax,x86_64-linux
 314449022,python312Packages.canopen,aarch64-darwin
 315271380,python312Packages.cassandra-driver,x86_64-darwin
 314449238,python312Packages.cexprtk,aarch64-darwin
@@ -1587,6 +1598,7 @@ id,name,system
 314451528,python312Packages.diofant,aarch64-linux
 314451531,python312Packages.diofant,x86_64-darwin
 314451530,python312Packages.diofant,x86_64-linux
+315949937,python312Packages.django-q2,x86_64-darwin
 314452530,python312Packages.dmsuite,x86_64-darwin
 314452708,python312Packages.donut-shellcode,aarch64-darwin
 314452707,python312Packages.donut-shellcode,aarch64-linux
@@ -1599,6 +1611,7 @@ id,name,system
 314453558,python312Packages.esig,x86_64-linux
 314453605,python312Packages.etelemetry,aarch64-darwin
 314453606,python312Packages.etelemetry,x86_64-darwin
+315950012,python312Packages.fastmcp,aarch64-darwin
 315404110,python312Packages.fenics-dolfinx,aarch64-darwin
 314454239,python312Packages.filterpy,aarch64-darwin
 315107217,python312Packages.flask-alembic,aarch64-darwin
@@ -1804,10 +1817,12 @@ id,name,system
 314475062,python312Packages.scrapy-splash,aarch64-linux
 314475059,python312Packages.scrapy-splash,x86_64-darwin
 314474948,python312Packages.scrapy-splash,x86_64-linux
+315950381,python312Packages.skops,x86_64-darwin
 314475969,python312Packages.solidpython2,aarch64-darwin
 314475971,python312Packages.solidpython2,x86_64-darwin
 314476701,python312Packages.srctools,aarch64-darwin
 314476799,python312Packages.srctools,aarch64-linux
+315950408,python312Packages.swh-journal,aarch64-linux
 315371553,python312Packages.syne-tune,aarch64-darwin
 314478035,python312Packages.tiledb,aarch64-darwin
 314478040,python312Packages.tiledb,x86_64-darwin
@@ -1844,6 +1859,7 @@ id,name,system
 314484322,python313Packages.aiosonic,x86_64-darwin
 315950520,python313Packages.ax-platform,aarch64-linux
 315950515,python313Packages.ax-platform,x86_64-linux
+315950525,python313Packages.bayesian-optimization,x86_64-linux
 314487512,python313Packages.canopen,aarch64-darwin
 314487513,python313Packages.canopen,x86_64-darwin
 314487735,python313Packages.cexprtk,aarch64-darwin
@@ -1875,6 +1891,8 @@ id,name,system
 314490015,python313Packages.diofant,aarch64-linux
 314490012,python313Packages.diofant,x86_64-darwin
 314490019,python313Packages.diofant,x86_64-linux
+315950661,python313Packages.django-q2,aarch64-darwin
+315950662,python313Packages.django-q2,x86_64-darwin
 315393697,python313Packages.django_5,aarch64-darwin
 315393698,python313Packages.django_5_2,aarch64-darwin
 314491024,python313Packages.dmsuite,x86_64-darwin
@@ -1922,6 +1940,7 @@ id,name,system
 315950804,python313Packages.jupyter-book,aarch64-linux
 315950808,python313Packages.jupyter-book,x86_64-darwin
 315950805,python313Packages.jupyter-book,x86_64-linux
+315950824,python313Packages.jupyterhub,x86_64-linux
 314497464,python313Packages.klayout,aarch64-darwin
 314497471,python313Packages.klayout,x86_64-darwin
 315322597,python313Packages.kopf,aarch64-linux
