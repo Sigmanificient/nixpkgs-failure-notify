@@ -163,8 +163,8 @@ id,name,system
 314321027,construoBase,x86_64-darwin
 314321116,coolreader,aarch64-linux
 314321119,coolreader,x86_64-linux
-316128607,copacetic,aarch64-darwin
-316128606,copacetic,x86_64-darwin
+316232771,copacetic,aarch64-darwin
+316232772,copacetic,x86_64-darwin
 315401503,coredns,aarch64-darwin
 315401504,coredns,x86_64-darwin
 315401501,coredns,x86_64-linux
@@ -599,12 +599,14 @@ id,name,system
 314368674,hdate,x86_64-darwin
 315353559,hexagonrpc,aarch64-darwin
 315353555,hexagonrpc,x86_64-darwin
+316216863,home-assistant-component-tests.concord232,aarch64-linux
 316217247,home-assistant-component-tests.google,aarch64-linux
 316217208,home-assistant-component-tests.google_generative_ai_conversation,aarch64-linux
 316217215,home-assistant-component-tests.google_generative_ai_conversation,x86_64-linux
 316217488,home-assistant-component-tests.laundrify,aarch64-linux
 316217872,home-assistant-component-tests.openrgb,x86_64-linux
 316218254,home-assistant-component-tests.sonos,aarch64-linux
+316218605,home-assistant-component-tests.withings,aarch64-linux
 314371672,honeycomb-refinery,aarch64-linux
 314371826,hsd,aarch64-darwin
 314371830,hsd,x86_64-darwin
@@ -1113,6 +1115,7 @@ id,name,system
 314397735,metapixel,x86_64-darwin
 314397750,meteor,x86_64-darwin
 314397751,meteor,x86_64-linux
+316232892,metrics,x86_64-linux
 314397836,mgmt,aarch64-darwin
 314397840,mgmt,x86_64-darwin
 315192246,microdnf,aarch64-linux
@@ -1429,19 +1432,20 @@ id,name,system
 314439026,pike,aarch64-linux
 314439140,pinokio,x86_64-darwin
 316213674,pkgsRocm.opensplat,x86_64-linux
+316219102,pkgsRocm.python3Packages.ax-platform,x86_64-linux
 316219115,pkgsRocm.python3Packages.clu,x86_64-linux
 316213749,pkgsRocm.python3Packages.funsor,x86_64-linux
 316213931,pkgsRocm.python3Packages.mim-solvers,x86_64-linux
 316213872,pkgsRocm.python3Packages.pymanopt,x86_64-linux
 314439881,pkgsRocm.python3Packages.sirius,x86_64-linux
 316213919,pkgsRocm.python3Packages.syne-tune,x86_64-linux
-316213928,pkgsRocm.python3Packages.tinygrad,x86_64-linux
+316233008,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 316213965,pkgsRocm.python3Packages.torchao,x86_64-linux
 316213935,pkgsRocm.python3Packages.torchcodec,x86_64-linux
 316213937,pkgsRocm.python3Packages.torchdata,x86_64-linux
-316219220,pkgsRocm.python3Packages.vllm,x86_64-linux
+316233019,pkgsRocm.python3Packages.vllm,x86_64-linux
 314439894,pkgsRocm.sirius,x86_64-linux
-316219236,pkgsRocm.vllm,x86_64-linux
+316233028,pkgsRocm.vllm,x86_64-linux
 316092785,plakar,x86_64-darwin
 314440241,plasma5Packages.libcommuni,aarch64-darwin
 314440243,plasma5Packages.libcommuni,x86_64-darwin
@@ -1538,6 +1542,7 @@ id,name,system
 315949817,python312Packages.blackjax,x86_64-linux
 316097124,python312Packages.bleak-retry-connector,aarch64-darwin
 316097125,python312Packages.bleak-retry-connector,x86_64-darwin
+316219319,python312Packages.blocksat-cli,aarch64-darwin
 316190699,python312Packages.bugwarrior,aarch64-darwin
 316190697,python312Packages.bugwarrior,x86_64-darwin
 314449022,python312Packages.canopen,aarch64-darwin
@@ -1554,6 +1559,7 @@ id,name,system
 314450446,python312Packages.crochet,aarch64-darwin
 316188381,python312Packages.dashscope,aarch64-darwin
 316188384,python312Packages.dashscope,x86_64-darwin
+316219394,python312Packages.dask-glm,aarch64-linux
 314451257,python312Packages.deepsearch-glm,aarch64-linux
 314451259,python312Packages.deepsearch-glm,x86_64-linux
 314451422,python312Packages.devito,aarch64-darwin
@@ -1604,6 +1610,7 @@ id,name,system
 314456150,python312Packages.graph-tool,x86_64-darwin
 316219610,python312Packages.halide,aarch64-darwin
 316219615,python312Packages.halide,x86_64-darwin
+316219614,python312Packages.halide,x86_64-linux
 314456755,python312Packages.hid-parser,aarch64-darwin
 314456757,python312Packages.hid-parser,aarch64-linux
 314456759,python312Packages.hid-parser,x86_64-darwin
@@ -1629,7 +1636,8 @@ id,name,system
 315107384,python312Packages.kserve-storage,x86_64-darwin
 314459155,python312Packages.labgrid,aarch64-linux
 314459158,python312Packages.labgrid,x86_64-linux
-316219690,python312Packages.langchain,x86_64-linux
+316233093,python312Packages.langchain,x86_64-linux
+316219819,python312Packages.lerobot,aarch64-linux
 314459660,python312Packages.libpwquality,aarch64-darwin
 314459666,python312Packages.libpwquality,x86_64-darwin
 314459672,python312Packages.libredwg,aarch64-darwin
@@ -1743,6 +1751,8 @@ id,name,system
 316136225,python312Packages.pywebview,aarch64-darwin
 316097410,python312Packages.pywinbox,aarch64-darwin
 316097409,python312Packages.pywinbox,x86_64-darwin
+316220442,python312Packages.qtile-extras,aarch64-linux
+316220440,python312Packages.qtile-extras,x86_64-linux
 314473312,python312Packages.quil,aarch64-darwin
 314473316,python312Packages.quil,aarch64-linux
 314473313,python312Packages.quil,x86_64-darwin
@@ -1788,6 +1798,7 @@ id,name,system
 316106488,python312Packages.spsdk-mcu-link,x86_64-linux
 314476701,python312Packages.srctools,aarch64-darwin
 314476799,python312Packages.srctools,aarch64-linux
+316220587,python312Packages.streamz,aarch64-linux
 316129991,python312Packages.swh-journal,aarch64-linux
 316214689,python312Packages.syne-tune,aarch64-linux
 316214690,python312Packages.syne-tune,x86_64-linux
@@ -1878,6 +1889,8 @@ id,name,system
 316136707,python313Packages.essentials,x86_64-linux
 314492106,python313Packages.etelemetry,aarch64-darwin
 314492102,python313Packages.etelemetry,x86_64-darwin
+316220967,python313Packages.fastmcp,x86_64-darwin
+316220963,python313Packages.fastmcp,x86_64-linux
 316220973,python313Packages.fenics-dolfinx,aarch64-darwin
 314492724,python313Packages.filterpy,aarch64-darwin
 314493516,python313Packages.func-timeout,x86_64-darwin
@@ -2019,6 +2032,7 @@ id,name,system
 316137289,python313Packages.pywebview,aarch64-darwin
 316097849,python313Packages.pywinbox,aarch64-darwin
 316097851,python313Packages.pywinbox,x86_64-darwin
+316221879,python313Packages.qtile-extras,x86_64-linux
 314511830,python313Packages.ratarmountcore,aarch64-darwin
 314511821,python313Packages.ratarmountcore,aarch64-linux
 314511826,python313Packages.ratarmountcore,x86_64-darwin
@@ -2058,6 +2072,7 @@ id,name,system
 315110102,python313Packages.slack-sdk,x86_64-darwin
 314514326,python313Packages.solidpython2,aarch64-darwin
 314514330,python313Packages.solidpython2,x86_64-darwin
+316221991,python313Packages.spectral-cube,aarch64-darwin
 316106771,python313Packages.spsdk-mcu-link,aarch64-darwin
 316106776,python313Packages.spsdk-mcu-link,aarch64-linux
 316106773,python313Packages.spsdk-mcu-link,x86_64-darwin
@@ -2148,6 +2163,7 @@ id,name,system
 316215416,recoll-nox,x86_64-darwin
 316215408,recoll,aarch64-darwin
 316215410,recoll,x86_64-darwin
+316233713,release-checks,x86_64-linux
 314524169,remarkable-toolchain,x86_64-linux
 314524162,remarkable2-toolchain,x86_64-linux
 316222137,rembg,aarch64-darwin
@@ -2320,6 +2336,7 @@ id,name,system
 316215548,sympow,x86_64-darwin
 314540662,syzkaller,aarch64-darwin
 314540691,t3,aarch64-linux
+316222222,tahoe-lafs,aarch64-linux
 315118020,tailscale,aarch64-darwin
 315118029,tailscale,x86_64-darwin
 314540835,taisei,aarch64-darwin
@@ -2363,8 +2380,6 @@ id,name,system
 314543108,tests.cc-wrapper.llvmTests.llvmPackages_20.clang,x86_64-darwin
 314543117,tests.cc-wrapper.llvmTests.llvmPackages_21.clang,aarch64-darwin
 314543120,tests.cc-wrapper.llvmTests.llvmPackages_21.clang,x86_64-darwin
-316215564,tests.devShellTools.nixos,aarch64-linux
-316215566,tests.devShellTools.nixos,x86_64-linux
 314543920,tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,aarch64-darwin
 314543914,tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,x86_64-darwin
 314543988,tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,aarch64-darwin

@@ -85,7 +85,7 @@ conserve,,,314320997,
 construo,,,314321023,314321020
 construoBase,,,314321027,314321026
 coolreader,314321119,314321116,,
-copacetic,,,316128606,316128607
+copacetic,,,316232772,316232771
 coredns,315401501,,315401504,315401503
 coreth,,,314321668,
 couchdb3,,,316133623,
@@ -310,11 +310,13 @@ haskellPackages.zot,,,314368505,314368506
 haskellPackages.zxcvbn-c,,,314368519,314368518
 hdate,,,314368674,314368673
 hexagonrpc,,,315353555,315353559
+home-assistant-component-tests.concord232,,316216863,,
 home-assistant-component-tests.google,,316217247,,
 home-assistant-component-tests.google_generative_ai_conversation,316217215,316217208,,
 home-assistant-component-tests.laundrify,,316217488,,
 home-assistant-component-tests.openrgb,316217872,,,
 home-assistant-component-tests.sonos,,316218254,,
+home-assistant-component-tests.withings,,316218605,,
 honeycomb-refinery,,314371672,,
 hsd,,,314371830,314371826
 httplz,314372005,314372000,314371997,314371999
@@ -639,6 +641,7 @@ mediasynclite,,,314397385,314397380
 meli,314397489,314397479,314397492,314397477
 metapixel,,,314397735,314397733
 meteor,314397751,,314397750,
+metrics,316232892,,,
 mgmt,,,314397840,314397836
 microdnf,315192250,315192246,,
 micronucleus,,,314397881,314397880
@@ -816,19 +819,20 @@ pidginPackages.purple-lurch,316111486,316111488,,
 pike,,314439026,,
 pinokio,,,314439140,
 pkgsRocm.opensplat,316213674,,,
+pkgsRocm.python3Packages.ax-platform,316219102,,,
 pkgsRocm.python3Packages.clu,316219115,,,
 pkgsRocm.python3Packages.funsor,316213749,,,
 pkgsRocm.python3Packages.mim-solvers,316213931,,,
 pkgsRocm.python3Packages.pymanopt,316213872,,,
 pkgsRocm.python3Packages.sirius,314439881,,,
 pkgsRocm.python3Packages.syne-tune,316213919,,,
-pkgsRocm.python3Packages.tinygrad,316213928,,,
+pkgsRocm.python3Packages.tinygrad,316233008,,,
 pkgsRocm.python3Packages.torchao,316213965,,,
 pkgsRocm.python3Packages.torchcodec,316213935,,,
 pkgsRocm.python3Packages.torchdata,316213937,,,
-pkgsRocm.python3Packages.vllm,316219220,,,
+pkgsRocm.python3Packages.vllm,316233019,,,
 pkgsRocm.sirius,314439894,,,
-pkgsRocm.vllm,316219236,,,
+pkgsRocm.vllm,316233028,,,
 plakar,,,316092785,
 plasma5Packages.libcommuni,,,314440243,314440241
 plasma5Packages.mlt,,,314440313,314440334
@@ -877,6 +881,7 @@ python312Packages.ax-platform,,316219294,,
 python312Packages.bayesian-optimization,316038637,,,
 python312Packages.blackjax,315949817,,,
 python312Packages.bleak-retry-connector,,,316097125,316097124
+python312Packages.blocksat-cli,,,,316219319
 python312Packages.bugwarrior,,,316190697,316190699
 python312Packages.canopen,,,,314449022
 python312Packages.cassandra-driver,,,316038712,316038714
@@ -885,6 +890,7 @@ python312Packages.clr-loader,314449728,314449726,314449771,314449793
 python312Packages.control,,,314450265,314450264
 python312Packages.crochet,,,,314450446
 python312Packages.dashscope,,,316188384,316188381
+python312Packages.dask-glm,,316219394,,
 python312Packages.deepsearch-glm,314451259,314451257,,
 python312Packages.devito,314451429,314451430,314451425,314451422
 python312Packages.diofant,314451530,314451528,314451531,314451527
@@ -907,7 +913,7 @@ python312Packages.gilknocker,,,314455498,
 python312Packages.git-dummy,,,316135676,316135674
 python312Packages.gluonts,,,,315297603
 python312Packages.graph-tool,,,314456150,314456148
-python312Packages.halide,,,316219615,316219610
+python312Packages.halide,316219614,,316219615,316219610
 python312Packages.hid-parser,314456760,314456757,314456759,314456755
 python312Packages.highdicom,314456794,314456785,,
 python312Packages.hmmlearn,,314456854,314456857,314456852
@@ -919,7 +925,8 @@ python312Packages.klayout,,,314459007,314459005
 python312Packages.kopf,,,315322392,315322393
 python312Packages.kserve-storage,,,315107384,315107385
 python312Packages.labgrid,314459158,314459155,,
-python312Packages.langchain,316219690,,,
+python312Packages.langchain,316233093,,,
+python312Packages.lerobot,,316219819,,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
 python312Packages.line-profiler,314459853,314459850,314459847,314459840
@@ -971,6 +978,7 @@ python312Packages.python-roborock,,316214614,,
 python312Packages.pyvera,,,314472826,
 python312Packages.pywebview,,,,316136225
 python312Packages.pywinbox,,,316097409,316097410
+python312Packages.qtile-extras,316220440,316220442,,
 python312Packages.quil,,314473316,314473313,314473312
 python312Packages.ratarmountcore,314473500,314473434,314473442,314473433
 python312Packages.raylib-python-cffi,,,314473470,314473462
@@ -987,6 +995,7 @@ python312Packages.solidpython2,,,314475971,314475969
 python312Packages.spectral-cube,,,,316220559
 python312Packages.spsdk-mcu-link,316106488,316106487,316106486,316106483
 python312Packages.srctools,,314476799,,314476701
+python312Packages.streamz,,316220587,,
 python312Packages.swh-journal,,316129991,,
 python312Packages.syne-tune,316214690,316214689,,
 python312Packages.tiledb,,,314478040,314478035
@@ -1030,6 +1039,7 @@ python313Packages.embrace,,314491857,,
 python313Packages.esig,314492045,314492043,314492044,314492048
 python313Packages.essentials,316136707,,,
 python313Packages.etelemetry,,,314492102,314492106
+python313Packages.fastmcp,316220963,,316220967,
 python313Packages.fenics-dolfinx,,,,316220973
 python313Packages.filterpy,,,,314492724
 python313Packages.func-timeout,,,314493516,
@@ -1099,6 +1109,7 @@ python313Packages.python-prctl,,314510688,,
 python313Packages.python-redis-lock,,,315951060,315951061
 python313Packages.pywebview,,,,316137289
 python313Packages.pywinbox,,,316097851,316097849
+python313Packages.qtile-extras,316221879,,,
 python313Packages.ratarmountcore,314511828,314511821,314511826,314511830
 python313Packages.raylib-python-cffi,,,314511852,314511850
 python313Packages.rds2py,,,314511887,314511897
@@ -1114,6 +1125,7 @@ python313Packages.scrapy-splash,314513353,314513253,314513310,314513611
 python313Packages.simple-dftd3,316041600,,,
 python313Packages.slack-sdk,,,315110102,315110097
 python313Packages.solidpython2,,,314514330,314514326
+python313Packages.spectral-cube,,,,316221991
 python313Packages.spsdk-mcu-link,316106775,316106776,316106773,316106771
 python313Packages.srctools,,314515048,,314515046
 python313Packages.swh-shard,,,314515682,314515678
@@ -1161,6 +1173,7 @@ reaction,314523731,,,
 reaper-sws-extension,,,314523825,314523819
 recoll-nox,,,316215416,316215414
 recoll,,,316215410,316215408
+release-checks,316233713,,,
 remarkable-toolchain,314524169,,,
 remarkable2-toolchain,314524162,,,
 rembg,,,316222141,316222137
@@ -1251,6 +1264,7 @@ sympa,314540482,314540460,314540479,314540477
 sympow,,,316215548,
 syzkaller,,,,314540662
 t3,,314540691,,
+tahoe-lafs,,316222222,,
 tailscale,,,315118029,315118020
 taisei,314540963,314540838,314540847,314540835
 talkfilters,,,314540885,314540881
@@ -1272,7 +1286,6 @@ tests.cc-wrapper.llvmTests.llvmPackages_19.clang,,,314543100,314543103
 tests.cc-wrapper.llvmTests.llvmPackages_19.libcxx,,,314543118,314543109
 tests.cc-wrapper.llvmTests.llvmPackages_20.clang,,,314543108,314543105
 tests.cc-wrapper.llvmTests.llvmPackages_21.clang,,,314543120,314543117
-tests.devShellTools.nixos,316215566,316215564,,
 tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,,,314543914,314543920
 tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,314543987,314543988
 tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,314544015,314544004
