@@ -85,7 +85,7 @@ construo,,,314321023,314321020
 construoBase,,,314321027,314321026
 coolreader,314321119,314321116,,
 copacetic,,,316232772,316232771
-coredns,315401501,,315401504,315401503
+coredns,316264333,,316264321,316264327
 coreth,,,314321668,
 couchdb3,,,316133623,
 cp437,,,314321884,314321882
@@ -134,7 +134,6 @@ dotherside,314325416,314325413,,
 dovecot,,,314325784,314325780
 drat,,,314325929,314325927
 driftnet,,,316062536,316062535
-dsearch,,,315518749,315518747
 dt,,,314326103,314326093
 dump1090-fa,,,315112747,315112748
 easyaudiosync,314326553,314326531,,314326576
@@ -180,7 +179,7 @@ footage,,,315945661,315945663
 fortitude,,,314330769,314330767
 fosrl-newt,,,316232848,316232841
 foxtrotgps,,,315102528,315102529
-framac,,,,316186106
+framac,,,,316264391
 frawk,314330928,314330926,314330927,314330925
 fre,,,314330930,
 freelens-bin,,,314330991,314330988
@@ -371,22 +370,20 @@ jwm-settings-manager,314376507,314376503,,
 kagen,,,314376600,
 kaldi,,,314376780,314376777
 kanagawa-icon-theme,,,314376824,314376822
+kanidmWithSecretProvisioning_1_8,,,316242934,
+kanidm_1_8,,,316242933,
 karlyriceditor,314377038,314376942,,
 kcl-language-server,314377044,314377042,,
 kdePackages.appstream-qt,,,,314377116
 kdePackages.ktorrent,316234409,,,
 kdePackages.mlt,,,,314377830
-kdePackages.plasma-vault,316234507,316234557,,
+kdePackages.plasma-vault,316264652,316264669,,
 kdePackages.qttranslations,,,314378126,
-kdePackages.sierra-breeze-enhanced,316234546,316234571,,
-kdePackages.waylib,316193596,316193575,,
 kdePackages.wayqt,314378305,314378367,,
 kdesvn,314378302,314378254,,
 keeperrl,314378327,,,
 keyleds,314378428,314378427,,
 kgt,,,314378481,314378478
-knot-resolver-manager_6,,,316193620,
-knot-resolver_6,,,,315945839
 koboredux-free,314378840,314378837,314378838,314378835
 kodiPackages.plex-for-kodi,,,314378978,314378983
 kord,314379220,314379219,314379218,314379217
@@ -476,7 +473,6 @@ linuxKernel.packages.linux_6_12_hardened.tbs,,315379404,,
 linuxKernel.packages.linux_6_12_hardened.tsme-test,,315379396,,
 linuxKernel.packages.linux_6_17.acer-wmi-battery,,316193965,,
 linuxKernel.packages.linux_6_17.digimend,316193973,316193987,,
-linuxKernel.packages.linux_6_17.drbd,,316193996,,
 linuxKernel.packages.linux_6_17.mba6x_bl,316194029,316194066,,
 linuxKernel.packages.linux_6_17.mbp2018-bridge-drv,316194024,316194043,,
 linuxKernel.packages.linux_6_17.msi-ec,,316194061,,
@@ -486,7 +482,6 @@ linuxKernel.packages.linux_6_17.vmm_clock,316194140,,,
 linuxKernel.packages.linux_6_18.acer-wmi-battery,,316194146,,
 linuxKernel.packages.linux_6_18.cryptodev,316194174,316194164,,
 linuxKernel.packages.linux_6_18.digimend,316194169,316194220,,
-linuxKernel.packages.linux_6_18.drbd,,316194178,,
 linuxKernel.packages.linux_6_18.evdi,316194180,316194217,,
 linuxKernel.packages.linux_6_18.hpuefi-mod,316194197,,,
 linuxKernel.packages.linux_6_18.jool,316194208,316194205,,
@@ -561,7 +556,6 @@ linuxPackages.tsme-test,,316194558,,
 linuxPackages_latest.acer-wmi-battery,,316194598,,
 linuxPackages_latest.cryptodev,316194625,316194624,,
 linuxPackages_latest.digimend,316194629,316194628,,
-linuxPackages_latest.drbd,,316194647,,
 linuxPackages_latest.evdi,316194637,316194636,,
 linuxPackages_latest.hpuefi-mod,316194656,,,
 linuxPackages_latest.jool,316194666,316194665,,
@@ -618,7 +612,6 @@ llpp,315393293,315393292,314389651,314389648
 loganalyzer,,,314390638,314390637
 logdy,,,314390651,
 loki,,,314390771,314390768
-lomiri.lomiri-indicator-network,316208302,,,
 lua51Packages.lux-lua,,,316243189,316243190
 lua51Packages.rocks-dev-nvim,,,314391748,314391746
 lua52Packages.lux-lua,,,316243193,316243192
@@ -685,6 +678,7 @@ newlib-nano,,314401638,314401640,314401635
 newlib,,314401634,314401636,314401631
 newsboat,,,315105754,
 ngadmin,,,314401784,314401779
+nitrokey-fido2-firmware,316264931,316264929,,316264932
 nixseparatedebuginfod2,,316056893,,
 nodePackages.esy,,314403405,,314403402
 nodePackages_latest.esy,,315409078,,
@@ -939,7 +933,6 @@ python312Packages.myhdl,314462266,,,
 python312Packages.netgen-mesher,,,316111715,316111716
 python312Packages.nifty8,,,,314464187
 python312Packages.niquests,,,315355927,315355937
-python312Packages.nitrokey,316235742,316235741,316235744,316235731
 python312Packages.openbabel,,314464930,,
 python312Packages.openfga-sdk,314465006,314465029,314464985,314464983
 python312Packages.opentelemetry-instrumentation-botocore,314465194,314465268,314465097,314465098
@@ -948,7 +941,6 @@ python312Packages.overpy,,,314465489,314465487
 python312Packages.parselmouth,,314465753,314465750,314465751
 python312Packages.pgmpy,,316214540,,
 python312Packages.pilight,,,314466343,314466341
-python312Packages.powerapi,,,314466887,314466885
 python312Packages.protobuf4,314467164,314467163,314467161,314467162
 python312Packages.proton-client,314467176,314467171,,
 python312Packages.proton-core,,,314467181,314467178
@@ -976,14 +968,12 @@ python312Packages.python-djvulibre,,,314471817,314471814
 python312Packages.python-fontconfig,,,314471884,
 python312Packages.python-prctl,,314472289,,
 python312Packages.python-redis-lock,,,315950334,315950332
-python312Packages.python-roborock,,316214614,,
 python312Packages.pyvera,,,314472826,
 python312Packages.pywebview,,,,316136225
 python312Packages.pywinbox,,,316097409,316097410
-python312Packages.qtile-extras,316220440,316220442,,
 python312Packages.quil,,314473316,314473313,314473312
 python312Packages.ratarmountcore,314473500,314473434,314473442,314473433
-python312Packages.raylib-python-cffi,,,314473470,314473462
+python312Packages.raylib-python-cffi,,,316265376,316265382
 python312Packages.rds2py,,,314473502,314473499
 python312Packages.recoll,,,316214630,316214629
 python312Packages.redbaron,314473614,314473611,314473612,314473613
@@ -993,7 +983,6 @@ python312Packages.s3-credentials,314474756,314474584,314474525,314474524
 python312Packages.salmon-mail,314474599,314474598,314474600,314474596
 python312Packages.scrapy-fake-useragent,314474999,314474881,314475323,314475271
 python312Packages.scrapy-splash,314474948,314475062,314475059,314474975
-python312Packages.snakemake,,,316136349,
 python312Packages.solidpython2,,,314475971,314475969
 python312Packages.spectral-cube,,,,316220559
 python312Packages.spsdk-mcu-link,316106488,316106487,316106486,316106483
@@ -1075,7 +1064,6 @@ python313Packages.nats-py,,,314502253,
 python313Packages.netgen-mesher,,,316111940,316111937
 python313Packages.nifty8,,,,314502626
 python313Packages.niquests,,,315356271,315356273
-python313Packages.nitrokey,316235988,316235989,316235986,316235985
 python313Packages.openbabel,,314503369,,
 python313Packages.opencontainers,,,314503393,
 python313Packages.opentelemetry-instrumentation-botocore,314503534,314503533,314503532,314503531
@@ -1083,7 +1071,6 @@ python313Packages.opytimark,314503703,,,
 python313Packages.overpy,,,314503923,
 python313Packages.pgmpy,,316215200,,
 python313Packages.pilight,,,314504776,314504773
-python313Packages.powerapi,,,314505307,314505312
 python313Packages.protobuf4,314505584,314505581,314505589,314505583
 python313Packages.proton-client,314505599,314505594,,
 python313Packages.proton-core,,,314505613,314505602
@@ -1113,9 +1100,8 @@ python313Packages.python-prctl,,314510688,,
 python313Packages.python-redis-lock,,,315951060,315951061
 python313Packages.pywebview,,,,316137289
 python313Packages.pywinbox,,,316097851,316097849
-python313Packages.qtile-extras,316221879,,,
 python313Packages.ratarmountcore,314511828,314511821,314511826,314511830
-python313Packages.raylib-python-cffi,,,314511852,314511850
+python313Packages.raylib-python-cffi,,,316265626,316265625
 python313Packages.rds2py,,,314511887,314511897
 python313Packages.recoll,,,316215292,316215284
 python313Packages.redbaron,314511991,314511990,314511984,314511986
@@ -1157,8 +1143,6 @@ qrq,,,314522200,314522198
 qt6.qttranslations,,,314522545,
 qt6Packages.appstream-qt,,,,314522587
 qt6Packages.mlt,,,,314522629
-qt6Packages.sierra-breeze-enhanced,316236061,316236066,,
-qt6Packages.waylib,316195698,316195697,,
 qt6Packages.wayqt,314522891,314522892,,
 qtwebapp,,,,314522970
 quantframe,316190817,316190816,,

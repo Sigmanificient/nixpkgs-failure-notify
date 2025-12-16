@@ -163,9 +163,9 @@ id,name,system
 314321119,coolreader,x86_64-linux
 316232771,copacetic,aarch64-darwin
 316232772,copacetic,x86_64-darwin
-315401503,coredns,aarch64-darwin
-315401504,coredns,x86_64-darwin
-315401501,coredns,x86_64-linux
+316264327,coredns,aarch64-darwin
+316264321,coredns,x86_64-darwin
+316264333,coredns,x86_64-linux
 314321668,coreth,x86_64-darwin
 316133623,couchdb3,x86_64-darwin
 314321882,cp437,aarch64-darwin
@@ -255,8 +255,6 @@ id,name,system
 314325929,drat,x86_64-darwin
 316062535,driftnet,aarch64-darwin
 316062536,driftnet,x86_64-darwin
-315518747,dsearch,aarch64-darwin
-315518749,dsearch,x86_64-darwin
 314326093,dt,aarch64-darwin
 314326103,dt,x86_64-darwin
 315112748,dump1090-fa,aarch64-darwin
@@ -343,7 +341,7 @@ id,name,system
 316232848,fosrl-newt,x86_64-darwin
 315102529,foxtrotgps,aarch64-darwin
 315102528,foxtrotgps,x86_64-darwin
-316186106,framac,aarch64-darwin
+316264391,framac,aarch64-darwin
 314330925,frawk,aarch64-darwin
 314330926,frawk,aarch64-linux
 314330927,frawk,x86_64-darwin
@@ -714,6 +712,8 @@ id,name,system
 314376780,kaldi,x86_64-darwin
 314376822,kanagawa-icon-theme,aarch64-darwin
 314376824,kanagawa-icon-theme,x86_64-darwin
+316242934,kanidmWithSecretProvisioning_1_8,x86_64-darwin
+316242933,kanidm_1_8,x86_64-darwin
 314376942,karlyriceditor,aarch64-linux
 314377038,karlyriceditor,x86_64-linux
 314377042,kcl-language-server,aarch64-linux
@@ -721,13 +721,9 @@ id,name,system
 314377116,kdePackages.appstream-qt,aarch64-darwin
 316234409,kdePackages.ktorrent,x86_64-linux
 314377830,kdePackages.mlt,aarch64-darwin
-316234557,kdePackages.plasma-vault,aarch64-linux
-316234507,kdePackages.plasma-vault,x86_64-linux
+316264669,kdePackages.plasma-vault,aarch64-linux
+316264652,kdePackages.plasma-vault,x86_64-linux
 314378126,kdePackages.qttranslations,x86_64-darwin
-316234571,kdePackages.sierra-breeze-enhanced,aarch64-linux
-316234546,kdePackages.sierra-breeze-enhanced,x86_64-linux
-316193575,kdePackages.waylib,aarch64-linux
-316193596,kdePackages.waylib,x86_64-linux
 314378367,kdePackages.wayqt,aarch64-linux
 314378305,kdePackages.wayqt,x86_64-linux
 314378254,kdesvn,aarch64-linux
@@ -737,8 +733,6 @@ id,name,system
 314378428,keyleds,x86_64-linux
 314378478,kgt,aarch64-darwin
 314378481,kgt,x86_64-darwin
-316193620,knot-resolver-manager_6,x86_64-darwin
-315945839,knot-resolver_6,aarch64-darwin
 314378835,koboredux-free,aarch64-darwin
 314378837,koboredux-free,aarch64-linux
 314378838,koboredux-free,x86_64-darwin
@@ -887,7 +881,6 @@ id,name,system
 316193965,linuxKernel.packages.linux_6_17.acer-wmi-battery,aarch64-linux
 316193987,linuxKernel.packages.linux_6_17.digimend,aarch64-linux
 316193973,linuxKernel.packages.linux_6_17.digimend,x86_64-linux
-316193996,linuxKernel.packages.linux_6_17.drbd,aarch64-linux
 316194066,linuxKernel.packages.linux_6_17.mba6x_bl,aarch64-linux
 316194029,linuxKernel.packages.linux_6_17.mba6x_bl,x86_64-linux
 316194043,linuxKernel.packages.linux_6_17.mbp2018-bridge-drv,aarch64-linux
@@ -901,7 +894,6 @@ id,name,system
 316194174,linuxKernel.packages.linux_6_18.cryptodev,x86_64-linux
 316194220,linuxKernel.packages.linux_6_18.digimend,aarch64-linux
 316194169,linuxKernel.packages.linux_6_18.digimend,x86_64-linux
-316194178,linuxKernel.packages.linux_6_18.drbd,aarch64-linux
 316194217,linuxKernel.packages.linux_6_18.evdi,aarch64-linux
 316194180,linuxKernel.packages.linux_6_18.evdi,x86_64-linux
 316194197,linuxKernel.packages.linux_6_18.hpuefi-mod,x86_64-linux
@@ -994,7 +986,6 @@ id,name,system
 316194625,linuxPackages_latest.cryptodev,x86_64-linux
 316194628,linuxPackages_latest.digimend,aarch64-linux
 316194629,linuxPackages_latest.digimend,x86_64-linux
-316194647,linuxPackages_latest.drbd,aarch64-linux
 316194636,linuxPackages_latest.evdi,aarch64-linux
 316194637,linuxPackages_latest.evdi,x86_64-linux
 316194656,linuxPackages_latest.hpuefi-mod,x86_64-linux
@@ -1066,7 +1057,6 @@ id,name,system
 314390651,logdy,x86_64-darwin
 314390768,loki,aarch64-darwin
 314390771,loki,x86_64-darwin
-316208302,lomiri.lomiri-indicator-network,x86_64-linux
 316243190,lua51Packages.lux-lua,aarch64-darwin
 316243189,lua51Packages.lux-lua,x86_64-darwin
 314391746,lua51Packages.rocks-dev-nvim,aarch64-darwin
@@ -1198,6 +1188,9 @@ id,name,system
 315105754,newsboat,x86_64-darwin
 314401779,ngadmin,aarch64-darwin
 314401784,ngadmin,x86_64-darwin
+316264932,nitrokey-fido2-firmware,aarch64-darwin
+316264929,nitrokey-fido2-firmware,aarch64-linux
+316264931,nitrokey-fido2-firmware,x86_64-linux
 316056893,nixseparatedebuginfod2,aarch64-linux
 314403402,nodePackages.esy,aarch64-darwin
 314403405,nodePackages.esy,aarch64-linux
@@ -1665,10 +1658,6 @@ id,name,system
 314464187,python312Packages.nifty8,aarch64-darwin
 315355937,python312Packages.niquests,aarch64-darwin
 315355927,python312Packages.niquests,x86_64-darwin
-316235731,python312Packages.nitrokey,aarch64-darwin
-316235741,python312Packages.nitrokey,aarch64-linux
-316235744,python312Packages.nitrokey,x86_64-darwin
-316235742,python312Packages.nitrokey,x86_64-linux
 314464930,python312Packages.openbabel,aarch64-linux
 314464983,python312Packages.openfga-sdk,aarch64-darwin
 314465029,python312Packages.openfga-sdk,aarch64-linux
@@ -1687,8 +1676,6 @@ id,name,system
 316214540,python312Packages.pgmpy,aarch64-linux
 314466341,python312Packages.pilight,aarch64-darwin
 314466343,python312Packages.pilight,x86_64-darwin
-314466885,python312Packages.powerapi,aarch64-darwin
-314466887,python312Packages.powerapi,x86_64-darwin
 314467162,python312Packages.protobuf4,aarch64-darwin
 314467163,python312Packages.protobuf4,aarch64-linux
 314467161,python312Packages.protobuf4,x86_64-darwin
@@ -1751,13 +1738,10 @@ id,name,system
 314472289,python312Packages.python-prctl,aarch64-linux
 315950332,python312Packages.python-redis-lock,aarch64-darwin
 315950334,python312Packages.python-redis-lock,x86_64-darwin
-316214614,python312Packages.python-roborock,aarch64-linux
 314472826,python312Packages.pyvera,x86_64-darwin
 316136225,python312Packages.pywebview,aarch64-darwin
 316097410,python312Packages.pywinbox,aarch64-darwin
 316097409,python312Packages.pywinbox,x86_64-darwin
-316220442,python312Packages.qtile-extras,aarch64-linux
-316220440,python312Packages.qtile-extras,x86_64-linux
 314473312,python312Packages.quil,aarch64-darwin
 314473316,python312Packages.quil,aarch64-linux
 314473313,python312Packages.quil,x86_64-darwin
@@ -1765,8 +1749,8 @@ id,name,system
 314473434,python312Packages.ratarmountcore,aarch64-linux
 314473442,python312Packages.ratarmountcore,x86_64-darwin
 314473500,python312Packages.ratarmountcore,x86_64-linux
-314473462,python312Packages.raylib-python-cffi,aarch64-darwin
-314473470,python312Packages.raylib-python-cffi,x86_64-darwin
+316265382,python312Packages.raylib-python-cffi,aarch64-darwin
+316265376,python312Packages.raylib-python-cffi,x86_64-darwin
 314473499,python312Packages.rds2py,aarch64-darwin
 314473502,python312Packages.rds2py,x86_64-darwin
 316214629,python312Packages.recoll,aarch64-darwin
@@ -1794,7 +1778,6 @@ id,name,system
 314475062,python312Packages.scrapy-splash,aarch64-linux
 314475059,python312Packages.scrapy-splash,x86_64-darwin
 314474948,python312Packages.scrapy-splash,x86_64-linux
-316136349,python312Packages.snakemake,x86_64-darwin
 314475969,python312Packages.solidpython2,aarch64-darwin
 314475971,python312Packages.solidpython2,x86_64-darwin
 316220559,python312Packages.spectral-cube,aarch64-darwin
@@ -1961,10 +1944,6 @@ id,name,system
 314502626,python313Packages.nifty8,aarch64-darwin
 315356273,python313Packages.niquests,aarch64-darwin
 315356271,python313Packages.niquests,x86_64-darwin
-316235985,python313Packages.nitrokey,aarch64-darwin
-316235989,python313Packages.nitrokey,aarch64-linux
-316235986,python313Packages.nitrokey,x86_64-darwin
-316235988,python313Packages.nitrokey,x86_64-linux
 314503369,python313Packages.openbabel,aarch64-linux
 314503393,python313Packages.opencontainers,x86_64-darwin
 314503531,python313Packages.opentelemetry-instrumentation-botocore,aarch64-darwin
@@ -1976,8 +1955,6 @@ id,name,system
 316215200,python313Packages.pgmpy,aarch64-linux
 314504773,python313Packages.pilight,aarch64-darwin
 314504776,python313Packages.pilight,x86_64-darwin
-314505312,python313Packages.powerapi,aarch64-darwin
-314505307,python313Packages.powerapi,x86_64-darwin
 314505583,python313Packages.protobuf4,aarch64-darwin
 314505581,python313Packages.protobuf4,aarch64-linux
 314505589,python313Packages.protobuf4,x86_64-darwin
@@ -2040,13 +2017,12 @@ id,name,system
 316137289,python313Packages.pywebview,aarch64-darwin
 316097849,python313Packages.pywinbox,aarch64-darwin
 316097851,python313Packages.pywinbox,x86_64-darwin
-316221879,python313Packages.qtile-extras,x86_64-linux
 314511830,python313Packages.ratarmountcore,aarch64-darwin
 314511821,python313Packages.ratarmountcore,aarch64-linux
 314511826,python313Packages.ratarmountcore,x86_64-darwin
 314511828,python313Packages.ratarmountcore,x86_64-linux
-314511850,python313Packages.raylib-python-cffi,aarch64-darwin
-314511852,python313Packages.raylib-python-cffi,x86_64-darwin
+316265625,python313Packages.raylib-python-cffi,aarch64-darwin
+316265626,python313Packages.raylib-python-cffi,x86_64-darwin
 314511897,python313Packages.rds2py,aarch64-darwin
 314511887,python313Packages.rds2py,x86_64-darwin
 316215284,python313Packages.recoll,aarch64-darwin
@@ -2130,10 +2106,6 @@ id,name,system
 314522545,qt6.qttranslations,x86_64-darwin
 314522587,qt6Packages.appstream-qt,aarch64-darwin
 314522629,qt6Packages.mlt,aarch64-darwin
-316236066,qt6Packages.sierra-breeze-enhanced,aarch64-linux
-316236061,qt6Packages.sierra-breeze-enhanced,x86_64-linux
-316195697,qt6Packages.waylib,aarch64-linux
-316195698,qt6Packages.waylib,x86_64-linux
 314522892,qt6Packages.wayqt,aarch64-linux
 314522891,qt6Packages.wayqt,x86_64-linux
 314522970,qtwebapp,aarch64-darwin
