@@ -271,8 +271,7 @@ id,name,system
 314327113,ela-widget-tools,aarch64-darwin
 316110705,electricsheep,aarch64-linux
 316110704,electricsheep,x86_64-linux
-314327166,elf-dissector,aarch64-linux
-314327169,elf-dissector,x86_64-linux
+316401675,electrum,x86_64-darwin
 314327210,eli,aarch64-linux
 314327209,eli,x86_64-linux
 315102407,emiluaPlugins.tdlib,aarch64-linux
@@ -599,7 +598,6 @@ id,name,system
 316217215,home-assistant-component-tests.google_generative_ai_conversation,x86_64-linux
 316217488,home-assistant-component-tests.laundrify,aarch64-linux
 316217872,home-assistant-component-tests.openrgb,x86_64-linux
-316218254,home-assistant-component-tests.sonos,aarch64-linux
 316218605,home-assistant-component-tests.withings,aarch64-linux
 314371672,honeycomb-refinery,aarch64-linux
 314371826,hsd,aarch64-darwin
@@ -1263,6 +1261,7 @@ id,name,system
 314410779,open5gs-webui,aarch64-darwin
 314410787,open5gs-webui,x86_64-darwin
 314410842,openbabel,aarch64-linux
+316402008,opencloud,x86_64-darwin
 314410942,opencolorio_1,aarch64-darwin
 314410941,opencolorio_1,aarch64-linux
 314410944,opencolorio_1,x86_64-darwin
@@ -1296,8 +1295,6 @@ id,name,system
 314412263,owncloud-client,aarch64-darwin
 314412504,pam_gnupg,aarch64-darwin
 314412507,pam_gnupg,x86_64-darwin
-314412524,pam_pgsql,aarch64-linux
-314412525,pam_pgsql,x86_64-linux
 316195078,pantalaimon-headless,aarch64-linux
 316195074,pantalaimon-headless,x86_64-linux
 316195077,pantalaimon,aarch64-linux
@@ -1414,7 +1411,6 @@ id,name,system
 314439026,pike,aarch64-linux
 314439140,pinokio,x86_64-darwin
 316213674,pkgsRocm.opensplat,x86_64-linux
-316219102,pkgsRocm.python3Packages.ax-platform,x86_64-linux
 316219115,pkgsRocm.python3Packages.clu,x86_64-linux
 316213749,pkgsRocm.python3Packages.funsor,x86_64-linux
 316213931,pkgsRocm.python3Packages.mim-solvers,x86_64-linux
@@ -1522,14 +1518,13 @@ id,name,system
 316061110,python312Packages.ansible-runner,x86_64-darwin
 316038609,python312Packages.apache-beam,x86_64-darwin
 314446900,python312Packages.asyncua,x86_64-linux
-316219294,python312Packages.ax-platform,aarch64-linux
 316038637,python312Packages.bayesian-optimization,x86_64-linux
 315949817,python312Packages.blackjax,x86_64-linux
 316097124,python312Packages.bleak-retry-connector,aarch64-darwin
 316097125,python312Packages.bleak-retry-connector,x86_64-darwin
 316219319,python312Packages.blocksat-cli,aarch64-darwin
-316190699,python312Packages.bugwarrior,aarch64-darwin
-316190697,python312Packages.bugwarrior,x86_64-darwin
+316405721,python312Packages.bugwarrior,aarch64-darwin
+316405720,python312Packages.bugwarrior,x86_64-darwin
 314449022,python312Packages.canopen,aarch64-darwin
 316038714,python312Packages.cassandra-driver,aarch64-darwin
 316038712,python312Packages.cassandra-driver,x86_64-darwin
@@ -1542,8 +1537,8 @@ id,name,system
 314450264,python312Packages.control,aarch64-darwin
 314450265,python312Packages.control,x86_64-darwin
 314450446,python312Packages.crochet,aarch64-darwin
-316188381,python312Packages.dashscope,aarch64-darwin
-316188384,python312Packages.dashscope,x86_64-darwin
+316405762,python312Packages.dashscope,aarch64-darwin
+316405757,python312Packages.dashscope,x86_64-darwin
 316233061,python312Packages.deepsearch-glm,aarch64-darwin
 314451257,python312Packages.deepsearch-glm,aarch64-linux
 316233062,python312Packages.deepsearch-glm,x86_64-darwin
@@ -1556,6 +1551,8 @@ id,name,system
 314451528,python312Packages.diofant,aarch64-linux
 314451531,python312Packages.diofant,x86_64-darwin
 314451530,python312Packages.diofant,x86_64-linux
+316402255,python312Packages.django-celery-beat,aarch64-linux
+316402259,python312Packages.django-celery-beat,x86_64-linux
 315949937,python312Packages.django-q2,x86_64-darwin
 314452530,python312Packages.dmsuite,x86_64-darwin
 314452708,python312Packages.donut-shellcode,aarch64-darwin
@@ -1620,7 +1617,6 @@ id,name,system
 314459155,python312Packages.labgrid,aarch64-linux
 314459158,python312Packages.labgrid,x86_64-linux
 316402421,python312Packages.langsmith,x86_64-darwin
-316396249,python312Packages.lerobot,aarch64-linux
 314459660,python312Packages.libpwquality,aarch64-darwin
 314459666,python312Packages.libpwquality,x86_64-darwin
 314459672,python312Packages.libredwg,aarch64-darwin
@@ -1806,13 +1802,11 @@ id,name,system
 316130058,python313Packages.aiosql,x86_64-darwin
 316147986,python313Packages.amazon-ion,aarch64-darwin
 316136524,python313Packages.angr,x86_64-darwin
-316220735,python313Packages.ax-platform,aarch64-linux
-316220734,python313Packages.ax-platform,x86_64-linux
 316040253,python313Packages.bayesian-optimization,x86_64-linux
 316097571,python313Packages.bleak-retry-connector,aarch64-darwin
 316097567,python313Packages.bleak-retry-connector,x86_64-darwin
-316190750,python313Packages.bugwarrior,aarch64-darwin
-316190753,python313Packages.bugwarrior,x86_64-darwin
+316406344,python313Packages.bugwarrior,aarch64-darwin
+316406345,python313Packages.bugwarrior,x86_64-darwin
 314487512,python313Packages.canopen,aarch64-darwin
 314487513,python313Packages.canopen,x86_64-darwin
 314487735,python313Packages.cexprtk,aarch64-darwin
@@ -1831,8 +1825,8 @@ id,name,system
 314489206,python313Packages.cyclonedds-python,aarch64-linux
 314489209,python313Packages.cyclonedds-python,x86_64-darwin
 314489215,python313Packages.cyclonedds-python,x86_64-linux
-316188901,python313Packages.dashscope,aarch64-darwin
-316188902,python313Packages.dashscope,x86_64-darwin
+316406389,python313Packages.dashscope,aarch64-darwin
+316406396,python313Packages.dashscope,x86_64-darwin
 316065255,python313Packages.datafusion,aarch64-darwin
 316233403,python313Packages.deepsearch-glm,aarch64-darwin
 314489739,python313Packages.deepsearch-glm,aarch64-linux
@@ -1846,6 +1840,8 @@ id,name,system
 314490015,python313Packages.diofant,aarch64-linux
 314490012,python313Packages.diofant,x86_64-darwin
 314490019,python313Packages.diofant,x86_64-linux
+316402928,python313Packages.django-celery-beat,aarch64-linux
+316402930,python313Packages.django-celery-beat,x86_64-linux
 315950661,python313Packages.django-q2,aarch64-darwin
 315950662,python313Packages.django-q2,x86_64-darwin
 315393697,python313Packages.django_5,aarch64-darwin
@@ -1897,7 +1893,8 @@ id,name,system
 315322596,python313Packages.kopf,x86_64-darwin
 314497592,python313Packages.labgrid,aarch64-linux
 314497601,python313Packages.labgrid,x86_64-linux
-316397068,python313Packages.lerobot,aarch64-linux
+316402988,python313Packages.langchain,aarch64-darwin
+316403093,python313Packages.langsmith,aarch64-linux
 314498123,python313Packages.libpwquality,aarch64-darwin
 314498130,python313Packages.libpwquality,x86_64-darwin
 314498133,python313Packages.libredwg,aarch64-darwin
@@ -2021,7 +2018,6 @@ id,name,system
 314512970,python313Packages.salmon-mail,x86_64-darwin
 314512968,python313Packages.salmon-mail,x86_64-linux
 316137359,python313Packages.sanic-ext,aarch64-linux
-316137364,python313Packages.schedula,aarch64-linux
 314513752,python313Packages.scrapy-fake-useragent,aarch64-darwin
 314513556,python313Packages.scrapy-fake-useragent,aarch64-linux
 314513665,python313Packages.scrapy-fake-useragent,x86_64-darwin
@@ -2066,6 +2062,8 @@ id,name,system
 314521225,python313Packages.xtensor-python,x86_64-darwin
 314521241,python313Packages.xtensor-python,x86_64-linux
 315525805,python313Packages.zigpy,aarch64-linux
+316403432,pywal16,aarch64-darwin
+316403434,pywal16,x86_64-darwin
 316130817,qcm,aarch64-linux
 316130818,qcm,x86_64-linux
 315191350,qemu-python-utils,aarch64-darwin
