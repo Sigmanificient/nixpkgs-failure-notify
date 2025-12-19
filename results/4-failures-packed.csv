@@ -13,7 +13,6 @@ argagg,,,314309144,
 armTrustedFirmwareTools,,,314309480,314309709
 ath9k-htc-blobless-firmware,,314310158,,
 atlauncher,,315649857,,
-atuin-desktop,316393791,316393789,316393790,316393792
 avy,314310654,314310653,,
 aw-notify,,,316037873,316037877
 aws-sam-cli,316793267,316793266,316793264,316793265
@@ -165,6 +164,7 @@ fflas-ffpack,,,314329284,
 ffmpeg-full,,,,315167080
 filen-cli,,,314329523,314329521
 fira-math,,,316394187,316394185
+firefox-devedition-unwrapped,,316798389,,
 fishPlugins.pure,,,314329896,
 flatcc,,,314330071,314330067
 fldigi,,,314330108,314330112
@@ -182,6 +182,7 @@ fre,,,314330930,
 freelens-bin,,,314330991,314330988
 freepv,314331013,314331011,314331012,314331010
 fteqw,316798418,316798421,,
+fulcio,,,,316798422
 fx,,,314331435,
 g15daemon,,,314331481,314331480
 garble,314331685,314331684,,
@@ -342,9 +343,11 @@ ipfs-cluster,315393224,,,
 iqtree,314374905,,314374906,
 iqueue,314374910,,,
 irrlicht,,,314374960,314374958
+isabelle,,,316798537,316798535
 iverilog,,,314375133,
 jabcode-reader,314375195,,,
 jabcode-writer,314375198,,,
+jabref,316798547,316798548,,
 jarl,,,315378952,315378949
 jbofihe,,,314375492,314375490
 jdupes,,,314375588,314375594
@@ -803,13 +806,12 @@ phytool,,,314438843,314438842
 picat,,,314438865,314438863
 picolibc,,314438900,314438901,314438898
 pidginPackages.purple-lurch,316111486,316111488,,
-pike,,314439026,,
+pike,,316846784,,
 pinokio,,,314439140,
 pkgsRocm.calibre,316793451,,,
 pkgsRocm.opensplat,316793496,,,
 pkgsRocm.python3Packages.clu,316793616,,,
 pkgsRocm.python3Packages.funsor,316793563,,,
-pkgsRocm.python3Packages.mmengine,316793679,,,
 pkgsRocm.python3Packages.pymanopt,316793681,,,
 pkgsRocm.python3Packages.sirius,316793736,,,
 pkgsRocm.python3Packages.syne-tune,316793811,,,
@@ -817,9 +819,9 @@ pkgsRocm.python3Packages.tinygrad,316793746,,,
 pkgsRocm.python3Packages.torchao,316793772,,,
 pkgsRocm.python3Packages.torchcodec,316793754,,,
 pkgsRocm.python3Packages.torchdata,316793755,,,
-pkgsRocm.python3Packages.vllm,316793799,,,
+pkgsRocm.python3Packages.vllm,316846809,,,
 pkgsRocm.sirius,316793806,,,
-pkgsRocm.vllm,316793855,,,
+pkgsRocm.vllm,316846813,,,
 pkgsRocm.vtk-full,316395849,,,
 plakar,,,316092785,
 plasma5Packages.libcommuni,,,314440243,314440241
@@ -851,7 +853,6 @@ prime-server,,,314443290,314443288
 prometheus-mikrotik-exporter,,,314443660,314443657
 prometheus-statsd-exporter,,,314443815,
 proteus,314443898,314443896,,
-prowlarr,316214079,,,
 prox,,,314444143,
 puredata,,,314444549,314444546
 pvsneslib,314444592,314444591,314444590,314444589
@@ -1036,7 +1037,6 @@ python313Packages.johnnycanencrypt,314496789,314496776,314496777,314496778
 python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,,315322597,315322596,
 python313Packages.labgrid,314497601,314497592,,
-python313Packages.langchain,,,,316402988
 python313Packages.langsmith,,316403093,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
@@ -1048,7 +1048,6 @@ python313Packages.mlt,,,314500087,314500088
 python313Packages.mlx,,,,316794467
 python313Packages.monosat,316235946,316235950,316235931,316235940
 python313Packages.myhdl,314500785,,,
-python313Packages.nats-py,,,314502253,
 python313Packages.netgen-mesher,,,316111940,316111937
 python313Packages.nifty8,,,,316794510
 python313Packages.niquests,,,315356271,315356273
@@ -1067,6 +1066,8 @@ python313Packages.py-multiaddr,314505963,314505949,314505958,314505962
 python313Packages.py-slvs,314506013,314506004,314506006,314506009
 python313Packages.pyamg,,,314506154,314506149
 python313Packages.pycoin,,,,314506481
+python313Packages.pygame-ce,,,316799924,
+python313Packages.pygame,316799922,,,
 python313Packages.pyhanko,,,316221813,316221812
 python313Packages.pyinfra,314507442,314507430,314507450,314507433
 python313Packages.pyitachip2ir,,,314507496,314507493
@@ -1076,6 +1077,7 @@ python313Packages.pymssql,314508051,314508056,314508057,314508058
 python313Packages.pyopen-wakeword,,316092984,,
 python313Packages.pyopencl,,,316794573,
 python313Packages.pyscf,,,,314508937
+python313Packages.pysdl2,,,316799950,
 python313Packages.pysdl3,,,314508981,314508984
 python313Packages.pyside6-qtads,,,,316137233
 python313Packages.pysnooper,,,314509195,314509193
@@ -1267,7 +1269,6 @@ tests.cc-wrapper.llvmTests.llvmPackages_19.clang,,,314543100,314543103
 tests.cc-wrapper.llvmTests.llvmPackages_19.libcxx,,,314543118,314543109
 tests.cc-wrapper.llvmTests.llvmPackages_20.clang,,,314543108,314543105
 tests.cc-wrapper.llvmTests.llvmPackages_21.clang,,,314543120,314543117
-tests.devShellTools.nixos,316236125,316236126,,
 tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,,,314543914,314543920
 tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,314543987,314543988
 tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,314544015,314544004

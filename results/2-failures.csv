@@ -16,10 +16,6 @@ id,name,system
 314309480,armTrustedFirmwareTools,x86_64-darwin
 314310158,ath9k-htc-blobless-firmware,aarch64-linux
 315649857,atlauncher,aarch64-linux
-316393792,atuin-desktop,aarch64-darwin
-316393789,atuin-desktop,aarch64-linux
-316393790,atuin-desktop,x86_64-darwin
-316393791,atuin-desktop,x86_64-linux
 314310653,avy,aarch64-linux
 314310654,avy,x86_64-linux
 316037877,aw-notify,aarch64-darwin
@@ -312,6 +308,7 @@ id,name,system
 314329523,filen-cli,x86_64-darwin
 316394185,fira-math,aarch64-darwin
 316394187,fira-math,x86_64-darwin
+316798389,firefox-devedition-unwrapped,aarch64-linux
 314329896,fishPlugins.pure,x86_64-darwin
 314330067,flatcc,aarch64-darwin
 314330071,flatcc,x86_64-darwin
@@ -345,6 +342,7 @@ id,name,system
 314331013,freepv,x86_64-linux
 316798421,fteqw,aarch64-linux
 316798418,fteqw,x86_64-linux
+316798422,fulcio,aarch64-darwin
 314331435,fx,x86_64-darwin
 314331480,g15daemon,aarch64-darwin
 314331481,g15daemon,x86_64-darwin
@@ -657,9 +655,13 @@ id,name,system
 314374910,iqueue,x86_64-linux
 314374958,irrlicht,aarch64-darwin
 314374960,irrlicht,x86_64-darwin
+316798535,isabelle,aarch64-darwin
+316798537,isabelle,x86_64-darwin
 314375133,iverilog,x86_64-darwin
 314375195,jabcode-reader,x86_64-linux
 314375198,jabcode-writer,x86_64-linux
+316798548,jabref,aarch64-linux
+316798547,jabref,x86_64-linux
 315378949,jarl,aarch64-darwin
 315378952,jarl,x86_64-darwin
 314375490,jbofihe,aarch64-darwin
@@ -1405,13 +1407,12 @@ id,name,system
 314438901,picolibc,x86_64-darwin
 316111488,pidginPackages.purple-lurch,aarch64-linux
 316111486,pidginPackages.purple-lurch,x86_64-linux
-314439026,pike,aarch64-linux
+316846784,pike,aarch64-linux
 314439140,pinokio,x86_64-darwin
 316793451,pkgsRocm.calibre,x86_64-linux
 316793496,pkgsRocm.opensplat,x86_64-linux
 316793616,pkgsRocm.python3Packages.clu,x86_64-linux
 316793563,pkgsRocm.python3Packages.funsor,x86_64-linux
-316793679,pkgsRocm.python3Packages.mmengine,x86_64-linux
 316793681,pkgsRocm.python3Packages.pymanopt,x86_64-linux
 316793736,pkgsRocm.python3Packages.sirius,x86_64-linux
 316793811,pkgsRocm.python3Packages.syne-tune,x86_64-linux
@@ -1419,9 +1420,9 @@ id,name,system
 316793772,pkgsRocm.python3Packages.torchao,x86_64-linux
 316793754,pkgsRocm.python3Packages.torchcodec,x86_64-linux
 316793755,pkgsRocm.python3Packages.torchdata,x86_64-linux
-316793799,pkgsRocm.python3Packages.vllm,x86_64-linux
+316846809,pkgsRocm.python3Packages.vllm,x86_64-linux
 316793806,pkgsRocm.sirius,x86_64-linux
-316793855,pkgsRocm.vllm,x86_64-linux
+316846813,pkgsRocm.vllm,x86_64-linux
 316395849,pkgsRocm.vtk-full,x86_64-linux
 316092785,plakar,x86_64-darwin
 314440241,plasma5Packages.libcommuni,aarch64-darwin
@@ -1486,7 +1487,6 @@ id,name,system
 314443815,prometheus-statsd-exporter,x86_64-darwin
 314443896,proteus,aarch64-linux
 314443898,proteus,x86_64-linux
-316214079,prowlarr,x86_64-linux
 314444143,prox,x86_64-darwin
 314444546,puredata,aarch64-darwin
 314444549,puredata,x86_64-darwin
@@ -1886,7 +1886,6 @@ id,name,system
 315322596,python313Packages.kopf,x86_64-darwin
 314497592,python313Packages.labgrid,aarch64-linux
 314497601,python313Packages.labgrid,x86_64-linux
-316402988,python313Packages.langchain,aarch64-darwin
 316403093,python313Packages.langsmith,aarch64-linux
 314498123,python313Packages.libpwquality,aarch64-darwin
 314498130,python313Packages.libpwquality,x86_64-darwin
@@ -1908,7 +1907,6 @@ id,name,system
 316235931,python313Packages.monosat,x86_64-darwin
 316235946,python313Packages.monosat,x86_64-linux
 314500785,python313Packages.myhdl,x86_64-linux
-314502253,python313Packages.nats-py,x86_64-darwin
 316111937,python313Packages.netgen-mesher,aarch64-darwin
 316111940,python313Packages.netgen-mesher,x86_64-darwin
 316794510,python313Packages.nifty8,aarch64-darwin
@@ -1946,6 +1944,8 @@ id,name,system
 314506149,python313Packages.pyamg,aarch64-darwin
 314506154,python313Packages.pyamg,x86_64-darwin
 314506481,python313Packages.pycoin,aarch64-darwin
+316799924,python313Packages.pygame-ce,x86_64-darwin
+316799922,python313Packages.pygame,x86_64-linux
 316221812,python313Packages.pyhanko,aarch64-darwin
 316221813,python313Packages.pyhanko,x86_64-darwin
 314507433,python313Packages.pyinfra,aarch64-darwin
@@ -1964,6 +1964,7 @@ id,name,system
 316092984,python313Packages.pyopen-wakeword,aarch64-linux
 316794573,python313Packages.pyopencl,x86_64-darwin
 314508937,python313Packages.pyscf,aarch64-darwin
+316799950,python313Packages.pysdl2,x86_64-darwin
 314508984,python313Packages.pysdl3,aarch64-darwin
 314508981,python313Packages.pysdl3,x86_64-darwin
 316137233,python313Packages.pyside6-qtads,aarch64-darwin
@@ -2335,8 +2336,6 @@ id,name,system
 314543108,tests.cc-wrapper.llvmTests.llvmPackages_20.clang,x86_64-darwin
 314543117,tests.cc-wrapper.llvmTests.llvmPackages_21.clang,aarch64-darwin
 314543120,tests.cc-wrapper.llvmTests.llvmPackages_21.clang,x86_64-darwin
-316236126,tests.devShellTools.nixos,aarch64-linux
-316236125,tests.devShellTools.nixos,x86_64-linux
 314543920,tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,aarch64-darwin
 314543914,tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,x86_64-darwin
 314543988,tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,aarch64-darwin
