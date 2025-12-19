@@ -706,13 +706,10 @@ id,name,system
 314377042,kcl-language-server,aarch64-linux
 314377044,kcl-language-server,x86_64-linux
 314377116,kdePackages.appstream-qt,aarch64-darwin
-316394655,kdePackages.dolphin-plugins,x86_64-linux
-316394846,kdePackages.kpublictransport,x86_64-linux
 314377830,kdePackages.mlt,aarch64-darwin
-316394981,kdePackages.plasma-integration,x86_64-linux
 314378126,kdePackages.qttranslations,x86_64-darwin
-316395031,kdePackages.sierra-breeze-enhanced,aarch64-linux
-316395032,kdePackages.sierra-breeze-enhanced,x86_64-linux
+316852798,kdePackages.sierra-breeze-enhanced,aarch64-linux
+316852818,kdePackages.sierra-breeze-enhanced,x86_64-linux
 316395053,kdePackages.waylib,aarch64-linux
 316395057,kdePackages.waylib,x86_64-linux
 314378367,kdePackages.wayqt,aarch64-linux
@@ -929,7 +926,6 @@ id,name,system
 314387283,linuxKernel.packages.linux_hardened.odp-dpdk,x86_64-linux
 315379713,linuxKernel.packages.linux_hardened.tbs,aarch64-linux
 315379714,linuxKernel.packages.linux_hardened.tsme-test,aarch64-linux
-316242994,linuxKernel.packages.linux_lqx.bcachefs,x86_64-linux
 316242961,linuxKernel.packages.linux_lqx.digimend,x86_64-linux
 316243006,linuxKernel.packages.linux_lqx.lttng-modules,x86_64-linux
 316242992,linuxKernel.packages.linux_lqx.mba6x_bl,x86_64-linux
@@ -1000,7 +996,6 @@ id,name,system
 316194729,linuxPackages_latest.rtl8852bu,x86_64-linux
 316194756,linuxPackages_latest.tsme-test,aarch64-linux
 316194778,linuxPackages_latest.vmm_clock,x86_64-linux
-316243078,linuxPackages_lqx.bcachefs,x86_64-linux
 316243086,linuxPackages_lqx.digimend,x86_64-linux
 316243114,linuxPackages_lqx.lttng-modules,x86_64-linux
 316243116,linuxPackages_lqx.mba6x_bl,x86_64-linux
@@ -1281,7 +1276,7 @@ id,name,system
 314411459,opensaml-cpp,aarch64-linux
 314411460,opensaml-cpp,x86_64-darwin
 314411462,opensaml-cpp,x86_64-linux
-315523558,openscad-unstable,aarch64-linux
+316853021,openscad-unstable,aarch64-linux
 314411773,ophcrack,aarch64-darwin
 314411772,ophcrack,x86_64-darwin
 314411794,opl3bankeditor,aarch64-darwin
@@ -1414,14 +1409,14 @@ id,name,system
 316793616,pkgsRocm.python3Packages.clu,x86_64-linux
 316793563,pkgsRocm.python3Packages.funsor,x86_64-linux
 316793681,pkgsRocm.python3Packages.pymanopt,x86_64-linux
-316793736,pkgsRocm.python3Packages.sirius,x86_64-linux
+316853053,pkgsRocm.python3Packages.sirius,x86_64-linux
 316793811,pkgsRocm.python3Packages.syne-tune,x86_64-linux
 316793746,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 316793772,pkgsRocm.python3Packages.torchao,x86_64-linux
 316793754,pkgsRocm.python3Packages.torchcodec,x86_64-linux
 316793755,pkgsRocm.python3Packages.torchdata,x86_64-linux
 316846809,pkgsRocm.python3Packages.vllm,x86_64-linux
-316793806,pkgsRocm.sirius,x86_64-linux
+316853055,pkgsRocm.sirius,x86_64-linux
 316846813,pkgsRocm.vllm,x86_64-linux
 316395849,pkgsRocm.vtk-full,x86_64-linux
 316092785,plakar,x86_64-darwin
@@ -1498,6 +1493,8 @@ id,name,system
 314444743,pyinfra,aarch64-linux
 314444746,pyinfra,x86_64-darwin
 314444747,pyinfra,x86_64-linux
+316846833,python312Packages.agate,aarch64-darwin
+316846824,python312Packages.agate,x86_64-darwin
 314445747,python312Packages.aiorwlock,aarch64-darwin
 314445749,python312Packages.aiorwlock,aarch64-linux
 314445750,python312Packages.aiorwlock,x86_64-darwin
@@ -1606,6 +1603,7 @@ id,name,system
 315107384,python312Packages.kserve-storage,x86_64-darwin
 314459155,python312Packages.labgrid,aarch64-linux
 314459158,python312Packages.labgrid,x86_64-linux
+316846900,python312Packages.lancedb,aarch64-darwin
 316402421,python312Packages.langsmith,x86_64-darwin
 314459660,python312Packages.libpwquality,aarch64-darwin
 314459666,python312Packages.libpwquality,x86_64-darwin
@@ -1785,6 +1783,8 @@ id,name,system
 314482866,python312Packages.xtensor-python,x86_64-darwin
 314482868,python312Packages.xtensor-python,x86_64-linux
 316040158,python312Packages.zodb,aarch64-darwin
+316847084,python313Packages.agate,aarch64-darwin
+316847085,python313Packages.agate,x86_64-darwin
 314484255,python313Packages.aiorwlock,aarch64-darwin
 314484254,python313Packages.aiorwlock,aarch64-linux
 314484256,python313Packages.aiorwlock,x86_64-darwin
@@ -1885,6 +1885,7 @@ id,name,system
 315322596,python313Packages.kopf,x86_64-darwin
 314497592,python313Packages.labgrid,aarch64-linux
 314497601,python313Packages.labgrid,x86_64-linux
+316847192,python313Packages.lancedb,x86_64-darwin
 316403093,python313Packages.langsmith,aarch64-linux
 314498123,python313Packages.libpwquality,aarch64-darwin
 314498130,python313Packages.libpwquality,x86_64-darwin
@@ -1906,6 +1907,7 @@ id,name,system
 316235931,python313Packages.monosat,x86_64-darwin
 316235946,python313Packages.monosat,x86_64-linux
 314500785,python313Packages.myhdl,x86_64-linux
+316847296,python313Packages.nats-py,aarch64-linux
 316111937,python313Packages.netgen-mesher,aarch64-darwin
 316111940,python313Packages.netgen-mesher,x86_64-darwin
 316794510,python313Packages.nifty8,aarch64-darwin
@@ -2077,8 +2079,8 @@ id,name,system
 314522545,qt6.qttranslations,x86_64-darwin
 314522587,qt6Packages.appstream-qt,aarch64-darwin
 314522629,qt6Packages.mlt,aarch64-darwin
-316397603,qt6Packages.sierra-breeze-enhanced,aarch64-linux
-316397604,qt6Packages.sierra-breeze-enhanced,x86_64-linux
+316853147,qt6Packages.sierra-breeze-enhanced,aarch64-linux
+316853148,qt6Packages.sierra-breeze-enhanced,x86_64-linux
 316397600,qt6Packages.waylib,aarch64-linux
 316397601,qt6Packages.waylib,x86_64-linux
 314522892,qt6Packages.wayqt,aarch64-linux

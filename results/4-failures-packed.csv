@@ -372,12 +372,9 @@ kanidm_1_8,,,316242933,
 karlyriceditor,314377038,314376942,,
 kcl-language-server,314377044,314377042,,
 kdePackages.appstream-qt,,,,314377116
-kdePackages.dolphin-plugins,316394655,,,
-kdePackages.kpublictransport,316394846,,,
 kdePackages.mlt,,,,314377830
-kdePackages.plasma-integration,316394981,,,
 kdePackages.qttranslations,,,314378126,
-kdePackages.sierra-breeze-enhanced,316395032,316395031,,
+kdePackages.sierra-breeze-enhanced,316852818,316852798,,
 kdePackages.waylib,316395057,316395053,,
 kdePackages.wayqt,314378305,314378367,,
 kdesvn,314378302,314378254,,
@@ -512,7 +509,6 @@ linuxKernel.packages.linux_hardened.mbp2018-bridge-drv,314387257,315379682,,
 linuxKernel.packages.linux_hardened.odp-dpdk,314387283,,,
 linuxKernel.packages.linux_hardened.tbs,,315379713,,
 linuxKernel.packages.linux_hardened.tsme-test,,315379714,,
-linuxKernel.packages.linux_lqx.bcachefs,316242994,,,
 linuxKernel.packages.linux_lqx.digimend,316242961,,,
 linuxKernel.packages.linux_lqx.lttng-modules,316243006,,,
 linuxKernel.packages.linux_lqx.mba6x_bl,316242992,,,
@@ -571,7 +567,6 @@ linuxPackages_latest.rtl8821cu,316194727,316194730,,
 linuxPackages_latest.rtl8852bu,316194729,,,
 linuxPackages_latest.tsme-test,,316194756,,
 linuxPackages_latest.vmm_clock,316194778,,,
-linuxPackages_lqx.bcachefs,316243078,,,
 linuxPackages_lqx.digimend,316243086,,,
 linuxPackages_lqx.lttng-modules,316243114,,,
 linuxPackages_lqx.mba6x_bl,316243116,,,
@@ -736,7 +731,7 @@ openmvs,,314411310,,
 openpa,,,314411350,314411348
 openroad,,316056972,,
 opensaml-cpp,314411462,314411459,314411460,314411458
-openscad-unstable,,315523558,,
+openscad-unstable,,316853021,,
 ophcrack,,,314411772,314411773
 opl3bankeditor,,,,314411794
 opn2bankeditor,,,,314411801
@@ -813,14 +808,14 @@ pkgsRocm.opensplat,316793496,,,
 pkgsRocm.python3Packages.clu,316793616,,,
 pkgsRocm.python3Packages.funsor,316793563,,,
 pkgsRocm.python3Packages.pymanopt,316793681,,,
-pkgsRocm.python3Packages.sirius,316793736,,,
+pkgsRocm.python3Packages.sirius,316853053,,,
 pkgsRocm.python3Packages.syne-tune,316793811,,,
 pkgsRocm.python3Packages.tinygrad,316793746,,,
 pkgsRocm.python3Packages.torchao,316793772,,,
 pkgsRocm.python3Packages.torchcodec,316793754,,,
 pkgsRocm.python3Packages.torchdata,316793755,,,
 pkgsRocm.python3Packages.vllm,316846809,,,
-pkgsRocm.sirius,316793806,,,
+pkgsRocm.sirius,316853055,,,
 pkgsRocm.vllm,316846813,,,
 pkgsRocm.vtk-full,316395849,,,
 plakar,,,316092785,
@@ -857,6 +852,7 @@ puredata,,,314444549,314444546
 pvsneslib,314444592,314444591,314444590,314444589
 pycoin,,,,314444697
 pyinfra,314444747,314444743,314444746,314444740
+python312Packages.agate,,,316846824,316846833
 python312Packages.aiorwlock,314445752,314445749,314445750,314445747
 python312Packages.aiosonic,,,316104295,316104293
 python312Packages.aiosql,,,316129282,
@@ -908,6 +904,7 @@ python312Packages.klayout,,,314459007,314459005
 python312Packages.kopf,,,315322392,315322393
 python312Packages.kserve-storage,,,315107384,315107385
 python312Packages.labgrid,314459158,314459155,,
+python312Packages.lancedb,,,,316846900
 python312Packages.langsmith,,,316402421,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
@@ -990,6 +987,7 @@ python312Packages.webassets,,,314482183,314482177
 python312Packages.ws4py,,,314482532,314482534
 python312Packages.xtensor-python,314482868,314482863,314482866,314482862
 python312Packages.zodb,,,,316040158
+python313Packages.agate,,,316847085,316847084
 python313Packages.aiorwlock,314484257,314484254,314484256,314484255
 python313Packages.aiosonic,,,316104425,316104422
 python313Packages.aiosql,,,316130058,
@@ -1036,6 +1034,7 @@ python313Packages.johnnycanencrypt,314496789,314496776,314496777,314496778
 python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,,315322597,315322596,
 python313Packages.labgrid,314497601,314497592,,
+python313Packages.lancedb,,,316847192,
 python313Packages.langsmith,,316403093,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
@@ -1047,6 +1046,7 @@ python313Packages.mlt,,,314500087,314500088
 python313Packages.mlx,,,,316794467
 python313Packages.monosat,316235946,316235950,316235931,316235940
 python313Packages.myhdl,314500785,,,
+python313Packages.nats-py,,316847296,,
 python313Packages.netgen-mesher,,,316111940,316111937
 python313Packages.nifty8,,,,316794510
 python313Packages.niquests,,,315356271,315356273
@@ -1135,7 +1135,7 @@ qrq,,,314522200,314522198
 qt6.qttranslations,,,314522545,
 qt6Packages.appstream-qt,,,,314522587
 qt6Packages.mlt,,,,314522629
-qt6Packages.sierra-breeze-enhanced,316397604,316397603,,
+qt6Packages.sierra-breeze-enhanced,316853148,316853147,,
 qt6Packages.waylib,316397601,316397600,,
 qt6Packages.wayqt,314522891,314522892,,
 qtwebapp,,,,314522970
