@@ -1474,7 +1474,6 @@ id,name,system
 314442862,postgresqlPackages.pgvectorscale,x86_64-linux
 314442976,postsrsd,aarch64-darwin
 314442974,postsrsd,x86_64-darwin
-316395926,power-profiles-daemon,aarch64-linux
 314443090,powertabeditor,aarch64-darwin
 315190748,pq-cli,aarch64-darwin
 315190751,pq-cli,aarch64-linux

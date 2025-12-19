@@ -846,7 +846,6 @@ postgresql18Packages.pgvectorscale,314442605,,,
 postgresqlPackages.omnigres,314442792,314442722,314442781,314442710
 postgresqlPackages.pgvectorscale,314442862,,,
 postsrsd,,,314442974,314442976
-power-profiles-daemon,,316395926,,
 powertabeditor,,,,314443090
 pq-cli,315190749,315190751,315190750,315190748
 prime-server,,,314443290,314443288
