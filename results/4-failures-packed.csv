@@ -16,7 +16,7 @@ ath9k-htc-blobless-firmware,,314310158,,
 atlauncher,,315649857,,
 avy,314310654,314310653,,
 aw-notify,,,316037873,316037877
-aws-sam-cli,316793267,316793266,316793264,316793265
+aws-sam-cli,316903339,316903341,316903336,316903337
 aws-sdk-cpp,,,314310783,
 azahar,,,,316128571
 azurehound,315112590,,,
@@ -344,6 +344,7 @@ iqtree,314374905,,314374906,
 iqueue,314374910,,,
 irrlicht,,,314374960,314374958
 isabelle,,,316798537,316798535
+ispc,,,316895872,
 iverilog,,,314375133,
 jabcode-reader,314375195,,,
 jabcode-writer,314375198,,,
@@ -630,6 +631,7 @@ mcfm,314397033,,314397036,
 mediaelch-qt5,314397361,314397360,,
 mediasynclite,,,314397385,314397380
 meli,314397489,314397479,314397492,314397477
+memos,,,316899355,
 metapixel,,,314397735,314397733
 meteor,314397751,,314397750,
 mgmt,,,314397840,314397836
@@ -812,7 +814,7 @@ pkgsRocm.python3Packages.clu,316793616,,,
 pkgsRocm.python3Packages.funsor,316793563,,,
 pkgsRocm.python3Packages.pymanopt,316793681,,,
 pkgsRocm.python3Packages.sirius,316853053,,,
-pkgsRocm.python3Packages.syne-tune,316793811,,,
+pkgsRocm.python3Packages.syne-tune,316903596,,,
 pkgsRocm.python3Packages.tinygrad,316793746,,,
 pkgsRocm.python3Packages.torchao,316793772,,,
 pkgsRocm.python3Packages.torchcodec,316793754,,,
@@ -909,6 +911,7 @@ python312Packages.kserve-storage,,,315107384,315107385
 python312Packages.labgrid,314459158,314459155,,
 python312Packages.lancedb,,,,316846900
 python312Packages.langsmith,,,316402421,
+python312Packages.lerobot,,316899711,,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
 python312Packages.line-profiler,314459853,314459850,314459847,314459840
@@ -962,7 +965,6 @@ python312Packages.pywebview,,,,316136225
 python312Packages.pywinbox,,,316097409,316097410
 python312Packages.qtile-extras,316396591,316396590,,
 python312Packages.quil,,314473316,314473313,314473312
-python312Packages.ratarmountcore,314473500,314473434,314473442,314473433
 python312Packages.raylib-python-cffi,,,316265376,316265382
 python312Packages.rds2py,,,314473502,314473499
 python312Packages.recoll,,,316214630,316214629
@@ -978,7 +980,6 @@ python312Packages.soxr,,,316794197,
 python312Packages.spectral-cube,,,,316220559
 python312Packages.srctools,,314476799,,314476701
 python312Packages.swh-journal,,316129991,,
-python312Packages.syne-tune,316214690,316214689,,
 python312Packages.tiledb,,,316396718,316396715
 python312Packages.tinyio,,,,314478137
 python312Packages.torch-geometric,,,314478299,314478297
@@ -1039,6 +1040,7 @@ python313Packages.kopf,,315322597,315322596,
 python313Packages.labgrid,314497601,314497592,,
 python313Packages.lancedb,,,316847192,
 python313Packages.langsmith,,316403093,,
+python313Packages.lerobot,,316900130,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
 python313Packages.line-profiler,314498310,314498308,314498311,314498309
@@ -1083,7 +1085,7 @@ python313Packages.pysdl2,,,316799950,
 python313Packages.pysdl3,,,314508981,314508984
 python313Packages.pyside6-qtads,,,,316137233
 python313Packages.pysnooper,,,314509195,314509193
-python313Packages.pysqlcipher3,314509295,314509296,314509289,314509287
+python313Packages.pysqlcipher3,316903831,316903833,316903832,316903834
 python313Packages.pystatgrab,,,314509346,
 python313Packages.python-binance,316137267,316137266,316137265,316137264
 python313Packages.python-djvulibre,,,314510225,314510220
@@ -1094,7 +1096,6 @@ python313Packages.python-redis-lock,,,315951060,315951061
 python313Packages.pywebview,,,,316137289
 python313Packages.pywinbox,,,316097851,316097849
 python313Packages.qtile-extras,316397398,,,
-python313Packages.ratarmountcore,314511828,314511821,314511826,314511830
 python313Packages.raylib-python-cffi,,,316265626,316265625
 python313Packages.rds2py,,,314511887,314511897
 python313Packages.recoll,,,316215292,316215284
@@ -1112,7 +1113,7 @@ python313Packages.soxr,,,316794611,
 python313Packages.spectral-cube,,,,316221991
 python313Packages.srctools,,314515048,,314515046
 python313Packages.swh-shard,,,314515682,314515678
-python313Packages.syne-tune,316215346,316215344,,
+python313Packages.syne-tune,,316903884,,
 python313Packages.tiledb,,,316397512,316397514
 python313Packages.tinyio,,,314516523,
 python313Packages.torch-geometric,,,314516679,314516684
@@ -1167,10 +1168,11 @@ repomix,,,316130833,
 reprepro,,,314524310,314524309
 reproxy,,316041812,,
 rescrobbled,,,314524353,314524351
+restish,316900530,,,
 retdec,314524442,,,
 rethinkdb,,,314524450,314524448
 retrofe,316800520,316800521,,
-retroshare,314524478,314524477,,
+retroshare,316903928,316903927,,
 rhvoice,,,314524588,314524586
 rictydiminished-with-firacode,,,314524607,314524604
 ristate,,,314524764,314524761
