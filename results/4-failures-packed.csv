@@ -6,10 +6,10 @@ akkoma-admin-fe,,,316852198,316852196
 alice-tools-qt6,,,,314307817
 aligator,,316793244,,
 angelscript,,,314308185,
-apacheHttpdPackages.mod_tile,316393768,316393769,,
-apacheHttpdPackages_2_4.mod_tile,316393771,316393770,,
+apacheHttpdPackages.mod_tile,316983870,316983868,,
+apacheHttpdPackages_2_4.mod_tile,316983871,316983869,,
 apftool-rs,,314308792,,
-applgrid,,316094330,,
+applgrid,,316983879,,
 arftracksat,,,316903330,316903333
 argagg,,,314309144,
 armTrustedFirmwareTools,,,314309480,314309709
@@ -32,7 +32,6 @@ blockstream-electrs,316401572,,,
 bodyclose,314313659,314313656,314313658,314313657
 bonzomatic,314313738,,,
 bootil,,,314313842,314313843
-borgmatic,,,,316133536
 brewtarget,,,,314314293
 brickstore,314314106,314314116,,
 brlcad,314314115,,,
@@ -182,7 +181,7 @@ foxtrotgps,,,315102528,315102529
 framac,,,,316928760
 frawk,314330928,314330926,314330927,314330925
 fre,,,314330930,
-freelens-bin,,,314330991,314330988
+freelens-bin,,,316981333,316981330
 freepv,314331013,314331011,314331012,314331010
 fteqw,316798418,316798421,,
 fulcio,,,,316798422
@@ -428,11 +427,10 @@ libsForQt5.qoauth,,,314383764,314383767
 libsForQt5.qtmpris,,,314384004,314384006
 libsigsegv,,,314384282,
 libtapi,,314384460,,
-libucontext,,314384613,,
 libui-ng,,,314384645,314384633
 libui,,,314384631,314384626
 libuiohook,,,314384627,
-libxc_7,,,314384909,
+libxc_7,,,316981420,
 lightway,,,,314385355
 lilypond,,,316213383,316213379
 link-grammar,,,314385460,
@@ -502,7 +500,6 @@ linuxKernel.packages.linux_6_18.liquidtux,316897282,,,
 linuxKernel.packages.linux_6_18.mba6x_bl,316897279,316897278,,
 linuxKernel.packages.linux_6_18.mbp2018-bridge-drv,316897281,316897280,,
 linuxKernel.packages.linux_6_18.msi-ec,,316897309,,
-linuxKernel.packages.linux_6_18.nvidia_x11_vulkan_beta_open,316897340,316897322,,
 linuxKernel.packages.linux_6_18.odp-dpdk,315354239,,,
 linuxKernel.packages.linux_6_18.rtl8821cu,316897332,316897334,,
 linuxKernel.packages.linux_6_18.rtl8852bu,316897349,,,
@@ -551,7 +548,6 @@ linuxKernel.packages.linux_zen.jool,316898268,,,
 linuxKernel.packages.linux_zen.liquidtux,316898340,,,
 linuxKernel.packages.linux_zen.mba6x_bl,316898300,,,
 linuxKernel.packages.linux_zen.mbp2018-bridge-drv,316898287,,,
-linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open,316898303,,,
 linuxKernel.packages.linux_zen.odp-dpdk,314387989,,,
 linuxKernel.packages.linux_zen.rtl8821cu,316898306,,,
 linuxKernel.packages.linux_zen.rtl8852bu,316898309,,,
@@ -573,7 +569,6 @@ linuxPackages_latest.liquidtux,316898640,,,
 linuxPackages_latest.mba6x_bl,316898645,316898642,,
 linuxPackages_latest.mbp2018-bridge-drv,316898641,316898643,,
 linuxPackages_latest.msi-ec,,316898649,,
-linuxPackages_latest.nvidia_x11_vulkan_beta_open,316898669,316898672,,
 linuxPackages_latest.odp-dpdk,314388393,,,
 linuxPackages_latest.rtl8821cu,316898692,316898694,,
 linuxPackages_latest.rtl8852bu,316898697,,,
@@ -607,7 +602,6 @@ linuxPackages_zen.jool,316899231,,,
 linuxPackages_zen.liquidtux,316899234,,,
 linuxPackages_zen.mba6x_bl,316899239,,,
 linuxPackages_zen.mbp2018-bridge-drv,316899236,,,
-linuxPackages_zen.nvidia_x11_vulkan_beta_open,316899253,,,
 linuxPackages_zen.odp-dpdk,314389088,,,
 linuxPackages_zen.rtl8821cu,316899267,,,
 linuxPackages_zen.rtl8852bu,316899268,,,
@@ -638,7 +632,6 @@ mcfm,314397033,,314397036,
 mediaelch-qt5,314397361,314397360,,
 mediasynclite,,,314397385,314397380
 meli,314397489,314397479,314397492,314397477
-memos,,,316899355,
 metapixel,,,314397735,314397733
 meteor,314397751,,314397750,
 mgmt,,,314397840,314397836
@@ -706,8 +699,8 @@ nushellPlugins.semver,,,315390072,315390071
 nvidia-mig-parted,,,315519793,315519791
 nvramtool,,314404570,,
 obitools3,314404743,314404742,314404744,314404741
-obs-studio-plugins.obs-color-monitor,316064700,316064696,,
-obs-studio-plugins.obs-vertical-canvas,316064773,316064750,,
+obs-studio-plugins.obs-color-monitor,316981503,316981502,,
+obs-studio-plugins.obs-vertical-canvas,316981571,316981570,,
 ocamlPackages.class_group_vdf,,,315946557,315946490
 ocamlPackages.ecaml,,,316187267,316187291
 ocamlPackages.eigen,,,314405952,
@@ -818,18 +811,18 @@ pinokio,,,314439140,
 pkgsRocm.calibre,316793451,,,
 pkgsRocm.opensplat,316793496,,,
 pkgsRocm.python3Packages.ax-platform,316933800,,,
-pkgsRocm.python3Packages.clu,316933808,,,
+pkgsRocm.python3Packages.clu,316981632,,,
 pkgsRocm.python3Packages.funsor,316793563,,,
+pkgsRocm.python3Packages.gpaw,316981631,,,
 pkgsRocm.python3Packages.pymanopt,316793681,,,
-pkgsRocm.python3Packages.sirius,316853053,,,
+pkgsRocm.python3Packages.sirius,316981634,,,
 pkgsRocm.python3Packages.tinygrad,316793746,,,
 pkgsRocm.python3Packages.torchao,316793772,,,
 pkgsRocm.python3Packages.torchcodec,316793754,,,
 pkgsRocm.python3Packages.torchdata,316793755,,,
 pkgsRocm.python3Packages.vllm,316846809,,,
-pkgsRocm.sirius,316853055,,,
+pkgsRocm.sirius,316981638,,,
 pkgsRocm.vllm,316846813,,,
-pkgsRocm.vtk-full,316395849,,,
 plakar,,,316092785,
 plasma5Packages.libcommuni,,,314440243,314440241
 plasma5Packages.mlt,,,314440313,314440334
@@ -905,6 +898,7 @@ python312Packages.galario,316135659,316135660,316135658,316135657
 python312Packages.gilknocker,,,314455498,
 python312Packages.git-dummy,,,316135676,316135674
 python312Packages.gluonts,,,,315297603
+python312Packages.gpaw,316981686,316981685,,
 python312Packages.halide,316219614,,316219615,316219610
 python312Packages.hid-parser,314456760,314456757,314456759,314456755
 python312Packages.highdicom,314456794,314456785,,
@@ -922,8 +916,6 @@ python312Packages.langsmith,,,316402421,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
 python312Packages.line-profiler,314459853,314459850,314459847,314459840
-python312Packages.mapclassify,,,316396397,
-python312Packages.meeko,,,316794040,316794041
 python312Packages.mlt,,,314461646,314461643
 python312Packages.mlx,,,,316794066
 python312Packages.monosat,316235688,316235695,316235693,316235691
@@ -956,7 +948,7 @@ python312Packages.pymssql,314469630,314469628,314469626,314469623
 python312Packages.pyopen-wakeword,,316092868,,
 python312Packages.pyopencl,,,316794160,
 python312Packages.pyrevolve,314470398,314470383,314470386,314470384
-python312Packages.pyscf,,,,314470505
+python312Packages.pyscf,316981700,,316981702,316981701
 python312Packages.pysdl3,,,314470548,314470540
 python312Packages.pyside6-qtads,,,,316136196
 python312Packages.pysnooper,,,314470791,314470790
@@ -975,7 +967,7 @@ python312Packages.raylib-python-cffi,,,316265376,316265382
 python312Packages.rds2py,,,314473502,314473499
 python312Packages.recoll,,,316214630,316214629
 python312Packages.redbaron,314473614,314473611,314473612,314473613
-python312Packages.root,,,316097430,316097427
+python312Packages.root,,,316984442,316984455
 python312Packages.rtfde,,316235776,,
 python312Packages.s3-credentials,314474756,314474584,314474525,314474524
 python312Packages.salmon-mail,314474599,314474598,314474600,314474596
@@ -1034,6 +1026,7 @@ python313Packages.funsor,314493548,314493550,314493558,314493555
 python313Packages.gensim,,315393709,315393711,
 python313Packages.git-dummy,,,316136767,316136763
 python313Packages.gluonts,,,,315297764
+python313Packages.gpaw,316981729,316981728,,316981730
 python313Packages.graph-tool,316235876,,,
 python313Packages.halide,,,316221047,316221043
 python313Packages.hebg,316111875,316111878,316111874,316111873
@@ -1051,7 +1044,6 @@ python313Packages.libredwg,,,314498139,314498133
 python313Packages.line-profiler,314498310,314498308,314498311,314498309
 python313Packages.locust-cloud,,316934105,,
 python313Packages.manifold3d,,,316794446,
-python313Packages.meeko,,,316794459,316794453
 python313Packages.mlt,,,314500087,314500088
 python313Packages.mlx,,,,316794467
 python313Packages.monosat,316235946,316235950,316235931,316235940
@@ -1085,7 +1077,7 @@ python313Packages.pylette,,,314507664,314507662
 python313Packages.pymssql,314508051,314508056,314508057,314508058
 python313Packages.pyopen-wakeword,,316092984,,
 python313Packages.pyopencl,,,316794573,
-python313Packages.pyscf,,,,314508937
+python313Packages.pyscf,316981743,,316981745,316981744
 python313Packages.pysdl2,,,316799950,
 python313Packages.pysdl3,,,314508981,314508984
 python313Packages.pyside6-qtads,,,,316137233
@@ -1105,13 +1097,12 @@ python313Packages.raylib-python-cffi,,,316265626,316265625
 python313Packages.rds2py,,,314511887,314511897
 python313Packages.recoll,,,316215292,316215284
 python313Packages.redbaron,314511991,314511990,314511984,314511986
-python313Packages.root,,,316097871,316097870
+python313Packages.root,,,316984682,316984684
 python313Packages.s3-credentials,314512896,314512897,314512904,314512892
 python313Packages.salmon-mail,314512968,314512969,314512970,314512967
 python313Packages.sanic-ext,,316137359,,
 python313Packages.scrapy-fake-useragent,314513522,314513556,314513665,314513752
 python313Packages.scrapy-splash,314513353,314513253,314513310,314513611
-python313Packages.simple-dftd3,316041600,,,
 python313Packages.slack-sdk,,,315110102,315110097
 python313Packages.solidpython2,,,314514330,314514326
 python313Packages.soxr,,,316794611,
@@ -1170,6 +1161,7 @@ replibyte,,,315110494,315110495
 repomix,,,316130833,
 reprepro,,,314524310,314524309
 reproxy,,316041812,,
+rerun,,,,316982439
 rescrobbled,,,314524353,314524351
 restish,316900530,,,
 retdec,314524442,,,
@@ -1312,7 +1304,6 @@ vapoursynth-nnedi3cl,314564126,,,
 vc4-newlib,,,314564216,314564215
 vcdimager,,,314564229,314564227
 velocity,315652326,315652327,,
-veloren,314564387,314564386,,
 vengi-tools,316801233,316801227,,
 veridian,314564442,316137892,,
 vertcoin,314564473,314564476,,
