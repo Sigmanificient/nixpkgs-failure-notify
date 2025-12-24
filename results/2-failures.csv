@@ -156,8 +156,8 @@ id,name,system
 314321027,construoBase,x86_64-darwin
 314321116,coolreader,aarch64-linux
 314321119,coolreader,x86_64-linux
-316232771,copacetic,aarch64-darwin
-316232772,copacetic,x86_64-darwin
+317034100,copacetic,aarch64-darwin
+317034102,copacetic,x86_64-darwin
 316264327,coredns,aarch64-darwin
 316264321,coredns,x86_64-darwin
 316264333,coredns,x86_64-linux
@@ -232,10 +232,10 @@ id,name,system
 314325049,dockapps.wmsm-app,aarch64-darwin
 314325053,dockapps.wmsm-app,x86_64-darwin
 316985230,docker-machine-kvm2,aarch64-linux
-316232809,docker_25,aarch64-darwin
-316232820,docker_25,aarch64-linux
-316232824,docker_25,x86_64-darwin
-316232813,docker_25,x86_64-linux
+317034136,docker_25,aarch64-darwin
+317034155,docker_25,aarch64-linux
+317034157,docker_25,x86_64-darwin
+317034150,docker_25,x86_64-linux
 316936185,dorion,aarch64-linux
 316936186,dorion,x86_64-linux
 316092164,dosbox,aarch64-darwin
@@ -893,8 +893,6 @@ id,name,system
 316897247,linuxKernel.packages.linux_6_18.cryptodev,x86_64-linux
 316897324,linuxKernel.packages.linux_6_18.digimend,aarch64-linux
 316897236,linuxKernel.packages.linux_6_18.digimend,x86_64-linux
-316897239,linuxKernel.packages.linux_6_18.evdi,aarch64-linux
-316897246,linuxKernel.packages.linux_6_18.evdi,x86_64-linux
 316897287,linuxKernel.packages.linux_6_18.hpuefi-mod,x86_64-linux
 316897282,linuxKernel.packages.linux_6_18.liquidtux,x86_64-linux
 316897278,linuxKernel.packages.linux_6_18.mba6x_bl,aarch64-linux
@@ -951,7 +949,6 @@ id,name,system
 316898226,linuxKernel.packages.linux_xanmod_stable.vmm_clock,x86_64-linux
 317021996,linuxKernel.packages.linux_zen.cryptodev,x86_64-linux
 317022026,linuxKernel.packages.linux_zen.digimend,x86_64-linux
-317022002,linuxKernel.packages.linux_zen.evdi,x86_64-linux
 317022084,linuxKernel.packages.linux_zen.hpuefi-mod,x86_64-linux
 317022022,linuxKernel.packages.linux_zen.liquidtux,x86_64-linux
 317022025,linuxKernel.packages.linux_zen.mba6x_bl,x86_64-linux
@@ -973,8 +970,6 @@ id,name,system
 316898587,linuxPackages_latest.cryptodev,x86_64-linux
 316898593,linuxPackages_latest.digimend,aarch64-linux
 316898591,linuxPackages_latest.digimend,x86_64-linux
-316898603,linuxPackages_latest.evdi,aarch64-linux
-316898610,linuxPackages_latest.evdi,x86_64-linux
 316898625,linuxPackages_latest.hpuefi-mod,x86_64-linux
 316898640,linuxPackages_latest.liquidtux,x86_64-linux
 316898642,linuxPackages_latest.mba6x_bl,aarch64-linux
@@ -1010,7 +1005,6 @@ id,name,system
 316899183,linuxPackages_xanmod_stable.vmm_clock,x86_64-linux
 317022121,linuxPackages_zen.cryptodev,x86_64-linux
 317022123,linuxPackages_zen.digimend,x86_64-linux
-317022130,linuxPackages_zen.evdi,x86_64-linux
 317022138,linuxPackages_zen.hpuefi-mod,x86_64-linux
 317022150,linuxPackages_zen.liquidtux,x86_64-linux
 317022153,linuxPackages_zen.mba6x_bl,x86_64-linux
@@ -1102,8 +1096,8 @@ id,name,system
 314398874,monoid,x86_64-darwin
 314398891,monotone,aarch64-darwin
 314398890,monotone,x86_64-darwin
-314398952,moosefs,aarch64-darwin
-314398950,moosefs,x86_64-darwin
+317034316,moosefs,aarch64-darwin
+317034318,moosefs,x86_64-darwin
 316933693,mopidy-tidal,aarch64-darwin
 316933692,mopidy-tidal,x86_64-darwin
 316933690,mopidy-tidal,x86_64-linux
@@ -1206,10 +1200,10 @@ id,name,system
 314404742,obitools3,aarch64-linux
 314404744,obitools3,x86_64-darwin
 314404743,obitools3,x86_64-linux
-316981502,obs-studio-plugins.obs-color-monitor,aarch64-linux
-316981503,obs-studio-plugins.obs-color-monitor,x86_64-linux
-316981570,obs-studio-plugins.obs-vertical-canvas,aarch64-linux
-316981571,obs-studio-plugins.obs-vertical-canvas,x86_64-linux
+317034359,obs-studio-plugins.obs-color-monitor,aarch64-linux
+317034345,obs-studio-plugins.obs-color-monitor,x86_64-linux
+317034406,obs-studio-plugins.obs-vertical-canvas,aarch64-linux
+317034408,obs-studio-plugins.obs-vertical-canvas,x86_64-linux
 315946490,ocamlPackages.class_group_vdf,aarch64-darwin
 315946557,ocamlPackages.class_group_vdf,x86_64-darwin
 316187291,ocamlPackages.ecaml,aarch64-darwin
@@ -1615,8 +1609,8 @@ id,name,system
 315107384,python312Packages.kserve-storage,x86_64-darwin
 314459155,python312Packages.labgrid,aarch64-linux
 314459158,python312Packages.labgrid,x86_64-linux
-317020092,python312Packages.lancedb,aarch64-darwin
 316402421,python312Packages.langsmith,x86_64-darwin
+317026289,python312Packages.lerobot,aarch64-linux
 314459660,python312Packages.libpwquality,aarch64-darwin
 314459666,python312Packages.libpwquality,x86_64-darwin
 314459672,python312Packages.libredwg,aarch64-darwin
@@ -1818,7 +1812,6 @@ id,name,system
 314489215,python313Packages.cyclonedds-python,x86_64-linux
 316406389,python313Packages.dashscope,aarch64-darwin
 316406396,python313Packages.dashscope,x86_64-darwin
-316065255,python313Packages.datafusion,aarch64-darwin
 316233403,python313Packages.deepsearch-glm,aarch64-darwin
 314489739,python313Packages.deepsearch-glm,aarch64-linux
 316233402,python313Packages.deepsearch-glm,x86_64-darwin
@@ -1886,6 +1879,7 @@ id,name,system
 314497592,python313Packages.labgrid,aarch64-linux
 314497601,python313Packages.labgrid,x86_64-linux
 316403093,python313Packages.langsmith,aarch64-linux
+317026701,python313Packages.lerobot,aarch64-linux
 314498123,python313Packages.libpwquality,aarch64-darwin
 314498130,python313Packages.libpwquality,x86_64-darwin
 314498133,python313Packages.libredwg,aarch64-darwin
@@ -2023,6 +2017,7 @@ id,name,system
 314515048,python313Packages.srctools,aarch64-linux
 314515678,python313Packages.swh-shard,aarch64-darwin
 314515682,python313Packages.swh-shard,x86_64-darwin
+317026889,python313Packages.syne-tune,aarch64-darwin
 317026894,python313Packages.syne-tune,aarch64-linux
 317026896,python313Packages.tiledb,aarch64-darwin
 317026897,python313Packages.tiledb,x86_64-darwin
@@ -2089,7 +2084,6 @@ id,name,system
 314523248,radiance,aarch64-linux
 314523249,radiance,x86_64-darwin
 314523250,radiance,x86_64-linux
-316406935,radicle-node,x86_64-linux
 314523465,rappel,aarch64-linux
 316215407,ratpoints,aarch64-darwin
 316215404,ratpoints,x86_64-darwin
@@ -2428,8 +2422,8 @@ id,name,system
 314571214,xephem,x86_64-darwin
 316215817,xf86-input-cmt,aarch64-linux
 316215820,xf86-input-cmt,x86_64-linux
-317021554,xfce.xfce4-dockbarx-plugin,aarch64-linux
-317021588,xfce.xfce4-dockbarx-plugin,x86_64-linux
+317033611,xfce.xfce4-dockbarx-plugin,aarch64-linux
+317033613,xfce.xfce4-dockbarx-plugin,x86_64-linux
 314571378,xhosts,aarch64-darwin
 314571383,xhosts,x86_64-darwin
 317021624,xmake,aarch64-darwin

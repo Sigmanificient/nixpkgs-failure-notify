@@ -83,7 +83,7 @@ conserve,,,314320997,
 construo,,,314321023,314321020
 construoBase,,,314321027,314321026
 coolreader,314321119,314321116,,
-copacetic,,,316232772,316232771
+copacetic,,,317034102,317034100
 coredns,316264333,,316264321,316264327
 coreth,,,314321668,
 couchdb3,,,316133623,
@@ -125,7 +125,7 @@ dnadd,,,314324811,314324809
 dnslink-std-go,,,314324872,314324871
 dockapps.wmsm-app,,,314325053,314325049
 docker-machine-kvm2,,316985230,,
-docker_25,316232813,316232820,316232824,316232809
+docker_25,317034150,317034155,317034157,317034136
 dorion,316936186,316936185,,
 dosbox,,,316092163,316092164
 dotherside,314325416,314325413,,
@@ -487,7 +487,6 @@ linuxKernel.packages.linux_6_17.vmm_clock,316897194,,,
 linuxKernel.packages.linux_6_18.acer-wmi-battery,,316897237,,
 linuxKernel.packages.linux_6_18.cryptodev,316897247,316897224,,
 linuxKernel.packages.linux_6_18.digimend,316897236,316897324,,
-linuxKernel.packages.linux_6_18.evdi,316897246,316897239,,
 linuxKernel.packages.linux_6_18.hpuefi-mod,316897287,,,
 linuxKernel.packages.linux_6_18.liquidtux,316897282,,,
 linuxKernel.packages.linux_6_18.mba6x_bl,316897279,316897278,,
@@ -535,7 +534,6 @@ linuxKernel.packages.linux_xanmod_stable.odp-dpdk,314387867,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,316898226,,,
 linuxKernel.packages.linux_zen.cryptodev,317021996,,,
 linuxKernel.packages.linux_zen.digimend,317022026,,,
-linuxKernel.packages.linux_zen.evdi,317022002,,,
 linuxKernel.packages.linux_zen.hpuefi-mod,317022084,,,
 linuxKernel.packages.linux_zen.liquidtux,317022022,,,
 linuxKernel.packages.linux_zen.mba6x_bl,317022025,,,
@@ -553,7 +551,6 @@ linuxPackages.tsme-test,,316898513,,
 linuxPackages_latest.acer-wmi-battery,,316898560,,
 linuxPackages_latest.cryptodev,316898587,316898588,,
 linuxPackages_latest.digimend,316898591,316898593,,
-linuxPackages_latest.evdi,316898610,316898603,,
 linuxPackages_latest.hpuefi-mod,316898625,,,
 linuxPackages_latest.liquidtux,316898640,,,
 linuxPackages_latest.mba6x_bl,316898645,316898642,,
@@ -586,7 +583,6 @@ linuxPackages_xanmod_stable.odp-dpdk,314388959,,,
 linuxPackages_xanmod_stable.vmm_clock,316899183,,,
 linuxPackages_zen.cryptodev,317022121,,,
 linuxPackages_zen.digimend,317022123,,,
-linuxPackages_zen.evdi,317022130,,,
 linuxPackages_zen.hpuefi-mod,317022138,,,
 linuxPackages_zen.liquidtux,317022150,,,
 linuxPackages_zen.mba6x_bl,317022153,,,
@@ -636,7 +632,7 @@ mlton20210117,,,,314398514
 mobsql,,,314398653,314398651
 monoid,,,314398874,314398878
 monotone,,,314398890,314398891
-moosefs,,,314398950,314398952
+moosefs,,,317034318,317034316
 mopidy-tidal,316933690,,316933692,316933693
 mopidyPackages.mopidy-tidal,316933689,,316933691,316933694
 mosml,,,314399200,314399198
@@ -689,8 +685,8 @@ nushellPlugins.semver,,,315390072,315390071
 nvidia-mig-parted,,,315519793,315519791
 nvramtool,,314404570,,
 obitools3,314404743,314404742,314404744,314404741
-obs-studio-plugins.obs-color-monitor,316981503,316981502,,
-obs-studio-plugins.obs-vertical-canvas,316981571,316981570,,
+obs-studio-plugins.obs-color-monitor,317034345,317034359,,
+obs-studio-plugins.obs-vertical-canvas,317034408,317034406,,
 ocamlPackages.class_group_vdf,,,315946557,315946490
 ocamlPackages.ecaml,,,316187267,316187291
 ocamlPackages.eigen,,,314405952,
@@ -904,8 +900,8 @@ python312Packages.klayout,,,314459007,314459005
 python312Packages.kopf,,,315322392,315322393
 python312Packages.kserve-storage,,,315107384,315107385
 python312Packages.labgrid,314459158,314459155,,
-python312Packages.lancedb,,,,317020092
 python312Packages.langsmith,,,316402421,
+python312Packages.lerobot,,317026289,,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
 python312Packages.libvirt,,,,316988420
@@ -998,7 +994,6 @@ python313Packages.control,,,314488788,314488772
 python313Packages.crochet,,,314488938,314488933
 python313Packages.cyclonedds-python,314489215,314489206,314489209,314489201
 python313Packages.dashscope,,,316406396,316406389
-python313Packages.datafusion,,,,316065255
 python313Packages.deepsearch-glm,314489743,314489739,316233402,316233403
 python313Packages.devito,314489916,314489917,314489931,314489918
 python313Packages.diofant,314490019,314490015,314490012,314490018
@@ -1030,6 +1025,7 @@ python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,,315322597,315322596,
 python313Packages.labgrid,314497601,314497592,,
 python313Packages.langsmith,,316403093,,
+python313Packages.lerobot,,317026701,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
 python313Packages.line-profiler,314498310,314498308,314498311,314498309
@@ -1097,7 +1093,7 @@ python313Packages.soxr,,,316794611,
 python313Packages.spectral-cube,,,,316221991
 python313Packages.srctools,,314515048,,314515046
 python313Packages.swh-shard,,,314515682,314515678
-python313Packages.syne-tune,,317026894,,
+python313Packages.syne-tune,,317026894,,317026889
 python313Packages.tiledb,,,317026897,317026896
 python313Packages.tinyio,,,314516523,
 python313Packages.torchao,,,315405281,316189292
@@ -1132,7 +1128,6 @@ quaternion,314523006,314523023,,314523003
 quodlibet-without-gst-plugins,315410580,,,
 racket-minimal,,,316215391,316215390
 radiance,314523250,314523248,314523249,314523246
-radicle-node,316406935,,,
 rappel,,314523465,,
 ratpoints,,,316215404,316215407
 rbdoom-3-bfg,,,316934186,316900504
@@ -1310,7 +1305,7 @@ xdriinfo,,,314571096,314571091
 xed,,,314571119,
 xephem,,,314571214,314571150
 xf86-input-cmt,316215820,316215817,,
-xfce.xfce4-dockbarx-plugin,317021588,317021554,,
+xfce.xfce4-dockbarx-plugin,317033613,317033611,,
 xhosts,,,314571383,314571378
 xmake,,,317021619,317021624
 xmoto,,,316802984,316802985
