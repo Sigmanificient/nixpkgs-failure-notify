@@ -218,6 +218,8 @@ id,name,system
 314324400,dillo-plus,x86_64-darwin
 314324478,direvent,aarch64-darwin
 314324480,direvent,x86_64-darwin
+317070737,direwolf-unstable,aarch64-darwin
+317070738,direwolf-unstable,x86_64-darwin
 315112714,discordchatexporter-cli,aarch64-darwin
 314324669,djgpp,x86_64-darwin
 314324670,djgpp_i586,x86_64-darwin
@@ -2449,5 +2451,3 @@ id,name,system
 314573986,zig-zlint,aarch64-darwin
 314574532,zug,aarch64-darwin
 314574535,zug,x86_64-darwin
-317070737,direwolf-unstable,aarch64-darwin
-317070738,direwolf-unstable,x86_64-darwin
