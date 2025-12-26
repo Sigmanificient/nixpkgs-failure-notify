@@ -206,7 +206,7 @@ glrnvim,,,314334104,314334102
 gluesql,314334128,314334126,314334127,314334125
 gmu,,,316092250,316092248
 gnu-cim,,,314336607,
-gnucobol,,,316211069,
+gnucobol,,,317075190,
 gnudatalanguage,,316936359,,
 goconvey,314337212,314337210,314337215,314337211
 gomacro,314337566,314337564,314337565,314337563
@@ -511,7 +511,7 @@ linuxKernel.packages.linux_hardened.mbp2018-bridge-drv,316897681,316897679,,
 linuxKernel.packages.linux_hardened.odp-dpdk,314387283,,,
 linuxKernel.packages.linux_hardened.tbs,,316897756,,
 linuxKernel.packages.linux_hardened.tsme-test,,316897761,,
-linuxKernel.packages.linux_lqx.bcachefs,316987600,,,
+linuxKernel.packages.linux_lqx.bcachefs,317075213,,,
 linuxKernel.packages.linux_lqx.digimend,316987619,,,
 linuxKernel.packages.linux_lqx.lttng-modules,316987640,,,
 linuxKernel.packages.linux_lqx.mba6x_bl,316987643,,,
@@ -560,7 +560,7 @@ linuxPackages_latest.rtl8821cu,316898692,316898694,,
 linuxPackages_latest.rtl8852bu,316898697,,,
 linuxPackages_latest.tsme-test,,316898724,,
 linuxPackages_latest.vmm_clock,316898741,,,
-linuxPackages_lqx.bcachefs,316987732,,,
+linuxPackages_lqx.bcachefs,317075219,,,
 linuxPackages_lqx.digimend,316987738,,,
 linuxPackages_lqx.lttng-modules,316987766,,,
 linuxPackages_lqx.mba6x_bl,316987767,,,
@@ -721,7 +721,6 @@ openmvs,,314411310,,
 openpa,,,314411350,314411348
 openroad,,316987991,,
 opensaml-cpp,314411462,314411459,314411460,314411458
-openscad-unstable,,316853021,,
 ophcrack,,,314411772,314411773
 opl3bankeditor,,,,314411794
 opn2bankeditor,,,,314411801
@@ -861,7 +860,6 @@ python312Packages.blocksat-cli,,,,316219319
 python312Packages.bugwarrior,,,316405720,316405721
 python312Packages.canopen,,,,314449022
 python312Packages.cassandra-driver,,,316038712,316038714
-python312Packages.cexprtk,,,314449241,314449238
 python312Packages.clr-loader,314449728,314449726,314449771,314449793
 python312Packages.control,,,314450265,314450264
 python312Packages.crochet,,,,314450446
@@ -898,6 +896,7 @@ python312Packages.johnnycanencrypt,314458344,314458381,314458323,314458322
 python312Packages.klayout,,,314459007,314459005
 python312Packages.kopf,,,315322392,315322393
 python312Packages.kserve-storage,,,315107384,315107385
+python312Packages.langchain,,317071155,,
 python312Packages.langsmith,,,316402421,
 python312Packages.libpwquality,,,314459666,314459660
 python312Packages.libredwg,,,314459675,314459672
@@ -905,7 +904,6 @@ python312Packages.libvirt,,,,316988420
 python312Packages.line-profiler,314459853,314459850,314459847,314459840
 python312Packages.mlt,,,314461646,314461643
 python312Packages.monosat,316235688,316235695,316235693,316235691
-python312Packages.myhdl,314462266,,,
 python312Packages.netgen-mesher,,,316111715,316111716
 python312Packages.niquests,,,317020308,317020307
 python312Packages.openbabel,,314464930,,
@@ -946,11 +944,11 @@ python312Packages.python-roborock,316988659,316988658,,
 python312Packages.pyvera,,,314472826,
 python312Packages.pywebview,,,,316136225
 python312Packages.pywinbox,,,316097409,316097410
-python312Packages.qtile-extras,316396591,316396590,,
+python312Packages.qtile-extras,,317080322,,
 python312Packages.quil,,314473316,314473313,314473312
 python312Packages.raylib-python-cffi,,,316265376,316265382
 python312Packages.rds2py,,,317020406,317020409
-python312Packages.recoll,,,316214630,316214629
+python312Packages.recoll,,,317080328,317080331
 python312Packages.redbaron,314473614,314473611,314473612,314473613
 python312Packages.root,,,316984442,316984455
 python312Packages.rtfde,,316235776,,
@@ -964,7 +962,7 @@ python312Packages.swh-journal,,316129991,,
 python312Packages.syne-tune,,317026489,,
 python312Packages.tiledb,,,317026494,317026499
 python312Packages.tinyio,,,,314478137
-python312Packages.torchao,,,315404621,316188779
+python312Packages.torchao,,,317080349,317080348
 python312Packages.utitools,,,316097491,316097490
 python312Packages.vowpalwabbit,,,314481915,314481914
 python312Packages.webassets,,,314482183,314482177
@@ -983,12 +981,11 @@ python313Packages.bayesian-optimization,316040253,,,
 python313Packages.bleak-retry-connector,,,316097567,316097571
 python313Packages.bugwarrior,,,316406345,316406344
 python313Packages.canopen,,,314487513,314487512
-python313Packages.cexprtk,314487737,314487736,314487738,314487735
 python313Packages.clr-loader,314488227,314488329,314488318,314488224
 python313Packages.control,,,314488788,314488772
 python313Packages.crochet,,,314488938,314488933
 python313Packages.cyclonedds-python,314489215,314489206,314489209,314489201
-python313Packages.dashscope,,,317071322,317071321
+python313Packages.dashscope,317071325,,317071322,317071321
 python313Packages.deepsearch-glm,314489743,314489739,316233402,316233403
 python313Packages.devito,314489916,314489917,314489931,314489918
 python313Packages.diofant,314490019,314490015,314490012,314490018
@@ -998,6 +995,7 @@ python313Packages.django_5_2,,,,315393698
 python313Packages.dmsuite,,,314491024,
 python313Packages.donut-shellcode,,314491193,314491196,314491195
 python313Packages.embrace,,314491857,,
+python313Packages.es-client,,,,317071365
 python313Packages.esig,314492045,314492043,314492044,314492048
 python313Packages.essentials,316136707,,,
 python313Packages.etelemetry,,,314492102,314492106
@@ -1020,6 +1018,7 @@ python313Packages.iterfzf,,,314496537,314496530
 python313Packages.johnnycanencrypt,314496789,314496776,314496777,314496778
 python313Packages.klayout,,,314497471,314497464
 python313Packages.kopf,,315322597,315322596,
+python313Packages.langchain,,,,317071417
 python313Packages.langsmith,,316403093,,
 python313Packages.libpwquality,,,314498130,314498123
 python313Packages.libredwg,,,314498139,314498133
@@ -1028,7 +1027,6 @@ python313Packages.locust-cloud,,316934105,,
 python313Packages.mlt,,,314500087,314500088
 python313Packages.mlx,,,,317035726
 python313Packages.monosat,316235946,316235950,316235931,316235940
-python313Packages.myhdl,314500785,,,
 python313Packages.nats-py,,316847296,,
 python313Packages.netgen-mesher,,,316111940,316111937
 python313Packages.niquests,,,317021058,317021060
@@ -1071,10 +1069,10 @@ python313Packages.python-prctl,,314510688,,
 python313Packages.python-redis-lock,,,315951060,315951061
 python313Packages.pywebview,,,,316137289
 python313Packages.pywinbox,,,316097851,316097849
-python313Packages.qtile-extras,316397398,,,
+python313Packages.qtile-extras,317080544,,,
 python313Packages.raylib-python-cffi,,,316265626,316265625
 python313Packages.rds2py,,,317021169,317021158
-python313Packages.recoll,,,316215292,316215284
+python313Packages.recoll,,,317080556,317080548
 python313Packages.redbaron,314511991,314511990,314511984,314511986
 python313Packages.root,,,316984682,316984684
 python313Packages.salmon-mail,314512968,314512969,314512970,314512967
@@ -1089,7 +1087,7 @@ python313Packages.swh-shard,,,314515682,314515678
 python313Packages.syne-tune,,317026894,,317026889
 python313Packages.tiledb,,,317026897,317026896
 python313Packages.tinyio,,,314516523,
-python313Packages.torchao,,,315405281,316189292
+python313Packages.torchao,,,317080602,317080571
 python313Packages.trafilatura,316137508,,,
 python313Packages.utitools,,,316097927,316097924
 python313Packages.vowpalwabbit,,,314520289,314520286
@@ -1127,8 +1125,8 @@ ratpoints,,,316215404,316215407
 rbdoom-3-bfg,,,316934186,316900504
 reaction,316403451,,,
 reaper-sws-extension,,,314523825,314523819
-recoll-nox,,,316215416,316215414
-recoll,,,316215410,316215408
+recoll-nox,,,317080607,317080605
+recoll,,,317080603,317080609
 remarkable-toolchain,314524169,,,
 remarkable2-toolchain,314524162,,,
 rembg,,,317026968,317026965
@@ -1226,7 +1224,6 @@ tau-hydrogen,314541083,314541080,314541082,314541079
 tengine,,,314541619,314541611
 teos-watchtower-plugin,,,314541645,314541638
 tere,,,314541647,
-termscp,316065557,,,
 tests.build-environment-info,314542608,314542607,314542629,314542632
 tests.cc-multilib-clang,314543084,,,
 tests.cc-wrapper.default,,,314543062,314543060
@@ -1264,7 +1261,6 @@ ulfius,,,315191609,315191612
 unity-test,,,314563319,314563317
 unshieldv3,,,314563491,314563489
 untrunc-anthwlock,314563515,314563513,,
-upsies,,,316403571,
 urn-timer,,,314563709,314563705
 urweb,,,,316401151
 uxn11,,,315136549,315136551
@@ -1298,7 +1294,6 @@ xdriinfo,,,314571096,314571091
 xed,,,314571119,
 xephem,,,314571214,314571150
 xf86-input-cmt,316215820,316215817,,
-xfce.xfce4-dockbarx-plugin,317033613,317033611,,
 xhosts,,,314571383,314571378
 xmake,,,317021619,317021624
 xmoto,,,316802984,316802985
