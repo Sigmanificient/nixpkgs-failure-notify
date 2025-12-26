@@ -372,8 +372,8 @@ kcl-language-server,314377044,314377042,,
 kdePackages.appstream-qt,,,,314377116
 kdePackages.mlt,,,,314377830
 kdePackages.qttranslations,,,314378126,
-kdePackages.sierra-breeze-enhanced,316852818,316852798,,
-kdePackages.waylib,316395057,316395053,,
+kdePackages.sierra-breeze-enhanced,317090957,317090965,,
+kdePackages.waylib,317090962,317090968,,
 kdePackages.wayqt,314378305,314378367,,
 kdesvn,314378302,314378254,,
 keeperrl,314378327,,,
@@ -945,7 +945,6 @@ python312Packages.python-roborock,316988659,316988658,,
 python312Packages.pyvera,,,314472826,
 python312Packages.pywebview,,,,316136225
 python312Packages.pywinbox,,,316097409,316097410
-python312Packages.qtile-extras,,317080322,,
 python312Packages.quil,,314473316,314473313,314473312
 python312Packages.raylib-python-cffi,,,316265376,316265382
 python312Packages.rds2py,,,317020406,317020409
@@ -1070,7 +1069,6 @@ python313Packages.python-prctl,,314510688,,
 python313Packages.python-redis-lock,,,315951060,315951061
 python313Packages.pywebview,,,,316137289
 python313Packages.pywinbox,,,316097851,316097849
-python313Packages.qtile-extras,317080544,,,
 python313Packages.raylib-python-cffi,,,316265626,316265625
 python313Packages.rds2py,,,317021169,317021158
 python313Packages.recoll,,,317080556,317080548
@@ -1108,8 +1106,8 @@ qrq,,,314522200,314522198
 qt6.qttranslations,,,314522545,
 qt6Packages.appstream-qt,,,,314522587
 qt6Packages.mlt,,,,314522629
-qt6Packages.sierra-breeze-enhanced,316853148,316853147,,
-qt6Packages.waylib,316397601,316397600,,
+qt6Packages.sierra-breeze-enhanced,317091186,317091187,,
+qt6Packages.waylib,317091184,317091185,,
 qt6Packages.wayqt,314522891,314522892,,
 qtwebapp,,,,314522970
 quantframe,316936887,316936888,,

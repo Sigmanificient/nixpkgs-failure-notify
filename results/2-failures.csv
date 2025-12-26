@@ -705,10 +705,10 @@ id,name,system
 314377116,kdePackages.appstream-qt,aarch64-darwin
 314377830,kdePackages.mlt,aarch64-darwin
 314378126,kdePackages.qttranslations,x86_64-darwin
-316852798,kdePackages.sierra-breeze-enhanced,aarch64-linux
-316852818,kdePackages.sierra-breeze-enhanced,x86_64-linux
-316395053,kdePackages.waylib,aarch64-linux
-316395057,kdePackages.waylib,x86_64-linux
+317090965,kdePackages.sierra-breeze-enhanced,aarch64-linux
+317090957,kdePackages.sierra-breeze-enhanced,x86_64-linux
+317090968,kdePackages.waylib,aarch64-linux
+317090962,kdePackages.waylib,x86_64-linux
 314378367,kdePackages.wayqt,aarch64-linux
 314378305,kdePackages.wayqt,x86_64-linux
 314378254,kdesvn,aarch64-linux
@@ -1709,7 +1709,6 @@ id,name,system
 316136225,python312Packages.pywebview,aarch64-darwin
 316097410,python312Packages.pywinbox,aarch64-darwin
 316097409,python312Packages.pywinbox,x86_64-darwin
-317080322,python312Packages.qtile-extras,aarch64-linux
 314473312,python312Packages.quil,aarch64-darwin
 314473316,python312Packages.quil,aarch64-linux
 314473313,python312Packages.quil,x86_64-darwin
@@ -1967,7 +1966,6 @@ id,name,system
 316137289,python313Packages.pywebview,aarch64-darwin
 316097849,python313Packages.pywinbox,aarch64-darwin
 316097851,python313Packages.pywinbox,x86_64-darwin
-317080544,python313Packages.qtile-extras,x86_64-linux
 316265625,python313Packages.raylib-python-cffi,aarch64-darwin
 316265626,python313Packages.raylib-python-cffi,x86_64-darwin
 317021158,python313Packages.rds2py,aarch64-darwin
@@ -2042,10 +2040,10 @@ id,name,system
 314522545,qt6.qttranslations,x86_64-darwin
 314522587,qt6Packages.appstream-qt,aarch64-darwin
 314522629,qt6Packages.mlt,aarch64-darwin
-316853147,qt6Packages.sierra-breeze-enhanced,aarch64-linux
-316853148,qt6Packages.sierra-breeze-enhanced,x86_64-linux
-316397600,qt6Packages.waylib,aarch64-linux
-316397601,qt6Packages.waylib,x86_64-linux
+317091187,qt6Packages.sierra-breeze-enhanced,aarch64-linux
+317091186,qt6Packages.sierra-breeze-enhanced,x86_64-linux
+317091185,qt6Packages.waylib,aarch64-linux
+317091184,qt6Packages.waylib,x86_64-linux
 314522892,qt6Packages.wayqt,aarch64-linux
 314522891,qt6Packages.wayqt,x86_64-linux
 314522970,qtwebapp,aarch64-darwin
