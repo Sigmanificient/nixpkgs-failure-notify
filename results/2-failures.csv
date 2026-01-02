@@ -40,8 +40,8 @@ id,name,system
 317970674,ares-cli,aarch64-linux
 317970678,ares-cli,x86_64-darwin
 317970679,ares-cli,x86_64-linux
-317970684,arftracksat,aarch64-darwin
-317970695,arftracksat,x86_64-darwin
+318298039,arftracksat,aarch64-darwin
+318298040,arftracksat,x86_64-darwin
 317970682,argagg,x86_64-darwin
 317970723,argononed,aarch64-linux
 317970726,argononed,x86_64-linux
@@ -150,7 +150,6 @@ id,name,system
 317975878,bruno-cli,aarch64-darwin
 317975879,bruno-cli,aarch64-linux
 317975881,bruno-cli,x86_64-linux
-317976116,bs-manager,x86_64-linux
 317976099,bugstalker,x86_64-linux
 317976109,buildah-unwrapped,x86_64-darwin
 317976264,bulk_extractor,aarch64-linux
@@ -459,6 +458,10 @@ id,name,system
 317987090,dorion,x86_64-linux
 317987074,dosbox,aarch64-darwin
 317987077,dosbox,x86_64-darwin
+318295127,dotenvx,aarch64-darwin
+318295131,dotenvx,aarch64-linux
+318295126,dotenvx,x86_64-darwin
+318295130,dotenvx,x86_64-linux
 317987571,dovecot,aarch64-darwin
 317987577,dovecot,x86_64-darwin
 317987717,dragmap,x86_64-linux
@@ -570,8 +573,6 @@ id,name,system
 317990689,fauna-shell,aarch64-linux
 317990690,fauna-shell,x86_64-darwin
 317990691,fauna-shell,x86_64-linux
-318290578,fbida,aarch64-linux
-318290576,fbida,x86_64-linux
 318290579,fbpanel,aarch64-linux
 318290580,fbpanel,x86_64-linux
 317990784,fbv,aarch64-darwin
@@ -1115,7 +1116,6 @@ id,name,system
 318036805,inshellisense,x86_64-linux
 318036814,inspircd,aarch64-darwin
 318036818,inspircd,x86_64-darwin
-318036846,intel-compute-runtime-legacy1,x86_64-linux
 318036884,intercal,aarch64-linux
 318036890,intercal,x86_64-linux
 318036973,ion3,aarch64-linux
@@ -1136,6 +1136,8 @@ id,name,system
 318037211,iqueue,x86_64-linux
 318037263,irrlicht,aarch64-darwin
 318037268,irrlicht,x86_64-darwin
+318298172,itk_5_2,aarch64-linux
+318298178,itk_5_2,x86_64-linux
 318037488,j,aarch64-linux
 318037489,j,x86_64-linux
 318037504,jabcode-reader,x86_64-linux
@@ -1372,10 +1374,6 @@ id,name,system
 318045465,libredwg,x86_64-darwin
 318045510,librep,aarch64-linux
 318045511,librep,x86_64-linux
-318045610,libretro.citra,aarch64-linux
-318045609,libretro.citra,x86_64-linux
-318045663,libretro.mupen64plus,aarch64-linux
-318045665,libretro.mupen64plus,x86_64-linux
 318045672,libretro.parallel-n64,x86_64-linux
 318045690,libretro.same_cdi,aarch64-linux
 318045689,libretro.same_cdi,x86_64-linux
@@ -1415,6 +1413,7 @@ id,name,system
 318047019,libuiohook,x86_64-linux
 318047123,libva1,aarch64-linux
 318047125,libva1,x86_64-linux
+318295359,libvirt,x86_64-linux
 318047297,libxc_7,x86_64-darwin
 318047509,libxsmm,x86_64-linux
 318047748,lightway,aarch64-darwin
@@ -1692,8 +1691,8 @@ id,name,system
 318058223,macopix,x86_64-linux
 318058270,mafft,aarch64-linux
 318058272,mafft,x86_64-linux
-318058284,magic-vlsi,aarch64-linux
-318058286,magic-vlsi,x86_64-linux
+318298253,magic-vlsi,aarch64-linux
+318298254,magic-vlsi,x86_64-linux
 318058350,maiko,aarch64-darwin
 318058352,maiko,x86_64-darwin
 318058417,mainsail,aarch64-linux
@@ -1793,8 +1792,8 @@ id,name,system
 318061362,mongosh,aarch64-linux
 318061359,mongosh,x86_64-darwin
 318061360,mongosh,x86_64-linux
-318061414,monotone,aarch64-darwin
-318061420,monotone,x86_64-darwin
+318298297,monotone,aarch64-darwin
+318298299,monotone,x86_64-darwin
 318061433,moon-buggy,aarch64-linux
 318061436,moon-buggy,x86_64-linux
 318061465,moosefs,aarch64-darwin
@@ -1913,6 +1912,8 @@ id,name,system
 318064608,nitrokey-fido2-firmware,aarch64-darwin
 318064606,nitrokey-fido2-firmware,aarch64-linux
 318064607,nitrokey-fido2-firmware,x86_64-linux
+318295419,nixVersions.nix_2_28,aarch64-linux
+318295420,nixVersions.nix_2_28,x86_64-linux
 318065782,nn,aarch64-linux
 318065785,nn,x86_64-linux
 318065903,nodePackages.esy,aarch64-darwin
@@ -1937,10 +1938,6 @@ id,name,system
 318066592,nss_pam_ldapd,x86_64-linux
 318066676,ntttcp,aarch64-linux
 318066680,ntttcp,x86_64-linux
-318066719,nufraw-thumbnailer,aarch64-linux
-318066721,nufraw-thumbnailer,x86_64-linux
-318066724,nufraw,aarch64-linux
-318066741,nufraw,x86_64-linux
 318066752,numdiff,aarch64-linux
 318066758,numdiff,x86_64-linux
 318295453,numr,aarch64-darwin
@@ -2046,7 +2043,6 @@ id,name,system
 318073874,opensaml-cpp,aarch64-linux
 318073873,opensaml-cpp,x86_64-darwin
 318073879,opensaml-cpp,x86_64-linux
-318074238,openvino,x86_64-linux
 318074158,openvscode-server,aarch64-darwin
 318074159,openvscode-server,aarch64-linux
 318074162,openvscode-server,x86_64-darwin
@@ -2188,6 +2184,7 @@ id,name,system
 318091434,petidomo,x86_64-linux
 318091448,petrifoo,aarch64-linux
 318091443,petrifoo,x86_64-linux
+318295489,pg-schema-diff,aarch64-darwin
 318091530,pgbadger,aarch64-darwin
 318091533,pgbadger,aarch64-linux
 318091536,pgbadger,x86_64-darwin
@@ -2236,6 +2233,7 @@ id,name,system
 318094058,pipr,aarch64-linux
 318094059,pipr,x86_64-linux
 318094305,pkgsRocm.ior,x86_64-linux
+318298387,pkgsRocm.itk_5_2,x86_64-linux
 318094334,pkgsRocm.migrate,x86_64-linux
 318094350,pkgsRocm.nwchem,x86_64-linux
 318094364,pkgsRocm.opensplat,x86_64-linux
@@ -2373,6 +2371,7 @@ id,name,system
 318101153,python313Packages.amazon-ion,x86_64-darwin
 318246248,python313Packages.atopile,aarch64-linux
 318246247,python313Packages.atopile,x86_64-linux
+318295703,python313Packages.ax-platform,x86_64-linux
 318102953,python313Packages.badsecrets,aarch64-darwin
 318102958,python313Packages.badsecrets,aarch64-linux
 318102961,python313Packages.badsecrets,x86_64-darwin
@@ -2488,6 +2487,7 @@ id,name,system
 318114291,python313Packages.kopf,aarch64-linux
 318114293,python313Packages.kopf,x86_64-darwin
 318114298,python313Packages.kopf,x86_64-linux
+318295921,python313Packages.langchain,aarch64-darwin
 318114784,python313Packages.libarcus,aarch64-linux
 318114783,python313Packages.libarcus,x86_64-linux
 318114912,python313Packages.libredwg,aarch64-darwin
@@ -2587,6 +2587,7 @@ id,name,system
 318123487,python313Packages.pydantic-compat,aarch64-linux
 318123504,python313Packages.pydantic-compat,x86_64-darwin
 318123499,python313Packages.pydantic-compat,x86_64-linux
+318296340,python313Packages.pygame-ce,x86_64-darwin
 318292120,python313Packages.pygitguardian,aarch64-darwin
 318292122,python313Packages.pygitguardian,aarch64-linux
 318292121,python313Packages.pygitguardian,x86_64-darwin
@@ -3713,6 +3714,9 @@ id,name,system
 318166059,python314Packages.pytorch-tokenizers,aarch64-linux
 318166054,python314Packages.pytorch-tokenizers,x86_64-linux
 318166187,python314Packages.pyvera,aarch64-darwin
+318298951,python314Packages.pyvista,aarch64-darwin
+318298953,python314Packages.pyvista,aarch64-linux
+318298954,python314Packages.pyvista,x86_64-linux
 318166326,python314Packages.pywebview,aarch64-darwin
 318166360,python314Packages.pywebview,x86_64-darwin
 318166347,python314Packages.pywinbox,aarch64-darwin
@@ -3972,8 +3976,8 @@ id,name,system
 318173600,python314Packages.virtualenv-clone,x86_64-linux
 318173687,python314Packages.vowpalwabbit,aarch64-darwin
 318173688,python314Packages.vowpalwabbit,x86_64-darwin
-318297225,python314Packages.wandb,aarch64-linux
-318297227,python314Packages.wandb,x86_64-linux
+318298984,python314Packages.wandb,aarch64-linux
+318298985,python314Packages.wandb,x86_64-linux
 318173912,python314Packages.weasyprint,aarch64-linux
 318173913,python314Packages.weasyprint,x86_64-linux
 318247528,python314Packages.weatherflow4py,aarch64-darwin
@@ -4133,8 +4137,6 @@ id,name,system
 318178021,ringing-lib,x86_64-linux
 318178093,ristate,aarch64-darwin
 318178096,ristate,x86_64-darwin
-318178106,river-bnf,aarch64-linux
-318178107,river-bnf,x86_64-linux
 318178115,river-filtile,aarch64-darwin
 318178117,river-filtile,x86_64-darwin
 318178120,river-tag-overlay,aarch64-linux
@@ -4150,7 +4152,6 @@ id,name,system
 318178326,robotframework-tidy,x86_64-darwin
 318178327,robotframework-tidy,x86_64-linux
 318178360,rocksdb,aarch64-darwin
-318178394,rocmPackages.amdsmi,x86_64-linux
 318178587,rogue,aarch64-linux
 318178590,rogue,x86_64-linux
 318178625,rootbar,aarch64-linux
@@ -4169,9 +4170,6 @@ id,name,system
 318178876,rrootage,aarch64-linux
 318178870,rrootage,x86_64-linux
 318178935,rsop,aarch64-darwin
-318293745,rstudio,aarch64-darwin
-318247566,rstudio,aarch64-linux
-318247572,rstudio,x86_64-linux
 318179067,rtl_fm_streamer,aarch64-linux
 318179068,rtl_fm_streamer,x86_64-linux
 318179728,rubyPackages.hpricot,aarch64-linux
@@ -4407,7 +4405,6 @@ id,name,system
 318193354,superscs,x86_64-linux
 318193360,surelog,aarch64-darwin
 318193362,surelog,x86_64-darwin
-318193374,surge,x86_64-linux
 318193537,swagger-cli,aarch64-darwin
 318193536,swagger-cli,aarch64-linux
 318193544,swagger-cli,x86_64-darwin
@@ -4592,8 +4589,6 @@ id,name,system
 318219725,uucp,x86_64-linux
 318219802,uxn11,aarch64-darwin
 318219804,uxn11,x86_64-darwin
-318219933,vampire,aarch64-linux
-318219935,vampire,x86_64-linux
 318219936,vangers,aarch64-darwin
 318219937,vangers,aarch64-linux
 318219939,vangers,x86_64-darwin
@@ -4622,6 +4617,8 @@ id,name,system
 318220345,vertcoin,x86_64-linux
 318220335,vertcoind,aarch64-linux
 318220337,vertcoind,x86_64-linux
+318297679,vesktop,aarch64-linux
+318297680,vesktop,x86_64-linux
 318220349,vesta,aarch64-darwin
 318220351,vesta,x86_64-darwin
 318220367,vgm2x,aarch64-darwin
