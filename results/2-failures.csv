@@ -47,8 +47,6 @@ id,name,system
 317971711,ath9k-htc-blobless-firmware,aarch64-linux
 317971709,ath9k-htc-blobless-firmware,x86_64-linux
 318492366,atlauncher,aarch64-linux
-318492477,avalonia,aarch64-linux
-318359145,avalonia,x86_64-linux
 317972205,avy,aarch64-linux
 317972206,avy,x86_64-linux
 318492466,aw-notify,aarch64-darwin
@@ -57,6 +55,7 @@ id,name,system
 318783860,azahar,x86_64-darwin
 317973280,azure-sdk-for-cpp.security-attestation,aarch64-linux
 317973282,azure-sdk-for-cpp.security-attestation,x86_64-linux
+318800449,babeldoc,x86_64-linux
 317973424,bacula,x86_64-darwin
 318492629,badsecrets,aarch64-darwin
 318492624,badsecrets,aarch64-linux
@@ -351,8 +350,8 @@ id,name,system
 317986117,dillo-plus,x86_64-linux
 317986196,direvent,aarch64-darwin
 317986195,direvent,x86_64-darwin
-318495339,direwolf-unstable,aarch64-darwin
-318495338,direwolf-unstable,x86_64-darwin
+319210899,direwolf-unstable,aarch64-darwin
+319210900,direwolf-unstable,x86_64-darwin
 317986246,discordchatexporter-cli,aarch64-darwin
 317986263,disk_indicator,aarch64-linux
 317986264,disk_indicator,x86_64-linux
@@ -458,8 +457,8 @@ id,name,system
 317989246,email,x86_64-linux
 317989266,emboss,aarch64-linux
 317989267,emboss,x86_64-linux
-318495973,emiluaPlugins.tdlib,aarch64-linux
-317989302,emiluaPlugins.tdlib,x86_64-linux
+319210929,emiluaPlugins.tdlib,aarch64-linux
+319210930,emiluaPlugins.tdlib,x86_64-linux
 317989317,emmy-lua-code-style,aarch64-linux
 317989320,emmy-lua-code-style,x86_64-linux
 318496023,enlightenment.efl,aarch64-linux
@@ -941,14 +940,10 @@ id,name,system
 318499868,hygg,aarch64-darwin
 318499935,hyprlandPlugins.hy3,aarch64-linux
 318499926,hyprlandPlugins.hy3,x86_64-linux
-318499962,hyprlandPlugins.hypr-darkwindow,aarch64-linux
-318499919,hyprlandPlugins.hypr-darkwindow,x86_64-linux
 318499948,hyprlandPlugins.hyprgrass,aarch64-linux
 318499929,hyprlandPlugins.hyprgrass,x86_64-linux
 318499933,hyprlandPlugins.hyprspace,aarch64-linux
 318499932,hyprlandPlugins.hyprspace,x86_64-linux
-318499939,hyprlandPlugins.hyprsplit,aarch64-linux
-318499934,hyprlandPlugins.hyprsplit,x86_64-linux
 318035319,i2pd-tools,aarch64-darwin
 318035322,i2pd-tools,x86_64-darwin
 318035533,icesprog,aarch64-darwin
@@ -1246,7 +1241,7 @@ id,name,system
 318047019,libuiohook,x86_64-linux
 318047123,libva1,aarch64-linux
 318047125,libva1,x86_64-linux
-318295360,libvmi,x86_64-linux
+319211015,libvmi,x86_64-linux
 318047297,libxc_7,x86_64-darwin
 318047509,libxsmm,x86_64-linux
 318502367,lightway,aarch64-darwin
@@ -1492,6 +1487,7 @@ id,name,system
 318053614,lttv,aarch64-linux
 318053616,lttv,x86_64-linux
 318503409,lua51Packages.lux-lua,x86_64-darwin
+318801475,lua51Packages.neotest,x86_64-linux
 318801589,lua51Packages.rocks-dev-nvim,aarch64-darwin
 318801549,lua51Packages.rocks-dev-nvim,x86_64-darwin
 318503624,lua52Packages.lux-lua,x86_64-darwin
@@ -1589,8 +1585,6 @@ id,name,system
 318061028,mlton20210117,aarch64-darwin
 318394554,mlvwm,aarch64-linux
 318394553,mlvwm,x86_64-linux
-318398790,mmlgui,aarch64-linux
-318398795,mmlgui,x86_64-linux
 318061165,mobsql,aarch64-darwin
 318061167,mobsql,x86_64-darwin
 318298297,monotone,aarch64-darwin
@@ -1997,7 +1991,7 @@ id,name,system
 318352312,pkgsRocm.python3Packages.pymanopt,x86_64-linux
 318352371,pkgsRocm.python3Packages.sirius,x86_64-linux
 318399004,pkgsRocm.python3Packages.syne-tune,x86_64-linux
-318802272,pkgsRocm.python3Packages.tinygrad,x86_64-linux
+319211118,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 318352401,pkgsRocm.python3Packages.torchao,x86_64-linux
 318352397,pkgsRocm.python3Packages.torchcodec,x86_64-linux
 318352400,pkgsRocm.python3Packages.torchdata,x86_64-linux
@@ -2028,8 +2022,6 @@ id,name,system
 318095801,plugdata,x86_64-linux
 318095842,plzip,aarch64-darwin
 318095846,plzip,x86_64-darwin
-318095850,pmacct,aarch64-linux
-318095860,pmacct,x86_64-linux
 318095856,pmars-x11,aarch64-linux
 318095858,pmars-x11,x86_64-linux
 318095852,pmars,aarch64-linux
@@ -2128,8 +2120,8 @@ id,name,system
 318511004,python313Packages.cyclonedds-python,aarch64-linux
 318511003,python313Packages.cyclonedds-python,x86_64-darwin
 318105857,python313Packages.cyclonedds-python,x86_64-linux
-318511028,python313Packages.dashscope,aarch64-darwin
-318511030,python313Packages.dashscope,x86_64-darwin
+319211160,python313Packages.dashscope,aarch64-darwin
+319211158,python313Packages.dashscope,x86_64-darwin
 318106383,python313Packages.deepsearch-glm,aarch64-darwin
 318106378,python313Packages.deepsearch-glm,aarch64-linux
 318106380,python313Packages.deepsearch-glm,x86_64-darwin
@@ -2427,7 +2419,6 @@ id,name,system
 318138242,python313Packages.xtensor-python,aarch64-linux
 318138241,python313Packages.xtensor-python,x86_64-darwin
 318138243,python313Packages.xtensor-python,x86_64-linux
-318523624,python314Packages.accelerate,aarch64-linux
 318523836,python314Packages.aiohasupervisor,aarch64-darwin
 318523835,python314Packages.aiohasupervisor,aarch64-linux
 318523837,python314Packages.aiohasupervisor,x86_64-darwin
@@ -2637,10 +2628,10 @@ id,name,system
 318144574,python314Packages.cytoolz,aarch64-linux
 318144576,python314Packages.cytoolz,x86_64-darwin
 318144582,python314Packages.cytoolz,x86_64-linux
-318525821,python314Packages.dashscope,aarch64-darwin
-318525822,python314Packages.dashscope,aarch64-linux
-318525823,python314Packages.dashscope,x86_64-darwin
-318144654,python314Packages.dashscope,x86_64-linux
+319211350,python314Packages.dashscope,aarch64-darwin
+319211356,python314Packages.dashscope,aarch64-linux
+319211351,python314Packages.dashscope,x86_64-darwin
+319211352,python314Packages.dashscope,x86_64-linux
 318525881,python314Packages.datalad,aarch64-darwin
 318525866,python314Packages.datalad,aarch64-linux
 318525895,python314Packages.datalad,x86_64-darwin
