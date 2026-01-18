@@ -480,6 +480,8 @@ id,name,system
 317989945,eukleides,aarch64-linux
 317989947,eukleides,x86_64-linux
 319409757,eventstore,x86_64-darwin
+319479283,exatorrent,aarch64-darwin
+319479285,exatorrent,x86_64-darwin
 318496183,excalidraw_export,aarch64-darwin
 318496185,excalidraw_export,aarch64-linux
 318496184,excalidraw_export,x86_64-darwin
@@ -1516,7 +1518,7 @@ id,name,system
 318364280,mactop,aarch64-darwin
 318058270,mafft,aarch64-linux
 318058272,mafft,x86_64-linux
-319458898,magika,aarch64-linux
+319482978,magika,aarch64-linux
 318058350,maiko,aarch64-darwin
 318058352,maiko,x86_64-darwin
 318504554,makehuman,aarch64-darwin
@@ -1525,6 +1527,16 @@ id,name,system
 318058469,makehuman,x86_64-linux
 318504685,maskromtool,aarch64-darwin
 318504684,maskromtool,x86_64-darwin
+319480188,matrix-synapse-plugins.matrix-synapse-ldap3,aarch64-linux
+319480182,matrix-synapse-plugins.matrix-synapse-ldap3,x86_64-linux
+319480194,matrix-synapse-plugins.matrix-synapse-mjolnir-antispam,aarch64-linux
+319480180,matrix-synapse-plugins.matrix-synapse-mjolnir-antispam,x86_64-linux
+319480185,matrix-synapse-plugins.matrix-synapse-s3-storage-provider,aarch64-linux
+319480183,matrix-synapse-plugins.matrix-synapse-s3-storage-provider,x86_64-linux
+319480187,matrix-synapse-plugins.matrix-synapse-shared-secret-auth,aarch64-linux
+319480179,matrix-synapse-plugins.matrix-synapse-shared-secret-auth,x86_64-linux
+319480195,matrix-synapse-plugins.synapse-http-antispam,aarch64-linux
+319480189,matrix-synapse-plugins.synapse-http-antispam,x86_64-linux
 318504833,mayo,aarch64-darwin
 318504828,mayo,x86_64-darwin
 318059530,mcfm,x86_64-darwin
@@ -1541,8 +1553,8 @@ id,name,system
 318505006,mediasynclite,x86_64-darwin
 318059868,mediathekview,aarch64-darwin
 318059871,mediathekview,x86_64-darwin
-318505015,medusa,aarch64-linux
-318295394,medusa,x86_64-linux
+319482992,medusa,aarch64-linux
+319482993,medusa,x86_64-linux
 319307976,meerk40t,x86_64-linux
 318505078,meritous,aarch64-linux
 318060098,meritous,x86_64-linux
@@ -1655,6 +1667,8 @@ id,name,system
 318063071,nanobench,x86_64-darwin
 318063266,nbench,aarch64-linux
 318063267,nbench,x86_64-linux
+319480211,ncps,aarch64-darwin
+319480210,ncps,x86_64-darwin
 318063379,ncview,aarch64-linux
 318063376,ncview,x86_64-linux
 318063388,ndn-cxx,aarch64-linux
@@ -1987,12 +2001,10 @@ id,name,system
 318093985,pioasm,x86_64-linux
 318507932,pipr,aarch64-linux
 318094059,pipr,x86_64-linux
-319458972,pkgsRocm.firefox-beta-unwrapped,x86_64-linux
 318352005,pkgsRocm.ior,x86_64-linux
 319464181,pkgsRocm.itk_5_2,x86_64-linux
 318352036,pkgsRocm.migrate,x86_64-linux
 318352070,pkgsRocm.opensplat,x86_64-linux
-319459011,pkgsRocm.python3Packages.clu,x86_64-linux
 319424728,pkgsRocm.python3Packages.cnvkit,x86_64-linux
 318352312,pkgsRocm.python3Packages.pymanopt,x86_64-linux
 318352371,pkgsRocm.python3Packages.sirius,x86_64-linux
@@ -2000,10 +2012,10 @@ id,name,system
 319457653,pkgsRocm.python3Packages.torchao,x86_64-linux
 318352397,pkgsRocm.python3Packages.torchcodec,x86_64-linux
 318352400,pkgsRocm.python3Packages.torchdata,x86_64-linux
-319457666,pkgsRocm.python3Packages.vllm,x86_64-linux
+319483232,pkgsRocm.python3Packages.vllm,x86_64-linux
 318352441,pkgsRocm.raxml-mpi,x86_64-linux
 318352457,pkgsRocm.sirius,x86_64-linux
-319457681,pkgsRocm.vllm,x86_64-linux
+319483253,pkgsRocm.vllm,x86_64-linux
 318095142,plasma5Packages.libcommuni,aarch64-darwin
 318095145,plasma5Packages.libcommuni,x86_64-darwin
 318095179,plasma5Packages.maplibre-gl-native,aarch64-linux
@@ -2154,7 +2166,7 @@ id,name,system
 318108722,python313Packages.esig,x86_64-linux
 318108780,python313Packages.etelemetry,aarch64-darwin
 318108781,python313Packages.etelemetry,x86_64-darwin
-319480664,python313Packages.executorch,x86_64-linux
+319483463,python313Packages.executorch,x86_64-linux
 318246314,python313Packages.faraday-agent-parameters-types,aarch64-darwin
 318246313,python313Packages.faraday-agent-parameters-types,aarch64-linux
 318246315,python313Packages.faraday-agent-parameters-types,x86_64-darwin
@@ -2212,6 +2224,7 @@ id,name,system
 319431244,python313Packages.locust-cloud,aarch64-linux
 318455073,python313Packages.looptime,aarch64-darwin
 318455071,python313Packages.looptime,x86_64-darwin
+319483625,python313Packages.magika,aarch64-linux
 318515368,python313Packages.mlt,aarch64-darwin
 318515371,python313Packages.mlt,x86_64-darwin
 319366216,python313Packages.mlx,aarch64-darwin
@@ -2347,7 +2360,7 @@ id,name,system
 318519785,python313Packages.pywebview,x86_64-darwin
 318128282,python313Packages.pywinbox,aarch64-darwin
 318128288,python313Packages.pywinbox,x86_64-darwin
-319459378,python313Packages.rapidocr-onnxruntime,aarch64-linux
+319483802,python313Packages.rapidocr-onnxruntime,aarch64-linux
 318128765,python313Packages.raylib-python-cffi,aarch64-darwin
 318128762,python313Packages.raylib-python-cffi,x86_64-darwin
 319309240,python313Packages.rds2py,aarch64-darwin
@@ -2358,7 +2371,8 @@ id,name,system
 318128901,python313Packages.redbaron,aarch64-linux
 318128900,python313Packages.redbaron,x86_64-darwin
 318128903,python313Packages.redbaron,x86_64-linux
-319459384,python313Packages.rembg,aarch64-linux
+319480730,python313Packages.reflex,aarch64-linux
+319483810,python313Packages.rembg,aarch64-linux
 318129183,python313Packages.requirements-detector,aarch64-darwin
 318129198,python313Packages.requirements-detector,aarch64-linux
 318129185,python313Packages.requirements-detector,x86_64-darwin
@@ -2392,7 +2406,7 @@ id,name,system
 318521199,python313Packages.swh-shard,x86_64-darwin
 319431544,python313Packages.swh-web-client,aarch64-linux
 318521431,python313Packages.tiledb,aarch64-darwin
-319459434,python313Packages.tinygrad,aarch64-linux
+319483854,python313Packages.tinygrad,aarch64-linux
 319457906,python313Packages.torchao,aarch64-darwin
 318521751,python313Packages.twisted,x86_64-darwin
 318136934,python313Packages.utitools,aarch64-darwin
@@ -2835,9 +2849,6 @@ id,name,system
 318528643,python314Packages.johnnycanencrypt,aarch64-linux
 318528647,python314Packages.johnnycanencrypt,x86_64-darwin
 318152024,python314Packages.johnnycanencrypt,x86_64-linux
-319480772,python314Packages.kagglehub,aarch64-darwin
-319480775,python314Packages.kagglehub,aarch64-linux
-319480773,python314Packages.kagglehub,x86_64-linux
 318152671,python314Packages.klayout,aarch64-darwin
 318152674,python314Packages.klayout,x86_64-darwin
 318528876,python314Packages.klein,aarch64-darwin
@@ -2881,7 +2892,7 @@ id,name,system
 318153909,python314Packages.logilab-common,x86_64-linux
 318469774,python314Packages.looptime,aarch64-darwin
 318469773,python314Packages.looptime,x86_64-darwin
-319459610,python314Packages.magika,aarch64-linux
+319484113,python314Packages.magika,aarch64-linux
 318529481,python314Packages.mahotas,aarch64-darwin
 318529482,python314Packages.mahotas,x86_64-darwin
 318154155,python314Packages.mahotas,x86_64-linux
@@ -3199,7 +3210,7 @@ id,name,system
 318534232,python314Packages.quart-schema,aarch64-linux
 318534237,python314Packages.quart-schema,x86_64-darwin
 318166648,python314Packages.quart-schema,x86_64-linux
-319459664,python314Packages.rapidocr-onnxruntime,aarch64-linux
+319484233,python314Packages.rapidocr-onnxruntime,aarch64-linux
 318166825,python314Packages.raylib-python-cffi,aarch64-darwin
 318166824,python314Packages.raylib-python-cffi,x86_64-darwin
 319310117,python314Packages.rds2py,aarch64-darwin
@@ -3214,7 +3225,7 @@ id,name,system
 318166955,python314Packages.redbaron,aarch64-linux
 318166957,python314Packages.redbaron,x86_64-darwin
 318166962,python314Packages.redbaron,x86_64-linux
-319459668,python314Packages.rembg,aarch64-linux
+319484232,python314Packages.rembg,aarch64-linux
 318534367,python314Packages.replicate,aarch64-darwin
 318534368,python314Packages.replicate,aarch64-linux
 318534374,python314Packages.replicate,x86_64-darwin
@@ -3357,7 +3368,7 @@ id,name,system
 318171233,python314Packages.throttler,x86_64-darwin
 318171234,python314Packages.throttler,x86_64-linux
 318535607,python314Packages.tiledb,aarch64-darwin
-319459689,python314Packages.tinygrad,aarch64-linux
+319484255,python314Packages.tinygrad,aarch64-linux
 318171485,python314Packages.tololib,aarch64-linux
 318535663,python314Packages.torch-geometric,aarch64-darwin
 318535662,python314Packages.torch-geometric,aarch64-linux
@@ -3510,7 +3521,7 @@ id,name,system
 318177476,remake,x86_64-linux
 318177478,remarkable-toolchain,x86_64-linux
 318177482,remarkable2-toolchain,x86_64-linux
-319459730,rembg,aarch64-linux
+319484302,rembg,aarch64-linux
 318537334,rendercv,x86_64-darwin
 318537346,repak,aarch64-darwin
 318537347,repak,aarch64-linux
@@ -3983,6 +3994,8 @@ id,name,system
 318225656,wimboot,x86_64-linux
 318549018,windowtolayer,aarch64-darwin
 318549020,windowtolayer,x86_64-darwin
+319480969,wireshark-qt,aarch64-darwin
+319480959,wireshark,aarch64-darwin
 318226003,wml,aarch64-linux
 318226006,wml,x86_64-linux
 319461610,woodpecker-cli,aarch64-darwin
@@ -4013,8 +4026,8 @@ id,name,system
 318227090,xephem,aarch64-linux
 318227092,xephem,x86_64-darwin
 318227095,xephem,x86_64-linux
-318549373,xeus-cling,aarch64-linux
-318227297,xeus-cling,x86_64-linux
+319484467,xeus-cling,aarch64-linux
+319484462,xeus-cling,x86_64-linux
 318227118,xf86-input-cmt,aarch64-linux
 318227117,xf86-input-cmt,x86_64-linux
 318364434,xfstests,aarch64-linux
