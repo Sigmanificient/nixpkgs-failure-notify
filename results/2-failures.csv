@@ -31,8 +31,8 @@ id,name,system
 319880821,apt-dater,x86_64-linux
 319880918,ardopc,aarch64-linux
 319880917,ardopc,x86_64-linux
-319880971,arftracksat,aarch64-darwin
-319880982,arftracksat,x86_64-darwin
+320163601,arftracksat,aarch64-darwin
+320163602,arftracksat,x86_64-darwin
 319880976,argagg,x86_64-darwin
 319881012,argononed,aarch64-linux
 319881013,argononed,x86_64-linux
@@ -214,8 +214,6 @@ id,name,system
 319888507,cfspeedtest,x86_64-darwin
 319888515,cfv,aarch64-darwin
 319888516,cfv,x86_64-darwin
-319888542,cgit-pink,aarch64-linux
-319888544,cgit-pink,x86_64-linux
 319888574,cgui,aarch64-linux
 319888575,cgui,x86_64-linux
 319888765,cheesecutter,x86_64-linux
@@ -1227,6 +1225,7 @@ id,name,system
 319956224,libva1,aarch64-linux
 319956228,libva1,x86_64-linux
 319956393,libxc_7,x86_64-darwin
+320152487,lightningcss,aarch64-linux
 319956848,lightway,aarch64-darwin
 319956868,lilo,aarch64-linux
 319956867,lilo,x86_64-linux
@@ -1539,8 +1538,8 @@ id,name,system
 319967951,mactop,aarch64-darwin
 319967987,mafft,aarch64-linux
 319967989,mafft,x86_64-linux
-319968019,magic-vlsi,aarch64-linux
-319968001,magic-vlsi,x86_64-linux
+320163823,magic-vlsi,aarch64-linux
+320163825,magic-vlsi,x86_64-linux
 319968067,maiko,aarch64-darwin
 319968070,maiko,x86_64-darwin
 319968184,makehuman,aarch64-darwin
@@ -1595,8 +1594,6 @@ id,name,system
 319970150,mikmod,x86_64-linux
 319970204,minc_tools,aarch64-linux
 319970205,minc_tools,x86_64-linux
-319970302,minilibx,aarch64-linux
-319970304,minilibx,x86_64-linux
 319970352,minipro,aarch64-linux
 319970354,minipro,x86_64-linux
 319970460,miranda,aarch64-linux
@@ -1686,6 +1683,7 @@ id,name,system
 319973111,napari,x86_64-linux
 319972976,nbench,aarch64-linux
 319972978,nbench,x86_64-linux
+320152582,ncps,aarch64-darwin
 319973090,ncview,aarch64-linux
 319973089,ncview,x86_64-linux
 319973096,ndn-cxx,aarch64-linux
@@ -1866,8 +1864,6 @@ id,name,system
 319989098,or-tools,x86_64-linux
 319989187,osdlyrics,aarch64-linux
 319989179,osdlyrics,x86_64-linux
-319989211,osmctools,aarch64-linux
-319989213,osmctools,x86_64-linux
 319989222,osmo,aarch64-linux
 319989223,osmo,x86_64-linux
 319989320,osrm-backend,aarch64-darwin
@@ -2190,6 +2186,7 @@ id,name,system
 320022620,python313Packages.donut-shellcode,x86_64-darwin
 320022617,python313Packages.donut-shellcode,x86_64-linux
 320023179,python313Packages.eigenpy,x86_64-darwin
+320152901,python313Packages.elastic-apm,x86_64-darwin
 320023294,python313Packages.embrace,aarch64-linux
 320023485,python313Packages.esig,aarch64-darwin
 320023488,python313Packages.esig,aarch64-linux
@@ -2741,6 +2738,7 @@ id,name,system
 320061933,python314Packages.eigenpy,x86_64-darwin
 320062008,python314Packages.eliot,aarch64-darwin
 320062013,python314Packages.eliot,aarch64-linux
+320153442,python314Packages.es-client,x86_64-linux
 320062234,python314Packages.esig,aarch64-darwin
 320062241,python314Packages.esig,aarch64-linux
 320062231,python314Packages.esig,x86_64-darwin
@@ -3041,9 +3039,9 @@ id,name,system
 320074856,python314Packages.pip-api,x86_64-darwin
 320074855,python314Packages.pip-api,x86_64-linux
 320074903,python314Packages.piper-phonemize,x86_64-darwin
-320075047,python314Packages.ploomber-core,aarch64-darwin
-320075050,python314Packages.ploomber-core,aarch64-linux
-320075051,python314Packages.ploomber-core,x86_64-linux
+320164208,python314Packages.ploomber-core,aarch64-darwin
+320164209,python314Packages.ploomber-core,aarch64-linux
+320164210,python314Packages.ploomber-core,x86_64-linux
 320075110,python314Packages.plum-py,aarch64-darwin
 320075116,python314Packages.plum-py,aarch64-linux
 320075104,python314Packages.plum-py,x86_64-darwin
@@ -3232,8 +3230,6 @@ id,name,system
 320081363,python314Packages.pywebview,x86_64-darwin
 320081349,python314Packages.pywinbox,aarch64-darwin
 320081351,python314Packages.pywinbox,x86_64-darwin
-320081471,python314Packages.qcelemental,aarch64-linux
-320081477,python314Packages.qcelemental,x86_64-linux
 320081649,python314Packages.quart-schema,aarch64-darwin
 320081645,python314Packages.quart-schema,aarch64-linux
 320081685,python314Packages.quart-schema,x86_64-darwin
@@ -3759,10 +3755,6 @@ id,name,system
 320107078,spnavcfg,x86_64-darwin
 320107085,spooftooph,aarch64-linux
 320107086,spooftooph,x86_64-linux
-320107150,sptk,aarch64-darwin
-320107154,sptk,aarch64-linux
-320107155,sptk,x86_64-darwin
-320107156,sptk,x86_64-linux
 320107331,sqsh,aarch64-linux
 320107330,sqsh,x86_64-linux
 320107360,squishyball,aarch64-linux
