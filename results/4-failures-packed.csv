@@ -10,8 +10,8 @@ alliance,319879673,319879672,,
 alttab,319879794,319879786,,
 amiberry,319879875,319879874,,
 angelscript,,,319880015,
-apacheHttpdPackages.mod_tile,319880610,319880553,,
-apacheHttpdPackages_2_4.mod_tile,319880657,,,
+apacheHttpdPackages.mod_tile,320733776,320733786,,
+apacheHttpdPackages_2_4.mod_tile,320733777,320733785,,
 apftool-rs,,319880614,,
 applgrid,,319880761,,
 aprx,319880809,319880807,,
@@ -52,8 +52,8 @@ birdfont,319885198,319885197,,
 bitlbee-mastodon,319885265,319885268,,
 bitlbee-steam,319885267,319885266,,
 blast,319885396,319885395,,
-blightmud-tts,319885440,319885438,,
-blightmud,319885436,319885434,,
+blightmud-tts,320733828,320733832,,
+blightmud,320733825,320733830,,
 blink1-tool,319885450,,,
 blockstream-electrs,319885556,,,
 bodyclose,319885678,319885679,319885681,319885677
@@ -97,15 +97,15 @@ chiptrack,319888915,319888914,,
 ciao,319891371,319891370,,
 clboss,319891690,319891689,,319891687
 clean,319891699,,,
-clickable,,,320456121,320456109
+clickable,,,320733904,
 clipit,319891847,319891843,,
 cmtk,319892207,319892206,,
 coan,319892256,319892255,,
 coc-sumneko-lua,319892399,319892398,319892401,319892397
-commafeed,,320152117,320152119,320152118
+commafeed,,320733916,320733913,320733915
 connectome-workbench,319893041,319893042,,
 contour,,,319893124,
-copacetic,,,,319893208
+copacetic,,,320733918,320733917
 coredns,,,319893698,319893696
 corretto11,320456156,320456160,,
 cpp-ipfs-http-client,319893980,,,
@@ -127,7 +127,7 @@ digitemp,319896443,319896442,,
 dillo-plus,319896455,319896453,,
 dino,,,320728634,320728629
 directx-shader-compiler,,,319896526,319896528
-direwolf-unstable,,,,319896549
+direwolf-unstable,,,320733958,320733959
 disk_indicator,319896604,319896605,,
 djgpp,319896729,319896727,319896736,
 djgpp_i586,319896733,319896732,319896737,
@@ -390,6 +390,7 @@ lely-core,319951825,319951818,,
 lerna_6,,319951914,,
 lgpio,319952011,319952010,,
 libagar,319952234,319952233,,
+libation,,,320734408,
 libdynd,319952877,319952881,,
 libffi_3_3,319953077,319953076,,
 libigloo,,,319953455,319953450
@@ -673,6 +674,7 @@ nabi,319972667,319972666,,
 naev,319972674,319972672,,
 napari,319973111,319973121,,
 nbench,319972978,319972976,,
+ncps,,,320732996,320732994
 ncview,319973089,319973090,,
 ndn-cxx,319973098,319973096,,
 nedit,319973148,319973145,,
@@ -779,7 +781,6 @@ petidomo,,320006209,,
 petrifoo,320006215,320006213,,
 pgbadger,320006310,320006307,,
 pgloader,320006376,320006375,,
-php85Extensions.imagick,,320730040,320730035,
 php85Extensions.shmop,,,,320730176
 php85Extensions.sysvshm,,,320730242,320730233
 phrasendrescher,320008432,320008424,,
@@ -802,9 +803,10 @@ pkgsRocm.python3Packages.cnvkit,320489097,,,
 pkgsRocm.python3Packages.gpuctypes,320451383,,,
 pkgsRocm.python3Packages.sirius,320451583,,,
 pkgsRocm.python3Packages.syne-tune,320730492,,,
-pkgsRocm.python3Packages.vllm,320730497,,,
+pkgsRocm.python3Packages.vllm,320735110,,,
 pkgsRocm.raxml-mpi,320451664,,,
 pkgsRocm.sirius,320451707,,,
+pkgsRocm.vllm,320735124,,,
 pkgsRocm.xyce-parallel,320451749,,,
 plasma5Packages.libcommuni,,,320009941,
 plasma5Packages.maplibre-gl-native,320009973,320009972,,
@@ -866,7 +868,7 @@ python313Packages.iterfzf,,,320730749,320730750
 python313Packages.johnnycanencrypt,320028337,320028333,,
 python313Packages.kfactory,320451798,320451796,320451799,320451797
 python313Packages.kopf,,320029097,,
-python313Packages.lerobot,320455466,320455465,,
+python313Packages.lerobot,320735411,320735408,,
 python313Packages.libarcus,320029583,320029586,,
 python313Packages.line-profiler,320029895,320029891,,
 python313Packages.lmdb,320030324,,,
@@ -874,7 +876,7 @@ python313Packages.locust-cloud,,320030385,,
 python313Packages.mlx,,,,320730858
 python313Packages.monosat,320031880,320031885,,
 python313Packages.myst-docutils,320033729,320033724,,
-python313Packages.odc-geo,320489491,320489478,,320489493
+python313Packages.odc-geo,320735638,320735641,,320735633
 python313Packages.openbabel,320035009,320035014,,
 python313Packages.opencc,320035023,320035017,,
 python313Packages.openfga-sdk,320035066,320035067,,
@@ -882,6 +884,7 @@ python313Packages.opentelemetry-instrumentation-botocore,320035183,320035179,,
 python313Packages.opytimark,320035347,,,
 python313Packages.ortools,320035555,320035463,,
 python313Packages.osc-sdk-python,320035430,320035426,320035431,320035424
+python313Packages.pgmpy,,,320735666,
 python313Packages.protobuf4,320037252,320037254,,
 python313Packages.proton-client,320037268,320037269,,
 python313Packages.proton-core,,,320037270,320037267
@@ -920,6 +923,7 @@ python313Packages.sourmash,320046177,320046174,,
 python313Packages.spherogram,320046297,320046295,,
 python313Packages.srctools,,320046849,,
 python313Packages.term-image,320047942,320047937,320047938,320047932
+python313Packages.tiledb,,,,320735787
 python313Packages.torchao,,,,320048551
 python313Packages.webrtc-noise-gain,320052508,320052510,,
 python313Packages.ws4py,,,320052801,320052790
@@ -1054,7 +1058,7 @@ python314Packages.nuclear,320072901,320072902,320072903,
 python314Packages.nuitka,320072909,320072912,,
 python314Packages.numericalunits,320072948,320072943,320072946,320072936
 python314Packages.nutils,320072985,,320072992,
-python314Packages.odc-geo,320489995,320489977,,320489991
+python314Packages.odc-geo,320736085,320736086,,320736089
 python314Packages.openbabel,320073386,,,
 python314Packages.opencc,320073391,320073388,,
 python314Packages.openfga-sdk,320073439,320073436,,
@@ -1066,6 +1070,7 @@ python314Packages.orbax-checkpoint,320073724,320073734,,
 python314Packages.osc-sdk-python,320073784,320073780,320073782,320073779
 python314Packages.outlines-core,320074099,320074169,,
 python314Packages.para,320074110,320074105,,
+python314Packages.pgmpy,,,320736113,
 python314Packages.pip-api,320074855,320074852,,
 python314Packages.ploomber-core,320164210,320164209,,320164208
 python314Packages.plum-py,320075113,320075116,320075104,320075110
@@ -1154,6 +1159,7 @@ python314Packages.tensordict,320085998,320085996,,
 python314Packages.term-image,320086022,,,
 python314Packages.threat9-test-bed,320086267,320086266,,
 python314Packages.throttler,320086278,320086280,320086284,320086276
+python314Packages.tiledb,,,,320736201
 python314Packages.tololib,,320086538,,
 python314Packages.torchinfo,320086647,320086643,,
 python314Packages.trafilatura,320086748,320086752,,
@@ -1290,7 +1296,6 @@ storrent,,320108096,,
 stratisd,320471256,,,
 streamripper,320108147,320108145,,
 strobealign,320108196,320108195,,
-supercell-wx,320108525,320108554,,
 supermodel,320108542,320108539,,
 surge,320108573,,,
 swagger-cli,,320108738,,
@@ -1405,7 +1410,7 @@ xcodebuild,320146820,320146818,,
 xephem,320147031,320147036,,
 xeus-cling,320147296,320147149,,
 xf86-input-cmt,320147061,320147066,,
-xfstests,320471663,320471662,,
+xfstests,320736610,320736612,,
 xine-ui,320147326,320147334,,
 xloadimage,320147437,320147435,,
 xlog,320147444,320147441,,
