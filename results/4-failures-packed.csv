@@ -418,7 +418,7 @@ haskellPackages.system-linux-proc,,,319937474,319937475
 haskellPackages.tailfile-hinotify,,,319937613,319937584
 haskellPackages.termbox-bindings-c,,,319937929,319937937
 haskellPackages.timeout-snooze,,,319938560,
-haskellPackages.trexio-hs,,,319938935,319938934
+haskellPackages.trexio-hs,,,321077222,321077224
 haskellPackages.wai-middleware-metrics,,,319940282,319940308
 haskellPackages.xls,,,319940857,319940854
 haskellPackages.xmonad-utils,,,319941021,319940954
@@ -479,7 +479,7 @@ jetuml,,,319946985,319946983
 jextract-21,320456453,320456469,,
 jextract,,,320456463,320456459
 jitsi-meet-electron,,,320742183,320742185
-jj-fzf,320478841,320478840,320478843,320478842
+jj-fzf,321077265,321077262,321077263,321077264
 jove,319947279,319947278,,
 jrsonnet,319947412,319947410,319947416,319947407
 jsoncons,319947523,319947516,,
@@ -521,6 +521,7 @@ l8w8jwt,319951227,,,
 landrun,,319951336,,
 lanraragi,,,,320738601
 larswm,319951382,319951376,,
+lasuite-docs,,,321077325,321077319
 lcm,,,319951590,319951592
 ldmtool,319951665,319951666,,
 lean,,,319951709,319951706
@@ -797,12 +798,12 @@ makehuman,319968185,319968186,319968187,319968184
 maskromtool,,,319968757,319968746
 mathemagix,319968916,,,
 mattermost-desktop,,,320808680,320808682
-mayo,,,319969151,319969145
+mayo,,,321077349,321077351
 mcfm,319969237,,319969242,
 mcp-proxy,,,,320879220
 mcrl2,319969278,319969277,,
 mcrypt,319969286,319969284,,
-mediaelch-qt5,319969562,319969558,,
+mediaelch-qt5,321077362,321077358,,
 mediagoblin,,,,320470726
 mediasynclite,,,319969578,319969589
 mediathekview,,,319969583,319969580
@@ -1036,10 +1037,10 @@ pkgsRocm.python3Packages.tensordict,320852529,,,
 pkgsRocm.python3Packages.torchao,320852545,,,
 pkgsRocm.python3Packages.torchcodec,320852547,,,
 pkgsRocm.python3Packages.torchdata,320852550,,,
-pkgsRocm.python3Packages.vllm,320879725,,,
+pkgsRocm.python3Packages.vllm,321077507,,,
 pkgsRocm.raxml-mpi,320451664,,,
 pkgsRocm.sirius,320852605,,,
-pkgsRocm.vllm,320879740,,,
+pkgsRocm.vllm,321077517,,,
 plasma5Packages.libcommuni,,,320009941,320009937
 plasma5Packages.maplibre-gl-native,320009973,320009972,,
 plasma5Packages.maplibre-native-qt,320009975,320009971,,
@@ -1070,7 +1071,6 @@ postgresql18Packages.pointcloud,,,,320012414
 postgresqlPackages.apache_datasketches,320012400,320012396,,
 postsrsd,,,320012716,320012714
 powertabeditor,,,320012796,320012797
-pq-cli,320012857,320012855,,320012861
 prime-server,,,320013031,320013027
 procmail,320013135,320013134,,
 professor,320013234,320013232,,
@@ -1086,6 +1086,7 @@ pycoin,,,,320014442
 python313Packages.a2a-sdk,,,320899927,320899929
 python313Packages.aiosonic,,,320015565,320015570
 python313Packages.amazon-ion,,,320015892,320015890
+python313Packages.ariadne,,,,321069522
 python313Packages.autopage,,,320847053,320847052
 python313Packages.bezier,320882747,320882746,,
 python313Packages.botan3,320018461,320018460,320018509,320018541
@@ -1231,6 +1232,7 @@ python314Packages.aiosonic,,,320054602,320054582
 python314Packages.aiotarfile,320054586,320054581,320054719,320054606
 python314Packages.amazon-ion,,,320054859,320054858
 python314Packages.aocd,320055067,320055073,320055113,320055195
+python314Packages.ariadne,,,321069669,
 python314Packages.async-cache,320055561,320055556,320055560,320055573
 python314Packages.async-dns,320055566,320055563,320055567,320055562
 python314Packages.asyncua,320055668,320055667,320055670,320055669
@@ -1418,7 +1420,7 @@ python314Packages.python-djvulibre,,,320080179,320080175
 python314Packages.python-etcd,320900250,,320900249,
 python314Packages.python-flirt,320080469,320080447,320080448,320080549
 python314Packages.python-fontconfig,320080247,320080244,,
-python314Packages.python-fx,320080291,320080263,320080313,320080302
+python314Packages.python-fx,321077859,321077858,321077857,321077868
 python314Packages.python-ldap,320080403,320080402,320080404,320080401
 python314Packages.python-openstackclient,320848144,,,
 python314Packages.python-picnic-api2,320080632,320080633,320080645,320080629
@@ -1483,7 +1485,6 @@ python314Packages.xtensor-python,320089671,320089667,320089676,320089666
 pywal16,,,321066467,
 qbittorrent-enhanced,,,,320900285
 qcm,320090338,320090335,,
-qemu-python-utils,,,320764643,320764636
 qgo,,,320090423,320090425
 qgrep,,,320090427,320090432
 qmic,,,,320090486
@@ -1687,6 +1688,7 @@ tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,,,320112691,
 tests.hardeningFlags.allExplicitDisabledPacRet,,320112173,,
 tests.hardeningFlags.pacRetExplicitDisabled,,320112265,,
 tests.home-assistant-component-tests.cloud,,321066813,,
+tests.home-assistant-component-tests.enphase_envoy,,321069889,,
 tests.home-assistant-component-tests.google,321067165,,,
 tests.home-assistant-component-tests.openrgb,,321067820,,
 tests.home-assistant-component-tests.sensor,321068090,,,

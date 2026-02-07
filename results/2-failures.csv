@@ -853,8 +853,8 @@ id,name,system
 319937937,haskellPackages.termbox-bindings-c,aarch64-darwin
 319937929,haskellPackages.termbox-bindings-c,x86_64-darwin
 319938560,haskellPackages.timeout-snooze,x86_64-darwin
-319938934,haskellPackages.trexio-hs,aarch64-darwin
-319938935,haskellPackages.trexio-hs,x86_64-darwin
+321077224,haskellPackages.trexio-hs,aarch64-darwin
+321077222,haskellPackages.trexio-hs,x86_64-darwin
 319940308,haskellPackages.wai-middleware-metrics,aarch64-darwin
 319940282,haskellPackages.wai-middleware-metrics,x86_64-darwin
 319940854,haskellPackages.xls,aarch64-darwin
@@ -977,10 +977,10 @@ id,name,system
 320456463,jextract,x86_64-darwin
 320742185,jitsi-meet-electron,aarch64-darwin
 320742183,jitsi-meet-electron,x86_64-darwin
-320478842,jj-fzf,aarch64-darwin
-320478840,jj-fzf,aarch64-linux
-320478843,jj-fzf,x86_64-darwin
-320478841,jj-fzf,x86_64-linux
+321077264,jj-fzf,aarch64-darwin
+321077262,jj-fzf,aarch64-linux
+321077263,jj-fzf,x86_64-darwin
+321077265,jj-fzf,x86_64-linux
 319947278,jove,aarch64-linux
 319947279,jove,x86_64-linux
 319947407,jrsonnet,aarch64-darwin
@@ -1076,6 +1076,8 @@ id,name,system
 320738601,lanraragi,aarch64-darwin
 319951376,larswm,aarch64-linux
 319951382,larswm,x86_64-linux
+321077319,lasuite-docs,aarch64-darwin
+321077325,lasuite-docs,x86_64-darwin
 319951592,lcm,aarch64-darwin
 319951590,lcm,x86_64-darwin
 319951666,ldmtool,aarch64-linux
@@ -1492,8 +1494,8 @@ id,name,system
 319968916,mathemagix,x86_64-linux
 320808682,mattermost-desktop,aarch64-darwin
 320808680,mattermost-desktop,x86_64-darwin
-319969145,mayo,aarch64-darwin
-319969151,mayo,x86_64-darwin
+321077351,mayo,aarch64-darwin
+321077349,mayo,x86_64-darwin
 319969242,mcfm,x86_64-darwin
 319969237,mcfm,x86_64-linux
 320879220,mcp-proxy,aarch64-darwin
@@ -1501,8 +1503,8 @@ id,name,system
 319969278,mcrl2,x86_64-linux
 319969284,mcrypt,aarch64-linux
 319969286,mcrypt,x86_64-linux
-319969558,mediaelch-qt5,aarch64-linux
-319969562,mediaelch-qt5,x86_64-linux
+321077358,mediaelch-qt5,aarch64-linux
+321077362,mediaelch-qt5,x86_64-linux
 320470726,mediagoblin,aarch64-darwin
 319969589,mediasynclite,aarch64-darwin
 319969578,mediasynclite,x86_64-darwin
@@ -1949,10 +1951,10 @@ id,name,system
 320852545,pkgsRocm.python3Packages.torchao,x86_64-linux
 320852547,pkgsRocm.python3Packages.torchcodec,x86_64-linux
 320852550,pkgsRocm.python3Packages.torchdata,x86_64-linux
-320879725,pkgsRocm.python3Packages.vllm,x86_64-linux
+321077507,pkgsRocm.python3Packages.vllm,x86_64-linux
 320451664,pkgsRocm.raxml-mpi,x86_64-linux
 320852605,pkgsRocm.sirius,x86_64-linux
-320879740,pkgsRocm.vllm,x86_64-linux
+321077517,pkgsRocm.vllm,x86_64-linux
 320009937,plasma5Packages.libcommuni,aarch64-darwin
 320009941,plasma5Packages.libcommuni,x86_64-darwin
 320009972,plasma5Packages.maplibre-gl-native,aarch64-linux
@@ -2010,9 +2012,6 @@ id,name,system
 320012716,postsrsd,x86_64-darwin
 320012797,powertabeditor,aarch64-darwin
 320012796,powertabeditor,x86_64-darwin
-320012861,pq-cli,aarch64-darwin
-320012855,pq-cli,aarch64-linux
-320012857,pq-cli,x86_64-linux
 320013027,prime-server,aarch64-darwin
 320013031,prime-server,x86_64-darwin
 320013134,procmail,aarch64-linux
@@ -2041,6 +2040,7 @@ id,name,system
 320015565,python313Packages.aiosonic,x86_64-darwin
 320015890,python313Packages.amazon-ion,aarch64-darwin
 320015892,python313Packages.amazon-ion,x86_64-darwin
+321069522,python313Packages.ariadne,aarch64-darwin
 320847052,python313Packages.autopage,aarch64-darwin
 320847053,python313Packages.autopage,x86_64-darwin
 320882746,python313Packages.bezier,aarch64-linux
@@ -2398,6 +2398,7 @@ id,name,system
 320055073,python314Packages.aocd,aarch64-linux
 320055113,python314Packages.aocd,x86_64-darwin
 320055067,python314Packages.aocd,x86_64-linux
+321069669,python314Packages.ariadne,x86_64-darwin
 320055573,python314Packages.async-cache,aarch64-darwin
 320055556,python314Packages.async-cache,aarch64-linux
 320055560,python314Packages.async-cache,x86_64-darwin
@@ -2976,10 +2977,10 @@ id,name,system
 320080469,python314Packages.python-flirt,x86_64-linux
 320080244,python314Packages.python-fontconfig,aarch64-linux
 320080247,python314Packages.python-fontconfig,x86_64-linux
-320080302,python314Packages.python-fx,aarch64-darwin
-320080263,python314Packages.python-fx,aarch64-linux
-320080313,python314Packages.python-fx,x86_64-darwin
-320080291,python314Packages.python-fx,x86_64-linux
+321077868,python314Packages.python-fx,aarch64-darwin
+321077858,python314Packages.python-fx,aarch64-linux
+321077857,python314Packages.python-fx,x86_64-darwin
+321077859,python314Packages.python-fx,x86_64-linux
 320080401,python314Packages.python-ldap,aarch64-darwin
 320080402,python314Packages.python-ldap,aarch64-linux
 320080404,python314Packages.python-ldap,x86_64-darwin
@@ -3163,8 +3164,6 @@ id,name,system
 320900285,qbittorrent-enhanced,aarch64-darwin
 320090335,qcm,aarch64-linux
 320090338,qcm,x86_64-linux
-320764636,qemu-python-utils,aarch64-darwin
-320764643,qemu-python-utils,x86_64-darwin
 320090425,qgo,aarch64-darwin
 320090423,qgo,x86_64-darwin
 320090432,qgrep,aarch64-darwin
@@ -3576,6 +3575,7 @@ id,name,system
 320112173,tests.hardeningFlags.allExplicitDisabledPacRet,aarch64-linux
 320112265,tests.hardeningFlags.pacRetExplicitDisabled,aarch64-linux
 321066813,tests.home-assistant-component-tests.cloud,aarch64-linux
+321069889,tests.home-assistant-component-tests.enphase_envoy,aarch64-linux
 321067165,tests.home-assistant-component-tests.google,x86_64-linux
 321067820,tests.home-assistant-component-tests.openrgb,aarch64-linux
 321068090,tests.home-assistant-component-tests.sensor,x86_64-linux
