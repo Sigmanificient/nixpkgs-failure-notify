@@ -51,6 +51,7 @@ id,name,system
 319882485,avy,x86_64-linux
 319882583,aw-notify,aarch64-darwin
 319882614,aw-notify,x86_64-darwin
+321694667,aws-sam-cli,x86_64-linux
 319882689,ax25-apps,aarch64-linux
 319882690,ax25-apps,x86_64-linux
 321599264,azahar,x86_64-darwin
@@ -1195,6 +1196,7 @@ id,name,system
 321089367,linuxKernel.packages.linux_5_10.tsme-test,aarch64-linux
 321089374,linuxKernel.packages.linux_5_10.tuxedo-drivers,x86_64-linux
 321695090,linuxKernel.packages.linux_5_10.universal-pidff,aarch64-linux
+321695089,linuxKernel.packages.linux_5_10.universal-pidff,x86_64-linux
 321089398,linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,aarch64-linux
 321089413,linuxKernel.packages.linux_5_15.acer-wmi-battery,aarch64-linux
 321089423,linuxKernel.packages.linux_5_15.akvcam,aarch64-linux
@@ -1215,6 +1217,7 @@ id,name,system
 321089583,linuxKernel.packages.linux_5_15.tsme-test,aarch64-linux
 321089595,linuxKernel.packages.linux_5_15.tuxedo-drivers,x86_64-linux
 321695092,linuxKernel.packages.linux_5_15.universal-pidff,aarch64-linux
+321695091,linuxKernel.packages.linux_5_15.universal-pidff,x86_64-linux
 321089632,linuxKernel.packages.linux_6_1.acer-wmi-battery,aarch64-linux
 321089634,linuxKernel.packages.linux_6_1.ax99100,aarch64-linux
 321089701,linuxKernel.packages.linux_6_1.mba6x_bl,aarch64-linux
@@ -1571,6 +1574,8 @@ id,name,system
 319969937,metapixel,x86_64-darwin
 319969953,meteor,x86_64-darwin
 319969955,meteor,x86_64-linux
+321695154,mev-boost,aarch64-linux
+321695153,mev-boost,x86_64-linux
 319969984,mew,aarch64-linux
 319969985,mew,x86_64-linux
 319970005,mftrace,aarch64-linux
