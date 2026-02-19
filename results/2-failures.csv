@@ -482,7 +482,6 @@ id,name,system
 319901861,firebase-tools,aarch64-linux
 319901866,firebase-tools,x86_64-darwin
 319901865,firebase-tools,x86_64-linux
-321718292,firefox-beta-unwrapped,aarch64-darwin
 319901927,firewalk,aarch64-linux
 319901929,firewalk,x86_64-linux
 321088381,fishPlugins.pure,aarch64-darwin
@@ -680,8 +679,6 @@ id,name,system
 319912473,hash_extender,x86_64-linux
 319912475,hashcash,aarch64-darwin
 319912478,hashcash,x86_64-darwin
-319912508,hashrat,aarch64-linux
-319912510,hashrat,x86_64-linux
 319912745,haskellPackages.AppleScript,aarch64-darwin
 319912737,haskellPackages.AppleScript,x86_64-darwin
 319913074,haskellPackages.GOST34112012-Hash,aarch64-darwin
@@ -3218,6 +3215,7 @@ id,name,system
 320093239,rkdeveloptool-pine64,x86_64-darwin
 320093314,rlottie,aarch64-darwin
 320093285,rlottie,x86_64-darwin
+321842858,rng-tools,x86_64-linux
 320093375,rnnoise-plugin,aarch64-darwin
 320093372,rnnoise-plugin,x86_64-darwin
 320093833,robotframework-tidy,aarch64-darwin
@@ -3415,8 +3413,8 @@ id,name,system
 320107637,sss_code,x86_64-linux
 320107695,stacktile,aarch64-linux
 320107696,stacktile,x86_64-linux
-320812739,stalwart,aarch64-darwin
-320812737,stalwart,x86_64-darwin
+321881778,stalwart,aarch64-darwin
+321881781,stalwart,x86_64-darwin
 321821493,stargate-libcds,aarch64-darwin
 321821494,stargate-libcds,aarch64-linux
 320107973,stellar-core,aarch64-linux
