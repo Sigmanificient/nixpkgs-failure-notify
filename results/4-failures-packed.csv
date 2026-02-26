@@ -10,8 +10,8 @@ amiberry,322265734,322265733,,
 angelscript,,,322265872,
 anki-sync-server,,322265940,,
 anki,322265982,322265935,,
-apacheHttpdPackages.mod_tile,322266371,322266332,,
-apacheHttpdPackages_2_4.mod_tile,322266437,322266394,,
+apacheHttpdPackages.mod_tile,322825614,322825612,,
+apacheHttpdPackages_2_4.mod_tile,322825615,322825613,,
 apftool-rs,,322266478,,
 apngasm,322266552,322266551,,
 applgrid,,322266628,,
@@ -171,7 +171,7 @@ cpufetch,,,322280165,
 creduce,322280295,322280313,,
 crystalline,322280554,322280550,,
 csmith,,,322280599,322280594
-csxcad,322280767,322280838,,
+csxcad,322825678,322825679,,
 cuneiform,322280817,322280815,,
 cups-dymo,,,322280851,322280846
 curv,322280934,,,
@@ -256,7 +256,7 @@ element-desktop,,,322285504,322285502
 emboss,322285804,322285803,,
 emiluaPlugins.tdlib,322285839,322285837,,
 emmy-lua-code-style,322285862,322285858,,
-en-croissant,,,322285939,322285930
+en-croissant,,,322825703,322825707
 epgstation,,,322286176,322286175
 equalx,,,322286246,322286242
 eresi,322286265,322286262,,
@@ -272,7 +272,7 @@ exhaustive,322286679,322286677,322286680,322286676
 explain,322286748,,,
 expliot,322541036,322541037,,
 factoriolab,,,,322287003
-fastcap,322287225,322287955,,
+fastcap,322825719,322825723,,
 fasthenry,322287185,,,
 fatcat,,,322287233,322287231
 fauna-shell,322287253,322287250,322287252,322287251
@@ -310,7 +310,6 @@ fosrl-newt,,,322289258,322289256
 foxotron,322289308,322289306,,
 framac,,,,322289611
 frawk,322289392,322289389,322289391,322289390
-freecad,322541063,322541065,,
 freedroid,322289431,322289429,,
 freeorion,322289469,322289468,,
 freepv,,,322289480,322289476
@@ -369,7 +368,7 @@ goresym,,,322296577,
 gossip,322296636,322296631,322296638,322296637
 gource,322296743,322296746,322296744,322296745
 goxlr-utility,,,322296793,322296790
-gplates,322296875,322296874,,
+gplates,322825761,322825760,,
 gpt4all,322296922,322296921,,
 gputils,322296954,322296953,,
 gpx,322296962,322296961,322296960,322296957
@@ -553,10 +552,10 @@ karlyriceditor,322334757,322334755,,
 karma,322334756,322334750,322334753,322334751
 kati,322334787,322334783,,
 kbdd,322334822,322334821,,
-kde-rounded-corners,322815669,322815723,,
+kde-rounded-corners,322825840,322825895,,
 kdePackages.maplibre-native-qt,322335620,322335617,,
 kdePackages.mlt,,,322335687,322335655
-kdePackages.sierra-breeze-enhanced,322816498,322816459,,
+kdePackages.sierra-breeze-enhanced,322826084,322826102,,
 kdePackages.waylib,322336072,322336069,,
 kdePackages.wayqt,322336070,322336066,,
 kdesvn,322336090,322336089,,
@@ -702,7 +701,6 @@ linuxKernel.packages.linux_6_18.mba6x_bl,322344782,322344781,,
 linuxKernel.packages.linux_6_18.mbp2018-bridge-drv,322344785,322344783,,
 linuxKernel.packages.linux_6_18.msi-ec,,322344789,,
 linuxKernel.packages.linux_6_18.odp-dpdk,322344814,,,
-linuxKernel.packages.linux_6_18.rtl8852bu,322344838,,,
 linuxKernel.packages.linux_6_18.tsme-test,,322344868,,
 linuxKernel.packages.linux_6_18.vmm_clock,322344889,,,
 linuxKernel.packages.linux_6_19.acer-wmi-battery,,322344914,,
@@ -721,7 +719,6 @@ linuxKernel.packages.linux_6_19.nvidia_x11_latest_open,322345015,322345014,,
 linuxKernel.packages.linux_6_19.nvidia_x11_vulkan_beta_open,322345021,322345020,,
 linuxKernel.packages.linux_6_19.odp-dpdk,322345026,,,
 linuxKernel.packages.linux_6_19.opensnitch-ebpf,322345034,322345036,,
-linuxKernel.packages.linux_6_19.rtl8852bu,322345052,,,
 linuxKernel.packages.linux_6_19.tsme-test,322345085,322345083,,
 linuxKernel.packages.linux_6_19.virtualbox,322345103,,,
 linuxKernel.packages.linux_6_19.virtualboxGuestAdditions,322345109,,,
@@ -748,7 +745,6 @@ linuxKernel.packages.linux_lqx.lttng-modules,322345628,,,
 linuxKernel.packages.linux_lqx.mba6x_bl,322345629,,,
 linuxKernel.packages.linux_lqx.mbp2018-bridge-drv,322345630,,,
 linuxKernel.packages.linux_lqx.odp-dpdk,322345649,,,
-linuxKernel.packages.linux_lqx.rtl8852bu,322345664,,,
 linuxKernel.packages.linux_lqx.vmm_clock,322345697,,,
 linuxKernel.packages.linux_xanmod.mba6x_bl,322345764,,,
 linuxKernel.packages.linux_xanmod.mbp2018-bridge-drv,322345855,,,
@@ -759,7 +755,6 @@ linuxKernel.packages.linux_xanmod_latest.liquidtux,322345904,,,
 linuxKernel.packages.linux_xanmod_latest.mba6x_bl,322345907,,,
 linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,322345908,,,
 linuxKernel.packages.linux_xanmod_latest.odp-dpdk,322345927,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8852bu,322345942,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,322345979,,,
 linuxKernel.packages.linux_xanmod_stable.digimend,322346009,,,
 linuxKernel.packages.linux_xanmod_stable.hpuefi-mod,322346028,,,
@@ -767,7 +762,6 @@ linuxKernel.packages.linux_xanmod_stable.liquidtux,322346041,,,
 linuxKernel.packages.linux_xanmod_stable.mba6x_bl,322346048,,,
 linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,322346046,,,
 linuxKernel.packages.linux_xanmod_stable.odp-dpdk,322346059,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8852bu,322346077,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,322346111,,,
 linuxKernel.packages.linux_zen.digimend,322346146,,,
 linuxKernel.packages.linux_zen.hpuefi-mod,322346162,,,
@@ -775,7 +769,6 @@ linuxKernel.packages.linux_zen.liquidtux,322346175,,,
 linuxKernel.packages.linux_zen.mba6x_bl,322346179,,,
 linuxKernel.packages.linux_zen.mbp2018-bridge-drv,322346182,,,
 linuxKernel.packages.linux_zen.odp-dpdk,322346194,,,
-linuxKernel.packages.linux_zen.rtl8852bu,322346212,,,
 linuxKernel.packages.linux_zen.vmm_clock,322346246,,,
 linuxPackages.acer-wmi-battery,,322346257,,
 linuxPackages.digimend,322346288,322346289,,
@@ -785,7 +778,6 @@ linuxPackages.mba6x_bl,322346343,322346341,,
 linuxPackages.mbp2018-bridge-drv,322346344,322346348,,
 linuxPackages.msi-ec,,322346353,,
 linuxPackages.odp-dpdk,322347417,,,
-linuxPackages.rtl8852bu,322346398,,,
 linuxPackages.tsme-test,,322346426,,
 linuxPackages.vmm_clock,322346450,,,
 linuxPackages_latest.acer-wmi-battery,,322346468,,
@@ -804,7 +796,6 @@ linuxPackages_latest.nvidia_x11_latest_open,322346575,322346573,,
 linuxPackages_latest.nvidia_x11_vulkan_beta_open,322346583,322346581,,
 linuxPackages_latest.odp-dpdk,322346592,,,
 linuxPackages_latest.opensnitch-ebpf,322346595,322346593,,
-linuxPackages_latest.rtl8852bu,322346611,,,
 linuxPackages_latest.tsme-test,322346642,322346640,,
 linuxPackages_latest.virtualbox,322346660,,,
 linuxPackages_latest.virtualboxGuestAdditions,322346699,,,
@@ -817,7 +808,6 @@ linuxPackages_lqx.lttng-modules,322346731,,,
 linuxPackages_lqx.mba6x_bl,322346732,,,
 linuxPackages_lqx.mbp2018-bridge-drv,322346733,,,
 linuxPackages_lqx.odp-dpdk,322346751,,,
-linuxPackages_lqx.rtl8852bu,322346767,,,
 linuxPackages_lqx.vmm_clock,322346800,,,
 linuxPackages_xanmod.mba6x_bl,322346865,,,
 linuxPackages_xanmod.mbp2018-bridge-drv,322346867,,,
@@ -828,7 +818,6 @@ linuxPackages_xanmod_latest.liquidtux,322347004,,,
 linuxPackages_xanmod_latest.mba6x_bl,322347007,,,
 linuxPackages_xanmod_latest.mbp2018-bridge-drv,322347008,,,
 linuxPackages_xanmod_latest.odp-dpdk,322347026,,,
-linuxPackages_xanmod_latest.rtl8852bu,322347041,,,
 linuxPackages_xanmod_latest.vmm_clock,322347075,,,
 linuxPackages_xanmod_stable.digimend,322347111,,,
 linuxPackages_xanmod_stable.hpuefi-mod,322347127,,,
@@ -836,7 +825,6 @@ linuxPackages_xanmod_stable.liquidtux,322347138,,,
 linuxPackages_xanmod_stable.mba6x_bl,322347142,,,
 linuxPackages_xanmod_stable.mbp2018-bridge-drv,322347143,,,
 linuxPackages_xanmod_stable.odp-dpdk,322347159,,,
-linuxPackages_xanmod_stable.rtl8852bu,322347178,,,
 linuxPackages_xanmod_stable.vmm_clock,322347211,,,
 linuxPackages_zen.digimend,322347245,,,
 linuxPackages_zen.hpuefi-mod,322347261,,,
@@ -844,7 +832,6 @@ linuxPackages_zen.liquidtux,322347273,,,
 linuxPackages_zen.mba6x_bl,322347276,,,
 linuxPackages_zen.mbp2018-bridge-drv,322347278,,,
 linuxPackages_zen.odp-dpdk,322347296,,,
-linuxPackages_zen.rtl8852bu,322347313,,,
 linuxPackages_zen.vmm_clock,322347343,,,
 linuxkit,,,322347462,322347394
 litemdview,322347484,322347477,,
@@ -895,7 +882,6 @@ matrix-zulip-bridge,322355726,322355692,322355690,322355716
 mattermost-desktop,,,322355693,322355691
 mayo,,,322355787,322355829
 mcdreforged,322355872,322355868,322355871,322355869
-mcp-nixos,322541138,322541136,,322541139
 mcrl2,322355932,322355931,,
 mcrypt,322355940,322355939,,
 mediaelch-qt5,322356209,322356208,,
@@ -1003,7 +989,7 @@ numdiff,322363048,322363046,,
 numr,,,322363070,322363069
 nushell-plugin-semver,,,322363136,322363132
 nushellPlugins.semver,,,322363172,322363171
-nuweb,322364027,322363657,,
+nuweb,322826269,322826266,,
 nvidia-mig-parted,,,322363250,322363248
 nvramtool,,322363291,,
 nxpmicro-mfgtools,322363373,322363371,,
@@ -1094,7 +1080,7 @@ particl-core,322377009,,,
 paxtest,322377251,322377250,,
 pcb2gcode,,,322377331,322377328
 pcem,322377324,322377323,,
-pcl,322377342,322377388,,
+pcl,322826321,322826323,,
 pcmanx-gtk2,322377345,322377344,,
 pdfding,322377653,322377477,322377607,322377529
 pdfslicer,,,322377493,322377491
@@ -1156,13 +1142,11 @@ pkcs11-provider,322396106,,,
 pkgsRocm.babeldoc,322396311,,,
 pkgsRocm.calibre-no-speech,322396237,,,
 pkgsRocm.calibre,322396234,,,
-pkgsRocm.csxcad,322396207,,,
+pkgsRocm.csxcad,322826346,,,
 pkgsRocm.firefox-devedition-unwrapped,322396262,,,
-pkgsRocm.freecad,322541200,,,
 pkgsRocm.ieda,322396260,,,
 pkgsRocm.ior,322396263,,,
 pkgsRocm.migrate,322396293,,,
-pkgsRocm.pcl,322396338,,,
 pkgsRocm.python3Packages.arviz,322816731,,,
 pkgsRocm.python3Packages.compressed-tensors,322396383,,,
 pkgsRocm.python3Packages.dask-mpi,322396392,,,
@@ -1178,7 +1162,6 @@ pkgsRocm.python3Packages.langchain-huggingface,322396474,,,
 pkgsRocm.python3Packages.mdtraj,322396523,,,
 pkgsRocm.python3Packages.mim-solvers,322396548,,,
 pkgsRocm.python3Packages.paddlepaddle,322396639,,,
-pkgsRocm.python3Packages.pandera,322816795,,,
 pkgsRocm.python3Packages.pymanopt,322396588,,,
 pkgsRocm.python3Packages.pytensor,322396600,,,
 pkgsRocm.python3Packages.qutip,322396612,,,
@@ -1197,7 +1180,6 @@ pkgsRocm.python3Packages.xgrammar,322396716,,,
 pkgsRocm.raxml-mpi,322396718,,,
 pkgsRocm.seagoat,322396773,,,
 pkgsRocm.sirius,322396735,,,
-pkgsRocm.xyce-parallel,322397698,,,
 plasma5Packages.kconfig,,,,322396933
 plasma5Packages.kguiaddons,,,,322397001
 plasma5Packages.libcommuni,,,322397106,322397101
@@ -1444,9 +1426,9 @@ python313Packages.mlt,,,322419029,322419017
 python313Packages.mlx,,,,322419021
 python313Packages.mlxtend,322419031,322419028,322419030,322419027
 python313Packages.mockfs,322419104,322419101,322419102,322419099
-python313Packages.momepy,322419170,322419176,,
+python313Packages.momepy,322826553,322826554,,
 python313Packages.monosat,322419243,322419241,322419223,322419226
-python313Packages.morecantile,322419268,322419266,,
+python313Packages.morecantile,322826557,322826556,,
 python313Packages.mqtt2influxdb,322419409,322419402,,
 python313Packages.mrsqm,322419398,322419396,322419400,322419397
 python313Packages.msprime,322419484,322419480,322419479,322419478
@@ -1465,7 +1447,7 @@ python313Packages.nitime,322421633,322421631,,
 python313Packages.numpy-typing-compat,322421938,322421936,322421934,322421931
 python313Packages.oca-port,322422038,322422034,322422035,322422032
 python313Packages.ocrmypdf,322422058,322422050,322422061,322422051
-python313Packages.odc-loader,322422065,322422063,,
+python313Packages.odc-loader,322826575,322826572,,
 python313Packages.oletools,322422153,322422155,322422154,322422152
 python313Packages.ome-zarr,322422166,322422158,,322422164
 python313Packages.onnxslim,322422283,322422285,322422284,322422288
@@ -1480,7 +1462,6 @@ python313Packages.otxv2,322422915,322422912,322422913,322422910
 python313Packages.overpy,,,322422939,322422937
 python313Packages.packvers,322422997,322422996,322422998,322422995
 python313Packages.paddlepaddle,322423003,322423002,,322423078
-python313Packages.pandera,322817211,322817206,,
 python313Packages.panel,322817204,322817202,,322817201
 python313Packages.pcffont,322423367,322423362,322423366,322423363
 python313Packages.pdbfixer,322423383,322423382,,
@@ -1552,7 +1533,7 @@ python313Packages.pyscf,322428047,,322428059,322428056
 python313Packages.pysdl3,,,322428101,322428103
 python313Packages.pyside6-qtads,322428179,322428268,322428230,322428171
 python313Packages.pysilero-vad,,,322428229,322428223
-python313Packages.pyslurm,322430057,322428258,,
+python313Packages.pyslurm,322826676,322826677,,
 python313Packages.pysmbc,,,322428309,
 python313Packages.pysnooper,,,,322428338
 python313Packages.pystardict,322428473,322428472,322428474,322428471
@@ -1743,7 +1724,6 @@ python314Packages.cirq-core,322446163,322446165,322446166,322446164
 python314Packages.class-doc,322446221,322446217,322446218,322446216
 python314Packages.clickhouse-cityhash,322446350,322446348,322446351,322446347
 python314Packages.clickhouse-connect,322446356,322446359,322446357,322446360
-python314Packages.cliff,322446368,322446416,322446438,322446374
 python314Packages.cloudevents,322446413,322446408,,
 python314Packages.cocotb,322446527,,,
 python314Packages.colcon-cargo,322446581,322446576,322446580,322446577
@@ -1937,10 +1917,10 @@ python314Packages.mlt,,,322458191,322458183
 python314Packages.mlxtend,322458196,322458193,322458194,322458192
 python314Packages.mockfs,322458265,322458262,322458263,322458261
 python314Packages.modern-colorthief,322458307,322458309,322458311,322458304
-python314Packages.momepy,322458351,322458340,,
+python314Packages.momepy,322826909,322826912,,
 python314Packages.monkeytype,322458370,322458369,322458372,322458373
 python314Packages.monosat,322458412,322458417,322458380,322458377
-python314Packages.morecantile,322458603,322458629,,
+python314Packages.morecantile,322826915,322826919,,
 python314Packages.motionblindsble,322458439,322458438,,
 python314Packages.mqtt2influxdb,322458553,322458543,,
 python314Packages.mrsqm,322458549,322458548,322458552,322458547
@@ -1967,7 +1947,7 @@ python314Packages.numpy-typing-compat,322461041,322461036,322461044,322461037
 python314Packages.nutils,322461064,322461063,322461065,322461075
 python314Packages.oca-port,322461146,322461143,322461148,322461142
 python314Packages.ocrmypdf,322461808,322461429,322461719,322461233
-python314Packages.odc-loader,322461247,322461286,,
+python314Packages.odc-loader,322826927,322826932,,
 python314Packages.oletools,322461243,322461240,322461249,322461248
 python314Packages.onnxslim,322461379,322461375,322461376,322461374
 python314Packages.open-interpreter,322461462,322461440,,
@@ -1984,7 +1964,6 @@ python314Packages.otxv2,322461984,322461983,322461987,322461982
 python314Packages.outlines-core,322462243,322462171,,322462149
 python314Packages.overpy,,,322462010,322462006
 python314Packages.packvers,322462067,322462065,322462064,322462066
-python314Packages.pandera,322817581,322817584,,
 python314Packages.panel,322817580,322817577,,322817578
 python314Packages.para,322462182,322462177,,
 python314Packages.pcffont,322462423,322462422,322462421,322462420
@@ -2066,7 +2045,7 @@ python314Packages.pysdl3,,,322467023,322467020
 python314Packages.pyshark,322467085,322467081,322467087,322467086
 python314Packages.pyside6-qtads,322467163,322467139,322467125,322467114
 python314Packages.pysilero-vad,,,322467152,322467150
-python314Packages.pyslurm,322467187,322467217,,
+python314Packages.pyslurm,322827025,322827023,,
 python314Packages.pysmbc,,,322467251,
 python314Packages.pysnooper,,,322467261,322467263
 python314Packages.pystardict,322467391,322467394,322467396,322467397
@@ -2094,6 +2073,7 @@ python314Packages.python-picnic-api2,322468737,322468734,322468736,322468733
 python314Packages.python-prctl,,322468755,,
 python314Packages.python-redis-lock,322468784,322468779,322468788,322468786
 python314Packages.python-tds,322468868,322468870,322468869,322468867
+python314Packages.python-troveclient,322827101,322827092,,
 python314Packages.pyttsx3,,,322469203,322469201
 python314Packages.pywal16,,,,322469389
 python314Packages.pywbem,322469416,,,
@@ -2217,7 +2197,7 @@ qosmic,,,,322479221
 qrq,322479291,322479289,322479294,322479288
 qt6Packages.maplibre-native-qt,322479708,322479706,,
 qt6Packages.mlt,,,322479713,322479710
-qt6Packages.sierra-breeze-enhanced,322817731,322817730,,
+qt6Packages.sierra-breeze-enhanced,322827168,322827169,,
 qt6Packages.waylib,322480000,322479996,,
 qt6Packages.wayqt,322479974,322479970,,
 qtpass,,,,322480002
@@ -2519,10 +2499,9 @@ unixbench,322528312,322527729,,
 unshieldv3,,,322527876,322527873
 urn-timer,,,322528100,322528094
 urweb,322528112,322528108,322528111,322528110
-utsushi,322528279,322528281,,
 uucp,322528276,322528274,,
 uxn11,,,322528375,322528373
-valhalla,322528517,322528519,,
+valhalla,322827356,322827355,,
 vangers,322528511,322528510,322528516,322528509
 vapoursynth-eedi3,322528547,,,
 vapoursynth-nnedi3,,322528557,,322528553
@@ -2603,8 +2582,8 @@ xsokoban,322536555,322536554,,
 xstow,,,322536576,322536573
 xtreemfs,322536632,322536621,,
 xtris,322536618,322536616,,
-xyce-parallel,322537301,,,
-xyce,322537279,,,
+xyce-parallel,322827418,,,
+xyce,322827417,,,
 yasr,322536957,322536958,,
 yaup,322536970,322536968,,
 yersinia,322537208,322537207,,
