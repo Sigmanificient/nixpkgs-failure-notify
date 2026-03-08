@@ -124,6 +124,7 @@ id,name,system
 322269359,azure-cli-extensions.webpubsub,x86_64-linux
 322269436,azure-sdk-for-cpp.security-attestation,aarch64-linux
 322269440,azure-sdk-for-cpp.security-attestation,x86_64-linux
+323284848,babeldoc,x86_64-linux
 322269583,bacula,x86_64-darwin
 323049147,balatro-mod-manager,aarch64-linux
 322269654,ballerburg,aarch64-darwin
@@ -260,7 +261,7 @@ id,name,system
 322274580,cgui,x86_64-linux
 322274766,chelf,aarch64-darwin
 322274768,chelf,x86_64-darwin
-322981343,cherry-studio,x86_64-darwin
+323295578,cherry-studio,x86_64-darwin
 322274848,chiaki,aarch64-darwin
 322274847,chiaki,aarch64-linux
 322274854,chiaki,x86_64-linux
@@ -318,10 +319,6 @@ id,name,system
 322278799,comaps,x86_64-linux
 323047119,compactor,aarch64-linux
 323047116,compactor,x86_64-linux
-322279103,conan,aarch64-darwin
-322279006,conan,aarch64-linux
-322279004,conan,x86_64-darwin
-322279003,conan,x86_64-linux
 322279080,connectome-workbench,aarch64-linux
 322279081,connectome-workbench,x86_64-linux
 322279109,conserve,x86_64-darwin
@@ -706,8 +703,8 @@ id,name,system
 322291885,git-mit,x86_64-linux
 322292055,git-together,aarch64-darwin
 322292056,git-together,x86_64-darwin
-322292157,gitbeaker-cli,aarch64-linux
-322292165,gitbeaker-cli,x86_64-darwin
+323295711,gitbeaker-cli,aarch64-linux
+323295713,gitbeaker-cli,x86_64-darwin
 323038411,gitlab-container-registry,x86_64-darwin
 323280819,gitlab-duo,aarch64-linux
 323280820,gitlab-duo,x86_64-linux
@@ -1242,8 +1239,6 @@ id,name,system
 322337937,lanraragi,aarch64-darwin
 322337932,larswm,aarch64-linux
 322337933,larswm,x86_64-linux
-323120934,lasuite-docs,aarch64-darwin
-323120928,lasuite-docs,x86_64-darwin
 322338145,lcm,aarch64-darwin
 322338147,lcm,x86_64-darwin
 322338226,ldmtool,aarch64-linux
@@ -1268,8 +1263,8 @@ id,name,system
 322338572,lektor,x86_64-linux
 322338384,lely-core,aarch64-linux
 322338385,lely-core,x86_64-linux
-322338398,lemmy-server,aarch64-darwin
-322338400,lemmy-server,x86_64-darwin
+323295818,lemmy-server,aarch64-darwin
+323295822,lemmy-server,x86_64-darwin
 322338443,leo-lang,aarch64-darwin
 322338445,leo-lang,x86_64-darwin
 322338482,lerna_6,aarch64-linux
@@ -1736,8 +1731,8 @@ id,name,system
 322988758,mame-tools,x86_64-darwin
 322988759,mame,aarch64-darwin
 322988757,mame,x86_64-darwin
-322981841,marktext,aarch64-linux
-322981842,marktext,x86_64-linux
+323295849,marktext,aarch64-linux
+323295850,marktext,x86_64-linux
 322355424,maskromtool,aarch64-darwin
 322355429,maskromtool,x86_64-darwin
 322355560,mathemagix,x86_64-linux
@@ -1759,7 +1754,6 @@ id,name,system
 322355940,mcrypt,x86_64-linux
 322356208,mediaelch-qt5,aarch64-linux
 322356209,mediaelch-qt5,x86_64-linux
-323098319,mediagoblin,aarch64-darwin
 322356230,mediasynclite,aarch64-darwin
 322356231,mediasynclite,x86_64-darwin
 322356234,mediathekview,aarch64-darwin
@@ -1961,10 +1955,10 @@ id,name,system
 322363048,numdiff,x86_64-linux
 322363069,numr,aarch64-darwin
 322363070,numr,x86_64-darwin
-322363132,nushell-plugin-semver,aarch64-darwin
-322363136,nushell-plugin-semver,x86_64-darwin
-322363171,nushellPlugins.semver,aarch64-darwin
-322363172,nushellPlugins.semver,x86_64-darwin
+323295908,nushell-plugin-semver,aarch64-darwin
+323295903,nushell-plugin-semver,x86_64-darwin
+323295909,nushellPlugins.semver,aarch64-darwin
+323295904,nushellPlugins.semver,x86_64-darwin
 323047519,nuweb,aarch64-linux
 323047511,nuweb,x86_64-linux
 323082620,nvc,aarch64-linux
@@ -2215,9 +2209,7 @@ id,name,system
 322393018,pgbadger,aarch64-linux
 322393021,pgbadger,x86_64-darwin
 322393016,pgbadger,x86_64-linux
-322393084,pgloader,aarch64-darwin
-322393088,pgloader,aarch64-linux
-322393085,pgloader,x86_64-linux
+323295947,pgloader,aarch64-darwin
 322393170,phart,aarch64-darwin
 322393168,phart,aarch64-linux
 322393169,phart,x86_64-darwin
@@ -2288,8 +2280,8 @@ id,name,system
 322397820,pmars-x11,x86_64-darwin
 322397876,pngoptimizer,aarch64-linux
 322397877,pngoptimizer,x86_64-linux
-322982157,pocket-casts,aarch64-linux
-322982160,pocket-casts,x86_64-linux
+323295983,pocket-casts,aarch64-linux
+323295982,pocket-casts,x86_64-linux
 322397987,podofo,aarch64-darwin
 322397990,podofo,x86_64-darwin
 322397993,podofo_0_10,aarch64-darwin
@@ -2460,7 +2452,7 @@ id,name,system
 323065493,python313Packages.busypie,x86_64-darwin
 322406066,python313Packages.canopen,aarch64-darwin
 322406068,python313Packages.canopen,x86_64-darwin
-322406136,python313Packages.cassandra-driver,aarch64-darwin
+323296015,python313Packages.cassandra-driver,aarch64-darwin
 322406213,python313Packages.celery-types,aarch64-darwin
 322406217,python313Packages.celery-types,aarch64-linux
 322406215,python313Packages.celery-types,x86_64-darwin
@@ -2811,8 +2803,6 @@ id,name,system
 323281351,python313Packages.langchain-google-genai,aarch64-linux
 323281354,python313Packages.langchain-google-genai,x86_64-darwin
 323281359,python313Packages.langchain-google-genai,x86_64-linux
-323287176,python313Packages.langchain-huggingface,aarch64-darwin
-323287178,python313Packages.langchain-huggingface,x86_64-linux
 323287177,python313Packages.langchain-mistralai,aarch64-linux
 323287181,python313Packages.langchain-mistralai,x86_64-linux
 322416778,python313Packages.leanblueprint,aarch64-darwin
@@ -4113,6 +4103,8 @@ id,name,system
 322455690,python314Packages.kopf,aarch64-linux
 322455695,python314Packages.kopf,x86_64-darwin
 322455696,python314Packages.kopf,x86_64-linux
+323287711,python314Packages.kserve-storage,aarch64-darwin
+323287710,python314Packages.kserve-storage,x86_64-darwin
 322456672,python314Packages.labelbox,aarch64-darwin
 322455756,python314Packages.labelbox,aarch64-linux
 322456619,python314Packages.labelbox,x86_64-darwin
@@ -4123,8 +4115,6 @@ id,name,system
 323281729,python314Packages.langchain-google-genai,aarch64-linux
 323281777,python314Packages.langchain-google-genai,x86_64-darwin
 323281756,python314Packages.langchain-google-genai,x86_64-linux
-323287722,python314Packages.langchain-huggingface,aarch64-darwin
-323287723,python314Packages.langchain-huggingface,x86_64-linux
 323287717,python314Packages.langchain-mistralai,aarch64-linux
 323287718,python314Packages.langchain-mistralai,x86_64-linux
 322990205,python314Packages.laszip,x86_64-darwin
@@ -4158,6 +4148,7 @@ id,name,system
 322456607,python314Packages.llama-cloud,aarch64-linux
 322456608,python314Packages.llama-cloud,x86_64-darwin
 322456609,python314Packages.llama-cloud,x86_64-linux
+323287730,python314Packages.llama-cpp-python,x86_64-darwin
 322456629,python314Packages.llamaindex-py-client,aarch64-darwin
 322456630,python314Packages.llamaindex-py-client,aarch64-linux
 322456633,python314Packages.llamaindex-py-client,x86_64-darwin
@@ -4677,10 +4668,10 @@ id,name,system
 322468870,python314Packages.python-tds,aarch64-linux
 322468869,python314Packages.python-tds,x86_64-darwin
 322468868,python314Packages.python-tds,x86_64-linux
-323051860,python314Packages.python-troveclient,aarch64-darwin
-323051856,python314Packages.python-troveclient,aarch64-linux
-323051853,python314Packages.python-troveclient,x86_64-darwin
-323051855,python314Packages.python-troveclient,x86_64-linux
+323296503,python314Packages.python-troveclient,aarch64-darwin
+323296493,python314Packages.python-troveclient,aarch64-linux
+323296515,python314Packages.python-troveclient,x86_64-darwin
+323296514,python314Packages.python-troveclient,x86_64-linux
 322833017,python314Packages.pytorch-pfn-extras,x86_64-linux
 322469201,python314Packages.pyttsx3,aarch64-darwin
 322469203,python314Packages.pyttsx3,x86_64-darwin
@@ -5144,8 +5135,6 @@ id,name,system
 322491682,sbclPackages.qt-libs,aarch64-darwin
 322491687,sbclPackages.qt-libs,aarch64-linux
 322491686,sbclPackages.qt-libs,x86_64-linux
-322490701,sc,aarch64-linux
-322490702,sc,x86_64-linux
 322491953,sc68,aarch64-linux
 322491954,sc68,x86_64-linux
 322492147,schroot,aarch64-linux
@@ -5192,9 +5181,9 @@ id,name,system
 322493413,siege,aarch64-linux
 322493415,siege,x86_64-linux
 322983053,sieve-editor-gui,aarch64-darwin
-322983058,sieve-editor-gui,aarch64-linux
+323296610,sieve-editor-gui,aarch64-linux
 322983052,sieve-editor-gui,x86_64-darwin
-322983063,sieve-editor-gui,x86_64-linux
+323296609,sieve-editor-gui,x86_64-linux
 322983056,sif,aarch64-darwin
 322983055,sif,x86_64-darwin
 322493530,siketyan-ghr,aarch64-darwin
@@ -5221,8 +5210,8 @@ id,name,system
 322494712,softether,x86_64-linux
 322494830,sonic-lineup,aarch64-linux
 322494832,sonic-lineup,x86_64-linux
-323284653,sonic-pi,aarch64-linux
-323284654,sonic-pi,x86_64-linux
+323296625,sonic-pi,aarch64-linux
+323296624,sonic-pi,x86_64-linux
 322494839,sonic-visualiser,aarch64-linux
 322494840,sonic-visualiser,x86_64-linux
 322494897,sortmerna,x86_64-linux
@@ -5395,6 +5384,7 @@ id,name,system
 322501610,tests.home-assistant-component-tests.emulated_kasa,x86_64-linux
 322501632,tests.home-assistant-component-tests.enphase_envoy,x86_64-linux
 323107471,tests.home-assistant-component-tests.google,aarch64-linux
+323288390,tests.home-assistant-component-tests.google_generative_ai_conversation,x86_64-linux
 322501830,tests.home-assistant-component-tests.growatt_server,aarch64-linux
 322501834,tests.home-assistant-component-tests.growatt_server,x86_64-linux
 322501852,tests.home-assistant-component-tests.hdmi_cec,aarch64-linux
