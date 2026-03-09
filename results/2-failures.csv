@@ -1,6 +1,4 @@
 id,name,system
-322263200,_2bwm,aarch64-linux
-322263202,_2bwm,x86_64-linux
 323050884,_7zz,x86_64-darwin
 322263375,_86box,aarch64-darwin
 322263423,ac-library,aarch64-linux
@@ -1335,7 +1333,7 @@ id,name,system
 322342673,libva1,aarch64-linux
 322342675,libva1,x86_64-linux
 322342839,libxc_7,x86_64-darwin
-323312305,lidarr,aarch64-darwin
+323799414,lidarr,aarch64-darwin
 322343320,lilo,aarch64-linux
 322343322,lilo,x86_64-linux
 323312316,lilypond,aarch64-darwin
@@ -1419,8 +1417,6 @@ id,name,system
 323049452,linuxKernel.packages.linux_6_12_hardened.tbs,aarch64-linux
 322344654,linuxKernel.packages.linux_6_12_hardened.tsme-test,aarch64-linux
 323121854,linuxKernel.packages.linux_6_18.acer-wmi-battery,aarch64-linux
-323121863,linuxKernel.packages.linux_6_18.digimend,aarch64-linux
-323121864,linuxKernel.packages.linux_6_18.digimend,x86_64-linux
 323121922,linuxKernel.packages.linux_6_18.lttng-modules,aarch64-linux
 323121912,linuxKernel.packages.linux_6_18.lttng-modules,x86_64-linux
 323121916,linuxKernel.packages.linux_6_18.mba6x_bl,aarch64-linux
@@ -1436,8 +1432,6 @@ id,name,system
 323122095,linuxKernel.packages.linux_6_19.amneziawg,x86_64-linux
 323122058,linuxKernel.packages.linux_6_19.apfs,aarch64-linux
 323122076,linuxKernel.packages.linux_6_19.apfs,x86_64-linux
-323122071,linuxKernel.packages.linux_6_19.digimend,aarch64-linux
-323122083,linuxKernel.packages.linux_6_19.digimend,x86_64-linux
 323122100,linuxKernel.packages.linux_6_19.drbd,aarch64-linux
 323122106,linuxKernel.packages.linux_6_19.drbd,x86_64-linux
 323122109,linuxKernel.packages.linux_6_19.lkrg,aarch64-linux
@@ -1449,8 +1443,6 @@ id,name,system
 323122158,linuxKernel.packages.linux_6_19.mbp2018-bridge-drv,aarch64-linux
 323122135,linuxKernel.packages.linux_6_19.mbp2018-bridge-drv,x86_64-linux
 323122157,linuxKernel.packages.linux_6_19.msi-ec,aarch64-linux
-323122143,linuxKernel.packages.linux_6_19.nvidia_x11_latest_open,aarch64-linux
-323122144,linuxKernel.packages.linux_6_19.nvidia_x11_latest_open,x86_64-linux
 323122169,linuxKernel.packages.linux_6_19.nvidia_x11_vulkan_beta_open,aarch64-linux
 323122147,linuxKernel.packages.linux_6_19.nvidia_x11_vulkan_beta_open,x86_64-linux
 322345026,linuxKernel.packages.linux_6_19.odp-dpdk,x86_64-linux
@@ -1483,13 +1475,11 @@ id,name,system
 323732046,linuxKernel.packages.linux_lqx.amneziawg,x86_64-linux
 323732077,linuxKernel.packages.linux_lqx.apfs,x86_64-linux
 323732033,linuxKernel.packages.linux_lqx.bcachefs,x86_64-linux
-323732038,linuxKernel.packages.linux_lqx.digimend,x86_64-linux
 323732089,linuxKernel.packages.linux_lqx.drbd,x86_64-linux
 323732066,linuxKernel.packages.linux_lqx.lkrg,x86_64-linux
 323732108,linuxKernel.packages.linux_lqx.lttng-modules,x86_64-linux
 323732069,linuxKernel.packages.linux_lqx.mba6x_bl,x86_64-linux
 323732082,linuxKernel.packages.linux_lqx.mbp2018-bridge-drv,x86_64-linux
-323732078,linuxKernel.packages.linux_lqx.nvidia_x11_latest_open,x86_64-linux
 323732081,linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta_open,x86_64-linux
 322345649,linuxKernel.packages.linux_lqx.odp-dpdk,x86_64-linux
 323732099,linuxKernel.packages.linux_lqx.opensnitch-ebpf,x86_64-linux
@@ -1497,7 +1487,6 @@ id,name,system
 323732137,linuxKernel.packages.linux_lqx.virtualbox,x86_64-linux
 323732139,linuxKernel.packages.linux_lqx.virtualboxGuestAdditions,x86_64-linux
 323732131,linuxKernel.packages.linux_lqx.vmm_clock,x86_64-linux
-323285607,linuxKernel.packages.linux_xanmod.digimend,x86_64-linux
 323285621,linuxKernel.packages.linux_xanmod.lttng-modules,x86_64-linux
 323285619,linuxKernel.packages.linux_xanmod.mba6x_bl,x86_64-linux
 323285627,linuxKernel.packages.linux_xanmod.mbp2018-bridge-drv,x86_64-linux
@@ -1505,13 +1494,11 @@ id,name,system
 323285685,linuxKernel.packages.linux_xanmod.vmm_clock,x86_64-linux
 323285714,linuxKernel.packages.linux_xanmod_latest.amneziawg,x86_64-linux
 323285708,linuxKernel.packages.linux_xanmod_latest.apfs,x86_64-linux
-323285705,linuxKernel.packages.linux_xanmod_latest.digimend,x86_64-linux
 323285707,linuxKernel.packages.linux_xanmod_latest.drbd,x86_64-linux
 323285741,linuxKernel.packages.linux_xanmod_latest.lkrg,x86_64-linux
 323285765,linuxKernel.packages.linux_xanmod_latest.lttng-modules,x86_64-linux
 323285736,linuxKernel.packages.linux_xanmod_latest.mba6x_bl,x86_64-linux
 323285737,linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,x86_64-linux
-323285758,linuxKernel.packages.linux_xanmod_latest.nvidia_x11_latest_open,x86_64-linux
 323285764,linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta_open,x86_64-linux
 322345927,linuxKernel.packages.linux_xanmod_latest.odp-dpdk,x86_64-linux
 323285754,linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf,x86_64-linux
@@ -1521,13 +1508,11 @@ id,name,system
 323285861,linuxKernel.packages.linux_xanmod_latest.vmm_clock,x86_64-linux
 323285934,linuxKernel.packages.linux_xanmod_stable.amneziawg,x86_64-linux
 323285856,linuxKernel.packages.linux_xanmod_stable.apfs,x86_64-linux
-323285825,linuxKernel.packages.linux_xanmod_stable.digimend,x86_64-linux
 323285827,linuxKernel.packages.linux_xanmod_stable.drbd,x86_64-linux
 323285855,linuxKernel.packages.linux_xanmod_stable.lkrg,x86_64-linux
 323285857,linuxKernel.packages.linux_xanmod_stable.lttng-modules,x86_64-linux
 323285858,linuxKernel.packages.linux_xanmod_stable.mba6x_bl,x86_64-linux
 323285860,linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,x86_64-linux
-323285868,linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest_open,x86_64-linux
 323285871,linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta_open,x86_64-linux
 322346059,linuxKernel.packages.linux_xanmod_stable.odp-dpdk,x86_64-linux
 323285875,linuxKernel.packages.linux_xanmod_stable.opensnitch-ebpf,x86_64-linux
@@ -1535,14 +1520,11 @@ id,name,system
 323285939,linuxKernel.packages.linux_xanmod_stable.virtualbox,x86_64-linux
 323285919,linuxKernel.packages.linux_xanmod_stable.virtualboxGuestAdditions,x86_64-linux
 323285917,linuxKernel.packages.linux_xanmod_stable.vmm_clock,x86_64-linux
-323102385,linuxKernel.packages.linux_zen.digimend,x86_64-linux
 323102417,linuxKernel.packages.linux_zen.mba6x_bl,x86_64-linux
 323102419,linuxKernel.packages.linux_zen.mbp2018-bridge-drv,x86_64-linux
 322346194,linuxKernel.packages.linux_zen.odp-dpdk,x86_64-linux
 323102492,linuxKernel.packages.linux_zen.vmm_clock,x86_64-linux
 323122486,linuxPackages.acer-wmi-battery,aarch64-linux
-323122512,linuxPackages.digimend,aarch64-linux
-323122513,linuxPackages.digimend,x86_64-linux
 323122561,linuxPackages.lttng-modules,aarch64-linux
 323122560,linuxPackages.lttng-modules,x86_64-linux
 323122843,linuxPackages.mba6x_bl,aarch64-linux
@@ -1558,8 +1540,6 @@ id,name,system
 323122886,linuxPackages_latest.amneziawg,x86_64-linux
 323122692,linuxPackages_latest.apfs,aarch64-linux
 323122691,linuxPackages_latest.apfs,x86_64-linux
-323122711,linuxPackages_latest.digimend,aarch64-linux
-323122712,linuxPackages_latest.digimend,x86_64-linux
 323122716,linuxPackages_latest.drbd,aarch64-linux
 323122715,linuxPackages_latest.drbd,x86_64-linux
 323122754,linuxPackages_latest.lkrg,aarch64-linux
@@ -1571,8 +1551,6 @@ id,name,system
 323122764,linuxPackages_latest.mbp2018-bridge-drv,aarch64-linux
 323122766,linuxPackages_latest.mbp2018-bridge-drv,x86_64-linux
 323122813,linuxPackages_latest.msi-ec,aarch64-linux
-323122781,linuxPackages_latest.nvidia_x11_latest_open,aarch64-linux
-323122782,linuxPackages_latest.nvidia_x11_latest_open,x86_64-linux
 323122788,linuxPackages_latest.nvidia_x11_vulkan_beta_open,aarch64-linux
 323122787,linuxPackages_latest.nvidia_x11_vulkan_beta_open,x86_64-linux
 322346592,linuxPackages_latest.odp-dpdk,x86_64-linux
@@ -1586,13 +1564,11 @@ id,name,system
 323732276,linuxPackages_lqx.amneziawg,x86_64-linux
 323732165,linuxPackages_lqx.apfs,x86_64-linux
 323732170,linuxPackages_lqx.bcachefs,x86_64-linux
-323732174,linuxPackages_lqx.digimend,x86_64-linux
 323732277,linuxPackages_lqx.drbd,x86_64-linux
 323732202,linuxPackages_lqx.lkrg,x86_64-linux
 323732203,linuxPackages_lqx.lttng-modules,x86_64-linux
 323732204,linuxPackages_lqx.mba6x_bl,x86_64-linux
 323732205,linuxPackages_lqx.mbp2018-bridge-drv,x86_64-linux
-323732214,linuxPackages_lqx.nvidia_x11_latest_open,x86_64-linux
 323732218,linuxPackages_lqx.nvidia_x11_vulkan_beta_open,x86_64-linux
 322346751,linuxPackages_lqx.odp-dpdk,x86_64-linux
 323732221,linuxPackages_lqx.opensnitch-ebpf,x86_64-linux
@@ -1600,7 +1576,6 @@ id,name,system
 323732260,linuxPackages_lqx.virtualbox,x86_64-linux
 323732266,linuxPackages_lqx.virtualboxGuestAdditions,x86_64-linux
 323732263,linuxPackages_lqx.vmm_clock,x86_64-linux
-323285959,linuxPackages_xanmod.digimend,x86_64-linux
 323285986,linuxPackages_xanmod.lttng-modules,x86_64-linux
 323285987,linuxPackages_xanmod.mba6x_bl,x86_64-linux
 323285988,linuxPackages_xanmod.mbp2018-bridge-drv,x86_64-linux
@@ -1608,13 +1583,11 @@ id,name,system
 323286044,linuxPackages_xanmod.vmm_clock,x86_64-linux
 323286294,linuxPackages_xanmod_latest.amneziawg,x86_64-linux
 323286064,linuxPackages_xanmod_latest.apfs,x86_64-linux
-323286077,linuxPackages_xanmod_latest.digimend,x86_64-linux
 323286076,linuxPackages_xanmod_latest.drbd,x86_64-linux
 323286104,linuxPackages_xanmod_latest.lkrg,x86_64-linux
 323286105,linuxPackages_xanmod_latest.lttng-modules,x86_64-linux
 323286106,linuxPackages_xanmod_latest.mba6x_bl,x86_64-linux
 323286107,linuxPackages_xanmod_latest.mbp2018-bridge-drv,x86_64-linux
-323286115,linuxPackages_xanmod_latest.nvidia_x11_latest_open,x86_64-linux
 323286117,linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta_open,x86_64-linux
 322347026,linuxPackages_xanmod_latest.odp-dpdk,x86_64-linux
 323286125,linuxPackages_xanmod_latest.opensnitch-ebpf,x86_64-linux
@@ -1624,13 +1597,11 @@ id,name,system
 323286166,linuxPackages_xanmod_latest.vmm_clock,x86_64-linux
 323286300,linuxPackages_xanmod_stable.amneziawg,x86_64-linux
 323286181,linuxPackages_xanmod_stable.apfs,x86_64-linux
-323286191,linuxPackages_xanmod_stable.digimend,x86_64-linux
 323286301,linuxPackages_xanmod_stable.drbd,x86_64-linux
 323286222,linuxPackages_xanmod_stable.lkrg,x86_64-linux
 323286223,linuxPackages_xanmod_stable.lttng-modules,x86_64-linux
 323286224,linuxPackages_xanmod_stable.mba6x_bl,x86_64-linux
 323286226,linuxPackages_xanmod_stable.mbp2018-bridge-drv,x86_64-linux
-323286234,linuxPackages_xanmod_stable.nvidia_x11_latest_open,x86_64-linux
 323286237,linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta_open,x86_64-linux
 322347159,linuxPackages_xanmod_stable.odp-dpdk,x86_64-linux
 323286240,linuxPackages_xanmod_stable.opensnitch-ebpf,x86_64-linux
@@ -1638,7 +1609,6 @@ id,name,system
 323286295,linuxPackages_xanmod_stable.virtualbox,x86_64-linux
 323286280,linuxPackages_xanmod_stable.virtualboxGuestAdditions,x86_64-linux
 323286282,linuxPackages_xanmod_stable.vmm_clock,x86_64-linux
-323102518,linuxPackages_zen.digimend,x86_64-linux
 323102547,linuxPackages_zen.mba6x_bl,x86_64-linux
 323102548,linuxPackages_zen.mbp2018-bridge-drv,x86_64-linux
 322347296,linuxPackages_zen.odp-dpdk,x86_64-linux
@@ -2637,7 +2607,6 @@ id,name,system
 322410730,python313Packages.esig,x86_64-linux
 322410792,python313Packages.etelemetry,aarch64-darwin
 322410798,python313Packages.etelemetry,x86_64-darwin
-323287111,python313Packages.executorch,x86_64-linux
 323098499,python313Packages.exiv2,aarch64-darwin
 323098500,python313Packages.exiv2,aarch64-linux
 323098502,python313Packages.exiv2,x86_64-darwin
@@ -2685,6 +2654,7 @@ id,name,system
 322413911,python313Packages.hdbscan,aarch64-linux
 322413912,python313Packages.hdbscan,x86_64-darwin
 322413913,python313Packages.hdbscan,x86_64-linux
+323790947,python313Packages.hdf5plugin,x86_64-linux
 323281283,python313Packages.hebg,aarch64-darwin
 323281290,python313Packages.hebg,aarch64-linux
 323281291,python313Packages.hebg,x86_64-darwin
@@ -2697,9 +2667,14 @@ id,name,system
 322414020,python313Packages.hg-git,aarch64-linux
 322414022,python313Packages.hg-git,x86_64-darwin
 322414024,python313Packages.hg-git,x86_64-linux
+323790948,python313Packages.highdicom,aarch64-linux
+323790949,python313Packages.highdicom,x86_64-linux
 322414128,python313Packages.hmmlearn,aarch64-darwin
 322414129,python313Packages.hmmlearn,aarch64-linux
 322414131,python313Packages.hmmlearn,x86_64-darwin
+323799756,python313Packages.hvplot,aarch64-darwin
+323799755,python313Packages.hvplot,aarch64-linux
+323799760,python313Packages.hvplot,x86_64-linux
 323074170,python313Packages.hyper-connections,aarch64-darwin
 323074164,python313Packages.hyper-connections,x86_64-darwin
 323074169,python313Packages.hyper-connections,x86_64-linux
@@ -2956,9 +2931,6 @@ id,name,system
 322422997,python313Packages.packvers,x86_64-linux
 323105891,python313Packages.pandera,aarch64-darwin
 323105886,python313Packages.pandera,x86_64-linux
-323105888,python313Packages.panel,aarch64-darwin
-323105881,python313Packages.panel,aarch64-linux
-323105883,python313Packages.panel,x86_64-linux
 322423382,python313Packages.pdbfixer,aarch64-linux
 322423383,python313Packages.pdbfixer,x86_64-linux
 322423537,python313Packages.pelican,aarch64-darwin
@@ -3193,6 +3165,7 @@ id,name,system
 323048229,python313Packages.recoll,aarch64-darwin
 323048227,python313Packages.recoll,x86_64-darwin
 323791007,python313Packages.reflex,aarch64-linux
+323791005,python313Packages.reflex,x86_64-linux
 322431443,python313Packages.requirements-detector,aarch64-darwin
 322431442,python313Packages.requirements-detector,aarch64-linux
 322431444,python313Packages.requirements-detector,x86_64-darwin
@@ -3322,10 +3295,6 @@ id,name,system
 322434326,python313Packages.sseclient-py,aarch64-linux
 322434328,python313Packages.sseclient-py,x86_64-darwin
 322434329,python313Packages.sseclient-py,x86_64-linux
-322434604,python313Packages.storage3,aarch64-darwin
-322434607,python313Packages.storage3,aarch64-linux
-322434606,python313Packages.storage3,x86_64-darwin
-322434605,python313Packages.storage3,x86_64-linux
 322434749,python313Packages.stumpy,aarch64-darwin
 322434744,python313Packages.stumpy,x86_64-linux
 322434776,python313Packages.submitit,x86_64-darwin
@@ -3353,10 +3322,6 @@ id,name,system
 322435424,python313Packages.tess,aarch64-linux
 322435426,python313Packages.tess,x86_64-darwin
 322435427,python313Packages.tess,x86_64-linux
-322435428,python313Packages.tesserocr,aarch64-darwin
-322435430,python313Packages.tesserocr,aarch64-linux
-322435431,python313Packages.tesserocr,x86_64-darwin
-322435435,python313Packages.tesserocr,x86_64-linux
 322435792,python313Packages.tinyio,aarch64-darwin
 322435794,python313Packages.tinyio,aarch64-linux
 322435796,python313Packages.tinyio,x86_64-darwin
@@ -3902,6 +3867,7 @@ id,name,system
 322453301,python314Packages.hdbscan,aarch64-linux
 322453312,python314Packages.hdbscan,x86_64-darwin
 322453304,python314Packages.hdbscan,x86_64-linux
+323791129,python314Packages.hdf5plugin,x86_64-linux
 323281671,python314Packages.hebg,aarch64-darwin
 323281667,python314Packages.hebg,aarch64-linux
 323281682,python314Packages.hebg,x86_64-darwin
@@ -3914,6 +3880,8 @@ id,name,system
 322453421,python314Packages.hg-git,aarch64-linux
 322453415,python314Packages.hg-git,x86_64-darwin
 322453416,python314Packages.hg-git,x86_64-linux
+323791132,python314Packages.highdicom,aarch64-linux
+323791133,python314Packages.highdicom,x86_64-linux
 322453516,python314Packages.hmmlearn,aarch64-darwin
 322453517,python314Packages.hmmlearn,aarch64-linux
 322453518,python314Packages.hmmlearn,x86_64-darwin
@@ -3931,6 +3899,9 @@ id,name,system
 322454505,python314Packages.httpie,aarch64-linux
 322454454,python314Packages.httpie,x86_64-darwin
 322453739,python314Packages.httpie,x86_64-linux
+323800024,python314Packages.hvplot,aarch64-darwin
+323800025,python314Packages.hvplot,aarch64-linux
+323800020,python314Packages.hvplot,x86_64-linux
 323074609,python314Packages.hyper-connections,aarch64-darwin
 323074613,python314Packages.hyper-connections,x86_64-darwin
 323074608,python314Packages.hyper-connections,x86_64-linux
@@ -4284,9 +4255,6 @@ id,name,system
 322462067,python314Packages.packvers,x86_64-linux
 323106969,python314Packages.pandera,aarch64-darwin
 323106958,python314Packages.pandera,x86_64-linux
-323106960,python314Packages.panel,aarch64-darwin
-323106963,python314Packages.panel,aarch64-linux
-323106962,python314Packages.panel,x86_64-linux
 322462177,python314Packages.para,aarch64-linux
 322462182,python314Packages.para,x86_64-linux
 322462440,python314Packages.pdbfixer,aarch64-linux
@@ -4748,10 +4716,6 @@ id,name,system
 322473148,python314Packages.sseclient-py,aarch64-linux
 322473150,python314Packages.sseclient-py,x86_64-darwin
 322473149,python314Packages.sseclient-py,x86_64-linux
-322473421,python314Packages.storage3,aarch64-darwin
-322473420,python314Packages.storage3,aarch64-linux
-322473422,python314Packages.storage3,x86_64-darwin
-322473423,python314Packages.storage3,x86_64-linux
 322473553,python314Packages.stumpy,aarch64-darwin
 322473560,python314Packages.stumpy,x86_64-linux
 322473584,python314Packages.submitit,x86_64-darwin
@@ -4781,10 +4745,6 @@ id,name,system
 322474186,python314Packages.tess,aarch64-linux
 322474188,python314Packages.tess,x86_64-darwin
 322474189,python314Packages.tess,x86_64-linux
-322474193,python314Packages.tesserocr,aarch64-darwin
-322474198,python314Packages.tesserocr,aarch64-linux
-322474208,python314Packages.tesserocr,x86_64-darwin
-322474197,python314Packages.tesserocr,x86_64-linux
 322474394,python314Packages.threat9-test-bed,aarch64-darwin
 322474384,python314Packages.threat9-test-bed,aarch64-linux
 322474388,python314Packages.threat9-test-bed,x86_64-darwin
@@ -5099,8 +5059,6 @@ id,name,system
 322494832,sonic-lineup,x86_64-linux
 323312905,sonic-pi,aarch64-linux
 323312900,sonic-pi,x86_64-linux
-322494839,sonic-visualiser,aarch64-linux
-322494840,sonic-visualiser,x86_64-linux
 322494897,sortmerna,x86_64-linux
 322494952,soundtracker,aarch64-linux
 322494954,soundtracker,x86_64-linux
@@ -5183,6 +5141,7 @@ id,name,system
 322497435,sylpheed,x86_64-linux
 322497471,sympow,x86_64-darwin
 322497683,syzkaller,aarch64-darwin
+323791301,tabby,aarch64-darwin
 322497751,tacacsplus,aarch64-linux
 322497752,tacacsplus,x86_64-linux
 323065910,taisei,aarch64-darwin
@@ -5195,6 +5154,7 @@ id,name,system
 322498050,task-master-ai,aarch64-linux
 322498051,task-master-ai,x86_64-darwin
 322498052,task-master-ai,x86_64-linux
+323791305,taterclient-ddnet,aarch64-darwin
 322498118,tau-hydrogen,aarch64-darwin
 322498123,tau-hydrogen,aarch64-linux
 322498122,tau-hydrogen,x86_64-darwin
@@ -5220,6 +5180,8 @@ id,name,system
 322498681,teos-watchtower-plugin,aarch64-darwin
 322498685,teos-watchtower-plugin,x86_64-darwin
 322498790,termscp,x86_64-darwin
+323791307,terraform-providers.cloudflare_cloudflare,aarch64-darwin
+323791312,terraform-providers.cloudflare_cloudflare,x86_64-darwin
 323331998,terraform-providers.hashicorp_aws,x86_64-darwin
 322499631,testdisk-qt,aarch64-darwin
 323110984,tests.auto-patchelf-structured-log,aarch64-darwin
@@ -5376,6 +5338,8 @@ id,name,system
 322506720,topydo,x86_64-linux
 322506837,tpm2-tss,aarch64-darwin
 322506838,tpm2-tss,x86_64-darwin
+323791338,traefik,aarch64-darwin
+323791341,traefik,x86_64-darwin
 322507007,translatelocally,aarch64-linux
 322506948,translatelocally,x86_64-linux
 322507073,transmission-rss,aarch64-darwin
@@ -5497,6 +5461,7 @@ id,name,system
 323282203,vikunja-desktop,aarch64-darwin
 323282199,vikunja-desktop,x86_64-darwin
 323327869,vimPlugins.cord-nvim,aarch64-darwin
+323791357,vitess,aarch64-darwin
 322531045,vixl,aarch64-darwin
 322531046,vixl,x86_64-darwin
 322531075,vkmark,aarch64-linux
@@ -5525,6 +5490,7 @@ id,name,system
 322533777,wdfs,aarch64-linux
 322533781,wdfs,x86_64-linux
 322533785,wdt,x86_64-linux
+323800363,weblate,x86_64-linux
 322533882,webos.novacomd,aarch64-linux
 322533885,webos.novacomd,x86_64-linux
 323313128,welle-io,aarch64-darwin
