@@ -79,7 +79,7 @@ def main():
         write_csv(f"3-failures-{system}", "id,name",
             ((all_jobs[ji].id, all_jobs[ji].name) for ji in jobs))
 
-    write_csv(f"4-failures-packed", "id,name" + ','.join(SUPPORTED_SYSTEMS),
+    write_csv(f"4-failures-packed", "name," + ','.join(SUPPORTED_SYSTEMS),
         ((pkg, *failures.values()) for pkg, failures in packed.items()))
 
 
