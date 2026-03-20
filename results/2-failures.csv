@@ -5210,7 +5210,6 @@ id,name,system
 322533415,wamrc,x86_64-linux
 322533523,wasmer,x86_64-darwin
 322533524,wasmer,x86_64-linux
-323845165,wasmtime,aarch64-darwin
 322533710,wayneko,aarch64-linux
 322533711,wayneko,x86_64-linux
 322533729,wayv,aarch64-linux
