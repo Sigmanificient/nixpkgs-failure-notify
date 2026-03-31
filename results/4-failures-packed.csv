@@ -101,6 +101,7 @@ cdesktopenv,324452557,324452543,,
 cdktn-cli,,,325054138,
 cdparanoia-iii,,,324452599,324452593
 cdparanoia,,,324452585,324452588
+cdxgen,,,325262263,
 cegui,,,324452626,324452621
 cerberus,324452678,324452675,324452687,324452676
 cernlib,,,325168740,
@@ -541,7 +542,7 @@ lakectl,,,324516710,
 landrun,,324516754,,
 lanraragi,,,,325179816
 larswm,324516794,324516792,,
-lasuite-docs,,,325188412,
+lasuite-docs,,,325271919,
 lcm,,,324517011,324517008
 ldmtool,324517090,324517087,,
 lean,,,324517130,324517129
@@ -923,24 +924,24 @@ nylon,324542353,324542351,,
 obitools3,324542439,324542437,324542440,324542435
 obs-studio-plugins.obs-color-monitor,325257230,325257242,,
 ocamlPackages.class_group_vdf,,,324543113,324543128
-ocamlPackages.ecaml,,,324543676,324543707
+ocamlPackages.ecaml,,,325272441,325272455
 ocamlPackages.gapi-ocaml,,,324543929,324543936
-ocamlPackages.janeStreet.ecaml,,,324544539,324544536
-ocamlPackages.janeStreet.janestreet_cpuid,,324544616,,324544615
-ocamlPackages.janestreet_cpuid,,324545047,,324545038
+ocamlPackages.janeStreet.ecaml,,,325272618,325272616
+ocamlPackages.janeStreet.janestreet_cpuid,,325272683,,325272673
+ocamlPackages.janestreet_cpuid,,325272825,,325272507
 ocamlPackages.llvm,,,324545289,324545282
-ocamlPackages.magic-trace,,324751950,,
+ocamlPackages.magic-trace,,325272857,,
 ocamlPackages.owl,,,,324546213
 ocamlPackages.processor,,,324546683,
 ocamlPackages.stog,,,,324547199
 ocamlPackages_latest.class_group_vdf,,,324548217,324548242
-ocamlPackages_latest.ecaml,,,324548772,324548773
+ocamlPackages_latest.ecaml,,,325273174,325273171
 ocamlPackages_latest.gapi-ocaml,,,324549023,324549021
-ocamlPackages_latest.janeStreet.ecaml,,,324549635,324549629
-ocamlPackages_latest.janeStreet.janestreet_cpuid,,324549709,,324549707
-ocamlPackages_latest.janestreet_cpuid,,324550139,,324550141
+ocamlPackages_latest.janeStreet.ecaml,,,325273353,325273354
+ocamlPackages_latest.janeStreet.janestreet_cpuid,,325273408,,325273407
+ocamlPackages_latest.janestreet_cpuid,,325273557,,325273563
 ocamlPackages_latest.llvm,,,324550379,324550374
-ocamlPackages_latest.magic-trace,,324752262,,
+ocamlPackages_latest.magic-trace,,325273587,,
 ocamlPackages_latest.owl,,,,324551321
 ocamlPackages_latest.processor,,,324551777,
 ocamlPackages_latest.stog,,,,324552281
@@ -1169,7 +1170,6 @@ python313Packages.esig,324589998,324589997,324589996,324589995
 python313Packages.exiv2,,,325055064,325055062
 python313Packages.filterpy,,,,324590712
 python313Packages.finvizfinance,324590764,324590762,,
-python313Packages.freud,324591472,324591468,324591471,324591467
 python313Packages.fritzconnection,,,324591491,
 python313Packages.func-timeout,,,324591555,
 python313Packages.git-dummy,,,324592046,324592043
@@ -1277,6 +1277,7 @@ python313Packages.pyomo,,,324606887,324606883
 python313Packages.pyopen-wakeword,,324606897,,
 python313Packages.pyoxigraph,,,,324606985
 python313Packages.pyquaternion,324607302,324607295,324607299,324607294
+python313Packages.pyquil,325263389,325263386,325263387,325263388
 python313Packages.pysdl3,,,324607588,324607574
 python313Packages.pyside6-qtads,324607645,324607758,324607644,324607688
 python313Packages.pysilero-vad,,,324607706,324607702
@@ -1361,6 +1362,7 @@ python313Packages.ws4py,,,324620455,324620402
 python313Packages.xdis,324620551,324620546,324620548,324620549
 python313Packages.xmlsec,,,,325169570
 python313Packages.yalexs-ble,,,,325263465
+python313Packages.zebrafy,325263469,325263472,325263473,325263471
 python314Packages.a2a-sdk,325259576,325259579,,325259581
 python314Packages.accelerate,,325259577,,
 python314Packages.aerosandbox,324621508,324621432,324621521,324621542
@@ -1456,7 +1458,6 @@ python314Packages.filterpy,,,,324630720
 python314Packages.finvizfinance,324630768,324630767,,
 python314Packages.flake8-future-import,324630891,324630888,324630893,324630889
 python314Packages.flask-restx,,,324631374,324631105
-python314Packages.freud,324631447,324631446,324631445,324631443
 python314Packages.func-timeout,,,324631525,324631521
 python314Packages.git-dummy,,,324632002,324632000
 python314Packages.githubkit,324632048,324632046,324632053,324632116
@@ -1524,6 +1525,7 @@ python314Packages.mpv,325246561,,,
 python314Packages.mrsqm,324638486,324638484,324638485,324638482
 python314Packages.msprime,324638557,324638554,324638551,324638559
 python314Packages.multiscale-spatial-image,325260309,325260306,,325260310
+python314Packages.nanoemoji,,,325263613,
 python314Packages.napari-console,324640253,324640250,324640254,324640296
 python314Packages.neo,324640408,324640407,324640410,324640409
 python314Packages.netbox-interface-synchronization,325260332,325260327,,
@@ -1535,6 +1537,7 @@ python314Packages.nitime,324640689,324640687,,
 python314Packages.nodriver,324640793,324640794,324640784,324640782
 python314Packages.nuclear,324640924,324640921,324640922,324640920
 python314Packages.nuitka,324640929,324640930,,
+python314Packages.ocrmypdf_16,,,325263621,
 python314Packages.oletools,324641222,324641218,324641224,324641223
 python314Packages.openbabel,,324641436,,
 python314Packages.opencc,324641450,324641448,,
@@ -1650,6 +1653,7 @@ python314Packages.sphinx-toolbox,325218426,325218427,325218425,325218424
 python314Packages.sphinxcontrib-bibtex,324652943,324652942,324652941,324652940
 python314Packages.spyder-kernels,324653122,324653120,,324653119
 python314Packages.sqlalchemy-continuum,324653155,324653152,324653154,324653151
+python314Packages.sqlalchemy-utc,325263683,325263682,325263684,325263681
 python314Packages.sqlalchemy_1_3,324653180,324653178,324653181,324653179
 python314Packages.sqlalchemy_1_4,324653185,324653184,324653183,324653182
 python314Packages.stumpy,325260791,,,325260785
@@ -1684,6 +1688,7 @@ python314Packages.willow,324658223,324658197,324658198,324658205
 python314Packages.ws4py,,,324658320,324658288
 python314Packages.xmlsec,,,,325169791
 python314Packages.xonsh,,,324745988,
+python314Packages.zebrafy,325263730,325263734,325263729,325263728
 qcm,325158680,325158693,,
 qemu-python-utils,,,325158701,325158703
 qgo,,,324659416,324659398
@@ -1883,7 +1888,7 @@ tests.home-assistant-component-tests.demo,325159458,325159457,,
 tests.home-assistant-component-tests.dsmr,325159507,,,
 tests.home-assistant-component-tests.ecovacs,325159519,325159527,,
 tests.home-assistant-component-tests.emulated_kasa,325159575,325159571,,
-tests.home-assistant-component-tests.enphase_envoy,,325263878,,
+tests.home-assistant-component-tests.enphase_envoy,325263877,325263878,,
 tests.home-assistant-component-tests.feedreader,325159618,,,
 tests.home-assistant-component-tests.google_generative_ai_conversation,325159772,,,
 tests.home-assistant-component-tests.growatt_server,325159795,325159794,,
@@ -1987,8 +1992,6 @@ vesta,,,324710103,324710099
 vgm2x,324710120,324710118,324710121,324710119
 vhd2vl,324710137,324710136,,324710134
 vikunja-desktop,,,325248969,325248968
-vimPlugins.cord-nvim,325184752,,,
-vimPlugins.neotest,,325184854,,
 vixl,,,324712198,324712197
 vkmark,324712224,324712222,,
 vodozemac-bindings-cpp,,,324712313,324712309
