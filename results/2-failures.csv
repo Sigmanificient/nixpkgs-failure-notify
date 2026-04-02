@@ -608,7 +608,7 @@ id,name,system
 324469926,gimme-aws-creds,x86_64-linux
 324470129,git-chain,aarch64-darwin
 324470130,git-chain,x86_64-darwin
-324470248,git-gamble,x86_64-darwin
+325306196,git-gamble,x86_64-darwin
 324470285,git-instafix,aarch64-linux
 324470288,git-instafix,x86_64-linux
 324470292,git-jump,aarch64-darwin
@@ -1108,7 +1108,7 @@ id,name,system
 325179816,lanraragi,aarch64-darwin
 324516792,larswm,aarch64-linux
 324516794,larswm,x86_64-linux
-325271919,lasuite-docs,x86_64-darwin
+325306237,lasuite-docs,x86_64-darwin
 324517008,lcm,aarch64-darwin
 324517011,lcm,x86_64-darwin
 324517087,ldmtool,aarch64-linux
@@ -1725,8 +1725,8 @@ id,name,system
 324541809,ns-3,x86_64-linux
 324541774,nsd,aarch64-darwin
 324541776,nsd,x86_64-darwin
-325252168,ntfy-sh,aarch64-darwin
-325252171,ntfy-sh,x86_64-darwin
+325306305,ntfy-sh,aarch64-darwin
+325306309,ntfy-sh,x86_64-darwin
 324541922,ntttcp,aarch64-linux
 324541923,ntttcp,x86_64-linux
 324542000,numdiff,aarch64-linux
@@ -1902,9 +1902,6 @@ id,name,system
 325252244,pcem,aarch64-linux
 325252245,pcem,x86_64-linux
 325300987,pdf-cli,aarch64-linux
-325262519,pdfding,aarch64-linux
-325262512,pdfding,x86_64-darwin
-325262515,pdfding,x86_64-linux
 324556622,pdftoipe,aarch64-darwin
 324556623,pdftoipe,aarch64-linux
 324556626,pdftoipe,x86_64-darwin
@@ -2327,6 +2324,8 @@ id,name,system
 325055087,python313Packages.hebg,aarch64-linux
 325055091,python313Packages.hebg,x86_64-darwin
 325055086,python313Packages.hebg,x86_64-linux
+325303570,python313Packages.highdicom,aarch64-linux
+325303561,python313Packages.highdicom,x86_64-linux
 324593438,python313Packages.hmmlearn,aarch64-darwin
 324593439,python313Packages.hmmlearn,aarch64-linux
 324593441,python313Packages.hmmlearn,x86_64-darwin
@@ -2458,10 +2457,6 @@ id,name,system
 324600713,python313Packages.neo,aarch64-linux
 324600724,python313Packages.neo,x86_64-darwin
 324600716,python313Packages.neo,x86_64-linux
-325217599,python313Packages.nglview,aarch64-darwin
-325217598,python313Packages.nglview,aarch64-linux
-325217609,python313Packages.nglview,x86_64-darwin
-325217597,python313Packages.nglview,x86_64-linux
 324600969,python313Packages.nidaqmx,aarch64-darwin
 324600970,python313Packages.nidaqmx,aarch64-linux
 324600975,python313Packages.nidaqmx,x86_64-darwin
@@ -2551,6 +2546,7 @@ id,name,system
 324604624,python313Packages.pyads,aarch64-linux
 324604622,python313Packages.pyads,x86_64-darwin
 324604625,python313Packages.pyads,x86_64-linux
+325303617,python313Packages.pyais,x86_64-darwin
 325189571,python313Packages.pyamg,aarch64-darwin
 325189569,python313Packages.pyamg,x86_64-darwin
 324605026,python313Packages.pycoin,aarch64-darwin
@@ -2588,6 +2584,7 @@ id,name,system
 324606379,python313Packages.pylsl,x86_64-darwin
 324606729,python313Packages.pynest2d,aarch64-linux
 324606720,python313Packages.pynest2d,x86_64-linux
+325303639,python313Packages.pynetdicom,x86_64-darwin
 324606883,python313Packages.pyomo,aarch64-darwin
 324606887,python313Packages.pyomo,x86_64-darwin
 324606897,python313Packages.pyopen-wakeword,aarch64-linux
@@ -3153,6 +3150,8 @@ id,name,system
 325055471,python314Packages.hebg,aarch64-linux
 325055475,python314Packages.hebg,x86_64-darwin
 325055472,python314Packages.hebg,x86_64-linux
+325303721,python314Packages.highdicom,aarch64-linux
+325303708,python314Packages.highdicom,x86_64-linux
 324633364,python314Packages.hmmlearn,aarch64-darwin
 324633365,python314Packages.hmmlearn,aarch64-linux
 324633366,python314Packages.hmmlearn,x86_64-darwin
@@ -3337,16 +3336,13 @@ id,name,system
 324640407,python314Packages.neo,aarch64-linux
 324640410,python314Packages.neo,x86_64-darwin
 324640408,python314Packages.neo,x86_64-linux
-325260327,python314Packages.netbox-interface-synchronization,aarch64-linux
-325260332,python314Packages.netbox-interface-synchronization,x86_64-linux
-325260324,python314Packages.netbox-plugin-prometheus-sd,aarch64-linux
-325260339,python314Packages.netbox-plugin-prometheus-sd,x86_64-darwin
-325260335,python314Packages.netbox-plugin-prometheus-sd,x86_64-linux
-325260325,python314Packages.netbox-qrcode,aarch64-linux
-325260328,python314Packages.netbox-qrcode,x86_64-linux
-325218279,python314Packages.nglview,aarch64-darwin
-325218283,python314Packages.nglview,aarch64-linux
-325218278,python314Packages.nglview,x86_64-linux
+325306734,python314Packages.netbox-interface-synchronization,aarch64-linux
+325306746,python314Packages.netbox-interface-synchronization,x86_64-linux
+325306741,python314Packages.netbox-plugin-prometheus-sd,aarch64-linux
+325306730,python314Packages.netbox-plugin-prometheus-sd,x86_64-darwin
+325306731,python314Packages.netbox-plugin-prometheus-sd,x86_64-linux
+325306756,python314Packages.netbox-qrcode,aarch64-linux
+325306759,python314Packages.netbox-qrcode,x86_64-linux
 324640635,python314Packages.nidaqmx,aarch64-darwin
 324640637,python314Packages.nidaqmx,aarch64-linux
 324640636,python314Packages.nidaqmx,x86_64-darwin
@@ -3462,6 +3458,7 @@ id,name,system
 324644208,python314Packages.pyads,aarch64-linux
 324644220,python314Packages.pyads,x86_64-darwin
 324644210,python314Packages.pyads,x86_64-linux
+325303757,python314Packages.pyais,aarch64-darwin
 324644507,python314Packages.pycapnp,aarch64-darwin
 324644504,python314Packages.pycapnp,aarch64-linux
 324644506,python314Packages.pycapnp,x86_64-darwin
@@ -3507,6 +3504,8 @@ id,name,system
 324646111,python314Packages.pymilvus,aarch64-darwin
 324646278,python314Packages.pynest2d,aarch64-linux
 324646284,python314Packages.pynest2d,x86_64-linux
+325303779,python314Packages.pynetdicom,aarch64-darwin
+325303781,python314Packages.pynetdicom,x86_64-darwin
 324646443,python314Packages.pyomo,aarch64-darwin
 324646446,python314Packages.pyomo,aarch64-linux
 324646445,python314Packages.pyomo,x86_64-darwin
@@ -4156,7 +4155,6 @@ id,name,system
 324679104,teos-watchtower-plugin,x86_64-darwin
 324679111,tere,x86_64-darwin
 325282625,termscp,x86_64-darwin
-325029438,terraform-providers.hashicorp_aws,aarch64-darwin
 324680388,tests.auto-patchelf-structured-log,aarch64-darwin
 324680390,tests.auto-patchelf-structured-log,aarch64-linux
 324680393,tests.auto-patchelf-structured-log,x86_64-darwin
