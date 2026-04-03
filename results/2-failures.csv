@@ -2002,10 +2002,9 @@ id,name,system
 325262779,pkgsRocm.python3Packages.gpuctypes,x86_64-linux
 325297801,pkgsRocm.python3Packages.hyper-connections,x86_64-linux
 325297880,pkgsRocm.python3Packages.mim-solvers,x86_64-linux
-325297948,pkgsRocm.python3Packages.pytorch-pfn-extras,x86_64-linux
 325297970,pkgsRocm.python3Packages.sirius,x86_64-linux
 325297984,pkgsRocm.python3Packages.tables,x86_64-linux
-325303488,pkgsRocm.python3Packages.torchrl,x86_64-linux
+325314695,pkgsRocm.python3Packages.torchrl,x86_64-linux
 325298056,pkgsRocm.python3Packages.unsloth-zoo,x86_64-linux
 325298064,pkgsRocm.sirius,x86_64-linux
 325279250,pkgsRocm.tabby,x86_64-linux
@@ -2632,8 +2631,6 @@ id,name,system
 325189697,python313Packages.python-tds,aarch64-linux
 325189705,python313Packages.python-tds,x86_64-darwin
 325189696,python313Packages.python-tds,x86_64-linux
-325279743,python313Packages.pytorch-pfn-extras,aarch64-linux
-325279744,python313Packages.pytorch-pfn-extras,x86_64-linux
 324609788,python313Packages.pyttsx3,aarch64-darwin
 324609796,python313Packages.pyttsx3,x86_64-darwin
 324610037,python313Packages.pywebview,aarch64-darwin
@@ -2792,7 +2789,7 @@ id,name,system
 325259529,python313Packages.viser,aarch64-darwin
 325259530,python313Packages.viser,aarch64-linux
 325259523,python313Packages.viser,x86_64-linux
-325279935,python313Packages.vllm,x86_64-linux
+325314747,python313Packages.vllm,x86_64-linux
 324619794,python313Packages.vowpalwabbit,aarch64-darwin
 324619795,python313Packages.vowpalwabbit,x86_64-darwin
 324619989,python313Packages.warp-lang,aarch64-darwin
@@ -3275,6 +3272,7 @@ id,name,system
 324638099,python314Packages.mlrose,x86_64-linux
 324638103,python314Packages.mlt,aarch64-darwin
 324638109,python314Packages.mlt,x86_64-darwin
+325313374,python314Packages.mlx-vlm,aarch64-darwin
 324638111,python314Packages.mlxtend,aarch64-darwin
 324638112,python314Packages.mlxtend,aarch64-linux
 324638113,python314Packages.mlxtend,x86_64-darwin
@@ -3560,8 +3558,6 @@ id,name,system
 325246852,python314Packages.python-troveclient,aarch64-darwin
 325246828,python314Packages.python-troveclient,aarch64-linux
 325246826,python314Packages.python-troveclient,x86_64-linux
-325280300,python314Packages.pytorch-pfn-extras,aarch64-linux
-325280299,python314Packages.pytorch-pfn-extras,x86_64-linux
 324649336,python314Packages.pyttsx3,aarch64-darwin
 324649339,python314Packages.pyttsx3,x86_64-darwin
 324649430,python314Packages.pyvera,aarch64-darwin
@@ -3637,6 +3633,7 @@ id,name,system
 325055701,python314Packages.serialx,x86_64-darwin
 324651919,python314Packages.shiv,aarch64-linux
 324651921,python314Packages.shiv,x86_64-linux
+325313445,python314Packages.simple-dftd3,x86_64-linux
 325169751,python314Packages.simple-salesforce,aarch64-linux
 325169750,python314Packages.simple-salesforce,x86_64-darwin
 325169752,python314Packages.simple-salesforce,x86_64-linux
@@ -3989,6 +3986,7 @@ id,name,system
 324673824,sif,x86_64-darwin
 324673852,signal-backup-deduplicator,aarch64-linux
 324673851,signal-backup-deduplicator,x86_64-linux
+325313503,signalbackup-tools,x86_64-darwin
 324673896,sigsum,aarch64-darwin
 324673898,sigsum,aarch64-linux
 324673895,sigsum,x86_64-darwin
@@ -4068,9 +4066,9 @@ id,name,system
 324676745,stellar-core,aarch64-linux
 324676746,stellar-core,x86_64-linux
 324676878,stog,aarch64-darwin
-324676865,stoolap,aarch64-linux
-324676866,stoolap,x86_64-darwin
-324676867,stoolap,x86_64-linux
+325314835,stoolap,aarch64-linux
+325314834,stoolap,x86_64-darwin
+325314832,stoolap,x86_64-linux
 324676886,storrent,aarch64-linux
 324676887,storrent,x86_64-linux
 324676981,strobealign,aarch64-linux
@@ -4398,14 +4396,12 @@ id,name,system
 324710134,vhd2vl,aarch64-darwin
 324710136,vhd2vl,aarch64-linux
 324710137,vhd2vl,x86_64-linux
-325248968,vikunja-desktop,aarch64-darwin
-325248969,vikunja-desktop,x86_64-darwin
 325301709,vimPlugins.neotest,x86_64-linux
 324712197,vixl,aarch64-darwin
 324712198,vixl,x86_64-darwin
 324712222,vkmark,aarch64-linux
 324712224,vkmark,x86_64-linux
-325280851,vllm,x86_64-linux
+325314883,vllm,x86_64-linux
 324712309,vodozemac-bindings-cpp,aarch64-darwin
 324712313,vodozemac-bindings-cpp,x86_64-darwin
 324712363,vorbisgain,aarch64-darwin

@@ -1046,10 +1046,9 @@ pkgsRocm.python3Packages.executorch,325297781,,,
 pkgsRocm.python3Packages.gpuctypes,325262779,,,
 pkgsRocm.python3Packages.hyper-connections,325297801,,,
 pkgsRocm.python3Packages.mim-solvers,325297880,,,
-pkgsRocm.python3Packages.pytorch-pfn-extras,325297948,,,
 pkgsRocm.python3Packages.sirius,325297970,,,
 pkgsRocm.python3Packages.tables,325297984,,,
-pkgsRocm.python3Packages.torchrl,325303488,,,
+pkgsRocm.python3Packages.torchrl,325314695,,,
 pkgsRocm.python3Packages.unsloth-zoo,325298056,,,
 pkgsRocm.sirius,325298064,,,
 pkgsRocm.tabby,325279250,,,
@@ -1297,7 +1296,6 @@ python313Packages.python-lsp-server,,,324609122,
 python313Packages.python-prctl,,324609341,,
 python313Packages.python-redis-lock,,,324609370,324609374
 python313Packages.python-tds,325189696,325189697,325189705,325189713
-python313Packages.pytorch-pfn-extras,325279744,325279743,,
 python313Packages.pyttsx3,,,324609796,324609788
 python313Packages.pywebview,,,324610116,324610037
 python313Packages.pywinbox,,,324610047,324610042
@@ -1354,7 +1352,7 @@ python313Packages.typesense,324618914,324618910,324618902,324618890
 python313Packages.unsloth-zoo,325279920,,,
 python313Packages.utitools,,,324619451,324619436
 python313Packages.viser,325259523,325259530,,325259529
-python313Packages.vllm,325279935,,,
+python313Packages.vllm,325314747,,,
 python313Packages.vowpalwabbit,,,324619795,324619794
 python313Packages.warp-lang,324619959,324619954,,324619989
 python313Packages.webrtc-noise-gain,324620124,324620121,,
@@ -1515,6 +1513,7 @@ python314Packages.migen,324637739,324637737,324637741,324637733
 python314Packages.mim-solvers,325280163,325280143,325280169,325280161
 python314Packages.mlrose,324638099,324638097,324638098,324638095
 python314Packages.mlt,,,324638109,324638103
+python314Packages.mlx-vlm,,,,325313374
 python314Packages.mlxtend,324638114,324638112,324638113,324638111
 python314Packages.mmengine,,325298400,,
 python314Packages.mockfs,324638187,324638182,324638186,324638181
@@ -1617,7 +1616,6 @@ python314Packages.python-prctl,,324648888,,
 python314Packages.python-redis-lock,324648911,324648919,324648909,324648920
 python314Packages.python-tds,325190518,325190520,325190525,325190513
 python314Packages.python-troveclient,325246826,325246828,,325246852
-python314Packages.pytorch-pfn-extras,325280299,325280300,,
 python314Packages.pyttsx3,,,324649339,324649336
 python314Packages.pyvera,,,,324649430
 python314Packages.pywebcopy,324649560,324649566,324649568,324649561
@@ -1644,6 +1642,7 @@ python314Packages.scipy-stubs,325184402,325184404,325184408,325184401
 python314Packages.sdds,324651537,324651534,324651535,324651533
 python314Packages.serialx,,,325055701,325055706
 python314Packages.shiv,324651921,324651919,,
+python314Packages.simple-dftd3,325313445,,,
 python314Packages.simple-salesforce,325169752,325169751,325169750,
 python314Packages.sipyco,324652166,324652161,324652158,324652153
 python314Packages.skytemple-files,325260713,325260714,,
@@ -1795,6 +1794,7 @@ siege,324673803,324673802,,
 sieve-editor-gui,324746101,324746099,324746098,324746097
 sif,,,324673824,324673818
 signal-backup-deduplicator,324673851,324673852,,
+signalbackup-tools,,,325313503,
 sigsum,324673897,324673898,324673895,324673896
 siketyan-ghr,324673918,324673910,324673914,324673911
 simbaplusplus,324673967,324673963,,
@@ -1836,7 +1836,7 @@ stalwart,,,,325169853
 stargate-libcds,,324676539,,324676536
 stellar-core,324676746,324676745,,
 stog,,,,324676878
-stoolap,324676867,324676865,324676866,
+stoolap,325314832,325314835,325314834,
 storrent,324676887,324676886,,
 strobealign,324676984,324676981,,
 supermodel,324677337,324677334,,
@@ -1994,11 +1994,10 @@ vertcoind,324710090,324710088,,
 vesta,,,324710103,324710099
 vgm2x,324710120,324710118,324710121,324710119
 vhd2vl,324710137,324710136,,324710134
-vikunja-desktop,,,325248969,325248968
 vimPlugins.neotest,325301709,,,
 vixl,,,324712198,324712197
 vkmark,324712224,324712222,,
-vllm,325280851,,,
+vllm,325314883,,,
 vodozemac-bindings-cpp,,,324712313,324712309
 vorbisgain,,,324712364,324712363
 vowpal-wabbit,324712374,324712372,324712373,324712371
