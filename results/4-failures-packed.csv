@@ -177,7 +177,6 @@ dragmap,324462669,,,
 drat,,,324462684,324462682
 driftnet,,,324462729,324462727
 dt,,,324462852,324462851
-duplicati,,,,325874430
 ec,,,324463382,324463377
 ecasound,324463396,324463395,,
 ecl_16_1_2,324463429,324463426,324463428,
@@ -478,7 +477,7 @@ kati,324513638,324513636,,
 kbdd,324513671,324513670,,
 kdePackages.maplibre-native-qt,324514463,324514464,,
 kdePackages.mlt,,,324514501,324514492
-kdePackages.sierra-breeze-enhanced,325179788,325179794,,
+kdePackages.sierra-breeze-enhanced,326161648,326161638,,
 kdePackages.waylib,325874691,325874692,,
 kdePackages.wayqt,324514917,324514913,,
 keeperrl,324515002,,,
@@ -859,7 +858,7 @@ nushell-plugin-semver,,,324542088,
 nushellPlugins.semver,,,324542124,
 nuweb,324543141,324543465,,
 nvidia-mig-parted,,,324542208,324542205
-nvimpager,,,325417223,
+nvimpager,,,326162114,
 nvramtool,,325245659,,
 nxpmicro-mfgtools,324542327,324542328,,
 nylon,324542353,324542351,,
@@ -998,9 +997,9 @@ pkgsRocm.python3Packages.mdtraj,325818641,,,
 pkgsRocm.python3Packages.mim-solvers,325818657,,,
 pkgsRocm.python3Packages.mmengine,325875261,,,
 pkgsRocm.python3Packages.pandera,325818719,,,
-pkgsRocm.python3Packages.sirius,325818755,,,
+pkgsRocm.python3Packages.sirius,326162182,,,
 pkgsRocm.python3Packages.torchrl,326160585,,,
-pkgsRocm.sirius,325818841,,,
+pkgsRocm.sirius,326162188,,,
 pkgsRocm.tabby,325803701,,,
 pkgsRocm.xyce-parallel,325818893,,,
 plakar,324575305,324575303,324575304,324575300
@@ -1585,7 +1584,7 @@ qradiolink,325672074,325672075,,
 qrq,324659583,324659580,324659581,324659582
 qt6Packages.maplibre-native-qt,324660001,324659999,,
 qt6Packages.mlt,,,324660008,324660003
-qt6Packages.sierra-breeze-enhanced,325180572,325180570,,
+qt6Packages.sierra-breeze-enhanced,326162319,326162321,,
 qt6Packages.waylib,325878959,325878961,,
 qt6Packages.wayqt,324660265,324660264,,
 qtwebapp,,,325034574,325034571

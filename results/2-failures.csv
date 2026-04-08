@@ -374,7 +374,6 @@ id,name,system
 324462729,driftnet,x86_64-darwin
 324462851,dt,aarch64-darwin
 324462852,dt,x86_64-darwin
-325874430,duplicati,aarch64-darwin
 324463377,ec,aarch64-darwin
 324463382,ec,x86_64-darwin
 324463395,ecasound,aarch64-linux
@@ -978,8 +977,8 @@ id,name,system
 324514463,kdePackages.maplibre-native-qt,x86_64-linux
 324514492,kdePackages.mlt,aarch64-darwin
 324514501,kdePackages.mlt,x86_64-darwin
-325179794,kdePackages.sierra-breeze-enhanced,aarch64-linux
-325179788,kdePackages.sierra-breeze-enhanced,x86_64-linux
+326161638,kdePackages.sierra-breeze-enhanced,aarch64-linux
+326161648,kdePackages.sierra-breeze-enhanced,x86_64-linux
 325874692,kdePackages.waylib,aarch64-linux
 325874691,kdePackages.waylib,x86_64-linux
 324514913,kdePackages.wayqt,aarch64-linux
@@ -1646,7 +1645,7 @@ id,name,system
 324543141,nuweb,x86_64-linux
 324542205,nvidia-mig-parted,aarch64-darwin
 324542208,nvidia-mig-parted,x86_64-darwin
-325417223,nvimpager,x86_64-darwin
+326162114,nvimpager,x86_64-darwin
 325245659,nvramtool,aarch64-linux
 324542328,nxpmicro-mfgtools,aarch64-linux
 324542327,nxpmicro-mfgtools,x86_64-linux
@@ -1907,9 +1906,9 @@ id,name,system
 325818657,pkgsRocm.python3Packages.mim-solvers,x86_64-linux
 325875261,pkgsRocm.python3Packages.mmengine,x86_64-linux
 325818719,pkgsRocm.python3Packages.pandera,x86_64-linux
-325818755,pkgsRocm.python3Packages.sirius,x86_64-linux
+326162182,pkgsRocm.python3Packages.sirius,x86_64-linux
 326160585,pkgsRocm.python3Packages.torchrl,x86_64-linux
-325818841,pkgsRocm.sirius,x86_64-linux
+326162188,pkgsRocm.sirius,x86_64-linux
 325803701,pkgsRocm.tabby,x86_64-linux
 325818893,pkgsRocm.xyce-parallel,x86_64-linux
 324575300,plakar,aarch64-darwin
@@ -3552,8 +3551,8 @@ id,name,system
 324660001,qt6Packages.maplibre-native-qt,x86_64-linux
 324660003,qt6Packages.mlt,aarch64-darwin
 324660008,qt6Packages.mlt,x86_64-darwin
-325180570,qt6Packages.sierra-breeze-enhanced,aarch64-linux
-325180572,qt6Packages.sierra-breeze-enhanced,x86_64-linux
+326162321,qt6Packages.sierra-breeze-enhanced,aarch64-linux
+326162319,qt6Packages.sierra-breeze-enhanced,x86_64-linux
 325878961,qt6Packages.waylib,aarch64-linux
 325878959,qt6Packages.waylib,x86_64-linux
 324660264,qt6Packages.wayqt,aarch64-linux
