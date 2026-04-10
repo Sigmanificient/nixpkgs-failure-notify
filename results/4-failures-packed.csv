@@ -274,7 +274,7 @@ gitbeaker-cli,,324470610,324470616,
 gitlab-duo,325179637,325179638,,
 gitlab-elasticsearch-indexer,,,326186106,326186118
 gittuf,,,324470839,
-glances,,325315469,,
+glances,,326305424,,
 glpaper,324471109,324471106,,
 gluesql,324471150,324471147,324471148,324471146
 gnat15Packages.gnatprove,,324471497,,
@@ -314,7 +314,6 @@ gtkradiant,324476841,324476848,,
 guile-git,,,,324476969
 gummi,324477103,324477101,,
 gupnp-tools,324477135,324477134,324477133,324477130
-gvisor,324477160,324477159,,
 hal-hardware-analyzer,,,,325874576
 halide,324477393,,,
 handlr-regex,,,324477439,324477441
@@ -426,7 +425,6 @@ hyprlandPlugins.hyprwinwrap,326304787,326304785,,
 hyprlandPlugins.xtra-dispatchers,326304795,326304788,,
 hyprproxlock,,,324509575,324509571
 i2pd-tools,324509639,324509638,324509640,324509637
-iamb,324509747,324509740,324509742,324509741
 icesprog,,,324509854,324509851
 icon-lang,324509928,324509929,,
 iconpack-jade,324509955,324509944,,
@@ -449,7 +447,6 @@ ior,325818164,325818165,,
 ip2unix,,324511420,,
 iqueue,324511547,,,
 irrlicht,,,324511610,324511605
-iwe,,,325410020,325410019
 j,324511820,324511819,,
 jabcode-reader,324511833,,,
 jabcode-writer,324511837,,,
@@ -502,7 +499,7 @@ lakefs,,,325054573,
 landrun,,324516754,,
 lanraragi,,,,325798199
 larswm,324516794,324516792,,
-lasuite-docs,,,326302687,326302685
+lasuite-docs,,,326305538,326305533
 lazycommit,325818194,325818195,325818193,325818192
 lcm,,,324517011,324517008
 ldmtool,324517090,324517087,,
@@ -515,6 +512,7 @@ lemmy-server,,,325245521,325245517
 leo-lang,,,324517305,324517303
 lerna_6,,324517336,,
 libagar,325668343,325668342,,
+libation,,,,326304827
 libcardiacarrest,,,324517775,324517770
 libcork,,,324517913,324517909
 libcue-lang,,,324517992,324517991
@@ -915,7 +913,7 @@ openorienteering-mapper,,,,326183345
 openpa,,,324554281,324554276
 openrussian-cli,324554389,324554387,324554390,324554388
 opensaml-cpp,324554396,324554394,324554397,324554393
-opensplatWithRocm,325818336,,,
+opensplatWithRocm,326305654,,,
 openssh-askpass,,,324554505,324554502
 ophcrack,324554732,324554729,324554730,324554726
 opl3bankeditor,,,,324554751
@@ -996,18 +994,16 @@ pkcs11-provider,,,326160549,
 pkgsRocm.ior,325818422,,,
 pkgsRocm.migrate,325818440,,,
 pkgsRocm.openems,326183532,,,
-pkgsRocm.opensplat,325818460,,,
-pkgsRocm.python3Packages.arviz-plots,326187607,,,
-pkgsRocm.python3Packages.ax-platform,326187595,,,
-pkgsRocm.python3Packages.docling-ibm-models,325818538,,,
-pkgsRocm.python3Packages.executorch,326183536,,,
+pkgsRocm.opensplat,326305750,,,
+pkgsRocm.python3Packages.arviz-plots,326305788,,,
+pkgsRocm.python3Packages.ax-platform,326305841,,,
+pkgsRocm.python3Packages.docling-ibm-models,326305814,,,
 pkgsRocm.python3Packages.gpuctypes,325318203,,,
-pkgsRocm.python3Packages.hyper-connections,325818572,,,
-pkgsRocm.python3Packages.mdtraj,325818641,,,
-pkgsRocm.python3Packages.mim-solvers,325818657,,,
-pkgsRocm.python3Packages.pandera,326183551,,,
+pkgsRocm.python3Packages.hyper-connections,326305854,,,
+pkgsRocm.python3Packages.mdtraj,326305940,,,
+pkgsRocm.python3Packages.mim-solvers,326305931,,,
+pkgsRocm.python3Packages.pandera,326305953,,,
 pkgsRocm.python3Packages.sirius,326162182,,,
-pkgsRocm.python3Packages.torchrl,326187698,,,
 pkgsRocm.sirius,326162188,,,
 pkgsRocm.tabby,325803701,,,
 pkgsRocm.xyce-parallel,325818893,,,
@@ -1147,7 +1143,6 @@ python313Packages.kopf,,,325875653,325875651
 python313Packages.libarcus,324596203,324596198,,
 python313Packages.libbs,325258471,325258470,325258469,325258468
 python313Packages.libredwg,,,324596327,324596324
-python313Packages.lightgbm,324596467,324596462,,
 python313Packages.line-profiler,324596525,324596524,324596521,324596518
 python313Packages.linear-operator,,325258491,,
 python313Packages.lineax,325799220,,,
@@ -1202,7 +1197,7 @@ python313Packages.pyhepmc,324605897,324605896,324605902,324605894
 python313Packages.pyitachip2ir,,,324606067,324606063
 python313Packages.pykdtree,,324606131,,
 python313Packages.pylibjpeg-rle,,,325303629,325303628
-python313Packages.pylint-django,324606312,324606345,324606327,324606315
+python313Packages.pylint-django,326306544,326306545,326306546,326306543
 python313Packages.pylsl,,,324606379,324606372
 python313Packages.pynest2d,324606720,324606729,,
 python313Packages.pyomo,,,324606887,324606883
@@ -1407,7 +1402,6 @@ python314Packages.labgrid,324635642,324635629,,
 python314Packages.libarcus,324636056,324636049,,
 python314Packages.libredwg,,,324636180,324636177
 python314Packages.libvirt,,,,325670820
-python314Packages.lightgbm,324636315,324636311,,
 python314Packages.line-profiler,324636372,324636373,324636369,324636370
 python314Packages.linear-operator,,325260149,,
 python314Packages.lineax,325801283,,,325801280
@@ -1431,9 +1425,9 @@ python314Packages.mrsqm,324638486,324638484,324638485,324638482
 python314Packages.msprime,324638557,324638554,324638551,324638559
 python314Packages.multiscale-spatial-image,326188821,326188787,,326188796
 python314Packages.neo,324640408,324640407,324640410,324640409
-python314Packages.netbox-interface-synchronization,326303212,326303197,,
-python314Packages.netbox-plugin-prometheus-sd,326303217,326303198,326303207,326303211
-python314Packages.netbox-qrcode,326303206,326303200,,
+python314Packages.netbox-interface-synchronization,326306965,326306954,,
+python314Packages.netbox-plugin-prometheus-sd,326306964,326306948,326306966,326306953
+python314Packages.netbox-qrcode,326306957,326306943,,
 python314Packages.nidaqmx,324640638,324640637,324640636,324640635
 python314Packages.nitime,325303741,325303750,,
 python314Packages.nodriver,324640793,324640794,324640784,324640782
@@ -1477,7 +1471,7 @@ python314Packages.pygsl,324645403,324645405,,
 python314Packages.pyitachip2ir,,,324645627,324645621
 python314Packages.pykdtree,,324645692,,
 python314Packages.pylibjpeg-rle,,,325303776,325303784
-python314Packages.pylint-django,324645887,324645882,324645881,324645877
+python314Packages.pylint-django,326306990,326306991,326306992,326306988
 python314Packages.pylsl,,,324645939,324645935
 python314Packages.pymilvus,,,,324646111
 python314Packages.pynest2d,324646284,324646278,,
@@ -1851,6 +1845,7 @@ vllm,326185048,,,
 vodozemac-bindings-cpp,,,324712313,324712309
 vorbisgain,,,324712364,324712363
 vowpal-wabbit,324712374,324712372,324712373,324712371
+warpgate,326307228,326307226,326307225,326307227
 wasmer,324714722,,324714714,
 wayv,324714925,324714924,,
 wcc,324714959,324714956,,
