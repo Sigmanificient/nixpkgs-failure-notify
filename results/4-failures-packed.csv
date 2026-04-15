@@ -102,7 +102,7 @@ ciao,324455700,324455697,,
 clboss,325409734,325409735,325409736,325409732
 clfft,,,324456075,324456111
 clightning,,,325315241,325315238
-clipcat,,,324456183,324456180
+clipcat,,,326546809,326546801
 clipit,324456197,324456186,,
 cloud-custodian,324456307,324456301,324456305,324456302
 cloudprober,,,324456390,
@@ -210,6 +210,7 @@ fetchtastic,,,324466081,324466080
 ffmpeg-livepeer,324466141,324466137,324466140,324466138
 filebench,324466327,324466325,,
 filen-desktop,,,326309755,326309776
+firefox-unwrapped,,326543841,,
 fleng,,,,324466981
 flex-launcher,,,324466995,324466993
 flow-control,,,324467091,324467085
@@ -394,17 +395,17 @@ httplz,324508326,324508304,324508307,324508305
 httptoolkit,,,326309928,
 hubicfuse,324508373,324508368,,
 hygg,,,,324509066
-hyprlandPlugins.borders-plus-plus,326543930,326543916,,
-hyprlandPlugins.csgo-vulkan-fix,326543913,326543953,,
-hyprlandPlugins.hyprbars,326543940,326543917,,
-hyprlandPlugins.hyprexpo,326543927,326543936,,
-hyprlandPlugins.hyprfocus,326543948,326543925,,
-hyprlandPlugins.hyprgrass,326543935,326543924,,
-hyprlandPlugins.hyprscrolling,326543932,326543947,,
-hyprlandPlugins.hyprspace,326543928,326543922,,
-hyprlandPlugins.hyprtrails,326543926,326543933,,
-hyprlandPlugins.hyprwinwrap,326543938,326543944,,
-hyprlandPlugins.xtra-dispatchers,326543934,326543943,,
+hyprlandPlugins.borders-plus-plus,326546940,326546916,,
+hyprlandPlugins.csgo-vulkan-fix,326546919,326546932,,
+hyprlandPlugins.hyprbars,326546964,326546925,,
+hyprlandPlugins.hyprexpo,326546921,326546920,,
+hyprlandPlugins.hyprfocus,326546926,326546949,,
+hyprlandPlugins.hyprgrass,326546931,326546946,,
+hyprlandPlugins.hyprscrolling,326546923,326546929,,
+hyprlandPlugins.hyprspace,326546928,326546927,,
+hyprlandPlugins.hyprtrails,326546955,326546933,,
+hyprlandPlugins.hyprwinwrap,326546943,326546936,,
+hyprlandPlugins.xtra-dispatchers,326546958,326546937,,
 hyprproxlock,,,324509575,324509571
 i2pd-tools,324509639,324509638,324509640,324509637
 icesprog,,,324509854,324509851
@@ -445,7 +446,7 @@ jj-pre-push,,,326304814,326538103
 jove,324512653,324512654,,
 jpegli,,325032596,,
 jrsonnet,324512789,324512787,324512786,324512785
-jtdx,,,324512982,324512983
+jtdx,,,326546996,326546994
 julia-bin,,,326413387,
 julia_110,,,,326445654
 julia_111,,,,326445661
@@ -556,7 +557,7 @@ linuxKernel.packages.linux_5_10.tbs,,326389730,,
 linuxKernel.packages.linux_5_10.tsme-test,,326389734,,
 linuxKernel.packages.linux_5_10.tuxedo-drivers,326389743,,,
 linuxKernel.packages.linux_5_10.universal-pidff,326389740,326389753,,
-linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,,326389763,,
+linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,,326547023,,
 linuxKernel.packages.linux_5_10.xpadneo,326389757,326389756,,
 linuxKernel.packages.linux_5_15.acer-wmi-battery,,326389783,,
 linuxKernel.packages.linux_5_15.akvcam,326389781,326389780,,
@@ -605,7 +606,7 @@ linuxKernel.packages.linux_6_19.odp-dpdk,324523913,,,
 linuxKernel.packages.linux_6_19.opensnitch-ebpf,326390751,326390726,,
 linuxKernel.packages.linux_6_19.tsme-test,326390773,326390764,,
 linuxKernel.packages.linux_6_19.virtualbox,326390785,,,
-linuxKernel.packages.linux_6_19.virtualboxGuestAdditions,326390791,,,
+linuxKernel.packages.linux_6_19.virtualboxGuestAdditions,326547033,,,
 linuxKernel.packages.linux_6_19.vmm_clock,326390816,,,
 linuxKernel.packages.linux_6_6.acer-wmi-battery,,326390813,,
 linuxKernel.packages.linux_6_6.ax99100,,326390829,,
@@ -631,7 +632,7 @@ linuxKernel.packages.linux_7_0.shufflecake,326445883,326445876,,
 linuxKernel.packages.linux_7_0.tsme-test,326445890,326445901,,
 linuxKernel.packages.linux_7_0.vhba,326445911,326445905,,
 linuxKernel.packages.linux_7_0.virtualbox,326445935,,,
-linuxKernel.packages.linux_7_0.virtualboxGuestAdditions,326445931,326445934,,
+linuxKernel.packages.linux_7_0.virtualboxGuestAdditions,326547037,326547038,,
 linuxKernel.packages.linux_7_0.vmm_clock,326445912,,,
 linuxKernel.packages.linux_xanmod.lttng-modules,326413458,,,
 linuxKernel.packages.linux_xanmod.mbp2018-bridge-drv,326413482,,,
@@ -645,7 +646,7 @@ linuxKernel.packages.linux_xanmod_latest.odp-dpdk,324524672,,,
 linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf,326413603,,,
 linuxKernel.packages.linux_xanmod_latest.tsme-test,326413642,,,
 linuxKernel.packages.linux_xanmod_latest.virtualbox,326413699,,,
-linuxKernel.packages.linux_xanmod_latest.virtualboxGuestAdditions,326413631,,,
+linuxKernel.packages.linux_xanmod_latest.virtualboxGuestAdditions,326547040,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,326413633,,,
 linuxKernel.packages.linux_xanmod_stable.drbd,326413663,,,
 linuxKernel.packages.linux_xanmod_stable.lkrg,326413694,,,
@@ -655,7 +656,7 @@ linuxKernel.packages.linux_xanmod_stable.odp-dpdk,324524807,,,
 linuxKernel.packages.linux_xanmod_stable.opensnitch-ebpf,326413713,,,
 linuxKernel.packages.linux_xanmod_stable.tsme-test,326413741,,,
 linuxKernel.packages.linux_xanmod_stable.virtualbox,326413767,,,
-linuxKernel.packages.linux_xanmod_stable.virtualboxGuestAdditions,326413758,,,
+linuxKernel.packages.linux_xanmod_stable.virtualboxGuestAdditions,326547041,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,326413755,,,
 linuxKernel.packages.linux_zen.drbd,326391389,,,
 linuxKernel.packages.linux_zen.lkrg,326391390,,,
@@ -665,7 +666,7 @@ linuxKernel.packages.linux_zen.odp-dpdk,324524938,,,
 linuxKernel.packages.linux_zen.opensnitch-ebpf,326391427,,,
 linuxKernel.packages.linux_zen.tsme-test,326391447,,,
 linuxKernel.packages.linux_zen.virtualbox,326392307,,,
-linuxKernel.packages.linux_zen.virtualboxGuestAdditions,326391497,,,
+linuxKernel.packages.linux_zen.virtualboxGuestAdditions,326547042,,,
 linuxKernel.packages.linux_zen.vmm_clock,326391445,,,
 linuxPackages.acer-wmi-battery,,326391455,,
 linuxPackages.lttng-modules,326391539,326391537,,
@@ -690,7 +691,7 @@ linuxPackages_latest.shufflecake,326446075,326446074,,
 linuxPackages_latest.tsme-test,326446090,326446089,,
 linuxPackages_latest.vhba,326446106,326446105,,
 linuxPackages_latest.virtualbox,326446108,,,
-linuxPackages_latest.virtualboxGuestAdditions,326446110,326446114,,
+linuxPackages_latest.virtualboxGuestAdditions,326547047,326547045,,
 linuxPackages_latest.vmm_clock,326446111,,,
 linuxPackages_xanmod.lttng-modules,326413822,,,
 linuxPackages_xanmod.mbp2018-bridge-drv,326413824,,,
@@ -704,7 +705,7 @@ linuxPackages_xanmod_latest.odp-dpdk,324526155,,,
 linuxPackages_xanmod_latest.opensnitch-ebpf,326413955,,,
 linuxPackages_xanmod_latest.tsme-test,326413985,,,
 linuxPackages_xanmod_latest.virtualbox,326413995,,,
-linuxPackages_xanmod_latest.virtualboxGuestAdditions,326413997,,,
+linuxPackages_xanmod_latest.virtualboxGuestAdditions,326547048,,,
 linuxPackages_xanmod_latest.vmm_clock,326413998,,,
 linuxPackages_xanmod_stable.drbd,326414029,,,
 linuxPackages_xanmod_stable.lkrg,326414059,,,
@@ -714,7 +715,7 @@ linuxPackages_xanmod_stable.odp-dpdk,324525769,,,
 linuxPackages_xanmod_stable.opensnitch-ebpf,326414075,,,
 linuxPackages_xanmod_stable.tsme-test,326414104,,,
 linuxPackages_xanmod_stable.virtualbox,326414112,,,
-linuxPackages_xanmod_stable.virtualboxGuestAdditions,326414121,,,
+linuxPackages_xanmod_stable.virtualboxGuestAdditions,326547049,,,
 linuxPackages_xanmod_stable.vmm_clock,326414119,,,
 linuxPackages_zen.drbd,326392204,,,
 linuxPackages_zen.lkrg,326392298,,,
@@ -724,7 +725,7 @@ linuxPackages_zen.odp-dpdk,324525903,,,
 linuxPackages_zen.opensnitch-ebpf,326392246,,,
 linuxPackages_zen.tsme-test,326392267,,,
 linuxPackages_zen.virtualbox,326392289,,,
-linuxPackages_zen.virtualboxGuestAdditions,326392280,,,
+linuxPackages_zen.virtualboxGuestAdditions,326547050,,,
 linuxPackages_zen.vmm_clock,326392279,,,
 linuxkit,,,324525995,324525978
 litemdview,324526092,324526102,,
@@ -1011,7 +1012,7 @@ pkgsRocm.python3Packages.hyper-connections,326494364,,,
 pkgsRocm.python3Packages.mdtraj,326494430,,,
 pkgsRocm.python3Packages.mim-solvers,326494453,,,
 pkgsRocm.python3Packages.sirius,326494560,,,
-pkgsRocm.python3Packages.torchrl,326544625,,,
+pkgsRocm.python3Packages.torchrl,326547293,,,
 pkgsRocm.sirius,326494652,,,
 pkgsRocm.tabby,326494650,,,
 pkgsRocm.xyce-parallel,326494703,,,
@@ -1238,6 +1239,7 @@ python313Packages.rds2py,,,325799622,325799619
 python313Packages.recoll,,,324610682,324610698
 python313Packages.requests-random-user-agent,,326306586,,
 python313Packages.requirements-detector,324610954,324610953,324610955,324610951
+python313Packages.rerun-sdk,,,,326544903
 python313Packages.rtfde,,326305034,,326305033
 python313Packages.rtfunicode,324611497,324611495,324611498,324611493
 python313Packages.salmon-mail,324611687,324611683,324611685,324611682
@@ -1266,6 +1268,7 @@ python313Packages.tbats,324614737,324614740,324614741,324614738
 python313Packages.temporalio,325424524,325424511,325424518,325424514
 python313Packages.textual-image,,,326494917,326494918
 python313Packages.tinyio,,,324745617,
+python313Packages.torchaudio,,326544983,,
 python313Packages.torchsnapshot,,326315379,,
 python313Packages.torchtitan,,,,326315385
 python313Packages.trectools,324615759,324615851,324615756,324615755
@@ -1434,7 +1437,7 @@ python314Packages.msprime,324638557,324638554,324638551,324638559
 python314Packages.multiscale-spatial-image,326311499,326311494,,326311510
 python314Packages.neo,324640408,324640407,324640410,324640409
 python314Packages.nidaqmx,324640638,324640637,324640636,324640635
-python314Packages.nodriver,324640793,324640794,324640784,324640782
+python314Packages.nodriver,326547423,326547425,324640784,324640782
 python314Packages.nuclear,324640924,324640921,324640922,324640920
 python314Packages.nuitka,324640929,324640930,,
 python314Packages.openbabel,,324641436,,
@@ -1505,7 +1508,6 @@ python314Packages.pywebview,,,324649632,324649612
 python314Packages.pywinbox,,,324649611,324649591
 python314Packages.qcs-api-client-common,324649734,324649732,324649733,324649729
 python314Packages.qh3,,,325301503,325301504
-python314Packages.qtile-extras,326545198,,,
 python314Packages.raylib-python-cffi,,,324650065,324650067
 python314Packages.rclone-python,,,326188972,
 python314Packages.rds2py,,,325801583,325801582
@@ -1545,6 +1547,7 @@ python314Packages.tbats,324654173,324654175,324654179,324654172
 python314Packages.temporalio,325424943,325424954,325424950,325424955
 python314Packages.textual-image,,,326495144,326495143
 python314Packages.tololib,,324654871,,
+python314Packages.torchaudio,,,326545275,
 python314Packages.torchsnapshot,,326316290,,
 python314Packages.torchtitan,,,,326316315
 python314Packages.trectools,324655154,324655157,324655158,324655155
@@ -1758,6 +1761,7 @@ tests.home-assistant-components.comelit,326410337,326410224,,
 tests.home-assistant-components.concord232,,326410238,,
 tests.home-assistant-components.decora_wifi,326410280,326410299,,
 tests.home-assistant-components.dsmr,326410332,,,
+tests.home-assistant-components.emulated_kasa,,326545391,,
 tests.home-assistant-components.google,,326410587,,
 tests.home-assistant-components.google_generative_ai_conversation,326410596,326410604,,
 tests.home-assistant-components.hdmi_cec,326410660,326410666,,
@@ -1875,7 +1879,7 @@ xcodebuild,324716713,324716711,,
 xdriinfo,,,324716863,324716858
 xed,,,324716887,
 xeus-cling,325218792,325218791,,
-xf86-input-cmt,324716950,324716946,,
+xf86-input-cmt,326547624,326547619,,
 xfstests,324717147,324717144,,
 xhosts,,,324717178,324717184
 xloadimage,324717313,324717322,,
@@ -1900,7 +1904,7 @@ yuhaiin,324718670,324718668,324718669,324718667
 z88dk,324718721,324718710,,
 zcash,324718926,324718915,324718916,
 zeal,,,325815362,325815365
-zed-editor,,326414483,326414481,326414482
+zed-editor,,326547713,326547717,
 zee,,,324718935,324718933
 zf,,,324719073,324719072
 zgv,325815364,325815363,,
