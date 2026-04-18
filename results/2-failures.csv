@@ -2380,7 +2380,6 @@ id,name,system
 324612010,python313Packages.sdds,aarch64-linux
 324612015,python313Packages.sdds,x86_64-darwin
 324612016,python313Packages.sdds,x86_64-linux
-326554722,python313Packages.sentry-sdk,x86_64-linux
 326315200,python313Packages.serialx,aarch64-darwin
 326315198,python313Packages.serialx,x86_64-darwin
 324612405,python313Packages.shiv,aarch64-linux
