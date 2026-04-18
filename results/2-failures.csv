@@ -772,7 +772,6 @@ id,name,system
 324507585,hof,x86_64-linux
 326409827,home-assistant-custom-components.mypyllant,x86_64-linux
 326409845,home-assistant-custom-components.yandex-station,x86_64-linux
-326409808,home-assistant,aarch64-linux
 325300643,honeycomb-refinery,aarch64-linux
 324507986,honeytail,x86_64-darwin
 324508020,hors,aarch64-linux
