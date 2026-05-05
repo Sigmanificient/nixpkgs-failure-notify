@@ -51,7 +51,6 @@ ber_metaocaml,326956846,,,
 beszel,,,326956868,326956866
 bigloo,326957018,326957015,,
 biglybt,,,,326957023
-bio-gappa,326957146,326957144,,
 bitlbee-steam,326957256,326957254,,
 bitwarden-cli,,,327607170,
 blink1-tool,326957433,326957432,,
@@ -94,12 +93,11 @@ chopchop,,,326963392,
 chromaprint,,,,326963408
 chrony,,,326963421,326963417
 clfft,,,326963827,326963842
-cliamp,,,327821970,327821975
+cliamp,,,,327866705
 clipcat,,,326963941,326963938
 clipit,326963947,326963946,,
 cocom-tool-set,,,326964562,326964560
 code-server,,,327832366,
-codex-acp,327821974,327821973,327821977,327821976
 colmap,,327821981,327821989,327821984
 compactor,327832368,327832371,,
 conserve,,,326965190,
@@ -122,7 +120,6 @@ dasm,,,326967574,
 dateutils,,,326967623,326967621
 db-rest,,,326967687,326967686
 dblab,,,326967741,326967740
-dc3dd,326967790,326967789,,
 deadpixi-sam-unstable,,,326967947,326967943
 debase,,,326967957,326967959
 decker,,,327865668,327865667
@@ -135,7 +132,6 @@ diamond,,,326968539,326968537
 dico,,,326968554,326968551
 dictu,326968597,326968598,,
 digital,,,326968700,
-dillo-plus,326968721,326968717,326968720,326968715
 directx-shader-compiler,,,327785327,327785325
 direvent,,,326968800,326968798
 direwolf-unstable,,,326968810,326968809
@@ -154,7 +150,6 @@ docker-machine-hyperkit,,,326969454,
 documenso,327834786,327834787,327834789,327834785
 dolphin-emu,,,,327781121
 dopewars,326969674,326969672,326969670,326969673
-dosbox-x,,,326969711,326969707
 dragmap,326970491,,,
 drat,,,326970508,326970503
 driftnet,,,326970558,326970555
@@ -164,7 +159,6 @@ dublin-traceroute,326970763,326970765,,
 ecasound,326971234,326971233,,
 ecl_16_1_2,326971261,326971260,326971262,
 ecos,326971409,326971408,,
-efitools,326971536,326971534,,
 eggdrop,326971573,326971571,,
 eggnog-mapper,,,326971585,326971578
 egoboo,,,327822107,327822105
@@ -199,7 +193,6 @@ fbv,,,326973626,326973621
 fceux-qt6,326973636,326973635,,
 fcron,,,326973728,326973718
 fedimint,326973777,326973778,,
-fetchtastic,,,326973933,326973931
 ffmpeg-livepeer,326973988,326973987,326973990,326973986
 filebench,326974185,326974183,,
 filen-desktop,,,327608393,327608391
@@ -241,7 +234,6 @@ git-codereview,,,326978048,
 git-gamble,,,326978142,326978138
 git-instafix,326978189,326978188,,
 git-jump,326978196,326978199,326978203,326978194
-git-spice,,,327754708,
 git-together,,,326978405,326978404
 git-town,,,326978416,
 gitSVN,,327834917,,
@@ -375,12 +367,10 @@ hexagonrpc,,,327015442,327015440
 hexcurse,327015461,327015457,,
 hgrep,,327015530,,
 hime,327015650,327015649,,
-hof,327015796,327015792,,
 home-assistant-custom-components.mypyllant,327609160,327609119,,
 home-assistant-custom-components.yandex-station,327609158,327609159,,
 honeytail,,,327016195,
 honggfuzz,327016208,327016207,,
-hors,327016233,327016231,,
 hsd,,,327016362,327016351
 httperf,327016508,327016503,327016502,327016500
 httptoolkit,,,327609208,
@@ -415,7 +405,6 @@ intensity-normalization,327019423,327019431,327019437,327019432
 intercal,327019447,327019445,,
 ioping,,,327019544,327019543
 ioq3-scion,327686669,327686657,327686668,327686671
-ior,327774029,327774020,,
 ip2unix,,327019682,,
 iqueue,327019815,,,
 irrlicht,,,327019874,327019872
@@ -431,7 +420,7 @@ jextract,,,327020669,327020664
 jitsi-meet-electron,,,327609460,327609459
 jj-pre-push,,,327861996,327862000
 jove,327020967,327020966,,
-jpegli,,327020999,,
+jpegli,,327881765,,
 jrsonnet,327021106,327021104,327021103,327021105
 jtdx,,,327021308,327021309
 julia_110,,,,327774093
@@ -443,7 +432,6 @@ kallisto,327021777,327021776,,
 kanagawa-icon-theme,,,327021806,327021803
 kati,327021966,327021962,,
 kbdd,327022000,327021999,,
-kdePackages.maplibre-native-qt,327022803,327022802,,
 kdePackages.mlt,,,327609605,327609616
 kdePackages.qtutilities,,,327023153,327023160
 kdePackages.qtwebengine,,,327023190,327023182
@@ -463,7 +451,6 @@ lakefs,,,327025070,
 landrun,,327025108,,
 lanraragi,,,,327835189
 larswm,327025150,327025148,,
-lasuite-docs,,,327859186,327859185
 lcdproc,,,327025354,
 lcm,,,327025370,327025365
 ldmtool,327025445,327025443,,
@@ -506,7 +493,6 @@ libredwg,,,327028306,327028299
 librepcb,327028352,327028350,,
 libsForQt5.libcommuni,,,327028894,327028891
 libsForQt5.maplibre-gl-native,327028926,327028933,,
-libsForQt5.maplibre-native-qt,327028929,327028930,,
 libsForQt5.mlt,,,327609910,327609912
 libsForQt5.phonon,,,327028935,327028932
 libsForQt5.pulseaudio-qt,,,327028973,327028969
@@ -597,7 +583,6 @@ linuxKernel.packages.linux_7_0.mbp2018-bridge-drv,327823964,327823963,,
 linuxKernel.packages.linux_7_0.msi-ec,,327823969,,
 linuxKernel.packages.linux_7_0.nullfs,327823978,327823977,,
 linuxKernel.packages.linux_7_0.odp-dpdk,327032556,,,
-linuxKernel.packages.linux_7_0.opensnitch-ebpf,327823999,327823997,,
 linuxKernel.packages.linux_7_0.shufflecake,327824025,327824024,,
 linuxKernel.packages.linux_7_0.tsme-test,327824040,327824039,,
 linuxKernel.packages.linux_7_0.vhba,327824056,327824055,,
@@ -616,7 +601,6 @@ linuxKernel.packages.linux_xanmod_latest.lttng-modules,327824224,,,
 linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,327824227,,,
 linuxKernel.packages.linux_xanmod_latest.nullfs,327824234,,,
 linuxKernel.packages.linux_xanmod_latest.odp-dpdk,327032886,,,
-linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf,327824241,,,
 linuxKernel.packages.linux_xanmod_latest.shufflecake,327824257,,,
 linuxKernel.packages.linux_xanmod_latest.tsme-test,327824265,,,
 linuxKernel.packages.linux_xanmod_latest.vhba,327824273,,,
@@ -631,7 +615,6 @@ linuxKernel.packages.linux_xanmod_stable.lttng-modules,327824326,,,
 linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,327824328,,,
 linuxKernel.packages.linux_xanmod_stable.nullfs,327824335,,,
 linuxKernel.packages.linux_xanmod_stable.odp-dpdk,327032979,,,
-linuxKernel.packages.linux_xanmod_stable.opensnitch-ebpf,327824344,,,
 linuxKernel.packages.linux_xanmod_stable.shufflecake,327824361,,,
 linuxKernel.packages.linux_xanmod_stable.tsme-test,327824368,,,
 linuxKernel.packages.linux_xanmod_stable.vhba,327824376,,,
@@ -646,7 +629,6 @@ linuxKernel.packages.linux_zen.lttng-modules,327832563,,,
 linuxKernel.packages.linux_zen.mbp2018-bridge-drv,327832493,,,
 linuxKernel.packages.linux_zen.nullfs,327832494,,,
 linuxKernel.packages.linux_zen.odp-dpdk,327033119,,,
-linuxKernel.packages.linux_zen.opensnitch-ebpf,327832519,,,
 linuxKernel.packages.linux_zen.shufflecake,327832536,,,
 linuxKernel.packages.linux_zen.tsme-test,327832543,,,
 linuxKernel.packages.linux_zen.vhba,327832542,,,
@@ -670,7 +652,6 @@ linuxPackages_latest.mbp2018-bridge-drv,327824776,327824775,,
 linuxPackages_latest.msi-ec,,327824782,,
 linuxPackages_latest.nullfs,327824791,327824790,,
 linuxPackages_latest.odp-dpdk,327034157,,,
-linuxPackages_latest.opensnitch-ebpf,327824811,327824810,,
 linuxPackages_latest.shufflecake,327824837,327824836,,
 linuxPackages_latest.tsme-test,327824852,327824851,,
 linuxPackages_latest.vhba,327824868,327824867,,
@@ -689,7 +670,6 @@ linuxPackages_xanmod_latest.lttng-modules,327825039,,,
 linuxPackages_xanmod_latest.mbp2018-bridge-drv,327825040,,,
 linuxPackages_xanmod_latest.nullfs,327825047,,,
 linuxPackages_xanmod_latest.odp-dpdk,327033803,,,
-linuxPackages_xanmod_latest.opensnitch-ebpf,327825056,,,
 linuxPackages_xanmod_latest.shufflecake,327825071,,,
 linuxPackages_xanmod_latest.tsme-test,327825081,,,
 linuxPackages_xanmod_latest.vhba,327825088,,,
@@ -704,7 +684,6 @@ linuxPackages_xanmod_stable.lttng-modules,327825141,,,
 linuxPackages_xanmod_stable.mbp2018-bridge-drv,327825142,,,
 linuxPackages_xanmod_stable.nullfs,327825151,,,
 linuxPackages_xanmod_stable.odp-dpdk,327033935,,,
-linuxPackages_xanmod_stable.opensnitch-ebpf,327825161,,,
 linuxPackages_xanmod_stable.shufflecake,327825176,,,
 linuxPackages_xanmod_stable.tsme-test,327825183,,,
 linuxPackages_xanmod_stable.vhba,327825191,,,
@@ -719,7 +698,6 @@ linuxPackages_zen.lttng-modules,327832610,,,
 linuxPackages_zen.mbp2018-bridge-drv,327832611,,,
 linuxPackages_zen.nullfs,327832619,,,
 linuxPackages_zen.odp-dpdk,327034069,,,
-linuxPackages_zen.opensnitch-ebpf,327832629,,,
 linuxPackages_zen.shufflecake,327832645,,,
 linuxPackages_zen.tsme-test,327832653,,,
 linuxPackages_zen.vhba,327832664,,,
@@ -755,7 +733,6 @@ lttoolbox,,,327036484,327036483
 lttv,327036488,327036493,,
 lua55Packages.lua-https,327610615,327610616,327610619,327610617
 lua55Packages.luaossl,327039633,327039630,327039631,327039629
-luajitPackages.grug-far-nvim,327774364,,,
 lunatic,327041503,327041501,327041502,327041500
 m1n1,,,,327041836
 macopix,327041869,327041868,,
@@ -775,7 +752,6 @@ mcdreforged,327043146,327043145,327043149,327043144
 mcrypt,327043250,327043249,,
 md2pdf,,,,327611000
 measureme,327043536,,,
-mediagoblin,,,,327830884
 mediasynclite,,,327043545,327043543
 mediathekview,,,327043549,327043547
 meshcentral,,327832691,,
@@ -805,7 +781,6 @@ moosefs,,,327825502,327825493
 mopidy-tidal,,,327825647,327825552
 mopidyPackages.mopidy-tidal,,,327825648,327825637
 mosdns,,,327045487,
-moshi,327045501,327045497,,
 mosml,,,327045503,327045498
 motoc,,,327045532,327045520
 mountpoint-s3,327045537,327045536,,
@@ -826,8 +801,8 @@ mucommander,,,327046512,327046514
 mudlet,327046342,327046343,,
 multipart-parser-c,,,327046381,327046373
 mup,327046462,327046460,,
-musly,327046536,327046529,327046531,327046530
 mygpoclient,,,,327046637
+mystmd,,,327865863,327865861
 mytetra,327046746,327046747,,
 nabi,327046775,327046774,,
 nagiosPlugins.check_interfaces,327046795,327046796,327046797,327046799
@@ -846,7 +821,6 @@ neverest,327047976,327047975,327047977,327047969
 newlib-nano,,327047996,327047997,327047994
 newlib,,327047988,327047991,327047987
 nexa,,327048027,,
-nfft,327048111,327048109,,
 ngadmin,,,327048137,327048132
 niftyreg,327048248,,,
 nihstro,,,327048259,327048257
@@ -865,8 +839,8 @@ ntp,,,327050348,327050342
 ntttcp,327050357,327050356,,
 numdiff,327050445,327050443,,
 numr,327050467,327050465,327050464,327050463
-nushell-plugin-semver,,,327050529,
-nushellPlugins.semver,,,327050567,
+nushell-plugin-semver,,,327867049,
+nushellPlugins.semver,,,327867048,
 nuweb,327611692,327611689,,
 nvidia-mig-parted,,,327050651,327050646
 nvimpager,,,327774651,
@@ -918,7 +892,6 @@ openssh-askpass,,,327063031,327063028
 openvpn-auth-ldap,327063228,327063227,,
 ophcrack,327063269,327063265,327063268,327063266
 opn2bankeditor,,,,327063299
-osdlyrics,327063493,327063501,,
 osmctools,,,327063519,327063517
 osmo,327063532,327063530,,
 osmscout-server,327835552,327835549,,
@@ -995,7 +968,6 @@ pinokio,,,327083600,
 pipenv-poetry-migrate,327083654,327083653,327083655,327083652
 pkcs11-provider,,,327083838,
 pkgsRocm.calibre-no-speech,327826207,,,
-pkgsRocm.ior,327775754,,,
 pkgsRocm.migrate,327775772,,,
 pkgsRocm.netgen,327775796,,,
 pkgsRocm.opensplat,327830974,,,
@@ -1004,20 +976,20 @@ pkgsRocm.python3Packages.ax-platform,327831043,,,
 pkgsRocm.python3Packages.executorch,327862252,,,
 pkgsRocm.python3Packages.gpuctypes,327084163,,,
 pkgsRocm.python3Packages.hyper-connections,327831078,,,
-pkgsRocm.python3Packages.kserve,327865949,,,
+pkgsRocm.python3Packages.kserve,327867091,,,
 pkgsRocm.python3Packages.mdtraj,327831125,,,
 pkgsRocm.python3Packages.netgen-mesher,327776014,,,
+pkgsRocm.python3Packages.nutpie,327867088,,,
 pkgsRocm.python3Packages.qpsolvers,327831190,,,
 pkgsRocm.python3Packages.sirius,327776172,,,
 pkgsRocm.python3Packages.syne-tune,327831262,,,
-pkgsRocm.python3Packages.torchrl,327865950,,,
+pkgsRocm.python3Packages.torchrl,327867094,,,
 pkgsRocm.sirius,327776213,,,
 pkgsRocm.tabby,327826358,,,
 pkgsRocm.vcmi,327826369,,,
 pkgsRocm.xyce-parallel,327776260,,,
 plasma5Packages.libcommuni,,,327084844,327084841
 plasma5Packages.maplibre-gl-native,327084875,327084873,,
-plasma5Packages.maplibre-native-qt,327084879,327084877,,
 plasma5Packages.mlt,,,327613366,327613368
 plasma5Packages.phonon,,,327084885,327084883
 plasma5Packages.pulseaudio-qt,,,327084918,327084906
@@ -1028,7 +1000,6 @@ ploticus,327085486,327085485,,
 plzip,,,327085559,327085556
 pmars-x11,,,327085572,327085570
 pnetcdf,,,327862288,327862289
-pngoptimizer,327085629,327085628,,
 podofo,,,327863989,327863987
 podofo_0_10,,,327085750,327085748
 podofo_1_0,,,327863992,327863991
@@ -1087,12 +1058,10 @@ python313Packages.bezier,327093074,327093075,,
 python313Packages.biopandas,327093169,327093168,327093171,327093167
 python313Packages.boost-histogram,,,327093437,327093441
 python313Packages.borb,327093465,327093459,327093462,327093461
-python313Packages.bpython,327093520,327093519,,
 python313Packages.braintree,327093542,327093539,327093541,327093538
 python313Packages.brian2,327093581,327093580,327093579,327093582
 python313Packages.canopen,,,327093881,327093879
 python313Packages.cartopy,327835866,327835864,,
-python313Packages.celery,327831313,,,
 python313Packages.clickhouse-cityhash,327094517,327094513,327094514,327094512
 python313Packages.clickhouse-connect,327094524,327094520,327094521,327094516
 python313Packages.cmdstanpy,327688017,,,
@@ -1136,7 +1105,6 @@ python313Packages.hmmlearn,,327102025,327102027,327102024
 python313Packages.httpx-auth,327102294,327102291,327102293,327102290
 python313Packages.hyper-connections,327826591,327826595,327826596,327826597
 python313Packages.i3ipc,,,327862381,327862385
-python313Packages.ibmiotf,327102503,327102501,327102498,327102502
 python313Packages.ics,327102559,327102554,327102558,327102555
 python313Packages.imagededup,,,327102686,
 python313Packages.intensity-normalization,327102959,327102970,327102962,327102969
@@ -1153,7 +1121,6 @@ python313Packages.libmambapy,327104925,327104909,327104898,327104889
 python313Packages.libredwg,,,327104945,327104942
 python313Packages.libvirt,,,,327614636
 python313Packages.line-profiler,327105135,327105127,327105130,327105132
-python313Packages.lineax,327755615,327755614,,327755616
 python313Packages.locust-cloud,,327105565,,
 python313Packages.mcdreforged,327106185,327106180,327106184,327106183
 python313Packages.md-toc,327106203,327106202,327106201,327106200
@@ -1164,7 +1131,7 @@ python313Packages.mlrose,327106935,327106933,327106934,327106932
 python313Packages.mlt,,,327614852,327614841
 python313Packages.mockfs,327107020,327107017,327107019,327107016
 python313Packages.monosat,327688395,327688412,327688410,327688414
-python313Packages.mpv,,,327790907,327790902
+python313Packages.mpv,,,,327867143
 python313Packages.mrsqm,327107325,327107324,327107326,327107323
 python313Packages.multiscale-spatial-image,327688424,327688419,,
 python313Packages.mygpoclient,,,,327107571
@@ -1173,6 +1140,7 @@ python313Packages.netgen-mesher,327776713,327776711,327862443,327862442
 python313Packages.nidaqmx,327109517,327109511,327109512,327109515
 python313Packages.niquests,,,327781944,327781943
 python313Packages.nocturne,327109656,327109654,,
+python313Packages.nutpie,327867144,327867145,,
 python313Packages.ome-zarr,327760859,327760854,,
 python313Packages.openai-whisper,,,,327110308
 python313Packages.openbabel,,327110346,,
@@ -1181,7 +1149,7 @@ python313Packages.opensfm,327688481,327688492,,
 python313Packages.opentelemetry-instrumentation-botocore,327110525,327110521,327110524,327110522
 python313Packages.opentelemetry-instrumentation-system-metrics,,,327110580,327110579
 python313Packages.optiland,,,327856893,
-python313Packages.oscpy,327110798,327110794,327110795,327110793
+python313Packages.oscpy,,,,327882254
 python313Packages.overpy,,,327110932,327110930
 python313Packages.paddlepaddle,,327110994,,
 python313Packages.pgmpy,,,327615219,
@@ -1226,7 +1194,6 @@ python313Packages.pytest-flake8,327116828,327116824,327116827,327116826
 python313Packages.pytest-md-report,327116997,327117000,327116956,327116979
 python313Packages.pytest-notebook,327826929,327826930,327826932,327826931
 python313Packages.pytest-pylint,327615522,327615521,327615531,327615520
-python313Packages.python-datemath,327117408,327117411,327117409,327117407
 python313Packages.python-djvulibre,,,327117443,327117441
 python313Packages.python-ffmpeg,,,,327117500
 python313Packages.python-fontconfig,327117516,,327117511,327117508
@@ -1259,8 +1226,8 @@ python313Packages.snakeviz,,,327121540,
 python313Packages.solidpython2,327121689,327121690,327121691,327121687
 python313Packages.sourmash,327121764,327121758,,327121754
 python313Packages.spatialmath-python,327121813,327121809,327121812,327121810
+python313Packages.sphinx-jupyterbook-latex,327882366,327882368,327882364,327882361
 python313Packages.sphinx-toolbox,327790986,327790985,327790984,327790987
-python313Packages.sphinxcontrib-bibtex,327122089,327122086,327122088,327122087
 python313Packages.sqlalchemy-continuum,327122309,327122310,327122311,327122312
 python313Packages.stim,327122730,327122728,327122729,327122731
 python313Packages.stumpy,327122890,,,327122888
@@ -1284,11 +1251,11 @@ python313Packages.tt-flash,327616001,327615999,327616008,327616004
 python313Packages.typesense,327127548,327127550,327127553,327127554
 python313Packages.utitools,,,327128082,327128081
 python313Packages.viser,327862586,327862583,,
-python313Packages.vllm,327866084,327866083,,
+python313Packages.vllm,327867169,327867168,,
 python313Packages.vowpalwabbit,,,327128455,327128461
 python313Packages.warp-lang,327128665,327128594,,327128595
 python313Packages.weaviate-client,327756070,327756068,,
-python313Packages.wikitextprocessor,,,327831526,
+python313Packages.wikitextprocessor,,,327882390,
 python313Packages.ws4py,,,327129070,
 python313Packages.xdis,327129212,327129213,327129214,327129211
 python313Packages.xvfbwrapper,,,,327862597
@@ -1323,7 +1290,6 @@ python314Packages.bezier,327133395,327133393,,
 python314Packages.biopandas,327133493,327133490,327133491,327133489
 python314Packages.boost-histogram,,,327133761,327133825
 python314Packages.borb,327133781,327133779,327133780,327133778
-python314Packages.bpython,327133842,327133840,,
 python314Packages.braintree,327133863,327133861,327133862,327133860
 python314Packages.brian2,327133908,327133896,327133897,327133898
 python314Packages.btrsync,327133995,327133984,,
@@ -1387,7 +1353,6 @@ python314Packages.httpie,327142412,327143038,327142896,327142849
 python314Packages.httpx-auth,327142448,327142446,327142447,327142445
 python314Packages.hyper-connections,,327827205,327827221,327827209
 python314Packages.i3ipc,,,327862683,327862686
-python314Packages.ibmiotf,327142665,327142657,327142658,327142659
 python314Packages.ics,327142717,327142709,327142712,327142708
 python314Packages.imagededup,,,327142834,
 python314Packages.intensity-normalization,327143111,327143105,327143103,327143110
@@ -1400,6 +1365,7 @@ python314Packages.jeepney,,,327143592,327143593
 python314Packages.jfx-bridge,327143616,327143617,327143615,327143612
 python314Packages.johnnycanencrypt,327143698,327143689,327143697,327143688
 python314Packages.jupyter-server,327616985,,,
+python314Packages.jupyterhub,,,,327882507
 python314Packages.jupyterlab-execute-time,,327827276,327827264,327827290
 python314Packages.kopf,,,327144431,327144423
 python314Packages.labgrid,327144490,327144494,,
@@ -1409,7 +1375,6 @@ python314Packages.libmambapy,327144990,327144996,327144982,327144986
 python314Packages.libredwg,,,327145035,327145030
 python314Packages.libvirt,,,,327617094
 python314Packages.line-profiler,327145223,327145218,327145222,327145215
-python314Packages.lineax,327756364,,,
 python314Packages.livelossplot,,,,327617113
 python314Packages.locust-cloud,,327145587,,
 python314Packages.mahotas,327145892,,327145888,327145889
@@ -1421,10 +1386,11 @@ python314Packages.mdtraj,327146313,327146286,,
 python314Packages.migen,327146592,327146588,327146589,327146586
 python314Packages.mlrose,327146946,327146943,327146944,327146942
 python314Packages.mlt,,,327617232,327617213
+python314Packages.mlx-vlm,327866131,,,
 python314Packages.mlx,,,,327617203
 python314Packages.mockfs,327147035,327147033,327147036,327147032
 python314Packages.monosat,327689240,327689241,327689231,327689235
-python314Packages.mpv,,,327791100,327791102
+python314Packages.mpv,,,,327867202
 python314Packages.mrsqm,327147335,327147333,327147336,327147330
 python314Packages.multiscale-spatial-image,327689277,327689260,,327689247
 python314Packages.neo,327149260,327149261,327149262,327149258
@@ -1444,7 +1410,6 @@ python314Packages.opentelemetry-instrumentation-system-metrics,,,327150545,32715
 python314Packages.opentelemetry-instrumentation-urllib3,327150554,327150551,327150556,327150558
 python314Packages.optiland,,,327857037,
 python314Packages.opytimark,327150669,,,
-python314Packages.oscpy,327150751,327150748,327150750,327150749
 python314Packages.overpy,,,,327150886
 python314Packages.pgmpy,,,327617560,
 python314Packages.pijuice,327151739,327151733,,
@@ -1492,7 +1457,6 @@ python314Packages.pytest-flake8,327156682,327156681,327156684,327156690
 python314Packages.pytest-md-report,327156852,327156849,327156848,327156857
 python314Packages.pytest-notebook,,327827507,327827510,327827509
 python314Packages.pytest-pylint,327617845,327617843,327617844,327617849
-python314Packages.python-datemath,327157270,327157267,327157269,327157265
 python314Packages.python-djvulibre,,,327157298,327157293
 python314Packages.python-ffmpeg,,,,327157353
 python314Packages.python-fontconfig,327157365,,327157369,327157361
@@ -1531,8 +1495,8 @@ python314Packages.sipyco,327161084,327161081,327161083,327161082
 python314Packages.solidpython2,327161484,327161482,327161483,327161481
 python314Packages.sourmash,327161549,327161548,327161551,327161550
 python314Packages.spatialmath-python,327161595,327161593,327161594,327161592
+python314Packages.sphinx-jupyterbook-latex,327882714,327882707,327882712,327882708
 python314Packages.sphinx-toolbox,327791173,327791172,327791174,327791175
-python314Packages.sphinxcontrib-bibtex,327161866,327161867,327161870,327161868
 python314Packages.sqlalchemy-continuum,327162089,327162090,327162088,327162086
 python314Packages.sqlalchemy_1_3,327162118,327162116,327162119,327162115
 python314Packages.stim,327162503,327162502,327162505,327162504
@@ -1565,7 +1529,7 @@ python314Packages.vowpalwabbit,,,327166689,327166695
 python314Packages.warp-lang,327166928,327166891,,327166894
 python314Packages.watchdog-gevent,,,,327166855
 python314Packages.weaviate-client,327756700,327756702,,
-python314Packages.wikitextprocessor,,,327831738,
+python314Packages.wikitextprocessor,,,327882736,
 python314Packages.ws4py,,,,327167337
 python314Packages.xcffib,,,327862863,327862864
 python314Packages.xonsh,327618422,,327618429,
@@ -1578,7 +1542,6 @@ qgrep,,,327168349,327168346
 qmic,,,,327168416
 qrupdate,,327168548,,
 qt6.qtwebengine,,,327168893,327168891
-qt6Packages.maplibre-native-qt,327168959,327168957,,
 qt6Packages.mlt,,,327618486,327618487
 qt6Packages.qtutilities,,,327169176,327169169
 qt6Packages.qtwebengine,,,327169181,327169182
@@ -1632,7 +1595,6 @@ rott,327171898,327171895,,
 rp,,327171979,,
 rpm-ostree,327172034,327172053,,
 rsop,,,,327172137
-rstudio,,,327827683,
 rtl_fm_streamer,327172274,327172273,,
 rucio,327179727,327179713,327179549,327179775
 rumqttd,327179151,327179144,327179154,327179146
@@ -1698,7 +1660,6 @@ spoofdpi,,,327184930,327184928
 spooftooph,327184934,327184933,,
 sqsh,327185189,327185183,327185192,327185181
 squeak,327185206,,,
-squishyball,327185215,327185216,,
 ssh-chat,,,327185336,
 sss_code,327185515,327185517,,
 stargate-libcds,,327185648,,327185646
@@ -1719,13 +1680,12 @@ swagger-cli,327186649,327186643,327186645,327186642
 sweethome3d.application,,,327186775,327186773
 swiftPackages.sourcekit-lsp,,,327186890,
 swiftshader,327186885,327186882,,
-switchfin,,,327791353,327791350
+switchfin,,,,327867300
 sympow,,,327187022,
 systemdUkify,327187182,327187181,,
 syzkaller,,,,327187203
 t3code,,,,327866252
 tabby,327829047,327829046,,327829048
-tacacsplus,327187278,327187276,,
 taisei,,,327187386,327187392
 talkfilters,,,327187434,327187431
 tartan,327187557,327187559,,
@@ -1793,9 +1753,7 @@ tests.home-assistant-components.watts,,327621842,,
 tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,327194275,327194273
 textidote,,,327194988,
 teyjus,,,327195089,327195084
-thc-secure-delete,327195190,327195189,,
 tinycc,,,327864078,
-tinyfugue,327195654,327195653,,
 tla,327195798,327195796,,
 tlf,327195832,327195827,,
 tm,327195879,327195877,,
@@ -1817,7 +1775,6 @@ ucode,,,327199048,327199046
 uhd,,,327199249,
 uhdMinimal,,,327199251,
 uhexen2,327199254,327199258,,
-uif2iso,327199277,327199275,,
 ulfius,,,327199316,327199318
 unblob,327784595,327784594,,
 unity-test,,,327219698,327219695
@@ -1849,8 +1806,9 @@ veusz,327220936,327220968,,
 vgm2x,,,327220952,327220950
 vhd2vl,327220970,327221019,,327220967
 vikunja-desktop,,,327622444,327622440
+vimPlugins.neotest,327877882,,,
 vixl,,,327222995,327222993
-vllm,327866332,327866334,,
+vllm,327867374,327867373,,
 vodozemac-bindings-cpp,,,327223110,327223107
 vorbisgain,,,327223163,327223161
 vowpal-wabbit,327223173,327223170,327223172,327223169
@@ -1890,15 +1848,12 @@ xmoto,,,327228360,327228359
 xob,,,327228401,327228399
 xonotic-dedicated-unwrapped,,,327228402,327228404
 xonotic-sdl-unwrapped,,,327228409,327228406
-xskat,327228626,327228628,,
 xsnow,,327228632,327228648,327228649
 xstow,,,327228661,327228664
 xtreemfs,327228754,327228724,,
 xurls,327228729,327228728,327228727,327228725
 yacas,327228826,327228825,,
-yasr,327229048,327229049,,
-yersinia,327229321,327229318,,
-ytalk,327229495,327229493,,
+ytdl-sub,,,,327867412
 yuhaiin,327229581,327229579,327229580,327229578
 z88dk,327229637,327229630,,
 zcash,327690029,327690023,327690024,
