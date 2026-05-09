@@ -3,13 +3,15 @@
 
 set -euo pipefail
 
-[[ ! -s result.html ]] && \
+export NIXPKGS_BRANCH="${NIXPKGS_BRANCH:-trunk}"
+
+[[ ! -s result.html ]] &&
   curl -L \
    -A "nixpkgs-failure-notify (reach sigmanificient)" \
    -o result.html \
-   https://hydra.nixos.org/jobset/nixpkgs/trunk/latest-eval?full=1
+   "https://hydra.nixos.org/jobset/nixpkgs/${NIXPKGS_BRANCH}/latest-eval?full=1"
 
-mkdir -p results
+mkdir -p "results/${NIXPKGS_BRANCH}"
 grep -Po "Evaluation (\d+) of jobset" result.html \
   | cut -f 2 -d ' ' \
   | head -n 1 >> results/job_id
@@ -31,4 +33,10 @@ else
 fi
 
 $fhp_cmd result.html | $hydra_to_cvs_cmd
-./filter-maintained-packages.nix > results/concerned-failures.json
+
+# --argstr doesn't work for some reason
+nix eval --json --impure --expr "
+  import ./filter-maintained-packages.nix {
+    branch = \"${NIXPKGS_BRANCH}\";
+  }" > "results/${NIXPKGS_BRANCH}/concerned-failures.json"
+rm result.html

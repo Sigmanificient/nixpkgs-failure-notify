@@ -34,9 +34,10 @@
       inherit (pkgs) lib;
     in {
       default = pkgs.symlinkJoin {
-         name = "collect-full";
+         name = "collect-multiple-full";
          paths = with self.packages.${pkgs.system}; [
           collect
+          collect-multiple
           fast-hydra-parser
           hydra-parser
           create-issues
@@ -79,6 +80,12 @@
           self.packages.${system}.fast-hydra-parser
           self.packages.${system}.hydra-parser
         ];
+      };
+
+      collect-multiple = pkgs.writeShellApplication {
+        name = "collect-multiple.sh";
+        text = builtins.readFile ./collect-multiple.sh;
+        runtimeInputs = [ self.packages.${pkgs.system}.collect ];
       };
 
       fast-hydra-parser = pkgs.callPackage (
