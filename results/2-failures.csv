@@ -2126,7 +2126,6 @@ id,name,system
 327120543,python313Packages.scipy-stubs,aarch64-linux
 327120556,python313Packages.scipy-stubs,x86_64-darwin
 327120549,python313Packages.scipy-stubs,x86_64-linux
-328066374,python313Packages.sentry-sdk,aarch64-darwin
 328369366,python313Packages.serialx,aarch64-darwin
 328369374,python313Packages.serialx,x86_64-darwin
 327121080,python313Packages.sigrok,aarch64-darwin
