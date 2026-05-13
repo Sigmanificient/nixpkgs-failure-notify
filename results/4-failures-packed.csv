@@ -50,12 +50,11 @@ biglybt,,,,326957023
 bitwarden-cli,,,327607170,
 blockstream-electrs,328691754,,,
 bodyclose,326957664,326957659,326957661,326957658
-bombono,327832333,327832334,,
 bootil,,,326957851,326957853
 boulder,,,328696440,328696438
 brlcad,326958129,,,
 buildah-unwrapped,,,326958451,
-c3c,,,326958872,
+c3c,,,328902051,
 calls,328687284,,,
 candle,,,326959138,326959136
 cardpeek,,,326959266,326959263
@@ -135,6 +134,7 @@ dockapps.wmsm-app,,,326969397,326969395
 docker-machine-hyperkit,,,326969454,
 documenso,328899979,328899933,328899916,328899912
 dopewars,326969674,326969672,326969670,326969673
+dotnetCorePackages.dotnet_9.vmr,,328900146,,
 drat,,,326970508,326970503
 driftnet,,,326970558,326970555
 dsq,,,326970644,
@@ -201,8 +201,6 @@ getxbook,,,326977371,326977367
 ggz_base_libs,326977461,326977460,,
 ghidra-extensions.gnudisassembler,,,,326977655
 gimme-aws-creds,326977833,326977830,326977831,326977827
-gimp2,328710363,328710351,328710352,328710350
-gimp2Plugins.gimp,328710364,328710360,328710361,328710359
 git-chain,,,326978032,326978026
 git-gamble,,,326978142,326978138
 git-together,,,326978405,326978404
@@ -410,7 +408,7 @@ lakefs,,,327025070,
 landrun,,327025108,,
 lanraragi,,,,327835189
 larswm,327025150,327025148,,
-lasuite-docs,,,328831833,328831832
+lasuite-docs,,,328902154,328902155
 lasuite-meet,,,328831846,328831845
 lcdproc,,,327025354,
 lcm,,,327025370,327025365
@@ -536,7 +534,6 @@ linuxKernel.packages.linux_7_0.lttng-modules,,328832153,,
 linuxKernel.packages.linux_7_0.mbp2018-bridge-drv,,328832174,,
 linuxKernel.packages.linux_7_0.msi-ec,,328832161,,
 linuxKernel.packages.linux_7_0.nullfs,,328832182,,
-linuxKernel.packages.linux_7_0.shufflecake,,328832253,,
 linuxKernel.packages.linux_7_0.tsme-test,,328832237,,
 linuxKernel.packages.linux_7_0.vhba,,328832257,,
 linuxKernel.packages.linux_xanmod.lttng-modules,328894496,,,
@@ -549,7 +546,6 @@ linuxKernel.packages.linux_xanmod_latest.lkrg,328894603,,,
 linuxKernel.packages.linux_xanmod_latest.lttng-modules,328894612,,,
 linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,328894604,,,
 linuxKernel.packages.linux_xanmod_latest.nullfs,328894624,,,
-linuxKernel.packages.linux_xanmod_latest.shufflecake,328894653,,,
 linuxKernel.packages.linux_xanmod_latest.tsme-test,328894670,,,
 linuxKernel.packages.linux_xanmod_latest.vhba,328894658,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,328894664,,,
@@ -560,7 +556,6 @@ linuxKernel.packages.linux_xanmod_stable.lkrg,328894718,,,
 linuxKernel.packages.linux_xanmod_stable.lttng-modules,328894719,,,
 linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,328894720,,,
 linuxKernel.packages.linux_xanmod_stable.nullfs,328894728,,,
-linuxKernel.packages.linux_xanmod_stable.shufflecake,328894757,,,
 linuxKernel.packages.linux_xanmod_stable.tsme-test,328894768,,,
 linuxKernel.packages.linux_xanmod_stable.vhba,328894779,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,328894785,,,
@@ -571,7 +566,6 @@ linuxKernel.packages.linux_zen.lkrg,328710589,,,
 linuxKernel.packages.linux_zen.lttng-modules,328710590,,,
 linuxKernel.packages.linux_zen.mbp2018-bridge-drv,328710594,,,
 linuxKernel.packages.linux_zen.nullfs,328710610,,,
-linuxKernel.packages.linux_zen.shufflecake,328710624,,,
 linuxKernel.packages.linux_zen.tsme-test,328710661,,,
 linuxKernel.packages.linux_zen.vhba,328710660,,,
 linuxKernel.packages.linux_zen.vmm_clock,328710650,,,
@@ -590,7 +584,6 @@ linuxPackages_latest.lttng-modules,,328832570,,
 linuxPackages_latest.mbp2018-bridge-drv,,328832573,,
 linuxPackages_latest.msi-ec,,328832576,,
 linuxPackages_latest.nullfs,,328832581,,
-linuxPackages_latest.shufflecake,,328832628,,
 linuxPackages_latest.tsme-test,,328832643,,
 linuxPackages_latest.vhba,,328832657,,
 linuxPackages_xanmod.lttng-modules,328894851,,,
@@ -603,7 +596,6 @@ linuxPackages_xanmod_latest.lkrg,328894964,,,
 linuxPackages_xanmod_latest.lttng-modules,328894968,,,
 linuxPackages_xanmod_latest.mbp2018-bridge-drv,328894970,,,
 linuxPackages_xanmod_latest.nullfs,328894975,,,
-linuxPackages_xanmod_latest.shufflecake,328895001,,,
 linuxPackages_xanmod_latest.tsme-test,328895013,,,
 linuxPackages_xanmod_latest.vhba,328895023,,,
 linuxPackages_xanmod_latest.vmm_clock,328895029,,,
@@ -614,7 +606,6 @@ linuxPackages_xanmod_stable.lkrg,328895083,,,
 linuxPackages_xanmod_stable.lttng-modules,328895080,,,
 linuxPackages_xanmod_stable.mbp2018-bridge-drv,328895084,,,
 linuxPackages_xanmod_stable.nullfs,328895089,,,
-linuxPackages_xanmod_stable.shufflecake,328895114,,,
 linuxPackages_xanmod_stable.tsme-test,328895128,,,
 linuxPackages_xanmod_stable.vhba,328895137,,,
 linuxPackages_xanmod_stable.vmm_clock,328895140,,,
@@ -625,7 +616,6 @@ linuxPackages_zen.lkrg,328710712,,,
 linuxPackages_zen.lttng-modules,328710713,,,
 linuxPackages_zen.mbp2018-bridge-drv,328710715,,,
 linuxPackages_zen.nullfs,328710720,,,
-linuxPackages_zen.shufflecake,328710746,,,
 linuxPackages_zen.tsme-test,328710757,,,
 linuxPackages_zen.vhba,328710767,,,
 linuxPackages_zen.vmm_clock,328710768,,,
@@ -651,7 +641,6 @@ lomiri-qt6.lomiri-thumbnailer,328895238,328895253,,
 lrzip,,,327036374,
 lttoolbox,,,327036484,327036483
 lttv,327036488,327036493,,
-lua51Packages.grug-far-nvim,328698970,,,
 lua55Packages.lua-https,327610615,327610616,327610619,327610617
 macopix,327041869,327041868,,
 mactop,,,,327041882
@@ -671,6 +660,7 @@ mcp-nixos,,328832809,,
 md2pdf,,,,327611000
 mediasynclite,,,327043545,327043543
 mediathekview,,,327043549,327043547
+memos,,,328900659,
 meshcentral,,327832691,,
 meshtasticd,328890966,328890967,,
 metapixel,,,327043908,327043904
@@ -777,7 +767,7 @@ openai-whisper,,,,327062282
 openbabel,,327062287,,
 opencloud-desktop-shell-integration-resources,,,328891056,328891051
 opencloud-desktop,,,328891045,328891046
-opencode-desktop,,,,328900792
+opencode-desktop,,,328900791,328900792
 opencomposite,,,327062402,327062398
 openlist,328900801,,,
 openpa,,,327062797,327062794
@@ -836,7 +826,6 @@ perlPackages.SessionToken,327078667,327078663,,
 perlPackages.SocketNetlink,,,327078742,327078725
 perlPackages.libapreq2,328374094,328374090,,
 perseus,327080584,327072971,,
-petidomo,327080611,327080609,,
 pg-schema-diff,,,327080665,
 pg_featureserv,,,327080677,
 pget,,,327080729,
@@ -858,6 +847,7 @@ pijuice,327083483,327083482,,
 pike,,327083508,,
 pilot-link,327083519,327083516,327083514,327083517
 pinokio,,,327083600,
+pixieditor,,,,328900893
 pkarr,,,328065404,
 pkcs11-provider,,,327083838,
 plakar,328699483,,,
@@ -964,6 +954,7 @@ python313Packages.item-synchronizer,327103273,327103270,327103277,327103272
 python313Packages.iterfzf,,,327614418,327614438
 python313Packages.jeepney,,,327103450,327103447
 python313Packages.johnnycanencrypt,327103550,327103544,327103546,327103542
+python313Packages.jupyterhub,,,328901051,328901054
 python313Packages.jupyterlab-execute-time,328896016,328896025,328896048,328896020
 python313Packages.kopf,,,328693338,328693337
 python313Packages.langchain,,,,328896059
@@ -1191,6 +1182,7 @@ python314Packages.jeepney,,,327143592,327143593
 python314Packages.jfx-bridge,327143616,327143617,327143615,327143612
 python314Packages.johnnycanencrypt,327143698,327143689,327143697,327143688
 python314Packages.jupyter-server,328369668,,,
+python314Packages.jupyterhub,,,,328901178
 python314Packages.jupyterlab-execute-time,,328896760,328896738,328896733
 python314Packages.kopf,,,328693490,328693492
 python314Packages.labgrid,327144490,327144494,,
@@ -1206,7 +1198,6 @@ python314Packages.malduck,327145938,327145946,327145948,327145929
 python314Packages.mat2,328830820,328830819,328830822,328830821
 python314Packages.mcdreforged,327146193,327146190,327146195,327146192
 python314Packages.md-toc,327146214,327146211,327146210,327146212
-python314Packages.migen,327146592,327146588,327146589,327146586
 python314Packages.mlrose,327146946,327146943,327146944,327146942
 python314Packages.mlt,,,327617232,327617213
 python314Packages.mlx,,,,327617203
@@ -1241,7 +1232,6 @@ python314Packages.pulumi,327152713,327152712,327152711,327152710
 python314Packages.pvlib,327152773,327152771,327152772,327152770
 python314Packages.pycapnp,327153385,327153381,327153384,327153383
 python314Packages.pycoin,,,,327153491
-python314Packages.pycyphal,328693556,328693547,328693546,328693550
 python314Packages.pyeclib,,,327617692,327617690
 python314Packages.pyfaidx,327154025,327154020,327154028,327154021
 python314Packages.pygame-ce,,,327782299,
@@ -1325,6 +1315,7 @@ python314Packages.tstr,327165370,327165371,327165372,327165369
 python314Packages.tt-flash,328370029,328370027,328370031,328370025
 python314Packages.typed-argparse,327165565,327165563,327165564,327165562
 python314Packages.typesense,327165821,327165819,327165817,327165816
+python314Packages.urllib3-future,,328901236,,
 python314Packages.viser,328835514,328835511,,
 python314Packages.vowpalwabbit,,,327166689,327166695
 python314Packages.warp-lang,327166928,327166891,,327166894
@@ -1399,6 +1390,7 @@ rstudio,,,328901350,
 rucio,327179727,327179713,327179549,327179775
 rvvm,,,327179457,327179454
 sacrifice,,,327179677,
+saga,,,,328901366
 sagittarius-scheme,327179725,327179723,,
 samba,,,,327179782
 samba4,,,,327179789
@@ -1471,7 +1463,7 @@ task-master-ai,327187581,327187582,327187580,327187579
 tblite,328689312,,,
 tcl9Packages.tclx,327619533,327619532,327619558,327619557
 tdns-cli,327187924,327187926,327187925,327187923
-telemt,328901572,,328901566,328901581
+telemt,328901572,328901585,328901566,328901581
 teos-watchtower-plugin,,,327188228,327188222
 termscp,,,327188333,
 tests.auto-patchelf-structured-log,,327189516,327189520,327189521
@@ -1487,6 +1479,7 @@ tests.cc-wrapper.llvmTests.llvmPackages_19.libcxx,,,327189743,327189757
 tests.cc-wrapper.llvmTests.llvmPackages_20.clang,,,327189741,327189737
 tests.cc-wrapper.llvmTests.llvmPackages_21.clang,,,327189750,327189748
 tests.cc-wrapper.llvmTests.llvmPackages_22.clang,,,328367912,328367908
+tests.dotnet.final-attrs.output-matches-const,,,,328901597
 tests.fetchpatch2.hunks,327190074,327190073,327190075,327190072
 tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,,,327190575,327190574
 tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,327190645,327190644
@@ -1499,6 +1492,7 @@ teyjus,,,327195089,327195084
 tinycc,,,327864078,
 tm,327195879,327195877,,
 todds,,327756901,,
+toppler,328904310,328904311,,
 tpm2-totp,,,327198096,327198052
 tpnote,,328079635,,
 translatelocally,327196801,327196747,,
