@@ -387,7 +387,7 @@ id,name,system
 326975516,ford,x86_64-darwin
 326975531,fortitude,aarch64-darwin
 326975533,fortitude,x86_64-darwin
-327787206,framac,aarch64-darwin
+328897767,framac,aarch64-darwin
 326975775,freepv,aarch64-darwin
 326975777,freepv,x86_64-darwin
 327822167,fwts,aarch64-linux
@@ -652,8 +652,8 @@ id,name,system
 327011402,haskellPackages.termbox-bindings-c,x86_64-darwin
 327012041,haskellPackages.timeout-snooze,aarch64-darwin
 327012040,haskellPackages.timeout-snooze,x86_64-darwin
-327609070,haskellPackages.trexio-hs,aarch64-darwin
-327609071,haskellPackages.trexio-hs,x86_64-darwin
+328897791,haskellPackages.trexio-hs,aarch64-darwin
+328897792,haskellPackages.trexio-hs,x86_64-darwin
 328696785,haskellPackages.vulkan-utils,x86_64-darwin
 328696782,haskellPackages.vulkan-utils,x86_64-linux
 327013778,haskellPackages.wai-middleware-metrics,aarch64-darwin
@@ -840,6 +840,7 @@ id,name,system
 327025487,lean,x86_64-darwin
 327025495,lean3,aarch64-darwin
 327025496,lean3,x86_64-darwin
+328894403,ledfx,x86_64-darwin
 327026017,lektor,aarch64-darwin
 327026021,lektor,aarch64-linux
 327025955,lektor,x86_64-darwin
@@ -1171,6 +1172,7 @@ id,name,system
 327041868,macopix,aarch64-linux
 327041869,macopix,x86_64-linux
 327041882,mactop,aarch64-darwin
+328895258,maigret,aarch64-linux
 327041995,maiko,aarch64-darwin
 327041998,maiko,x86_64-darwin
 327042141,makehuman,aarch64-darwin
@@ -1405,6 +1407,7 @@ id,name,system
 328891056,opencloud-desktop-shell-integration-resources,x86_64-darwin
 328891046,opencloud-desktop,aarch64-darwin
 328891045,opencloud-desktop,x86_64-darwin
+328895441,opencode-desktop,aarch64-darwin
 327062398,opencomposite,aarch64-darwin
 327062402,opencomposite,x86_64-darwin
 328707964,openlist,x86_64-linux
@@ -1459,8 +1462,8 @@ id,name,system
 327064673,partclone-utils,x86_64-darwin
 327784161,passExtensions.pass-audit,aarch64-linux
 327784166,passExtensions.pass-audit,x86_64-linux
-328707994,pawn-appetit,aarch64-darwin
-328707988,pawn-appetit,x86_64-darwin
+328898140,pawn-appetit,aarch64-darwin
+328898139,pawn-appetit,x86_64-darwin
 327064919,paxtest,aarch64-linux
 327064921,paxtest,x86_64-linux
 327064999,pcb2gcode,aarch64-darwin
@@ -1782,6 +1785,7 @@ id,name,system
 327098817,python313Packages.exiv2,aarch64-darwin
 327098828,python313Packages.exiv2,x86_64-darwin
 327099304,python313Packages.filterpy,aarch64-darwin
+328895901,python313Packages.flux-led,aarch64-darwin
 328891275,python313Packages.folium,aarch64-darwin
 328891274,python313Packages.folium,aarch64-linux
 328891288,python313Packages.folium,x86_64-linux
@@ -1839,6 +1843,7 @@ id,name,system
 328896016,python313Packages.jupyterlab-execute-time,x86_64-linux
 328693337,python313Packages.kopf,aarch64-darwin
 328693338,python313Packages.kopf,x86_64-darwin
+328896059,python313Packages.langchain,aarch64-darwin
 327104813,python313Packages.libarcus,aarch64-linux
 327104814,python313Packages.libarcus,x86_64-linux
 327104827,python313Packages.libbs,aarch64-darwin
@@ -1866,8 +1871,6 @@ id,name,system
 327106201,python313Packages.md-toc,x86_64-darwin
 327106203,python313Packages.md-toc,x86_64-linux
 327614794,python313Packages.md2pdf,aarch64-darwin
-327106300,python313Packages.mdtraj,aarch64-linux
-327106308,python313Packages.mdtraj,x86_64-linux
 327106675,python313Packages.mirakuru,aarch64-darwin
 327106932,python313Packages.mlrose,aarch64-darwin
 327106933,python313Packages.mlrose,aarch64-linux
@@ -1959,6 +1962,7 @@ id,name,system
 327114876,python313Packages.pylibjpeg-rle,x86_64-darwin
 327114979,python313Packages.pylsl,aarch64-darwin
 327114980,python313Packages.pylsl,x86_64-darwin
+328896299,python313Packages.pymoo,aarch64-linux
 327115333,python313Packages.pynest2d,aarch64-linux
 327115330,python313Packages.pynest2d,x86_64-linux
 327115317,python313Packages.pynetdicom,x86_64-darwin
@@ -2041,6 +2045,7 @@ id,name,system
 327120286,python313Packages.salmon-mail,aarch64-linux
 327120285,python313Packages.salmon-mail,x86_64-darwin
 327120287,python313Packages.salmon-mail,x86_64-linux
+328896355,python313Packages.samplerate-ledfx,x86_64-linux
 327120381,python313Packages.scalar-fastapi,aarch64-darwin
 327120385,python313Packages.scalar-fastapi,aarch64-linux
 327120383,python313Packages.scalar-fastapi,x86_64-darwin
@@ -2057,6 +2062,7 @@ id,name,system
 327121081,python313Packages.sigrok,aarch64-linux
 327121089,python313Packages.sigrok,x86_64-darwin
 327121084,python313Packages.sigrok,x86_64-linux
+328896365,python313Packages.simple-dftd3,x86_64-linux
 327121251,python313Packages.sipyco,aarch64-darwin
 327121254,python313Packages.sipyco,aarch64-linux
 327121255,python313Packages.sipyco,x86_64-darwin
@@ -2147,8 +2153,8 @@ id,name,system
 327127548,python313Packages.typesense,x86_64-linux
 328834770,python313Packages.viser,aarch64-linux
 328834774,python313Packages.viser,x86_64-linux
-328896460,python313Packages.vllm,aarch64-linux
-328896459,python313Packages.vllm,x86_64-linux
+328898216,python313Packages.vllm,aarch64-linux
+328898215,python313Packages.vllm,x86_64-linux
 327128461,python313Packages.vowpalwabbit,aarch64-darwin
 327128455,python313Packages.vowpalwabbit,x86_64-darwin
 327128595,python313Packages.warp-lang,aarch64-darwin
@@ -2227,6 +2233,7 @@ id,name,system
 327132091,python314Packages.asyncua,aarch64-linux
 327132093,python314Packages.asyncua,x86_64-darwin
 327132092,python314Packages.asyncua,x86_64-linux
+328896511,python314Packages.audio-hotplug,x86_64-darwin
 327132283,python314Packages.autopxd2,aarch64-darwin
 327132284,python314Packages.autopxd2,aarch64-linux
 327132285,python314Packages.autopxd2,x86_64-darwin
@@ -2388,6 +2395,8 @@ id,name,system
 327139054,python314Packages.exiv2,aarch64-darwin
 327139053,python314Packages.exiv2,x86_64-darwin
 327139528,python314Packages.filterpy,aarch64-darwin
+328896628,python314Packages.flux-led,aarch64-darwin
+328896629,python314Packages.flux-led,x86_64-darwin
 328891509,python314Packages.folium,aarch64-darwin
 328891517,python314Packages.folium,aarch64-linux
 328891508,python314Packages.folium,x86_64-linux
@@ -2459,6 +2468,7 @@ id,name,system
 327143697,python314Packages.johnnycanencrypt,x86_64-darwin
 327143698,python314Packages.johnnycanencrypt,x86_64-linux
 328369668,python314Packages.jupyter-server,x86_64-linux
+328896716,python314Packages.jupyterhub,x86_64-darwin
 328896733,python314Packages.jupyterlab-execute-time,aarch64-darwin
 328896760,python314Packages.jupyterlab-execute-time,aarch64-linux
 328896738,python314Packages.jupyterlab-execute-time,x86_64-darwin
@@ -2466,6 +2476,7 @@ id,name,system
 328693490,python314Packages.kopf,x86_64-darwin
 327144494,python314Packages.labgrid,aarch64-linux
 327144490,python314Packages.labgrid,x86_64-linux
+328896773,python314Packages.langchain,aarch64-darwin
 327144793,python314Packages.ldappool,aarch64-darwin
 327144910,python314Packages.libarcus,aarch64-linux
 327144909,python314Packages.libarcus,x86_64-linux
@@ -2499,8 +2510,6 @@ id,name,system
 327146211,python314Packages.md-toc,aarch64-linux
 327146210,python314Packages.md-toc,x86_64-darwin
 327146214,python314Packages.md-toc,x86_64-linux
-327146286,python314Packages.mdtraj,aarch64-linux
-327146313,python314Packages.mdtraj,x86_64-linux
 327146586,python314Packages.migen,aarch64-darwin
 327146588,python314Packages.migen,aarch64-linux
 327146589,python314Packages.migen,x86_64-darwin
@@ -2687,6 +2696,7 @@ id,name,system
 327756583,python314Packages.qpsolvers,aarch64-linux
 327756585,python314Packages.qpsolvers,x86_64-darwin
 327756586,python314Packages.qpsolvers,x86_64-linux
+328897035,python314Packages.qtile,x86_64-linux
 327158977,python314Packages.raylib-python-cffi,aarch64-darwin
 327158981,python314Packages.raylib-python-cffi,x86_64-darwin
 327836691,python314Packages.rbtools,aarch64-darwin
@@ -3228,6 +3238,8 @@ id,name,system
 327220689,vcdimager,x86_64-darwin
 327220740,vdmfec,aarch64-darwin
 327220744,vdmfec,x86_64-darwin
+328897430,verilator,aarch64-darwin
+328897433,verilator,x86_64-darwin
 328079647,versatiles,aarch64-darwin
 328079649,versatiles,x86_64-darwin
 327220918,vertcoin,aarch64-linux
@@ -3245,8 +3257,8 @@ id,name,system
 328696079,vikunja-desktop,x86_64-darwin
 327222993,vixl,aarch64-darwin
 327222995,vixl,x86_64-darwin
-328897461,vllm,aarch64-linux
-328897456,vllm,x86_64-linux
+328898340,vllm,aarch64-linux
+328898339,vllm,x86_64-linux
 327223107,vodozemac-bindings-cpp,aarch64-darwin
 327223110,vodozemac-bindings-cpp,x86_64-darwin
 327223161,vorbisgain,aarch64-darwin
