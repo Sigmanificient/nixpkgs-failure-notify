@@ -1051,7 +1051,6 @@ id,name,system
 328905328,linuxKernel.packages.linux_zen.vhba,x86_64-linux
 328905327,linuxKernel.packages.linux_zen.vmm_clock,x86_64-linux
 328832288,linuxPackages.acer-wmi-battery,aarch64-linux
-328832356,linuxPackages.kernel,x86_64-linux
 328832368,linuxPackages.lttng-modules,aarch64-linux
 328832374,linuxPackages.mbp2018-bridge-drv,aarch64-linux
 328832371,linuxPackages.msi-ec,aarch64-linux
