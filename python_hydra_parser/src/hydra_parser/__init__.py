@@ -41,9 +41,10 @@ class Job:
         )
 
 
+branch = os.getenv("NIXPKGS_BRANCH") or "trunk"
 
 def write_csv(name: str, header: str, lines):
-    with open(f"results/{name}.csv", "w+") as f:
+    with open(f"results/{branch}/{name}.csv", "w+") as f:
         f.write(header + "\n")
         for line in lines:
             f.write(','.join(line) + '\n')

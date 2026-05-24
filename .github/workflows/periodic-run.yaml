@@ -44,23 +44,22 @@ jobs:
 
       - name: Back prev results
         run: |
-          mv results/concerned-failures.json previous.json
+          for branch in trunk staging-next; do
+            mv results/$branch/concerned-failures.json previous-$branch.json || echo [] > previous-$branch.json
+          done
 
       - name: Run collect script
         run: |
           nix run github:${{ github.repository }}
 
-      # Note: this script does not work properly, and create duplicates issues
-      # which gets way too annoying.
-
-      # - name: Open issue for new build failures
-      #  run: |
-      #    GH_REPOSITORY=${{ github.repository }} \
-      #      GH_TOKEN=${{ secrets.GITHUB_TOKEN }} python create-issues.py
+      - name: Open issue for new build failures
+        run: |
+         GH_REPOSITORY=${{ github.repository }} \
+           GH_TOKEN=${{ secrets.GITHUB_TOKEN }} python create-issues.py
 
       - name: Cleanup
         run: |
-          rm ./previous.json
+          rm previous-*.json
 
       - name: Commit results
         run: |

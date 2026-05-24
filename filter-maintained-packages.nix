@@ -1,4 +1,6 @@
-#!/usr/bin/env -S nix eval --json -f
+{
+  branch ? "trunk",
+}:
 let
   nixpkgs = fetchTarball {
     url = "https://github.com/NixOS/nixpkgs/archive/master.tar.gz";
@@ -6,7 +8,7 @@ let
 
   pkgs = import nixpkgs { };
 
-  failures-packed = pkgs.lib.pipe ./results/4-failures-packed.csv [
+  failures-packed = pkgs.lib.pipe ./results/${branch}/4-failures-packed.csv [
     builtins.readFile
     (pkgs.lib.strings.splitString "\n")
     builtins.tail
