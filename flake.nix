@@ -43,7 +43,7 @@
           create-issues
         ];
 
-        meta.mainProgram = "collect.sh";
+        meta.mainProgram = "collect-multiple.sh";
       };
 
       hydra-parser = let
