@@ -47,6 +47,35 @@ jobs:
         run: |
            git pull --no-rebase origin main
 
+      - name: Migrate result files to trunk directory
+        run: |
+          files=(
+            "1-post-cleanup.csv"
+            "2-failures.csv"
+            "3-failures-aarch64-darwin.csv"
+            "3-failures-aarch64-linux.csv"
+            "3-failures-x86_64-darwin.csv"
+            "3-failures-x86_64-linux.csv"
+            "4-failures-packed.csv"
+            "concerned-failures.json"
+            "job_id"
+          )
+
+          moved=false
+
+          for file in "${files[@]}"; do
+            if [ -f "results/$file" ]; then
+              echo "Found $file, moving to results/trunk"
+              mkdir -p results/trunk
+              git mv "results/$file" "results/trunk/$file"
+              moved=true
+            fi
+          done
+
+          if [ "$moved" = true ]; then
+            git commit -m "migrate to trunk directory"
+          fi
+
       - name: Back prev results
         run: |
           for branch in trunk staging-next; do
