@@ -42,6 +42,10 @@ jobs:
           git fetch origin
           git checkout results
 
+      - name: Rebase if needed
+        run: |
+          git pull --rebase origin main
+
       - name: Back prev results
         run: |
           for branch in trunk staging-next; do
