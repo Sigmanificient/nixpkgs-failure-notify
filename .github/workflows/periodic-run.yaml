@@ -23,6 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: false
+          fetch-depth: 0
 
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@v4
@@ -39,29 +40,60 @@ jobs:
           git config --local user.name $GH_BOT_ACC_NAME
           git remote add ssh "git@github.com:${{ github.repository }}"
 
-      - name: Rebase main
-        run: |
           git fetch origin
           git checkout results
-          git pull --rebase origin main
+
+      - name: Merge main changes
+        run: |
+           git pull --no-rebase origin main
+
+      - name: Migrate result files to trunk directory
+        run: |
+          files=(
+            "1-post-cleanup.csv"
+            "2-failures.csv"
+            "3-failures-aarch64-darwin.csv"
+            "3-failures-aarch64-linux.csv"
+            "3-failures-x86_64-darwin.csv"
+            "3-failures-x86_64-linux.csv"
+            "4-failures-packed.csv"
+            "concerned-failures.json"
+            "job_id"
+          )
+
+          moved=false
+
+          for file in "${files[@]}"; do
+            if [ -f "results/$file" ]; then
+              echo "Found $file, moving to results/trunk"
+              mkdir -p results/trunk
+              git mv "results/$file" "results/trunk/$file"
+              moved=true
+            fi
+          done
+
+          if [ "$moved" = true ]; then
+            git commit -m "migrate to trunk directory"
+          fi
 
       - name: Back prev results
         run: |
-          ls -alr . results
-          mv results/concerned-failures.json previous.json
+          for branch in trunk staging-next; do
+            mv results/$branch/concerned-failures.json previous-$branch.json || echo [] > previous-$branch.json
+          done
 
       - name: Run collect script
         run: |
-          ./collect.sh
+          nix run github:${{ github.repository }}
 
       - name: Open issue for new build failures
         run: |
-          GH_REPOSITORY=${{ github.repository }} \
-            GH_TOKEN=${{ secrets.GITHUB_TOKEN }} python create-issues.py
+         GH_REPOSITORY=${{ github.repository }} \
+           GH_TOKEN=${{ secrets.GITHUB_TOKEN }} python create-issues.py
 
       - name: Cleanup
         run: |
-          rm ./previous.json
+          rm previous-*.json
 
       - name: Commit results
         run: |

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["uv_build >= 0.7.19, <0.9.0"]
+build-backend = "uv_build"
+
+[project]
+name = "hydra-parser"
+version = "0.0.1"
+description = "conveniently parse fhp output in python"
+license = "BSD-3-Clause"
+
+[project.scripts]
+hydra-to-csv = "hydra_parser:main"

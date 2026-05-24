@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from __future__ import annotations
 from collections import defaultdict
 from dataclasses import dataclass
@@ -39,9 +41,10 @@ class Job:
         )
 
 
+branch = os.getenv("NIXPKGS_BRANCH") or "trunk"
 
 def write_csv(name: str, header: str, lines):
-    with open(f"results/{name}.csv", "w+") as f:
+    with open(f"results/{branch}/{name}.csv", "w+") as f:
         f.write(header + "\n")
         for line in lines:
             f.write(','.join(line) + '\n')
@@ -77,7 +80,7 @@ def main():
         write_csv(f"3-failures-{system}", "id,name",
             ((all_jobs[ji].id, all_jobs[ji].name) for ji in jobs))
 
-    write_csv(f"4-failures-packed", "id,name" + ','.join(SUPPORTED_SYSTEMS),
+    write_csv(f"4-failures-packed", "name," + ','.join(SUPPORTED_SYSTEMS),
         ((pkg, *failures.values()) for pkg, failures in packed.items()))
 
 

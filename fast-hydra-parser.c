@@ -98,7 +98,6 @@ char *read_input_file(char const *filepath)
 failure:
         perror("read_input_file");
     }
-ok:
     close(fd);
     return data;
 }
