@@ -28,9 +28,11 @@ def create_issues(branch="trunk"):
     assert gh_token is not None
 
 
+    print("Pocessing", len(rows), "items")
     for row in rows:
         pkg = row[0]
         if pkg in known_fails:
+            print("Skipping", pkg, "(known)")
             continue
 
         failures = [
