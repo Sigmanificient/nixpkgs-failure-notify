@@ -14,7 +14,7 @@ export NIXPKGS_BRANCH="${NIXPKGS_BRANCH:-trunk}"
 mkdir -p "results/${NIXPKGS_BRANCH}"
 grep -Po "Evaluation (\d+) of jobset" result.html \
   | cut -f 2 -d ' ' \
-  | head -n 1 >> results/job_id
+  | head -n 1 >> "results/${NIXPKGS_BRANCH}/job_id"
 
 TMP_DIR=$(mktemp -d)
 
