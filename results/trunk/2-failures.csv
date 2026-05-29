@@ -362,7 +362,6 @@ id,name,system
 329280765,gitbeaker-cli,x86_64-darwin
 329280890,gitlab-elasticsearch-indexer,aarch64-darwin
 329280893,gitlab-elasticsearch-indexer,x86_64-darwin
-330615429,gitlab-runner,aarch64-linux
 329281001,gittuf,x86_64-darwin
 329281090,glances,aarch64-linux
 329713779,gmic-qt,aarch64-darwin
