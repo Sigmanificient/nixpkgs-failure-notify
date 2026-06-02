@@ -294,7 +294,6 @@ id,name,system
 329277385,fmt_10,x86_64-darwin
 329277396,fmt_9,aarch64-darwin
 329277398,fmt_9,x86_64-darwin
-330682833,folly,aarch64-darwin
 330682831,folly,x86_64-darwin
 329277793,ford,aarch64-darwin
 329277663,ford,x86_64-darwin
