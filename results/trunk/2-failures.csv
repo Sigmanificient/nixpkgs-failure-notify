@@ -7,6 +7,8 @@ id,name,system
 330777503,alttab,aarch64-darwin
 330777504,alttab,x86_64-darwin
 329253843,angelscript,x86_64-darwin
+331090563,aonsoku,aarch64-darwin
+331090565,aonsoku,x86_64-darwin
 329254632,appstream,aarch64-darwin
 329254634,appstream,x86_64-darwin
 330702938,archivemount,aarch64-darwin
@@ -211,7 +213,6 @@ id,name,system
 329270665,diamond,x86_64-darwin
 330908252,dico,aarch64-darwin
 330908257,dico,x86_64-darwin
-331053191,diffoscope,aarch64-darwin
 329270822,digital,x86_64-darwin
 329270917,direvent,aarch64-darwin
 329270922,direvent,x86_64-darwin
@@ -584,8 +585,8 @@ id,name,system
 329321769,imageworsener,x86_64-linux
 329322082,indilib,aarch64-darwin
 329322085,indilib,x86_64-darwin
-329322309,inspircd,aarch64-darwin
-329322307,inspircd,x86_64-darwin
+331384057,inspircd,aarch64-darwin
+331384059,inspircd,x86_64-darwin
 330778178,intelli-shell,aarch64-darwin
 330778173,intelli-shell,x86_64-darwin
 329713906,intensity-normalization,aarch64-darwin
@@ -1184,12 +1185,10 @@ id,name,system
 329384232,php82Extensions.sysvshm,x86_64-darwin
 329384623,php83Extensions.shmop,x86_64-darwin
 329384690,php83Extensions.sysvshm,x86_64-darwin
-329385091,php84Extensions.shmop,x86_64-darwin
-329385156,php84Extensions.sysvshm,x86_64-darwin
-329385537,php85Extensions.shmop,x86_64-darwin
-329385595,php85Extensions.sysvshm,x86_64-darwin
-329385997,phpExtensions.shmop,x86_64-darwin
-329386057,phpExtensions.sysvshm,x86_64-darwin
+331384574,php84Extensions.sysvshm,x86_64-darwin
+331384932,php85Extensions.shmop,x86_64-darwin
+331385001,php85Extensions.sysvshm,x86_64-darwin
+331385439,phpExtensions.sysvshm,x86_64-darwin
 329386224,phytool,aarch64-darwin
 329386230,phytool,x86_64-darwin
 330731932,pi-coding-agent,aarch64-darwin
@@ -1205,6 +1204,7 @@ id,name,system
 330689254,pimsync,x86_64-darwin
 329386532,pinokio,x86_64-darwin
 331091285,piped,aarch64-darwin
+331091290,piped,x86_64-darwin
 329386633,pipx,aarch64-darwin
 329386631,pipx,aarch64-linux
 329386634,pipx,x86_64-darwin
@@ -1940,7 +1940,7 @@ id,name,system
 329474697,rosie,x86_64-darwin
 329474798,rp,aarch64-linux
 329474952,rsop,aarch64-darwin
-331044151,rstudio,x86_64-darwin
+331385787,rstudio,x86_64-darwin
 329482286,rvvm,aarch64-darwin
 329482289,rvvm,x86_64-darwin
 331088173,s3fs,aarch64-darwin
@@ -2027,8 +2027,8 @@ id,name,system
 331091820,switchfin,aarch64-darwin
 331091822,switchfin,x86_64-darwin
 330339132,sympow,x86_64-darwin
-330340793,syncthingtray-minimal,aarch64-darwin
 329490052,syzkaller,aarch64-darwin
+331091833,tabby-agent,x86_64-darwin
 331088216,tabby,aarch64-darwin
 331088214,tabby,aarch64-linux
 331088215,tabby,x86_64-linux
@@ -2087,6 +2087,7 @@ id,name,system
 329493619,tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,aarch64-darwin
 329493622,tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,x86_64-darwin
 331092157,tests.home-assistant-components.conversation,aarch64-linux
+331093988,tests.home-assistant-components.wemo,aarch64-linux
 329497244,tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,aarch64-darwin
 329497246,tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,x86_64-darwin
 331089628,tests.writers.data.toml,aarch64-darwin
@@ -2110,8 +2111,8 @@ id,name,system
 329501167,truecrack,x86_64-darwin
 329501221,ts-warp,aarch64-darwin
 329501223,ts-warp,x86_64-darwin
-329501246,tsduck,aarch64-darwin
-329501244,tsduck,x86_64-darwin
+331385876,tsduck,aarch64-darwin
+331385877,tsduck,x86_64-darwin
 330673865,tuir,aarch64-darwin
 330673864,tuir,x86_64-darwin
 329501604,tuxclocker-plugins,aarch64-linux
@@ -2182,8 +2183,8 @@ id,name,system
 329526741,vorbisgain,aarch64-darwin
 329526744,vorbisgain,x86_64-darwin
 330690516,wakatime-cli,x86_64-darwin
-330628189,wapiti,aarch64-darwin
-330628188,wapiti,x86_64-darwin
+331385888,wapiti,aarch64-darwin
+331385894,wapiti,x86_64-darwin
 329529331,waylock,aarch64-linux
 330915404,webdev,aarch64-linux
 330915403,webdev,x86_64-linux

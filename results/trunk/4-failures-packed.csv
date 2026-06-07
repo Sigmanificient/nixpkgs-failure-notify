@@ -4,6 +4,7 @@ akkoma-admin-fe,,,330340440,
 alan_2,329253293,329253291,,
 alttab,,,330777504,330777503
 angelscript,,,329253843,
+aonsoku,,,331090565,331090563
 appstream,,,329254634,329254632
 archivemount,,,330702939,330702938
 arftracksat,,,330777520,330777518
@@ -98,7 +99,6 @@ deskew,,,,329270358
 devcontainer,,,330645837,
 diamond,,,329270665,329270663
 dico,,,330908257,330908252
-diffoscope,,,,331053191
 digital,,,329270822,
 direvent,,,329270922,329270917
 direwolf-unstable,,,330774431,330774427
@@ -303,7 +303,7 @@ idrisPackages.mhd,,,329321440,329321444
 idrisPackages.pacman,,,329321449,329321464
 imageworsener,329321769,329321765,329321770,329321764
 indilib,,,329322085,329322082
-inspircd,,,329322307,329322309
+inspircd,,,331384059,331384057
 intelli-shell,,,330778173,330778178
 intensity-normalization,329322377,329322385,329713905,329713906
 ioping,,,329322494,329322491
@@ -673,12 +673,10 @@ php82Extensions.shmop,,,329384155,
 php82Extensions.sysvshm,,,329384232,
 php83Extensions.shmop,,,329384623,
 php83Extensions.sysvshm,,,329384690,
-php84Extensions.shmop,,,329385091,
-php84Extensions.sysvshm,,,329385156,
-php85Extensions.shmop,,,329385537,
-php85Extensions.sysvshm,,,329385595,
-phpExtensions.shmop,,,329385997,
-phpExtensions.sysvshm,,,329386057,
+php84Extensions.sysvshm,,,331384574,
+php85Extensions.shmop,,,331384932,
+php85Extensions.sysvshm,,,331385001,
+phpExtensions.sysvshm,,,331385439,
 phytool,,,329386230,329386224
 pi-coding-agent,,,330731934,330731932
 picat,,,329386249,329386247
@@ -687,7 +685,7 @@ pidginPackages.purple-plugin-pack,329386369,329386368,,
 pike,,329386433,,
 pimsync,,,330689254,
 pinokio,,,329386532,
-piped,,,,331091285
+piped,,,331091290,331091285
 pipx,329386632,329386631,329386634,329386633
 pixieditor,,,329386798,329386807
 pkcs11-provider,,,330778799,
@@ -1040,7 +1038,7 @@ rnnoise-plugin,,,329474199,329474200
 rosie,,,329474697,329474693
 rp,,329474798,,
 rsop,,,,329474952
-rstudio,,,331044151,
+rstudio,,,331385787,
 rvvm,,,329482289,329482286
 s3fs,,,331088174,331088173
 sacrifice,,,329482509,
@@ -1094,8 +1092,8 @@ swiftPackages.sourcekit-lsp,,,329489671,
 swiftshader,329489736,329489735,,
 switchfin,,,331091822,331091820
 sympow,,,330339132,
-syncthingtray-minimal,,,,330340793
 syzkaller,,,,329490052
+tabby-agent,,,331091833,
 tabby,331088215,331088214,,331088216
 taisei,,,330627940,330627943
 talkfilters,,,329490287,329490284
@@ -1123,6 +1121,7 @@ tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,329493602,32
 tests.hardeningFlags-gcc.sfa3explicitDisabledDoesntDisableSfa1ExecTest,,,329493626,329493607
 tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,,,329493622,329493619
 tests.home-assistant-components.conversation,,331092157,,
+tests.home-assistant-components.wemo,,331093988,,
 tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,329497246,329497244
 tests.writers.data.toml,,,331089629,331089628
 textidote,,,329497968,
@@ -1138,7 +1137,7 @@ transmission_4-qt5,,,,330913568
 trgui-ng,,,330757260,330757262
 truecrack,,,329501167,
 ts-warp,,,329501223,329501221
-tsduck,,,329501244,329501246
+tsduck,,,331385877,331385876
 tuir,,,330673864,330673865
 tuxclocker-plugins,329501605,329501604,,
 tuxedo,,,,330757273
@@ -1174,7 +1173,7 @@ vixl,,,329526576,329526574
 vodozemac-bindings-cpp,,,329526691,329526687
 vorbisgain,,,329526744,329526741
 wakatime-cli,,,330690516,
-wapiti,,,330628188,330628189
+wapiti,,,331385894,331385888
 waylock,,329529331,,
 webdev,330915403,330915404,,
 werf,,,330715002,330715001
