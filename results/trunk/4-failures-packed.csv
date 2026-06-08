@@ -20,8 +20,8 @@ azure-cli-extensions.aosm,329256713,329256711,329256712,329256710
 azure-cli-extensions.arcappliance,329256732,329256730,329256731,329257013
 azure-cli-extensions.arcdata,329256737,329256736,329256735,329256734
 azure-cli-extensions.attestation,329256757,329256755,329256756,329256753
-azure-cli-extensions.cloud-service,331085261,331085263,331085264,331085262
-azure-cli-extensions.connectedk8s,329256852,329256836,329256838,329256853
+azure-cli-extensions.cloud-service,331386023,331386018,331386013,331386020
+azure-cli-extensions.connectedk8s,331386021,331386019,331386024,331386027
 azure-cli-extensions.containerapp,329256850,329256848,329256849,329256847
 azure-cli-extensions.interactive,329257057,329257055,329257056,329257054
 azure-cli-extensions.k8s-configuration,329257069,329257067,329257072,329257068
@@ -32,7 +32,7 @@ azure-cli-extensions.webpubsub,329257391,329257394,329257395,329257392
 azure-sdk-for-cpp.security-attestation,329257467,329257465,,
 babeldoc,330726533,,,
 bacula,,,329257608,
-barman,,,331085271,331085269
+barman,,,331386022,331386026
 beadwork,,330915920,330915922,
 beam29Packages.rebar3,331040007,331040011,330623829,330623826
 beamMinimal29Packages.rebar3,330624051,330624052,330624050,330624047
@@ -608,6 +608,7 @@ ocamlPackages.janeStreet.janestreet_cpuid,,329355972,,329355970
 ocamlPackages.janestreet_cpuid,,329356399,,329356398
 ocamlPackages.llvm,,,329537252,329537231
 ocamlPackages.magic-trace,,330600141,,
+ocamlPackages.ocaml-r,331384169,331384170,331384172,331384171
 ocamlPackages.owl,,,,329537256
 ocamlPackages.processor,,,329358052,
 ocamlPackages.stog,,,,330600147
@@ -619,6 +620,7 @@ ocamlPackages_latest.janeStreet.janestreet_cpuid,,329361118,,329361122
 ocamlPackages_latest.janestreet_cpuid,,329361547,,329361537
 ocamlPackages_latest.llvm,,,329537525,329537523
 ocamlPackages_latest.magic-trace,,330600266,,
+ocamlPackages_latest.ocaml-r,331384175,331384174,331384173,331384176
 ocamlPackages_latest.owl,,,,329537547
 ocamlPackages_latest.processor,,,329363194,
 ocamlPackages_latest.stog,,,,330600275
@@ -666,17 +668,17 @@ perlPackages.Gtk3ImageView,,,330778761,330778760
 perlPackages.IPCShareLite,,,329379179,
 pg-schema-diff,,,329383583,
 pg_featureserv,,,329383599,
-pgadmin4-desktopmode,,,331085936,331085938
-pgadmin4,,,331085940,
+pgadmin4-desktopmode,,,331386123,331386121
+pgadmin4,,,331386122,
 pget,,,329383648,
 php82Extensions.shmop,,,329384155,
 php82Extensions.sysvshm,,,329384232,
 php83Extensions.shmop,,,329384623,
 php83Extensions.sysvshm,,,329384690,
-php84Extensions.sysvshm,,,331384574,
+php84Extensions.sysvshm,,,331384574,331384536
 php85Extensions.shmop,,,331384932,
 php85Extensions.sysvshm,,,331385001,
-phpExtensions.sysvshm,,,331385439,
+phpExtensions.sysvshm,,,331385439,331385441
 phytool,,,329386230,329386224
 pi-coding-agent,,,330731934,330731932
 picat,,,329386249,329386247
@@ -1203,6 +1205,7 @@ xsnow,,329532245,329532280,329532275
 xstow,,,329532279,329532271
 xyce-parallel,330775899,,,
 yabai,,,,331053046
+yap,331385925,,,
 z88dk,329533256,329533251,,
 zcash,329533479,329533471,329533500,
 zee,,,329533489,329533488
