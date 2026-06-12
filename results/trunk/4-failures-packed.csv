@@ -5,6 +5,8 @@ akkoma-admin-fe,,,330340440,
 alan_2,329253293,329253291,,
 alttab,,,330777504,330777503
 angelscript,,,329253843,
+apacheHttpdPackages.mod_tile,331509369,331509352,,
+apacheHttpdPackages_2_4.mod_tile,331509370,331509353,,
 appstream,,,329254634,329254632
 archivemount,,,330702939,330702938
 arftracksat,,,331391459,331391458
@@ -33,6 +35,7 @@ azure-sdk-for-cpp.security-attestation,329257467,329257465,,
 bacula,,,329257608,
 barman,,,331509434,331509432
 beadwork,,330915920,330915922,
+beamMinimal29Packages.livebook,,,331509881,331509875
 bee,,,330629421,
 biglybt,,,,329259109
 bitwarden-cli,,,330702972,
@@ -73,7 +76,7 @@ code-server,,,329266697,
 colmap,,331453544,331453546,331453542
 compactor,330671914,330671913,,
 conserve,,,329267301,
-contour,,,330726773,330726782
+contour,,,331522443,331522439
 copacetic,,,,331453561
 coredns,,,329268009,329268003
 cp437,,,329268265,329268261
@@ -136,6 +139,7 @@ fawltydeps,,,329720726,
 fbv,,,329275801,329275798
 fcron,,,329275905,329275907
 fedimint,329275958,329275956,,
+fedistar,,,331510256,
 filen-desktop,,,330645974,330645980
 fittrackee,331423541,331423540,,
 fleng,,,,329277034
@@ -277,12 +281,13 @@ hime,330671994,330671993,,
 home-assistant-custom-components.mypyllant,331503708,331503674,,
 home-assistant-custom-components.thewatchman,331503694,331503696,,
 home-assistant-custom-components.yoto_ha,331090928,331090921,,
+home-assistant-custom-lovelace-modules.custom-sidebar,,,,331510513
 honeycomb-refinery,,330646093,,
 honeytail,,,329319165,
 hsd,,,329319324,329319317
-hyprlandPlugins.hypr-darkwindow,331410620,331410608,,
-hyprlandPlugins.hyprsplit,331410601,331410603,,
-hyprlandPlugins.imgborders,331410610,331410609,,
+hyprlandPlugins.hypr-darkwindow,331522750,331522743,,
+hyprlandPlugins.hyprsplit,331522745,331522746,,
+hyprlandPlugins.imgborders,331522763,331522749,,
 hyprproxlock,,,329320747,329320740
 icesprog,,,329321023,329321022
 iconpack-jade,329321113,329321110,,
@@ -584,6 +589,7 @@ nexa,,330778660,,
 nextcloud-spreed-signaling,329350924,,,
 ngadmin,,,329351032,329351029
 nihstro,,,329351158,329351156
+nix-scheduler-hook,331510961,331510959,,
 nixpkgs-openjdk-updater,331438002,331438005,331438017,331437997
 nixseparatedebuginfod2,,331438020,,
 nmstate,,,329352561,329352571
@@ -597,6 +603,7 @@ nushell-plugin-semver,,,330619093,330619090
 nushellPlugins.semver,,,330619092,330619089
 nvidia-mig-parted,,,330625757,330625758
 nvimpager,,,331438062,
+oauth2-proxy,,,331511003,
 obitools3,329353776,329353772,329353774,329353773
 obliteratus,,331410797,,
 ocamlPackages.class_group_vdf,,,329537137,329537095
@@ -635,7 +642,6 @@ opengothic,,329365428,,
 openpa,,,329365702,329365699
 openroad,330778696,,,
 openrussian-cli,329365812,329365810,329365822,329365826
-openscad,331454774,331454773,,
 opensplatWithRocm,331392174,,,
 openssh-askpass,,,329365944,329365941
 openvino-genai,,331511052,,
@@ -669,7 +675,7 @@ perlPackages.IPCShareLite,,,329379179,
 pg-schema-diff,,,329383583,
 pg_featureserv,,,329383599,
 pgadmin4-desktopmode,,,331511158,331511167
-pgadmin4,,,331511160,
+pgadmin4,,,331511160,331511164
 pget,,,329383648,
 php82Extensions.shmop,,,329384155,
 php82Extensions.sysvshm,,,329384232,
@@ -692,7 +698,7 @@ pkcs11-provider,,,330778799,
 pkgsRocm.migrate,331086053,,,
 pkgsRocm.opensplat,331392235,,,
 pkgsRocm.python3Packages.deepwave,331086155,,,
-pkgsRocm.python3Packages.executorch,331511224,,,
+pkgsRocm.python3Packages.executorch,331523160,,,
 pkgsRocm.python3Packages.gpuctypes,331086196,,,
 pkgsRocm.python3Packages.syne-tune,331086412,,,
 pkgsRocm.python3Packages.tables,331086413,,,
@@ -752,7 +758,6 @@ python313Packages.donut-shellcode,,329400004,329400007,329400003
 python313Packages.duct-py,,,329747962,329747960
 python313Packages.equinox,330600490,,,
 python313Packages.es-client,329400890,329400882,329400887,329400889
-python313Packages.executorch,331512075,,,
 python313Packages.exiv2,,,329401126,329401130
 python313Packages.filterpy,,,,329401611
 python313Packages.flash-linear-attention,,,,331424944
@@ -779,6 +784,7 @@ python313Packages.mlt,,,331053560,331053559
 python313Packages.monosat,,,330622556,330622557
 python313Packages.mpv,331512267,331512265,,331512266
 python313Packages.mrsqm,329409717,329409714,329409715,329409713
+python313Packages.mss,,331512271,,
 python313Packages.nats-py,330756534,,,
 python313Packages.nidaqmx,329411901,329411902,329411904,329411903
 python313Packages.niquests,,,331512343,331512344
@@ -791,7 +797,7 @@ python313Packages.opytimark,329413093,,,
 python313Packages.orbax-checkpoint,,,,331425331
 python313Packages.overpy,,,329413326,329413321
 python313Packages.paddlepaddle,,330911537,,
-python313Packages.pgmpy,,,331392812,
+python313Packages.pgmpy,,,331523305,
 python313Packages.proton-core,,,329415057,329415048
 python313Packages.pvlib,329415293,329415294,329714844,329714846
 python313Packages.pyamg,,,329415664,329415663
@@ -807,6 +813,7 @@ python313Packages.pymeshlab,331455623,331455622,,
 python313Packages.pynest2d,329417751,329417746,,
 python313Packages.pyomo,,,329417928,329417919
 python313Packages.pyside6-qtads,329418669,329418673,329418804,329418777
+python313Packages.pyslurm,331512494,331512491,,
 python313Packages.pysmbc,,,330626823,330626817
 python313Packages.pytelegrambotapi,,,331392857,
 python313Packages.pytest-md-report,,,,329419430
@@ -825,12 +832,14 @@ python313Packages.scalar-fastapi,329422870,329422866,329422868,329422860
 python313Packages.scantree,,,329422882,329422877
 python313Packages.semgrep,,331439369,,
 python313Packages.serialx,,,,329721948
+python313Packages.slack-sdk,,,,331512548
 python313Packages.solidpython2,,,330334088,330334089
 python313Packages.spectral-cube,,,,330775368
 python313Packages.submitit,,,330616122,
 python313Packages.sunpy,330775392,330775374,,330775389
 python313Packages.syne-tune,,,,330911806
 python313Packages.torchao,,,,331411526
+python313Packages.torchmd-net,,,,331512654
 python313Packages.torchsnapshot,,330911953,,
 python313Packages.unearth,329430287,329430292,329430291,329430289
 python313Packages.usearch,,331504358,,
@@ -838,6 +847,7 @@ python313Packages.vowpalwabbit,,,329430967,329430965
 python313Packages.weasyprint,,,329431217,329431220
 python313Packages.wikitextprocessor,,,330581866,
 python313Packages.ws4py,,,329431622,329431588
+python313Packages.yt-dlp-ejs,,,331512728,
 python314Packages.aiohomematic,,,331053756,
 python314Packages.aiokef,329433087,329433083,329433084,329433080
 python314Packages.aiosasl,329433325,329433326,329433327,329433320
@@ -897,7 +907,6 @@ python314Packages.iterfzf,,,330600698,330600700
 python314Packages.jeepney,,,329446147,329446145
 python314Packages.jfx-bridge,329446171,329446168,329446170,329446169
 python314Packages.kopf,,,,331426060
-python314Packages.libvirt,,,,331440706
 python314Packages.line-profiler,329447802,329447800,329447804,329447797
 python314Packages.locust-cloud,,330689888,,
 python314Packages.looptime,,,329448258,
@@ -906,6 +915,7 @@ python314Packages.modal,331440742,,,
 python314Packages.monosat,,,330622626,330622625
 python314Packages.mpv,331513521,,,331513509
 python314Packages.mrsqm,329449924,329449925,329449923,329449918
+python314Packages.mss,,331513517,,
 python314Packages.nanoemoji,,,330734373,
 python314Packages.nats-py,330756817,330756813,,
 python314Packages.nidaqmx,329452082,329452073,329452080,329452074
@@ -923,7 +933,7 @@ python314Packages.optiland,,,331426214,
 python314Packages.opytimark,329453253,,,
 python314Packages.orbax-checkpoint,,,,331426211
 python314Packages.overpy,,,329453478,
-python314Packages.pgmpy,,,331393288,
+python314Packages.pgmpy,,,331523438,
 python314Packages.plum-py,331393308,331393307,331393306,331393305
 python314Packages.proton-core,,,329455181,329455183
 python314Packages.pulumi,329455331,329455329,329455330,329455323
@@ -942,7 +952,9 @@ python314Packages.pymilvus,,,,329457635
 python314Packages.pymoo,,331426308,,
 python314Packages.pynest2d,329457802,329457810,,
 python314Packages.pyomo,329457978,329457984,329457980,329457976
+python314Packages.pyscf,,,,331513709
 python314Packages.pyside6-qtads,329458719,329458717,329458781,329458768
+python314Packages.pyslurm,331513715,331513713,,
 python314Packages.pysmbc,,,330627374,330627375
 python314Packages.pytelegrambotapi,,,331393332,331393334
 python314Packages.python-djvulibre,,,329459935,329459939
@@ -965,10 +977,13 @@ python314Packages.scalar-fastapi,329462894,329462892,329462896,329462884
 python314Packages.scantree,,,329462910,329462907
 python314Packages.semgrep,,331440914,,
 python314Packages.serialx,,,329722172,329722171
+python314Packages.simple-dftd3,331513768,,,
+python314Packages.slack-sdk,,,331513772,331513770
 python314Packages.solidpython2,,,330334509,330334512
 python314Packages.sqlalchemy_1_3,329464820,329464817,329464821,329464818
 python314Packages.swh-export,331513803,331513798,331513801,331513793
 python314Packages.torchaudio,,330912970,,
+python314Packages.torchmd-net,,,,331513806
 python314Packages.torchsnapshot,,330913009,,
 python314Packages.unearth,329468735,329468737,329468736,329468734
 python314Packages.usearch,,331504585,,
@@ -997,6 +1012,7 @@ quesoglc,330917723,330917722,,
 quill,329472216,329472215,,
 quodlibet-without-gst-plugins,,,330779370,330779372
 quodlibet,,,330779373,330779371
+r2modman,,,331513912,
 rappel,,329472601,,
 rarezip,,,329472616,329472612
 ratpoints,,,330338977,330338995
@@ -1120,8 +1136,7 @@ tokscale,330703909,,,
 tpm2-totp,,,330714960,330714961
 tpnote,,329499554,,
 transmission-rss,,,329499797,329499794
-transmission_4-mac,331456694,331456692,,
-transmission_4-qt5,,,,331456700
+transmission_4-mac,331523596,331523605,,
 trgui-ng,,,330757260,330757262
 truecrack,,,329501167,
 ts-warp,,,329501223,329501221
@@ -1181,7 +1196,7 @@ xed,,,329531369,
 xemu,,,,331444529
 xephem,,,329531405,
 xeus-cling,331514639,331514648,,
-xfstests,330622813,330622811,,
+xfstests,331523701,331523702,,
 xhosts,,,329531684,329531683
 xmoto,,,329531955,329531959
 xob,,,329532009,329532008
