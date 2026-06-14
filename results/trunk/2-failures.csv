@@ -8,6 +8,8 @@ id,name,system
 330777503,alttab,aarch64-darwin
 330777504,alttab,x86_64-darwin
 329253843,angelscript,x86_64-darwin
+331535228,aonsoku,aarch64-darwin
+331535230,aonsoku,x86_64-darwin
 331509352,apacheHttpdPackages.mod_tile,aarch64-linux
 331509369,apacheHttpdPackages.mod_tile,x86_64-linux
 331509353,apacheHttpdPackages_2_4.mod_tile,aarch64-linux
@@ -27,7 +29,6 @@ id,name,system
 329255860,ath9k-htc-blobless-firmware,aarch64-linux
 329255861,ath9k-htc-blobless-firmware,x86_64-linux
 329256329,aviator,x86_64-darwin
-330777562,ayatana-indicator-session,aarch64-linux
 329256659,azure-cli-extensions.acrcssc,aarch64-darwin
 329256658,azure-cli-extensions.acrcssc,aarch64-linux
 329256660,azure-cli-extensions.acrcssc,x86_64-darwin
@@ -99,8 +100,6 @@ id,name,system
 331509434,barman,x86_64-darwin
 330915920,beadwork,aarch64-linux
 330915922,beadwork,x86_64-darwin
-331509875,beamMinimal29Packages.livebook,aarch64-darwin
-331509881,beamMinimal29Packages.livebook,x86_64-darwin
 330629421,bee,x86_64-darwin
 329259109,biglybt,aarch64-darwin
 330702972,bitwarden-cli,x86_64-darwin
@@ -159,7 +158,7 @@ id,name,system
 329266644,cockpit-zfs,x86_64-linux
 329266661,cocom-tool-set,aarch64-darwin
 329266663,cocom-tool-set,x86_64-darwin
-329266697,code-server,x86_64-darwin
+331538222,code-server,x86_64-darwin
 331453542,colmap,aarch64-darwin
 331453544,colmap,aarch64-linux
 331453546,colmap,x86_64-darwin
@@ -180,8 +179,8 @@ id,name,system
 329269087,cups-dymo,aarch64-darwin
 329269090,cups-dymo,x86_64-darwin
 331423434,daikhan,x86_64-linux
-331510080,dart_frog_cli,aarch64-linux
-331510083,dart_frog_cli,x86_64-linux
+331538262,dart_frog_cli,aarch64-linux
+331538261,dart_frog_cli,x86_64-linux
 329269565,darwin.PowerManagement,aarch64-darwin
 329269563,darwin.PowerManagement,x86_64-darwin
 329269689,dasher,aarch64-darwin
@@ -567,8 +566,8 @@ id,name,system
 329322085,indilib,x86_64-darwin
 331384057,inspircd,aarch64-darwin
 331384059,inspircd,x86_64-darwin
-330778178,intelli-shell,aarch64-darwin
-330778173,intelli-shell,x86_64-darwin
+331538391,intelli-shell,aarch64-darwin
+331538393,intelli-shell,x86_64-darwin
 329713906,intensity-normalization,aarch64-darwin
 329322385,intensity-normalization,aarch64-linux
 329713905,intensity-normalization,x86_64-darwin
@@ -577,8 +576,8 @@ id,name,system
 329322494,ioping,x86_64-darwin
 329323276,jarl,aarch64-darwin
 329323277,jarl,x86_64-darwin
-331510586,jaspr_cli,aarch64-linux
-331510590,jaspr_cli,x86_64-linux
+331538395,jaspr_cli,aarch64-linux
+331538396,jaspr_cli,x86_64-linux
 331510585,jasterix,aarch64-darwin
 331510589,jasterix,x86_64-darwin
 329323470,jbofihe,aarch64-darwin
@@ -958,8 +957,8 @@ id,name,system
 329347611,mlton20210117,aarch64-darwin
 329347765,mobsql,aarch64-darwin
 329347767,mobsql,x86_64-darwin
-331510795,mono_repo,aarch64-linux
-331510792,mono_repo,x86_64-linux
+331538667,mono_repo,aarch64-linux
+331538668,mono_repo,x86_64-linux
 329348013,monotone,aarch64-darwin
 329348015,monotone,x86_64-darwin
 329348420,moon,aarch64-darwin
@@ -1215,7 +1214,6 @@ id,name,system
 330778799,pkcs11-provider,x86_64-darwin
 331086053,pkgsRocm.migrate,x86_64-linux
 331392235,pkgsRocm.opensplat,x86_64-linux
-331525573,pkgsRocm.python3Packages.cross-web,x86_64-linux
 331086155,pkgsRocm.python3Packages.deepwave,x86_64-linux
 331537000,pkgsRocm.python3Packages.executorch,x86_64-linux
 331086196,pkgsRocm.python3Packages.gpuctypes,x86_64-linux
@@ -1298,10 +1296,6 @@ id,name,system
 330752819,python313Packages.control,aarch64-darwin
 330752821,python313Packages.control,x86_64-darwin
 331455230,python313Packages.credsweeper,aarch64-linux
-331525661,python313Packages.cross-web,aarch64-darwin
-331525660,python313Packages.cross-web,aarch64-linux
-331525659,python313Packages.cross-web,x86_64-darwin
-331525662,python313Packages.cross-web,x86_64-linux
 329397894,python313Packages.cx-freeze,aarch64-linux
 331455247,python313Packages.cyclopts,x86_64-darwin
 331411112,python313Packages.dashscope,aarch64-darwin
@@ -1406,7 +1400,6 @@ id,name,system
 329412969,python313Packages.opentelemetry-instrumentation-system-metrics,x86_64-darwin
 331525810,python313Packages.optiland,x86_64-darwin
 329413093,python313Packages.opytimark,x86_64-linux
-331425331,python313Packages.orbax-checkpoint,aarch64-darwin
 329413321,python313Packages.overpy,aarch64-darwin
 329413326,python313Packages.overpy,x86_64-darwin
 330911537,python313Packages.paddlepaddle,aarch64-linux
@@ -1482,7 +1475,8 @@ id,name,system
 329422877,python313Packages.scantree,aarch64-darwin
 329422882,python313Packages.scantree,x86_64-darwin
 331439369,python313Packages.semgrep,aarch64-linux
-329721948,python313Packages.serialx,aarch64-darwin
+331539175,python313Packages.serialx,aarch64-darwin
+331539173,python313Packages.serialx,x86_64-darwin
 331512548,python313Packages.slack-sdk,aarch64-darwin
 330334089,python313Packages.solidpython2,aarch64-darwin
 330334088,python313Packages.solidpython2,x86_64-darwin
@@ -1698,7 +1692,7 @@ id,name,system
 329453136,python314Packages.opentelemetry-instrumentation-urllib3,x86_64-linux
 331526066,python314Packages.optiland,x86_64-darwin
 329453253,python314Packages.opytimark,x86_64-linux
-331426211,python314Packages.orbax-checkpoint,aarch64-darwin
+331540784,python314Packages.orbax-checkpoint,aarch64-darwin
 329453478,python314Packages.overpy,x86_64-darwin
 331523438,python314Packages.pgmpy,x86_64-darwin
 331393305,python314Packages.plum-py,aarch64-darwin
@@ -1796,8 +1790,7 @@ id,name,system
 329462907,python314Packages.scantree,aarch64-darwin
 329462910,python314Packages.scantree,x86_64-darwin
 331440914,python314Packages.semgrep,aarch64-linux
-329722171,python314Packages.serialx,aarch64-darwin
-329722172,python314Packages.serialx,x86_64-darwin
+331539501,python314Packages.serialx,aarch64-darwin
 331513768,python314Packages.simple-dftd3,x86_64-linux
 331513770,python314Packages.slack-sdk,aarch64-darwin
 331513772,python314Packages.slack-sdk,x86_64-darwin
@@ -1811,6 +1804,7 @@ id,name,system
 331526127,python314Packages.swh-export,aarch64-linux
 331526129,python314Packages.swh-export,x86_64-darwin
 331526152,python314Packages.swh-export,x86_64-linux
+331537379,python314Packages.torchaudio,aarch64-darwin
 331537383,python314Packages.torchmd-net,aarch64-darwin
 330913009,python314Packages.torchsnapshot,aarch64-linux
 329468734,python314Packages.unearth,aarch64-darwin
@@ -1851,14 +1845,13 @@ id,name,system
 329472141,quaternion,aarch64-darwin
 329472150,quaternion,x86_64-darwin
 330584509,qucs-s,aarch64-darwin
-330917722,quesoglc,aarch64-linux
-330917723,quesoglc,x86_64-linux
 329472215,quill,aarch64-linux
 329472216,quill,x86_64-linux
 330779372,quodlibet-without-gst-plugins,aarch64-darwin
 330779370,quodlibet-without-gst-plugins,x86_64-darwin
 330779371,quodlibet,aarch64-darwin
 330779373,quodlibet,x86_64-darwin
+331537440,r2modman,aarch64-darwin
 329472601,rappel,aarch64-linux
 329472612,rarezip,aarch64-darwin
 329472616,rarezip,x86_64-darwin
@@ -1913,6 +1906,7 @@ id,name,system
 329474952,rsop,aarch64-darwin
 331537499,rstudio,x86_64-darwin
 331393445,rucola,aarch64-linux
+331539632,rust-rpxy,aarch64-darwin
 329482286,rvvm,aarch64-darwin
 329482289,rvvm,x86_64-darwin
 331088173,s3fs,aarch64-darwin
@@ -1967,7 +1961,6 @@ id,name,system
 329487066,solana-cli,x86_64-darwin
 329487069,solana-cli,x86_64-linux
 331501201,sourcekit-lsp,x86_64-darwin
-331532053,spacedrive,x86_64-linux
 329487391,spades,aarch64-darwin
 329487394,spades,x86_64-darwin
 329487584,spglib,aarch64-darwin
@@ -1981,8 +1974,6 @@ id,name,system
 329488492,stargate-libcds,aarch64-linux
 329488692,steghide,aarch64-darwin
 329488694,steghide,x86_64-darwin
-330681717,stellar-core,aarch64-linux
-330681720,stellar-core,x86_64-linux
 330600859,stog,aarch64-darwin
 329488829,stoolap,aarch64-linux
 331537575,super-productivity,aarch64-darwin
@@ -1997,6 +1988,7 @@ id,name,system
 331514165,switchfin,aarch64-darwin
 330339132,sympow,x86_64-darwin
 329490052,syzkaller,aarch64-darwin
+331539704,tabby-agent,x86_64-darwin
 331088216,tabby,aarch64-darwin
 331088214,tabby,aarch64-linux
 331088215,tabby,x86_64-linux
@@ -2147,8 +2139,8 @@ id,name,system
 331507089,wapiti,aarch64-darwin
 331507091,wapiti,x86_64-darwin
 329529331,waylock,aarch64-linux
-331514588,webdev,aarch64-linux
-331514601,webdev,x86_64-linux
+331540030,webdev,aarch64-linux
+331540029,webdev,x86_64-linux
 331428471,werf,aarch64-darwin
 331428474,werf,x86_64-darwin
 331393653,wf-config,aarch64-linux
@@ -2200,6 +2192,7 @@ id,name,system
 329532271,xstow,aarch64-darwin
 329532279,xstow,x86_64-darwin
 331385925,yap,x86_64-linux
+331537789,ytmdesktop,x86_64-darwin
 329533251,z88dk,aarch64-linux
 329533256,z88dk,x86_64-linux
 329533471,zcash,aarch64-linux

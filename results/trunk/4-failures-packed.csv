@@ -5,6 +5,7 @@ akkoma-admin-fe,,,330340440,
 alan_2,329253293,329253291,,
 alttab,,,330777504,330777503
 angelscript,,,329253843,
+aonsoku,,,331535230,331535228
 apacheHttpdPackages.mod_tile,331509369,331509352,,
 apacheHttpdPackages_2_4.mod_tile,331509370,331509353,,
 appstream,,,329254634,329254632
@@ -14,7 +15,6 @@ ariang,329254943,329254916,329254954,329254942
 ath9k-htc-blobless-firmware-unstable,329255863,329255864,,
 ath9k-htc-blobless-firmware,329255861,329255860,,
 aviator,,,329256329,
-ayatana-indicator-session,,330777562,,
 azure-cli-extensions.acrcssc,329256661,329256658,329256660,329256659
 azure-cli-extensions.aksarc,329256690,329256686,329256688,329256687
 azure-cli-extensions.alias,329256701,329256699,329256700,329256698
@@ -35,7 +35,6 @@ azure-sdk-for-cpp.security-attestation,329257467,329257465,,
 bacula,,,329257608,
 barman,,,331509434,331509432
 beadwork,,330915920,330915922,
-beamMinimal29Packages.livebook,,,331509881,331509875
 bee,,,330629421,
 biglybt,,,,329259109
 bitwarden-cli,,,330702972,
@@ -73,7 +72,7 @@ cliamp,,,,331531099
 cloudflared,331524153,,,
 cockpit-zfs,329266644,329266643,,
 cocom-tool-set,,,329266663,329266661
-code-server,,,329266697,
+code-server,,,331538222,
 colmap,,331453544,331453546,331453542
 compactor,330671914,330671913,,
 conserve,,,329267301,
@@ -86,7 +85,7 @@ credsweeper,,331453581,,
 cuneiform,329269062,329269057,,
 cups-dymo,,,329269090,329269087
 daikhan,331423434,,,
-dart_frog_cli,331510083,331510080,,
+dart_frog_cli,331538261,331538262,,
 darwin.PowerManagement,,,329269563,329269565
 dasher,,,329269685,329269689
 dasm,,,329269696,
@@ -300,11 +299,11 @@ idrisPackages.pacman,,,329321449,329321464
 imageworsener,329321769,329321765,329321770,329321764
 indilib,,,329322085,329322082
 inspircd,,,331384059,331384057
-intelli-shell,,,330778173,330778178
+intelli-shell,,,331538393,331538391
 intensity-normalization,329322377,329322385,329713905,329713906
 ioping,,,329322494,329322491
 jarl,,,329323277,329323276
-jaspr_cli,331510590,331510586,,
+jaspr_cli,331538396,331538395,,
 jasterix,,,331510589,331510585
 jbofihe,,,329323472,329323470
 jetuml,,,329323694,329323693
@@ -555,7 +554,7 @@ mlt,,,331053337,331053338
 mlton20130715,329347605,,,
 mlton20210117,,,,329347611
 mobsql,,,329347767,329347765
-mono_repo,331510792,331510795,,
+mono_repo,331538668,331538667,,
 monotone,,,329348015,329348013
 moon,329348038,329348032,329348034,329348420
 moonfire-nvr,,,331510797,331510794
@@ -698,7 +697,6 @@ pixieditor,,,329386798,331500867
 pkcs11-provider,,,330778799,
 pkgsRocm.migrate,331086053,,,
 pkgsRocm.opensplat,331392235,,,
-pkgsRocm.python3Packages.cross-web,331525573,,,
 pkgsRocm.python3Packages.deepwave,331086155,,,
 pkgsRocm.python3Packages.executorch,331537000,,,
 pkgsRocm.python3Packages.gpuctypes,331086196,,,
@@ -744,7 +742,6 @@ python313Packages.cartopy,331086748,331086747,,331086753
 python313Packages.cert-chain-resolver,329396304,329396302,329396303,329396301
 python313Packages.control,,,330752821,330752819
 python313Packages.credsweeper,,331455230,,
-python313Packages.cross-web,331525662,331525660,331525659,331525661
 python313Packages.cx-freeze,,329397894,,
 python313Packages.cyclopts,,,331455247,
 python313Packages.dashscope,,,331411115,331411112
@@ -797,7 +794,6 @@ python313Packages.opentelemetry-instrumentation-botocore,329412912,329412908,329
 python313Packages.opentelemetry-instrumentation-system-metrics,,,329412969,329412964
 python313Packages.optiland,,,331525810,
 python313Packages.opytimark,329413093,,,
-python313Packages.orbax-checkpoint,,,,331425331
 python313Packages.overpy,,,329413326,329413321
 python313Packages.paddlepaddle,,330911537,,
 python313Packages.pgmpy,,,331523305,
@@ -834,7 +830,7 @@ python313Packages.requirements-detector,329422027,329422023,329422022,329422026
 python313Packages.scalar-fastapi,329422870,329422866,329422868,329422860
 python313Packages.scantree,,,329422882,329422877
 python313Packages.semgrep,,331439369,,
-python313Packages.serialx,,,,329721948
+python313Packages.serialx,,,331539173,331539175
 python313Packages.slack-sdk,,,,331512548
 python313Packages.solidpython2,,,330334088,330334089
 python313Packages.spectral-cube,,,,331531851
@@ -934,7 +930,7 @@ python314Packages.opentelemetry-instrumentation-system-metrics,,,329453127,32945
 python314Packages.opentelemetry-instrumentation-urllib3,329453136,329453135,329453134,329453131
 python314Packages.optiland,,,331526066,
 python314Packages.opytimark,329453253,,,
-python314Packages.orbax-checkpoint,,,,331426211
+python314Packages.orbax-checkpoint,,,,331540784
 python314Packages.overpy,,,329453478,
 python314Packages.pgmpy,,,331523438,
 python314Packages.plum-py,331393308,331393307,331393306,331393305
@@ -979,12 +975,13 @@ python314Packages.rtoml,329462634,329462630,329462631,329462628
 python314Packages.scalar-fastapi,329462894,329462892,329462896,329462884
 python314Packages.scantree,,,329462910,329462907
 python314Packages.semgrep,,331440914,,
-python314Packages.serialx,,,329722172,329722171
+python314Packages.serialx,,,,331539501
 python314Packages.simple-dftd3,331513768,,,
 python314Packages.slack-sdk,,,331513772,331513770
 python314Packages.solidpython2,,,330334509,330334512
 python314Packages.sqlalchemy_1_3,329464820,329464817,329464821,329464818
 python314Packages.swh-export,331526152,331526127,331526129,331526146
+python314Packages.torchaudio,,,,331537379
 python314Packages.torchmd-net,,,,331537383
 python314Packages.torchsnapshot,,330913009,,
 python314Packages.unearth,329468735,329468737,329468736,329468734
@@ -1010,10 +1007,10 @@ quasselClient,,,,329472127
 quasselDaemon,,,,329472133
 quaternion,,,329472150,329472141
 qucs-s,,,,330584509
-quesoglc,330917723,330917722,,
 quill,329472216,329472215,,
 quodlibet-without-gst-plugins,,,330779370,330779372
 quodlibet,,,330779373,330779371
+r2modman,,,,331537440
 rappel,,329472601,,
 rarezip,,,329472616,329472612
 ratpoints,,,330338977,330338995
@@ -1047,6 +1044,7 @@ rs-reticulum,,,331415187,331415189
 rsop,,,,329474952
 rstudio,,,331537499,
 rucola,,331393445,,
+rust-rpxy,,,,331539632
 rvvm,,,329482289,329482286
 s3fs,,,331088174,331088173
 sacrifice,,,329482509,
@@ -1081,7 +1079,6 @@ snpeff,,,329486896,329486895
 sofa,,,,330917798
 solana-cli,329487069,,329487066,
 sourcekit-lsp,,,331501201,
-spacedrive,331532053,,,
 spades,,,329487394,329487391
 spglib,,,,329487584
 spnavcfg,,,329487773,329487761
@@ -1090,7 +1087,6 @@ ssh-chat,,,329488175,
 stalwart,,,329488430,
 stargate-libcds,,329488492,,329488489
 steghide,,,329488694,329488692
-stellar-core,330681720,330681717,,
 stog,,,,330600859
 stoolap,,329488829,,
 super-productivity,,,331537570,331537575
@@ -1102,6 +1098,7 @@ swiftshader,329489736,329489735,,
 switchfin,,,,331514165
 sympow,,,330339132,
 syzkaller,,,,329490052
+tabby-agent,,,331539704,
 tabby,331088215,331088214,,331088216
 tahoe-lafs,331523554,,,
 taisei,,,330627940,330627943
@@ -1181,7 +1178,7 @@ vodozemac-bindings-cpp,,,329526691,329526687
 vorbisgain,,,329526744,329526741
 wapiti,,,331507091,331507089
 waylock,,329529331,,
-webdev,331514601,331514588,,
+webdev,331540029,331540030,,
 werf,,,331428474,331428471
 wf-config,331393654,331393653,,
 wf-touch,331393656,331393655,331393657,331393658
@@ -1209,6 +1206,7 @@ xonotic-sdl-unwrapped,,,329532020,329532022
 xsnow,,329532245,329532280,329532275
 xstow,,,329532279,329532271
 yap,331385925,,,
+ytmdesktop,,,331537789,
 z88dk,329533256,329533251,,
 zcash,329533479,329533471,329533500,
 zee,,,329533489,329533488
