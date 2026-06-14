@@ -68,7 +68,7 @@ cherry-studio,,,331535354,
 chickenPackages_5.chickenEggs.fusion-arrays,,,330751628,330751629
 chopchop,,,329265502,
 clfft,,,329265929,329265941
-cliamp,,,,331531099
+cliamp,,,,331542899
 cloudflared,331524153,,,
 cockpit-zfs,329266644,329266643,,
 cocom-tool-set,,,329266663,329266661
@@ -98,7 +98,7 @@ deskew,,,,329270358
 devcontainer,,,331453630,
 diamond,,,329270665,329270663
 dico,,,330908257,330908252
-diffoscope,,,,331510115
+diffoscope,,,,331540930
 digital,,,329270822,
 direvent,,,329270922,329270917
 direwolf-unstable,,,330774431,330774427
@@ -279,8 +279,8 @@ herbstluftwm,331531232,,,
 hexagonrpc,,,329318388,329318387
 hgrep,,329318474,,
 hime,330671994,330671993,,
-home-assistant-custom-components.mypyllant,331503708,331503674,,
-home-assistant-custom-components.thewatchman,331503694,331503696,,
+home-assistant-custom-components.mypyllant,331543120,331543115,,
+home-assistant-custom-components.thewatchman,331543118,,,
 home-assistant-custom-components.yoto_ha,331090928,331090921,,
 home-assistant-custom-lovelace-modules.custom-sidebar,,,,331510513
 honeycomb-refinery,,330646093,,
@@ -326,7 +326,6 @@ keeperrl,329326383,,,
 kermit,329326420,329326419,,
 kgt,,,329326544,329326543
 kodiPackages.plex-for-kodi,,,329327062,329327063
-komodo,329327235,329327233,329327234,329327232
 koodo-reader,,,331536585,331536574
 kore,,,329327321,329327319
 kubectl-kcl,329327650,329327651,329327655,329327641
@@ -526,7 +525,6 @@ llvmPackages_22.compiler-rt-no-libc,,331085684,,
 lnx,,330685569,,
 logdy,,,329338592,
 loki,,,329338723,329338716
-lomiri-qt6.lomiri-thumbnailer,330731134,330731124,,
 losslesscut,,,331536694,331536690
 lrzip,,,329339045,
 lttoolbox,,,329339158,329339155
@@ -547,7 +545,7 @@ micronucleus,,,329346886,329346884
 micropython,,,329346894,
 migrate,329347048,329346937,,
 minc_tools,331391917,331391916,,
-minitube,331510772,331510773,,
+minitube,331543269,331543280,,
 misskey,,,331510775,
 mlkit,,329347577,329347578,329347576
 mlt,,,331053337,331053338
@@ -643,7 +641,7 @@ openrussian-cli,329365812,329365810,329365822,329365826
 opensplatWithRocm,331392174,,,
 openssh-askpass,,,329365944,329365941
 openvino-genai,,331511052,,
-opn2bankeditor,,,,329366203
+opn2bankeditor,,,,331543473
 osmctools,,,329366432,329366430
 osrm-backend,,,330685882,330685887
 otel-cli,,,329366542,
@@ -657,7 +655,6 @@ pam_xdg,,329366981,,329366978
 pandora-launcher-unwrapped,,,329755077,329755075
 papra,,,331511079,331511078
 partclone-utils,,,329367594,329367593
-passExtensions.pass-audit,,331531656,,
 pawn-appetit,,,331511092,331511100
 paxtest,329367842,329367843,,
 pcem,,331042097,,
@@ -673,8 +670,8 @@ perlPackages.Gtk3ImageView,,,330778761,330778760
 perlPackages.IPCShareLite,,,329379179,
 pg-schema-diff,,,329383583,
 pg_featureserv,,,329383599,
-pgadmin4-desktopmode,,,331511158,331511167
-pgadmin4,,,331511160,331511164
+pgadmin4-desktopmode,,,331543518,331543517
+pgadmin4,,,,331543515
 pget,,,329383648,
 php82Extensions.shmop,,,329384155,
 php82Extensions.sysvshm,,,329384232,
@@ -690,7 +687,6 @@ picoclaw,,,331525544,
 picolibc,,329386295,329386296,329386294
 pidginPackages.purple-plugin-pack,329386369,329386368,,
 pike,,329386433,,
-pimsync,,,331424449,
 pinokio,,,329386532,
 piped,,,331511175,331511182
 pixieditor,,,329386798,331500867
@@ -698,7 +694,6 @@ pkcs11-provider,,,330778799,
 pkgsRocm.migrate,331086053,,,
 pkgsRocm.opensplat,331392235,,,
 pkgsRocm.python3Packages.deepwave,331086155,,,
-pkgsRocm.python3Packages.executorch,331537000,,,
 pkgsRocm.python3Packages.gpuctypes,331086196,,,
 pkgsRocm.python3Packages.syne-tune,331086412,,,
 pkgsRocm.python3Packages.tables,331086413,,,
@@ -743,7 +738,6 @@ python313Packages.cert-chain-resolver,329396304,329396302,329396303,329396301
 python313Packages.control,,,330752821,330752819
 python313Packages.credsweeper,,331455230,,
 python313Packages.cx-freeze,,329397894,,
-python313Packages.cyclopts,,,331455247,
 python313Packages.dashscope,,,331411115,331411112
 python313Packages.dbus-fast,,,331042488,331042490
 python313Packages.deepwave,330910962,,,
@@ -782,7 +776,7 @@ python313Packages.line-profiler,329407508,329407499,329407505,329407502
 python313Packages.locust-cloud,,330689499,,
 python313Packages.mlt,,,331053560,331053559
 python313Packages.monosat,,,330622556,330622557
-python313Packages.mpv,331512267,331512265,,331512266
+python313Packages.mpv,,,,331543893
 python313Packages.mrsqm,329409717,329409714,329409715,329409713
 python313Packages.mss,,331512271,,
 python313Packages.nats-py,330756534,,,
@@ -876,6 +870,7 @@ python314Packages.dbt-common,329438760,329438755,329438756,329438758
 python314Packages.dbus-fast,,,331043354,331043355
 python314Packages.deepwave,330912213,,,
 python314Packages.deid,,,329438959,329438957
+python314Packages.devpi-server,,331541366,,
 python314Packages.dicomweb-client,,,329439141,329439145
 python314Packages.django-cacheops,331393113,331393116,331393111,331393118
 python314Packages.django-health-check,,331089398,,
@@ -912,7 +907,7 @@ python314Packages.looptime,,,329448258,
 python314Packages.mlt,,,331053864,331053863
 python314Packages.modal,331440742,,,
 python314Packages.monosat,,,330622626,330622625
-python314Packages.mpv,331513521,,,331513509
+python314Packages.mpv,,,,331544519
 python314Packages.mrsqm,329449924,329449925,329449923,329449918
 python314Packages.mss,,331513517,,
 python314Packages.nanoemoji,,,330734373,
@@ -980,7 +975,6 @@ python314Packages.simple-dftd3,331513768,,,
 python314Packages.slack-sdk,,,331513772,331513770
 python314Packages.solidpython2,,,330334509,330334512
 python314Packages.sqlalchemy_1_3,329464820,329464817,329464821,329464818
-python314Packages.swh-export,331526152,331526127,331526129,331526146
 python314Packages.torchaudio,,,,331537379
 python314Packages.torchmd-net,,,,331537383
 python314Packages.torchsnapshot,,330913009,,
@@ -1069,8 +1063,7 @@ servarr-ffmpeg,,,,330673805
 sgfutils,,,329485240,329485238
 shpool,,,329485830,
 shrinkray,331456554,,,
-sketchybar-app-font,,,331514073,
-skim,,,330627811,
+skim,,,331541449,
 sleek-todo,,,329486361,
 snapraid,,,330706721,
 snid,,,329486788,329486785
@@ -1095,7 +1088,7 @@ surge,329489339,,,
 sweethome3d.application,,,329489623,329489625
 swiftPackages.sourcekit-lsp,,,331501236,
 swiftshader,329489736,329489735,,
-switchfin,,,,331514165
+switchfin,,,,331544957
 sympow,,,330339132,
 syzkaller,,,,329490052
 tabby-agent,,,331539704,
@@ -1126,8 +1119,7 @@ tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,329493587,329493584
 tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,329493602,329493604
 tests.hardeningFlags-gcc.sfa3explicitDisabledDoesntDisableSfa1ExecTest,,,329493626,329493607
 tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,,,329493622,329493619
-tests.home-assistant-components.assist_pipeline,,331504872,,
-tests.home-assistant-components.conversation,,331505030,,
+tests.home-assistant-components.conversation,,331545271,,
 tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,329497246,329497244
 textidote,,,329497968,
 teyjus,,,329498070,329498064
@@ -1150,7 +1142,7 @@ ucode,,,329522713,329522709
 uhd,,,329522945,
 uhdMinimal,,,329522904,
 ulfius,,,330631448,330631449
-unblob,331514491,331514488,,
+unblob,331547254,331547251,,
 unshieldv3,,,329523453,329523451
 urn-timer,,,329523671,329523672
 uucp,,,329523852,329523849
