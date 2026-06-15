@@ -47,7 +47,7 @@ c3c,,,331503486,
 cadzinho,,,,330916053
 calcmysky,,,,331391506
 candle,,,329261242,329261240
-capa,,,331040109,331040123
+capa,,,331547977,331547975
 cardpeek,,,329261378,329261375
 cargo-deb,,,329261533,329261531
 cargo-risczero,,,329261774,329261771
@@ -80,13 +80,11 @@ contour,,,331522443,331522439
 copacetic,,,,331453561
 coredns,,,329268009,329268003
 cp437,,,329268265,329268261
-cpufetch,,,329268392,
 credsweeper,,331453581,,
 cuneiform,329269062,329269057,,
 cups-dymo,,,329269090,329269087
 daikhan,331423434,,,
 dart_frog_cli,331538261,331538262,,
-darwin.PowerManagement,,,329269563,329269565
 dasher,,,329269685,329269689
 dasm,,,329269696,
 davix-copy,,,,330713265
@@ -274,6 +272,7 @@ haskellPackages.xls,,,329317221,329317215
 haskellPackages.xmonad-utils,,,329317313,329317317
 haskellPackages.zlib-bytes,,,329317826,329317825
 haskellPackages.zot,,,329317846,329317843
+hatch,,,331543052,
 hdate,,,329318067,329318064
 herbstluftwm,331531232,,,
 hexagonrpc,,,329318388,329318387
@@ -303,7 +302,7 @@ intelli-shell,,,331538393,331538391
 intensity-normalization,329322377,329322385,329713905,329713906
 ioping,,,329322494,329322491
 jarl,,,329323277,329323276
-jaspr_cli,331538396,331538395,,
+jaspr_cli,331548161,331548160,,
 jasterix,,,331510589,331510585
 jbofihe,,,329323472,329323470
 jetuml,,,329323694,329323693
@@ -569,6 +568,7 @@ mrpack-install,,,329348930,329348933
 mrustc-bootstrap,331522976,,,
 msieve,,,,329349077
 mspds,329349047,329349046,329349048,329349045
+mt32emu-qt,,,,331543319
 mucommander,,,329349214,329349212
 mudlet,,,,330703427
 multipart-parser-c,,,329349203,329349201
@@ -652,7 +652,6 @@ p4c,329366754,329366755,,
 packcc,,,329366823,329366822
 pam_gnupg,,,329366948,329366946
 pam_xdg,,329366981,,329366978
-pandora-launcher-unwrapped,,,329755077,329755075
 papra,,,331511079,331511078
 partclone-utils,,,329367594,329367593
 pawn-appetit,,,331511092,331511100
@@ -687,6 +686,7 @@ picoclaw,,,331525544,
 picolibc,,329386295,329386296,329386294
 pidginPackages.purple-plugin-pack,329386369,329386368,,
 pike,,329386433,,
+pimsync,,,,331543526
 pinokio,,,329386532,
 piped,,,331511175,331511182
 pixieditor,,,329386798,331500867
@@ -694,6 +694,7 @@ pkcs11-provider,,,330778799,
 pkgsRocm.migrate,331086053,,,
 pkgsRocm.opensplat,331392235,,,
 pkgsRocm.python3Packages.deepwave,331086155,,,
+pkgsRocm.python3Packages.executorch,331548408,,,
 pkgsRocm.python3Packages.gpuctypes,331086196,,,
 pkgsRocm.python3Packages.syne-tune,331086412,,,
 pkgsRocm.python3Packages.tables,331086413,,,
@@ -732,7 +733,7 @@ python313Packages.blocksat-cli,,,,330626382
 python313Packages.borb,329395704,329395705,329395709,329395703
 python313Packages.brian2,329538238,329538237,329707827,329538239
 python313Packages.canopen,,,329396122,329396118
-python313Packages.capa,,,331042463,331042461
+python313Packages.capa,,,331548476,331548477
 python313Packages.cartopy,331086748,331086747,,331086753
 python313Packages.cert-chain-resolver,329396304,329396302,329396303,329396301
 python313Packages.control,,,330752821,330752819
@@ -753,6 +754,7 @@ python313Packages.duct-py,,,329747962,329747960
 python313Packages.equinox,330600490,,,
 python313Packages.es-client,329400890,329400882,329400887,329400889
 python313Packages.exiv2,,,329401126,329401130
+python313Packages.fastmcp,,,,331543729
 python313Packages.filterpy,,,,329401611
 python313Packages.flash-linear-attention,,,,331424944
 python313Packages.fritzconnection,,,329402380,
@@ -762,6 +764,7 @@ python313Packages.gdcm,,,331525703,331525704
 python313Packages.git-dummy,,,329402949,329402948
 python313Packages.glean-sdk,331531760,331531759,,
 python313Packages.graphite-web,329403602,329403600,329403596,329403594
+python313Packages.hatch,,,331543767,
 python313Packages.hmmlearn,,329404352,329404353,329404351
 python313Packages.httpcore2,,,330714477,
 python313Packages.i3ipc,,,330778964,330778963
@@ -809,9 +812,11 @@ python313Packages.pyside6-qtads,329418669,329418673,329418804,329418777
 python313Packages.pyslurm,331512494,331512491,,
 python313Packages.pysmbc,,,330626823,330626817
 python313Packages.pytelegrambotapi,,,331392857,
+python313Packages.pytensor,,331544028,,
 python313Packages.pytest-md-report,,,,329419430
 python313Packages.python-djvulibre,,,329419888,329419887
 python313Packages.python-fontconfig,329419965,,329419967,
+python313Packages.python-otcextensions,,,331544094,
 python313Packages.python-prctl,,329420378,,
 python313Packages.python-redis-lock,,,331392863,331392860
 python313Packages.pyttsx3,,,329420835,329420824
@@ -821,7 +826,6 @@ python313Packages.raylib-python-cffi,,,331425495,331425499
 python313Packages.rds2py,,,329421611,329421613
 python313Packages.recoll,,,330911706,330911698
 python313Packages.requirements-detector,329422027,329422023,329422022,329422026
-python313Packages.scalar-fastapi,329422870,329422866,329422868,329422860
 python313Packages.scantree,,,329422882,329422877
 python313Packages.semgrep,,331439369,,
 python313Packages.serialx,,,331539173,331539175
@@ -832,7 +836,7 @@ python313Packages.submitit,,,330616122,
 python313Packages.sunpy,330775392,330775374,,330775389
 python313Packages.syne-tune,,,,330911806
 python313Packages.torchao,,,,331411526
-python313Packages.torchmd-net,,,,331537239
+python313Packages.torchmd-net,,,,331548721
 python313Packages.torchsnapshot,,330911953,,
 python313Packages.unearth,329430287,329430292,329430291,329430289
 python313Packages.usearch,,331504358,,
@@ -855,7 +859,7 @@ python314Packages.brian2,329541124,329541122,329709583,329541127
 python314Packages.btrsync,330734042,330734049,,
 python314Packages.caldav_2,,331513281,,
 python314Packages.canopen,,,329436652,329436651
-python314Packages.capa,,,331043327,331043330
+python314Packages.capa,,,331548793,331548792
 python314Packages.cartopy,331087557,331087556,,331087559
 python314Packages.cert-chain-resolver,329436835,329436832,329436834,329436831
 python314Packages.class-doc,329437157,329437150,329437152,329437151
@@ -893,6 +897,7 @@ python314Packages.gdcm,,,331525975,331525978
 python314Packages.git-dummy,,,329443326,329443322
 python314Packages.glean-sdk,331531903,331531900,,
 python314Packages.graphite-web,329443968,329443972,329443971,329443975
+python314Packages.hatch,,,331544393,
 python314Packages.hmmlearn,,329444711,329444714,329444710
 python314Packages.i3ipc,,,330779198,330779197
 python314Packages.imagededup,,,330912385,
@@ -967,7 +972,6 @@ python314Packages.rds2py,,,329461673,329461666
 python314Packages.recoll,,,330912812,330912811
 python314Packages.requirements-detector,329462070,329462065,329462071,329462067
 python314Packages.rtoml,329462634,329462630,329462631,329462628
-python314Packages.scalar-fastapi,329462894,329462892,329462896,329462884
 python314Packages.scantree,,,329462910,329462907
 python314Packages.semgrep,,331440914,,
 python314Packages.serialx,,,,331539501
@@ -975,8 +979,8 @@ python314Packages.simple-dftd3,331513768,,,
 python314Packages.slack-sdk,,,331513772,331513770
 python314Packages.solidpython2,,,330334509,330334512
 python314Packages.sqlalchemy_1_3,329464820,329464817,329464821,329464818
-python314Packages.torchaudio,,,,331537379
-python314Packages.torchmd-net,,,,331537383
+python314Packages.swh-export,331548979,331548990,331548981,331548972
+python314Packages.torchmd-net,,,,331549012
 python314Packages.torchsnapshot,,330913009,,
 python314Packages.unearth,329468735,329468737,329468736,329468734
 python314Packages.usearch,,331504585,,
@@ -1034,7 +1038,6 @@ rkdeveloptool-pine64,,,329474065,329474063
 rnnoise-plugin,,,329474199,329474200
 rosie,,,329474697,329474693
 rp,,329474798,,
-rs-reticulum,,,331415187,331415189
 rsop,,,,329474952
 rstudio,,,331537499,
 rucola,,331393445,,
@@ -1170,7 +1173,7 @@ vodozemac-bindings-cpp,,,329526691,329526687
 vorbisgain,,,329526744,329526741
 wapiti,,,331507091,331507089
 waylock,,329529331,,
-webdev,331540029,331540030,,
+webdev,331549315,331549316,,
 werf,,,331428474,331428471
 wf-config,331393654,331393653,,
 wf-touch,331393656,331393655,331393657,331393658

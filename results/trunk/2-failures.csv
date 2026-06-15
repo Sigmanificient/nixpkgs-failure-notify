@@ -115,8 +115,8 @@ id,name,system
 331391506,calcmysky,aarch64-darwin
 329261240,candle,aarch64-darwin
 329261242,candle,x86_64-darwin
-331040123,capa,aarch64-darwin
-331040109,capa,x86_64-darwin
+331547975,capa,aarch64-darwin
+331547977,capa,x86_64-darwin
 329261375,cardpeek,aarch64-darwin
 329261378,cardpeek,x86_64-darwin
 329261531,cargo-deb,aarch64-darwin
@@ -172,7 +172,6 @@ id,name,system
 329268009,coredns,x86_64-darwin
 329268261,cp437,aarch64-darwin
 329268265,cp437,x86_64-darwin
-329268392,cpufetch,x86_64-darwin
 331453581,credsweeper,aarch64-linux
 329269057,cuneiform,aarch64-linux
 329269062,cuneiform,x86_64-linux
@@ -181,8 +180,6 @@ id,name,system
 331423434,daikhan,x86_64-linux
 331538262,dart_frog_cli,aarch64-linux
 331538261,dart_frog_cli,x86_64-linux
-329269565,darwin.PowerManagement,aarch64-darwin
-329269563,darwin.PowerManagement,x86_64-darwin
 329269689,dasher,aarch64-darwin
 329269685,dasher,x86_64-darwin
 329269696,dasm,x86_64-darwin
@@ -519,6 +516,7 @@ id,name,system
 329317826,haskellPackages.zlib-bytes,x86_64-darwin
 329317843,haskellPackages.zot,aarch64-darwin
 329317846,haskellPackages.zot,x86_64-darwin
+331543052,hatch,x86_64-darwin
 329318064,hdate,aarch64-darwin
 329318067,hdate,x86_64-darwin
 331531232,herbstluftwm,x86_64-linux
@@ -575,8 +573,8 @@ id,name,system
 329322494,ioping,x86_64-darwin
 329323276,jarl,aarch64-darwin
 329323277,jarl,x86_64-darwin
-331538395,jaspr_cli,aarch64-linux
-331538396,jaspr_cli,x86_64-linux
+331548160,jaspr_cli,aarch64-linux
+331548161,jaspr_cli,x86_64-linux
 331510585,jasterix,aarch64-darwin
 331510589,jasterix,x86_64-darwin
 329323470,jbofihe,aarch64-darwin
@@ -986,6 +984,7 @@ id,name,system
 329349046,mspds,aarch64-linux
 329349048,mspds,x86_64-darwin
 329349047,mspds,x86_64-linux
+331543319,mt32emu-qt,aarch64-darwin
 329349212,mucommander,aarch64-darwin
 329349214,mucommander,x86_64-darwin
 330703427,mudlet,aarch64-darwin
@@ -1140,8 +1139,6 @@ id,name,system
 329366948,pam_gnupg,x86_64-darwin
 329366978,pam_xdg,aarch64-darwin
 329366981,pam_xdg,aarch64-linux
-329755075,pandora-launcher-unwrapped,aarch64-darwin
-329755077,pandora-launcher-unwrapped,x86_64-darwin
 331511078,papra,aarch64-darwin
 331511079,papra,x86_64-darwin
 329367593,partclone-utils,aarch64-darwin
@@ -1196,6 +1193,7 @@ id,name,system
 329386368,pidginPackages.purple-plugin-pack,aarch64-linux
 329386369,pidginPackages.purple-plugin-pack,x86_64-linux
 329386433,pike,aarch64-linux
+331543526,pimsync,aarch64-darwin
 329386532,pinokio,x86_64-darwin
 331511182,piped,aarch64-darwin
 331511175,piped,x86_64-darwin
@@ -1205,6 +1203,7 @@ id,name,system
 331086053,pkgsRocm.migrate,x86_64-linux
 331392235,pkgsRocm.opensplat,x86_64-linux
 331086155,pkgsRocm.python3Packages.deepwave,x86_64-linux
+331548408,pkgsRocm.python3Packages.executorch,x86_64-linux
 331086196,pkgsRocm.python3Packages.gpuctypes,x86_64-linux
 331086412,pkgsRocm.python3Packages.syne-tune,x86_64-linux
 331086413,pkgsRocm.python3Packages.tables,x86_64-linux
@@ -1273,8 +1272,8 @@ id,name,system
 329538238,python313Packages.brian2,x86_64-linux
 329396118,python313Packages.canopen,aarch64-darwin
 329396122,python313Packages.canopen,x86_64-darwin
-331042461,python313Packages.capa,aarch64-darwin
-331042463,python313Packages.capa,x86_64-darwin
+331548477,python313Packages.capa,aarch64-darwin
+331548476,python313Packages.capa,x86_64-darwin
 331086753,python313Packages.cartopy,aarch64-darwin
 331086747,python313Packages.cartopy,aarch64-linux
 331086748,python313Packages.cartopy,x86_64-linux
@@ -1316,6 +1315,7 @@ id,name,system
 329400890,python313Packages.es-client,x86_64-linux
 329401130,python313Packages.exiv2,aarch64-darwin
 329401126,python313Packages.exiv2,x86_64-darwin
+331543729,python313Packages.fastmcp,aarch64-darwin
 329401611,python313Packages.filterpy,aarch64-darwin
 331424944,python313Packages.flash-linear-attention,aarch64-darwin
 329402380,python313Packages.fritzconnection,x86_64-darwin
@@ -1333,6 +1333,7 @@ id,name,system
 329403600,python313Packages.graphite-web,aarch64-linux
 329403596,python313Packages.graphite-web,x86_64-darwin
 329403602,python313Packages.graphite-web,x86_64-linux
+331543767,python313Packages.hatch,x86_64-darwin
 329404351,python313Packages.hmmlearn,aarch64-darwin
 329404352,python313Packages.hmmlearn,aarch64-linux
 329404353,python313Packages.hmmlearn,x86_64-darwin
@@ -1428,11 +1429,13 @@ id,name,system
 330626817,python313Packages.pysmbc,aarch64-darwin
 330626823,python313Packages.pysmbc,x86_64-darwin
 331392857,python313Packages.pytelegrambotapi,x86_64-darwin
+331544028,python313Packages.pytensor,aarch64-linux
 329419430,python313Packages.pytest-md-report,aarch64-darwin
 329419887,python313Packages.python-djvulibre,aarch64-darwin
 329419888,python313Packages.python-djvulibre,x86_64-darwin
 329419967,python313Packages.python-fontconfig,x86_64-darwin
 329419965,python313Packages.python-fontconfig,x86_64-linux
+331544094,python313Packages.python-otcextensions,x86_64-darwin
 329420378,python313Packages.python-prctl,aarch64-linux
 331392860,python313Packages.python-redis-lock,aarch64-darwin
 331392863,python313Packages.python-redis-lock,x86_64-darwin
@@ -1454,10 +1457,6 @@ id,name,system
 329422023,python313Packages.requirements-detector,aarch64-linux
 329422022,python313Packages.requirements-detector,x86_64-darwin
 329422027,python313Packages.requirements-detector,x86_64-linux
-329422860,python313Packages.scalar-fastapi,aarch64-darwin
-329422866,python313Packages.scalar-fastapi,aarch64-linux
-329422868,python313Packages.scalar-fastapi,x86_64-darwin
-329422870,python313Packages.scalar-fastapi,x86_64-linux
 329422877,python313Packages.scantree,aarch64-darwin
 329422882,python313Packages.scantree,x86_64-darwin
 331439369,python313Packages.semgrep,aarch64-linux
@@ -1473,7 +1472,7 @@ id,name,system
 330775392,python313Packages.sunpy,x86_64-linux
 330911806,python313Packages.syne-tune,aarch64-darwin
 331411526,python313Packages.torchao,aarch64-darwin
-331537239,python313Packages.torchmd-net,aarch64-darwin
+331548721,python313Packages.torchmd-net,aarch64-darwin
 330911953,python313Packages.torchsnapshot,aarch64-linux
 329430289,python313Packages.unearth,aarch64-darwin
 329430292,python313Packages.unearth,aarch64-linux
@@ -1527,8 +1526,8 @@ id,name,system
 331513281,python314Packages.caldav_2,aarch64-linux
 329436651,python314Packages.canopen,aarch64-darwin
 329436652,python314Packages.canopen,x86_64-darwin
-331043330,python314Packages.capa,aarch64-darwin
-331043327,python314Packages.capa,x86_64-darwin
+331548792,python314Packages.capa,aarch64-darwin
+331548793,python314Packages.capa,x86_64-darwin
 331087559,python314Packages.cartopy,aarch64-darwin
 331087556,python314Packages.cartopy,aarch64-linux
 331087557,python314Packages.cartopy,x86_64-linux
@@ -1610,6 +1609,7 @@ id,name,system
 329443972,python314Packages.graphite-web,aarch64-linux
 329443971,python314Packages.graphite-web,x86_64-darwin
 329443968,python314Packages.graphite-web,x86_64-linux
+331544393,python314Packages.hatch,x86_64-darwin
 329444710,python314Packages.hmmlearn,aarch64-darwin
 329444711,python314Packages.hmmlearn,aarch64-linux
 329444714,python314Packages.hmmlearn,x86_64-darwin
@@ -1769,10 +1769,6 @@ id,name,system
 329462630,python314Packages.rtoml,aarch64-linux
 329462631,python314Packages.rtoml,x86_64-darwin
 329462634,python314Packages.rtoml,x86_64-linux
-329462884,python314Packages.scalar-fastapi,aarch64-darwin
-329462892,python314Packages.scalar-fastapi,aarch64-linux
-329462896,python314Packages.scalar-fastapi,x86_64-darwin
-329462894,python314Packages.scalar-fastapi,x86_64-linux
 329462907,python314Packages.scantree,aarch64-darwin
 329462910,python314Packages.scantree,x86_64-darwin
 331440914,python314Packages.semgrep,aarch64-linux
@@ -1786,8 +1782,11 @@ id,name,system
 329464817,python314Packages.sqlalchemy_1_3,aarch64-linux
 329464821,python314Packages.sqlalchemy_1_3,x86_64-darwin
 329464820,python314Packages.sqlalchemy_1_3,x86_64-linux
-331537379,python314Packages.torchaudio,aarch64-darwin
-331537383,python314Packages.torchmd-net,aarch64-darwin
+331548972,python314Packages.swh-export,aarch64-darwin
+331548990,python314Packages.swh-export,aarch64-linux
+331548981,python314Packages.swh-export,x86_64-darwin
+331548979,python314Packages.swh-export,x86_64-linux
+331549012,python314Packages.torchmd-net,aarch64-darwin
 330913009,python314Packages.torchsnapshot,aarch64-linux
 329468734,python314Packages.unearth,aarch64-darwin
 329468737,python314Packages.unearth,aarch64-linux
@@ -1883,8 +1882,6 @@ id,name,system
 329474693,rosie,aarch64-darwin
 329474697,rosie,x86_64-darwin
 329474798,rp,aarch64-linux
-331415189,rs-reticulum,aarch64-darwin
-331415187,rs-reticulum,x86_64-darwin
 329474952,rsop,aarch64-darwin
 331537499,rstudio,x86_64-darwin
 331393445,rucola,aarch64-linux
@@ -2119,8 +2116,8 @@ id,name,system
 331507089,wapiti,aarch64-darwin
 331507091,wapiti,x86_64-darwin
 329529331,waylock,aarch64-linux
-331540030,webdev,aarch64-linux
-331540029,webdev,x86_64-linux
+331549316,webdev,aarch64-linux
+331549315,webdev,x86_64-linux
 331428471,werf,aarch64-darwin
 331428474,werf,x86_64-darwin
 331393653,wf-config,aarch64-linux
