@@ -111,7 +111,7 @@ dnadd,,,329271272,329271269
 dnslink-std-go,,,329271345,329271341
 dockapps.wmsm-app,,,329271523,329271519
 docker-machine-hyperkit,,,329271571,
-documenso,331510126,331510121,331510125,331510136
+documenso,331578320,331578321,331578319,331578317
 dovecot_pigeonhole,,,330754838,330754827
 dovecot_pigeonhole_2_4,,,330754837,330754834
 driftnet,,,331503571,331503573
@@ -132,7 +132,7 @@ eventstore,,,331410483,
 exatorrent,,,329275083,329275080
 excalidraw_export,329275089,329275087,329275090,329275086
 exfat,,,330682813,330682811
-factoriolab,,,331414203,331414193
+factoriolab,,,331578342,331578343
 fawltydeps,,,329720726,
 fbv,,,329275801,329275798
 fcron,,,329275905,329275907
@@ -161,7 +161,7 @@ gccNGPackages_15.libquadmath,329279032,,,
 gdcm,,,331524331,331524328
 getxbook,,,329279598,329279597
 ghidra-extensions.gnudisassembler,,,,329279897
-ghostfolio,,,331531209,331531210
+ghostfolio,,,331578394,
 giac,,,,330615416
 gimme-aws-creds,329280078,329280076,329280080,329280077
 git-chain,,,329280273,329280271
@@ -278,16 +278,16 @@ herbstluftwm,331531232,,,
 hexagonrpc,,,329318388,329318387
 hgrep,,329318474,,
 hime,330671994,330671993,,
-home-assistant-custom-components.mypyllant,331543120,331543115,,
-home-assistant-custom-components.thewatchman,331543118,,,
+home-assistant-custom-components.mypyllant,331578505,331578512,,
+home-assistant-custom-components.thewatchman,331578529,,,
 home-assistant-custom-components.yoto_ha,331090928,331090921,,
 home-assistant-custom-lovelace-modules.custom-sidebar,,,,331510513
 honeycomb-refinery,,330646093,,
 honeytail,,,329319165,
 hsd,,,329319324,329319317
-hyprlandPlugins.hypr-darkwindow,331531245,331531240,,
-hyprlandPlugins.hyprsplit,331531242,331531252,,
-hyprlandPlugins.imgborders,331531260,331531244,,
+hyprlandPlugins.hypr-darkwindow,331578556,331578549,,
+hyprlandPlugins.hyprsplit,331578561,331578594,,
+hyprlandPlugins.imgborders,331578559,331578569,,
 hyprproxlock,,,329320747,329320740
 icesprog,,,329321023,329321022
 iconpack-jade,329321113,329321110,,
@@ -333,13 +333,12 @@ ladybugdb,,,331499773,331499772
 lakectl,,,329328100,
 lakefs,,,329328107,
 landrun,,329328143,,
-lanraragi,,,,329713942
+lanraragi,,,,331578691
 lcdproc,,,329328386,
 lcm,,,329328395,329328392
 lean,,,329328512,329328510
 lean3,,,329328520,329328521
 ledfx,,,331510659,331510666
-lemmy-server,,,329328688,329328686
 leo-lang,,,329328731,329328729
 lerna_6,,329328764,,
 libcardiacarrest,,,329329207,329329204
@@ -367,7 +366,6 @@ libpisp,,,329331122,329331121
 libpkgmanifest,,,329331132,329331126
 libpulsar,,,,329331248
 librepcb,329331405,329331403,,
-libsForQt5.accounts-qml-module,,330727821,,
 libsForQt5.libcommuni,,,329331732,329331726
 libsForQt5.qoauth,,,329331807,329331804
 libsForQt5.qtmpris,329332049,329332044,329332047,329332042
@@ -563,7 +561,6 @@ mp3fs,,,331085832,331085833
 mpich-pmix,,,329348576,329348570
 mpich,,,329348567,329348573
 mplayer,,,,330703423
-mqtt-exporter,331423932,331423931,331423934,331423930
 mrpack-install,,,329348930,329348933
 mrustc-bootstrap,331522976,,,
 msieve,,,,329349077
@@ -652,7 +649,7 @@ p4c,329366754,329366755,,
 packcc,,,329366823,329366822
 pam_gnupg,,,329366948,329366946
 pam_xdg,,329366981,,329366978
-papra,,,331511079,331511078
+papra,,,331579109,331579110
 partclone-utils,,,329367594,329367593
 pawn-appetit,,,331511092,331511100
 paxtest,329367842,329367843,,
@@ -694,7 +691,7 @@ pkcs11-provider,,,330778799,
 pkgsRocm.migrate,331086053,,,
 pkgsRocm.opensplat,331392235,,,
 pkgsRocm.python3Packages.deepwave,331086155,,,
-pkgsRocm.python3Packages.executorch,331548408,,,
+pkgsRocm.python3Packages.executorch,331579170,,,
 pkgsRocm.python3Packages.gpuctypes,331086196,,,
 pkgsRocm.python3Packages.syne-tune,331086412,,,
 pkgsRocm.python3Packages.tables,331086413,,,
@@ -812,7 +809,6 @@ python313Packages.pyside6-qtads,329418669,329418673,329418804,329418777
 python313Packages.pyslurm,331512494,331512491,,
 python313Packages.pysmbc,,,330626823,330626817
 python313Packages.pytelegrambotapi,,,331392857,
-python313Packages.pytensor,,331544028,,
 python313Packages.pytest-md-report,,,,329419430
 python313Packages.python-djvulibre,,,329419888,329419887
 python313Packages.python-fontconfig,329419965,,329419967,
@@ -822,7 +818,7 @@ python313Packages.python-redis-lock,,,331392863,331392860
 python313Packages.pyttsx3,,,329420835,329420824
 python313Packages.pywebview,,,329421068,329421134
 python313Packages.qemu,330732750,330732735,330732741,330732729
-python313Packages.raylib-python-cffi,,,331425495,331425499
+python313Packages.raylib-python-cffi,,,331579443,331579442
 python313Packages.rds2py,,,329421611,329421613
 python313Packages.recoll,,,330911706,330911698
 python313Packages.requirements-detector,329422027,329422023,329422022,329422026
@@ -930,7 +926,7 @@ python314Packages.opentelemetry-instrumentation-system-metrics,,,329453127,32945
 python314Packages.opentelemetry-instrumentation-urllib3,329453136,329453135,329453134,329453131
 python314Packages.optiland,,,331526066,
 python314Packages.opytimark,329453253,,,
-python314Packages.orbax-checkpoint,,,,331540784
+python314Packages.orbax-checkpoint,,,,331579634
 python314Packages.overpy,,,329453478,
 python314Packages.pgmpy,,,331523438,
 python314Packages.plum-py,331393308,331393307,331393306,331393305
@@ -967,7 +963,7 @@ python314Packages.pyvera,,,,329460975
 python314Packages.pywebtransport,,329461110,,
 python314Packages.pywebview,,,329461121,329461258
 python314Packages.qemu,330734601,330734615,330734597,330734602
-python314Packages.raylib-python-cffi,,,331426363,331426362
+python314Packages.raylib-python-cffi,,,331579674,331579664
 python314Packages.rds2py,,,329461673,329461666
 python314Packages.recoll,,,330912812,330912811
 python314Packages.requirements-detector,329462070,329462065,329462071,329462067
@@ -1019,7 +1015,7 @@ rdpgw,,,329472855,329472859
 reaper-sws-extension,,,329473006,329472999
 recoll-nox,,,330913172,330913170
 recoll,,,330913167,330913162
-redo-apenwarr,,,,329473165
+redo-apenwarr,,,,331579733
 reindeer,,,329473336,329473334
 remarkable-toolchain,329473362,,,
 remarkable2-toolchain,329473364,,,
@@ -1031,9 +1027,9 @@ retdec,329473660,,,
 rethinkdb,,,329473664,329473662
 rhvoice,,,330753089,330753088
 ristate,,,329474002,329474001
-river-classic,,330917745,,
+river-classic,,331579740,,
 river-filtile,,,329474025,329474024
-river,,330917746,,
+river,,331579743,,
 rkdeveloptool-pine64,,,329474065,329474063
 rnnoise-plugin,,,329474199,329474200
 rosie,,,329474697,329474693
@@ -1064,7 +1060,7 @@ selfci,,,329484829,329484848
 semgrep,,331442255,,
 servarr-ffmpeg,,,,330673805
 sgfutils,,,329485240,329485238
-shpool,,,329485830,
+shpool,,,331579824,
 shrinkray,331456554,,,
 skim,,,331541449,
 sleek-todo,,,329486361,
@@ -1122,7 +1118,7 @@ tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,329493587,329493584
 tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,329493602,329493604
 tests.hardeningFlags-gcc.sfa3explicitDisabledDoesntDisableSfa1ExecTest,,,329493626,329493607
 tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,,,329493622,329493619
-tests.home-assistant-components.conversation,,331545271,,
+tests.home-assistant-components.conversation,,331580140,,
 tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,329497246,329497244
 textidote,,,329497968,
 teyjus,,,329498070,329498064
