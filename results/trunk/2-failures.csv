@@ -71,10 +71,6 @@ id,name,system
 329256755,azure-cli-extensions.attestation,aarch64-linux
 329256756,azure-cli-extensions.attestation,x86_64-darwin
 329256757,azure-cli-extensions.attestation,x86_64-linux
-331509418,azure-cli-extensions.cloud-service,aarch64-darwin
-331509420,azure-cli-extensions.cloud-service,aarch64-linux
-331509422,azure-cli-extensions.cloud-service,x86_64-darwin
-331509419,azure-cli-extensions.cloud-service,x86_64-linux
 331509435,azure-cli-extensions.connectedk8s,aarch64-darwin
 331509413,azure-cli-extensions.connectedk8s,aarch64-linux
 331509428,azure-cli-extensions.connectedk8s,x86_64-darwin
@@ -110,8 +106,6 @@ id,name,system
 329257465,azure-sdk-for-cpp.security-attestation,aarch64-linux
 329257467,azure-sdk-for-cpp.security-attestation,x86_64-linux
 329257608,bacula,x86_64-darwin
-331509432,barman,aarch64-darwin
-331509434,barman,x86_64-darwin
 332393317,bazaar,x86_64-linux
 332388165,beadwork,aarch64-linux
 332388166,beadwork,x86_64-darwin
@@ -180,7 +174,6 @@ id,name,system
 329268009,coredns,x86_64-darwin
 329268261,cp437,aarch64-darwin
 329268265,cp437,x86_64-darwin
-331453581,credsweeper,aarch64-linux
 331653206,crystalline,aarch64-darwin
 329269057,cuneiform,aarch64-linux
 329269062,cuneiform,x86_64-linux
@@ -304,7 +297,6 @@ id,name,system
 329277139,flow-control,aarch64-darwin
 329277148,flow-control,x86_64-darwin
 331659713,fluent-bit,aarch64-darwin
-331753922,fluux-messenger,aarch64-linux
 329277375,fmi-reference-fmus,x86_64-darwin
 329277383,fmt_10,aarch64-darwin
 329277385,fmt_10,x86_64-darwin
@@ -558,8 +550,6 @@ id,name,system
 329321023,icesprog,x86_64-darwin
 329321110,iconpack-jade,aarch64-linux
 329321113,iconpack-jade,x86_64-linux
-329321199,id3,aarch64-darwin
-329321201,id3,x86_64-darwin
 329321333,idrisPackages.eternal,aarch64-darwin
 329321334,idrisPackages.eternal,x86_64-darwin
 329321444,idrisPackages.mhd,aarch64-darwin
@@ -575,7 +565,6 @@ id,name,system
 329322085,indilib,x86_64-darwin
 331384057,inspircd,aarch64-darwin
 331384059,inspircd,x86_64-darwin
-331753984,intel-compute-runtime,x86_64-linux
 329713906,intensity-normalization,aarch64-darwin
 329322385,intensity-normalization,aarch64-linux
 329713905,intensity-normalization,x86_64-darwin
@@ -787,15 +776,6 @@ id,name,system
 331684382,linuxKernel.packages.linux_6_12.tbs,aarch64-linux
 331684388,linuxKernel.packages.linux_6_12.tsme-test,aarch64-linux
 332388204,linuxKernel.packages.linux_6_12.virtualboxGuestAdditions,aarch64-linux
-331684444,linuxKernel.packages.linux_6_18.acer-wmi-battery,aarch64-linux
-331684519,linuxKernel.packages.linux_6_18.lttng-modules,aarch64-linux
-331684552,linuxKernel.packages.linux_6_18.lttng-modules,x86_64-linux
-331684531,linuxKernel.packages.linux_6_18.mbp2018-bridge-drv,aarch64-linux
-331684557,linuxKernel.packages.linux_6_18.mbp2018-bridge-drv,x86_64-linux
-331684544,linuxKernel.packages.linux_6_18.msi-ec,aarch64-linux
-331684588,linuxKernel.packages.linux_6_18.tsme-test,aarch64-linux
-332388210,linuxKernel.packages.linux_6_18.virtualboxGuestAdditions,aarch64-linux
-331684623,linuxKernel.packages.linux_6_18.vmm_clock,x86_64-linux
 331684640,linuxKernel.packages.linux_6_6.acer-wmi-battery,aarch64-linux
 331684674,linuxKernel.packages.linux_6_6.ax99100,aarch64-linux
 332389336,linuxKernel.packages.linux_6_6.lenovo-legion-module,x86_64-linux
@@ -846,10 +826,6 @@ id,name,system
 331685156,linuxKernel.packages.linux_7_1.nvidia_x11_beta_open,x86_64-linux
 331685204,linuxKernel.packages.linux_7_1.nxp-pn5xx,aarch64-linux
 331685201,linuxKernel.packages.linux_7_1.nxp-pn5xx,x86_64-linux
-331685177,linuxKernel.packages.linux_7_1.openafs,aarch64-linux
-331685179,linuxKernel.packages.linux_7_1.openafs,x86_64-linux
-331685178,linuxKernel.packages.linux_7_1.openafs_1_8,aarch64-linux
-331685180,linuxKernel.packages.linux_7_1.openafs_1_8,x86_64-linux
 331685216,linuxKernel.packages.linux_7_1.rtl8189es,aarch64-linux
 331685185,linuxKernel.packages.linux_7_1.rtl8189es,x86_64-linux
 331685186,linuxKernel.packages.linux_7_1.rtl8189fs,aarch64-linux
@@ -886,15 +862,6 @@ id,name,system
 331585913,linuxKernel.packages.linux_zen.mbp2018-bridge-drv,x86_64-linux
 331585951,linuxKernel.packages.linux_zen.tsme-test,x86_64-linux
 331585970,linuxKernel.packages.linux_zen.vmm_clock,x86_64-linux
-331685272,linuxPackages.acer-wmi-battery,aarch64-linux
-331685349,linuxPackages.lttng-modules,aarch64-linux
-331685350,linuxPackages.lttng-modules,x86_64-linux
-331685354,linuxPackages.mbp2018-bridge-drv,aarch64-linux
-331685357,linuxPackages.mbp2018-bridge-drv,x86_64-linux
-331685355,linuxPackages.msi-ec,aarch64-linux
-331685432,linuxPackages.tsme-test,aarch64-linux
-332388223,linuxPackages.virtualboxGuestAdditions,aarch64-linux
-331685449,linuxPackages.vmm_clock,x86_64-linux
 331685465,linuxPackages_latest.acer-wmi-battery,aarch64-linux
 331685481,linuxPackages_latest.amneziawg,aarch64-linux
 331685480,linuxPackages_latest.amneziawg,x86_64-linux
@@ -915,10 +882,6 @@ id,name,system
 331685573,linuxPackages_latest.nvidia_x11_beta_open,x86_64-linux
 331685576,linuxPackages_latest.nxp-pn5xx,aarch64-linux
 331685578,linuxPackages_latest.nxp-pn5xx,x86_64-linux
-331685598,linuxPackages_latest.openafs,aarch64-linux
-331685596,linuxPackages_latest.openafs,x86_64-linux
-331685597,linuxPackages_latest.openafs_1_8,aarch64-linux
-331685594,linuxPackages_latest.openafs_1_8,x86_64-linux
 331685599,linuxPackages_latest.rtl8189es,aarch64-linux
 331685600,linuxPackages_latest.rtl8189es,x86_64-linux
 331685601,linuxPackages_latest.rtl8189fs,aarch64-linux
@@ -1021,8 +984,6 @@ id,name,system
 329346884,micronucleus,aarch64-darwin
 329346886,micronucleus,x86_64-darwin
 329346894,micropython,x86_64-darwin
-329346937,migrate,aarch64-linux
-329347048,migrate,x86_64-linux
 331391916,minc_tools,aarch64-linux
 331391917,minc_tools,x86_64-linux
 332389416,minitube,aarch64-linux
@@ -1030,7 +991,6 @@ id,name,system
 331654213,mint,aarch64-darwin
 331754111,mise,aarch64-darwin
 331754113,mise,x86_64-darwin
-332394115,misskey,aarch64-darwin
 331654219,mistral-rs,x86_64-darwin
 329347576,mlkit,aarch64-darwin
 329347577,mlkit,aarch64-linux
@@ -1110,8 +1070,6 @@ id,name,system
 329351032,ngadmin,x86_64-darwin
 329351156,nihstro,aarch64-darwin
 329351158,nihstro,x86_64-darwin
-331740552,nix-scheduler-hook,aarch64-linux
-331740550,nix-scheduler-hook,x86_64-linux
 331587246,nixpkgs-openjdk-updater,aarch64-darwin
 331587242,nixpkgs-openjdk-updater,aarch64-linux
 331587243,nixpkgs-openjdk-updater,x86_64-darwin
@@ -1237,7 +1195,6 @@ id,name,system
 329367843,paxtest,aarch64-linux
 329367842,paxtest,x86_64-linux
 331042097,pcem,aarch64-linux
-331741510,pcl,x86_64-linux
 329367990,pdf-cli,aarch64-linux
 329370995,perl5Packages.FutureIO,x86_64-darwin
 331667401,perl5Packages.Gtk3ImageView,aarch64-darwin
@@ -1264,17 +1221,7 @@ id,name,system
 331627682,pixieditor,aarch64-darwin
 331627685,pixieditor,x86_64-darwin
 330778799,pkcs11-provider,x86_64-darwin
-331654380,pkgsRocm.adios2,x86_64-linux
-331654457,pkgsRocm.kaminpar,x86_64-linux
-331654480,pkgsRocm.migrate,x86_64-linux
-331654497,pkgsRocm.nwchem,x86_64-linux
-331654519,pkgsRocm.pdi,x86_64-linux
-331654541,pkgsRocm.python3Packages.adios2,x86_64-linux
 331654632,pkgsRocm.python3Packages.gpuctypes,x86_64-linux
-331654710,pkgsRocm.python3Packages.meep,x86_64-linux
-331654534,pkgsRocm.quantum-espresso,x86_64-linux
-331741575,pkgsRocm.simpleitk,x86_64-linux
-331741578,pkgsRocm.viskores,x86_64-linux
 331754342,plausible,x86_64-darwin
 332389732,plover,aarch64-darwin
 332389733,plover_5,aarch64-darwin
@@ -1424,7 +1371,6 @@ id,name,system
 329396304,python313Packages.cert-chain-resolver,x86_64-linux
 330752819,python313Packages.control,aarch64-darwin
 330752821,python313Packages.control,x86_64-darwin
-331455230,python313Packages.credsweeper,aarch64-linux
 329397894,python313Packages.cx-freeze,aarch64-linux
 331703029,python313Packages.daemonocle,x86_64-linux
 331411112,python313Packages.dashscope,aarch64-darwin
@@ -1565,8 +1511,6 @@ id,name,system
 329418673,python313Packages.pyside6-qtads,aarch64-linux
 329418804,python313Packages.pyside6-qtads,x86_64-darwin
 329418669,python313Packages.pyside6-qtads,x86_64-linux
-331740850,python313Packages.pyslurm,aarch64-linux
-331740851,python313Packages.pyslurm,x86_64-linux
 330626817,python313Packages.pysmbc,aarch64-darwin
 330626823,python313Packages.pysmbc,x86_64-darwin
 331392857,python313Packages.pytelegrambotapi,x86_64-darwin
@@ -1608,7 +1552,6 @@ id,name,system
 331504358,python313Packages.usearch,aarch64-linux
 329430965,python313Packages.vowpalwabbit,aarch64-darwin
 329430967,python313Packages.vowpalwabbit,x86_64-darwin
-331741718,python313Packages.vtk,aarch64-linux
 332388343,python313Packages.wasmtime,x86_64-darwin
 329431220,python313Packages.weasyprint,aarch64-darwin
 329431217,python313Packages.weasyprint,x86_64-darwin
@@ -1664,7 +1607,6 @@ id,name,system
 329437157,python314Packages.class-doc,x86_64-linux
 330752944,python314Packages.control,aarch64-darwin
 330752945,python314Packages.control,x86_64-darwin
-331455974,python314Packages.credsweeper,aarch64-linux
 329438133,python314Packages.crochet,aarch64-darwin
 329438395,python314Packages.cx-freeze,aarch64-linux
 331411638,python314Packages.dashscope,aarch64-linux
@@ -1766,7 +1708,6 @@ id,name,system
 329449925,python314Packages.mrsqm,aarch64-linux
 329449923,python314Packages.mrsqm,x86_64-darwin
 329449924,python314Packages.mrsqm,x86_64-linux
-331754774,python314Packages.netbox-reorder-rack,x86_64-darwin
 329452074,python314Packages.nidaqmx,aarch64-darwin
 329452073,python314Packages.nidaqmx,aarch64-linux
 329452080,python314Packages.nidaqmx,x86_64-darwin
@@ -1778,7 +1719,6 @@ id,name,system
 329452372,python314Packages.nuitka,x86_64-linux
 329452896,python314Packages.openbabel,aarch64-linux
 329452914,python314Packages.opencontainers,x86_64-darwin
-331741804,python314Packages.opencv4Full,x86_64-linux
 329453073,python314Packages.opentelemetry-instrumentation-botocore,aarch64-darwin
 329453069,python314Packages.opentelemetry-instrumentation-botocore,aarch64-linux
 329453071,python314Packages.opentelemetry-instrumentation-botocore,x86_64-darwin
@@ -1838,8 +1778,6 @@ id,name,system
 329458717,python314Packages.pyside6-qtads,aarch64-linux
 329458781,python314Packages.pyside6-qtads,x86_64-darwin
 329458719,python314Packages.pyside6-qtads,x86_64-linux
-331740921,python314Packages.pyslurm,aarch64-linux
-331740922,python314Packages.pyslurm,x86_64-linux
 330627375,python314Packages.pysmbc,aarch64-darwin
 330627374,python314Packages.pysmbc,x86_64-darwin
 331393332,python314Packages.pytelegrambotapi,x86_64-darwin
@@ -1893,7 +1831,6 @@ id,name,system
 331504585,python314Packages.usearch,aarch64-linux
 329469398,python314Packages.vowpalwabbit,aarch64-darwin
 329469397,python314Packages.vowpalwabbit,x86_64-darwin
-331741840,python314Packages.vtk,aarch64-linux
 329469629,python314Packages.weasyprint,aarch64-darwin
 329469657,python314Packages.weasyprint,x86_64-darwin
 329470009,python314Packages.ws4py,aarch64-darwin
@@ -2009,16 +1946,9 @@ id,name,system
 329482662,samplicator,aarch64-darwin
 329482665,samplicator,x86_64-darwin
 329483108,sbclPackages.cl-gtk2-glib,aarch64-darwin
-331687036,sbclPackages.cl-gtk2-glib,aarch64-linux
-331687055,sbclPackages.cl-gtk4_dot_webkit,aarch64-linux
-331687077,sbclPackages.cl-gtk4_dot_webkit,x86_64-linux
 329483172,sbclPackages.cl-notify,aarch64-darwin
 329483442,sbclPackages.enchant,aarch64-darwin
-331687262,sbclPackages.enchant,aarch64-linux
-331687263,sbclPackages.enchant,x86_64-linux
 329483847,sbclPackages.qt-libs,aarch64-darwin
-331687565,sbclPackages.qt-libs,aarch64-linux
-331687532,sbclPackages.qt-libs,x86_64-linux
 331532039,schildi-revenge,aarch64-linux
 329484350,scid,aarch64-darwin
 329484351,scid,aarch64-linux
@@ -2223,12 +2153,6 @@ id,name,system
 329526691,vodozemac-bindings-cpp,x86_64-darwin
 329526741,vorbisgain,aarch64-darwin
 329526744,vorbisgain,x86_64-darwin
-331741920,vtk-full,aarch64-linux
-331741918,vtk,aarch64-linux
-331741924,vtkWithQt6,aarch64-linux
-331741925,vtk_9_5,aarch64-linux
-331741934,vtk_9_6,aarch64-linux
-331741938,vtk_9_6,x86_64-linux
 332395714,wapiti,aarch64-darwin
 329529331,waylock,aarch64-linux
 331549316,webdev,aarch64-linux
@@ -2280,7 +2204,6 @@ id,name,system
 329532280,xsnow,x86_64-darwin
 329532271,xstow,aarch64-darwin
 329532279,xstow,x86_64-darwin
-331916755,xyce-parallel,x86_64-linux
 331916754,xyce,x86_64-linux
 331755115,yaak,x86_64-darwin
 331385925,yap,x86_64-linux
