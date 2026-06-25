@@ -29,8 +29,6 @@ id,name,system
 329254916,ariang,aarch64-linux
 329254954,ariang,x86_64-darwin
 329254943,ariang,x86_64-linux
-332393268,ark-pixel-font,aarch64-darwin
-332393262,ark-pixel-font,x86_64-linux
 332388813,artalk,aarch64-darwin
 329255864,ath9k-htc-blobless-firmware-unstable,aarch64-linux
 329255863,ath9k-htc-blobless-firmware-unstable,x86_64-linux
@@ -960,6 +958,7 @@ id,name,system
 329339045,lrzip,x86_64-darwin
 329339155,lttoolbox,aarch64-darwin
 329339158,lttoolbox,x86_64-darwin
+332741056,lua51Packages.lux-lua,x86_64-darwin
 329342278,lua55Packages.lua-https,aarch64-darwin
 329342281,lua55Packages.lua-https,aarch64-linux
 329342280,lua55Packages.lua-https,x86_64-darwin
@@ -989,8 +988,7 @@ id,name,system
 332389416,minitube,aarch64-linux
 332389417,minitube,x86_64-linux
 331654213,mint,aarch64-darwin
-331754111,mise,aarch64-darwin
-331754113,mise,x86_64-darwin
+332741095,mise,x86_64-darwin
 331654219,mistral-rs,x86_64-darwin
 329347576,mlkit,aarch64-darwin
 329347577,mlkit,aarch64-linux
@@ -1088,7 +1086,6 @@ id,name,system
 329353013,np2kai,x86_64-darwin
 329353239,ntp,aarch64-darwin
 329353243,ntp,x86_64-darwin
-329353360,numr,aarch64-linux
 330619090,nushell-plugin-semver,aarch64-darwin
 330619089,nushellPlugins.semver,aarch64-darwin
 330625758,nvidia-mig-parted,aarch64-darwin
@@ -1437,7 +1434,6 @@ id,name,system
 331704797,python313Packages.jupyter-collaboration,x86_64-darwin
 331704789,python313Packages.jupyter-collaboration,x86_64-linux
 331425146,python313Packages.kopf,x86_64-darwin
-332394689,python313Packages.langgraph,aarch64-linux
 331715777,python313Packages.lark-oapi,aarch64-linux
 331715781,python313Packages.lark-oapi,x86_64-darwin
 331715779,python313Packages.lark-oapi,x86_64-linux
@@ -1686,7 +1682,6 @@ id,name,system
 331705393,python314Packages.jupyter-collaboration,x86_64-darwin
 331705389,python314Packages.jupyter-collaboration,x86_64-linux
 331426060,python314Packages.kopf,aarch64-darwin
-332395158,python314Packages.langchain-community,aarch64-darwin
 331716584,python314Packages.lark-oapi,x86_64-darwin
 331589566,python314Packages.libbs,aarch64-darwin
 331589565,python314Packages.libbs,aarch64-linux
