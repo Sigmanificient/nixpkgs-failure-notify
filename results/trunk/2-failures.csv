@@ -1983,7 +1983,6 @@ id,name,system
 331741863,sqlpage,x86_64-darwin
 329488175,ssh-chat,x86_64-darwin
 332395460,stalwart_0_15,aarch64-darwin
-332395464,stalwart_0_16,aarch64-darwin
 332395470,stalwart_0_16,x86_64-linux
 329488489,stargate-libcds,aarch64-darwin
 329488492,stargate-libcds,aarch64-linux

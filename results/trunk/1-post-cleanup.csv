@@ -3341,7 +3341,6 @@ id,status,name,system
 331741863,F,sqlpage,x86_64-darwin
 329488175,F,ssh-chat,x86_64-darwin
 332395460,F,stalwart_0_15,aarch64-darwin
-332395464,F,stalwart_0_16,aarch64-darwin
 332395470,F,stalwart_0_16,x86_64-linux
 329488489,F,stargate-libcds,aarch64-darwin
 329488492,F,stargate-libcds,aarch64-linux
