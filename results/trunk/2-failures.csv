@@ -113,6 +113,7 @@ id,name,system
 332925333,barman,x86_64-linux
 333219249,bbot,aarch64-darwin
 333219256,bbot,aarch64-linux
+333219245,bbot,x86_64-darwin
 333219251,bbot,x86_64-linux
 332925611,beadwork,aarch64-linux
 332925612,beadwork,x86_64-darwin

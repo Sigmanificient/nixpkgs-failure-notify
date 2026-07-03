@@ -157,7 +157,7 @@ id,status,name,system
 332925333,F,barman,x86_64-linux
 333219249,F,bbot,aarch64-darwin
 333219256,F,bbot,aarch64-linux
-333219245,D,bbot,x86_64-darwin
+333219245,F,bbot,x86_64-darwin
 333219251,F,bbot,x86_64-linux
 333219255,D,beads,x86_64-darwin
 332925611,F,beadwork,aarch64-linux
@@ -328,7 +328,6 @@ id,status,name,system
 332935858,D,cpp-netlib,aarch64-darwin
 332935947,D,cpp-netlib,x86_64-darwin
 333618221,F,credsweeper,aarch64-linux
-333618232,D,credsweeper,x86_64-linux
 333648653,D,croc,aarch64-darwin
 333648654,D,croc,aarch64-linux
 333648657,D,croc,x86_64-darwin
@@ -2876,12 +2875,6 @@ id,status,name,system
 333056364,F,podofo,x86_64-darwin
 333056368,F,podofo0,aarch64-darwin
 333056369,F,podofo0,x86_64-darwin
-333220342,D,poetry,x86_64-darwin
-333619157,D,poetryPlugins.poetry-audit-plugin,x86_64-darwin
-333220343,D,poetryPlugins.poetry-plugin-export,x86_64-darwin
-333220344,D,poetryPlugins.poetry-plugin-migrate,x86_64-darwin
-333220353,D,poetryPlugins.poetry-plugin-shell,x86_64-darwin
-333220357,D,poetryPlugins.poetry-plugin-up,x86_64-darwin
 333056485,D,poliedros,aarch64-darwin
 333056519,D,poliedros,x86_64-darwin
 333056481,F,polkadot,aarch64-darwin
@@ -3111,7 +3104,6 @@ id,status,name,system
 333066323,D,python313Packages.copier-template-tester,aarch64-darwin
 333066317,F,python313Packages.copier,aarch64-darwin
 333619234,F,python313Packages.credsweeper,aarch64-linux
-333619233,D,python313Packages.credsweeper,x86_64-linux
 333066712,F,python313Packages.cx-freeze,aarch64-linux
 333451999,F,python313Packages.dartsim,x86_64-linux
 333066885,F,python313Packages.dashscope,aarch64-darwin
@@ -3913,7 +3905,6 @@ id,status,name,system
 333107314,F,python314Packages.control,aarch64-darwin
 333107336,F,python314Packages.control,x86_64-darwin
 333619868,F,python314Packages.credsweeper,aarch64-linux
-333619869,D,python314Packages.credsweeper,x86_64-linux
 333107511,F,python314Packages.crochet,x86_64-darwin
 333107794,F,python314Packages.cwl-utils,aarch64-darwin
 333107774,F,python314Packages.cx-freeze,aarch64-linux
@@ -22771,6 +22762,7 @@ id,status,name,system
 332936074,S,credstash,x86_64-linux
 333608912,S,credsweeper,aarch64-darwin
 333608917,S,credsweeper,x86_64-darwin
+333618232,S,credsweeper,x86_64-linux
 332936075,S,creduce,aarch64-darwin
 332936077,S,creduce,aarch64-linux
 332936078,S,creduce,x86_64-darwin
@@ -140699,6 +140691,7 @@ id,status,name,system
 333056379,S,poethepoet,x86_64-linux
 333220347,S,poetry,aarch64-darwin
 333220352,S,poetry,aarch64-linux
+333220342,S,poetry,x86_64-darwin
 333220354,S,poetry,x86_64-linux
 333056380,S,poetry2conda,aarch64-darwin
 333056381,S,poetry2conda,aarch64-linux
@@ -140706,12 +140699,15 @@ id,status,name,system
 333056384,S,poetry2conda,x86_64-linux
 333619154,S,poetryPlugins.poetry-audit-plugin,aarch64-darwin
 333619155,S,poetryPlugins.poetry-audit-plugin,aarch64-linux
+333619157,S,poetryPlugins.poetry-audit-plugin,x86_64-darwin
 333619156,S,poetryPlugins.poetry-audit-plugin,x86_64-linux
 333220349,S,poetryPlugins.poetry-plugin-export,aarch64-darwin
 333220368,S,poetryPlugins.poetry-plugin-export,aarch64-linux
+333220343,S,poetryPlugins.poetry-plugin-export,x86_64-darwin
 333220345,S,poetryPlugins.poetry-plugin-export,x86_64-linux
 333220360,S,poetryPlugins.poetry-plugin-migrate,aarch64-darwin
 333220361,S,poetryPlugins.poetry-plugin-migrate,aarch64-linux
+333220344,S,poetryPlugins.poetry-plugin-migrate,x86_64-darwin
 333220362,S,poetryPlugins.poetry-plugin-migrate,x86_64-linux
 333056399,S,poetryPlugins.poetry-plugin-poeblix,aarch64-darwin
 333056398,S,poetryPlugins.poetry-plugin-poeblix,aarch64-linux
@@ -140719,9 +140715,11 @@ id,status,name,system
 333056400,S,poetryPlugins.poetry-plugin-poeblix,x86_64-linux
 333220351,S,poetryPlugins.poetry-plugin-shell,aarch64-darwin
 333220358,S,poetryPlugins.poetry-plugin-shell,aarch64-linux
+333220353,S,poetryPlugins.poetry-plugin-shell,x86_64-darwin
 333220350,S,poetryPlugins.poetry-plugin-shell,x86_64-linux
 333220355,S,poetryPlugins.poetry-plugin-up,aarch64-darwin
 333220365,S,poetryPlugins.poetry-plugin-up,aarch64-linux
+333220357,S,poetryPlugins.poetry-plugin-up,x86_64-darwin
 333220363,S,poetryPlugins.poetry-plugin-up,x86_64-linux
 333056412,S,poezio,aarch64-darwin
 333056417,S,poezio,aarch64-linux
@@ -150533,6 +150531,7 @@ id,status,name,system
 333066428,S,python313Packages.credstash,x86_64-linux
 333609432,S,python313Packages.credsweeper,aarch64-darwin
 333609431,S,python313Packages.credsweeper,x86_64-darwin
+333619233,S,python313Packages.credsweeper,x86_64-linux
 334068689,S,python313Packages.crewai,aarch64-linux
 334068690,S,python313Packages.crewai,x86_64-linux
 333066430,S,python313Packages.crispy-bootstrap3,aarch64-darwin
@@ -190838,6 +190837,7 @@ id,status,name,system
 333107500,S,python314Packages.credstash,x86_64-linux
 333609891,S,python314Packages.credsweeper,aarch64-darwin
 333609889,S,python314Packages.credsweeper,x86_64-darwin
+333619869,S,python314Packages.credsweeper,x86_64-linux
 334069519,S,python314Packages.crewai,aarch64-linux
 334069515,S,python314Packages.crewai,x86_64-linux
 333107503,S,python314Packages.crispy-bootstrap3,aarch64-darwin
