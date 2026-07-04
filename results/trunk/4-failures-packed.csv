@@ -5,7 +5,6 @@ adrs,,,332919086,
 air-formatter,,,332919417,
 alan_2,332920715,332920713,,
 aligator,,333644347,,
-alttab,,,332921031,332921024
 angelscript,,,332921269,
 anilibria-winmaclinux,,,332921336,332921330
 apacheHttpdPackages.mod_tile,334067894,334067898,,
@@ -13,7 +12,6 @@ apacheHttpdPackages_2_4.mod_tile,334067893,334067899,,
 appstream,,,332922072,332922066
 aptly,,,332923241,
 archivemount,,,332922200,332922196
-arftracksat,,,332922277,332922279
 ariang,332922357,332922352,332922379,332922369
 asccli,,,,332922600
 ath9k-htc-blobless-firmware-unstable,332923320,332923319,,
@@ -22,6 +20,7 @@ atuin-desktop,333618060,,,
 atuin,,,,332923426
 audacity,,,,332923456
 aviator,,,332923790,
+aws-sam-cli,,,,334074726
 azure-cli-extensions.acrcssc,332924128,332924127,332924130,332924126
 azure-cli-extensions.aksarc,332924169,332924165,332924194,332924168
 azure-cli-extensions.alias,332924170,332924167,332924171,332924176
@@ -155,7 +154,7 @@ dotnetCorePackages.dotnet_11.vmr,,,,332939740
 dotnetCorePackages.dotnet_9.vmr,,,,332939750
 dovecot_pigeonhole,,,332940040,332940032
 dovecot_pigeonhole_2_4,,,332940051,332940043
-driftnet,,,332940260,332940254
+driftnet,,,334123991,334123989
 dt,,,332940391,332940387
 dtop,,,,332940419
 ducker,,,,332940480
@@ -225,6 +224,7 @@ fmt_10,,,332944951,332944948
 fmt_9,,,332944967,332944966
 ford,,,332945244,332945239
 fortitude,,,332945308,332945306
+freelens-bin,,,,334074861
 freepv,,,332945559,332945556
 fresh-editor,333618381,,,
 g15daemon,,,332946055,332946054
@@ -394,10 +394,9 @@ imageworsener,332989764,332989762,332989763,332989761
 indilib,,,332990077,332990069
 inspircd,,,332990295,332990293
 intel-graphics-compiler,,332990337,,
-intelli-shell,,,332990356,332990352
+intelli-shell,,,334124134,334124132
 intensity-normalization,332990373,332990362,332990366,332990361
 inventree,334074925,334074929,,
-ioping,,,332990493,332990490
 iosevka,,,333511091,333511090
 iroh-ssh,,,,332990873
 ispc,332990972,332990971,332990974,
@@ -869,9 +868,7 @@ paxtest,333036262,333036260,,
 pcem,,333652255,,
 pdf-cli,,333036408,,
 pdfding,333220209,333220213,333220212,333220210
-perl5Packages.Gtk3ImageView,,,333039644,333039626
 perl5Packages.SysVirt,333220221,,,
-perlPackages.Gtk3ImageView,,,333047332,333047491
 perlPackages.SysVirt,333220223,,,
 pg_featureserv,,,333052029,
 pgadmin4-desktopmode,,,,333052305
@@ -896,16 +893,18 @@ pkgit,,,333618945,333618939
 pkgsRocm.migrate,334075180,,,
 pkgsRocm.opensplat,334075209,,,
 pkgsRocm.python3Packages.ax-platform,334075292,,,
-pkgsRocm.python3Packages.deepwave,334075283,,,
 pkgsRocm.python3Packages.elastic-apm,333055474,,,
 pkgsRocm.python3Packages.executorch,334075350,,,
 pkgsRocm.python3Packages.functions-framework,333055493,,,
 pkgsRocm.python3Packages.gpuctypes,334075321,,,
 pkgsRocm.python3Packages.gradio,334075347,,,
+pkgsRocm.python3Packages.mim-solvers,334075418,,,
+pkgsRocm.python3Packages.syne-tune,334075527,,,
 pkgsRocm.python3Packages.tinygrad,334075538,,,
 pkgsRocm.python3Packages.vmas,334075584,,,
 pkgsRocm.tabby,334075616,,,
 pkgsRocm.whisper-cpp-vulkan,334075658,,,
+pkgsRocm.xyce-parallel,334075664,,,
 plzip,,,333056170,333056168
 pmars-x11,,,333056184,333056181
 pnetcdf,,,333056232,333056234
@@ -986,7 +985,6 @@ python313Packages.dashscope,,,333066884,333066885
 python313Packages.dask-glm,,334068709,,
 python313Packages.datalad,,,333067149,
 python313Packages.dbus-fast,,,333067131,333067127
-python313Packages.deepwave,333067273,,,
 python313Packages.deid,,,333067310,333067309
 python313Packages.devolo-home-control-api,,,,333067445
 python313Packages.dicomweb-client,,,333067496,333067497
@@ -1012,11 +1010,11 @@ python313Packages.hist,,,,333073207
 python313Packages.hmmlearn,,333073241,333073244,333073240
 python313Packages.httpx-curl-cffi,,,,333073547
 python313Packages.hyper-connections,,,,333073637
-python313Packages.i3ipc,,,333073789,333073743
 python313Packages.ibm-watson,333619336,,,
 python313Packages.icontract,,,,333073829
 python313Packages.imagededup,,,333073934,
 python313Packages.intensity-normalization,333074211,333074206,333074197,333074205
+python313Packages.iocx,,,,334075801
 python313Packages.ipylab,,,,333074357
 python313Packages.ipytablewidgets,,,,333074379
 python313Packages.iterfzf,,,333074551,333074546
@@ -1072,6 +1070,7 @@ python313Packages.pymupdf4llm,,,,333086777
 python313Packages.pynest2d,333086844,333086839,,
 python313Packages.pyomo,,,333087021,333087020
 python313Packages.pyoverkiz,,,,333087125
+python313Packages.pyreqwest,,334075936,,
 python313Packages.pysdl3,,,,333087699
 python313Packages.pyseries,,,,333087748
 python313Packages.pyside6-qtads,333087763,333087768,333087794,333087771
@@ -1095,6 +1094,7 @@ python313Packages.saiph,,333091890,,333091889
 python313Packages.scantree,,,333092024,333092022
 python313Packages.scippneutron,334069270,334069288,,334069248
 python313Packages.semgrep,,333457236,,
+python313Packages.slack-sdk,,,334075969,
 python313Packages.snakemake-executor-plugin-cluster-generic,,,,333093192
 python313Packages.snakemake-storage-plugin-http,,,,333093214
 python313Packages.solidpython2,,,333093372,333093368
@@ -1151,7 +1151,6 @@ python314Packages.datadog,,334069542,,
 python314Packages.datalad,,,333108038,
 python314Packages.dbt-common,333108142,333108140,333108143,333108138
 python314Packages.dbus-fast,,,333108164,333108158
-python314Packages.deepwave,333108305,,,
 python314Packages.deezer-python,,,,333108311
 python314Packages.deid,,,333108344,333108343
 python314Packages.deltalake,,,,333108373
@@ -1182,7 +1181,6 @@ python314Packages.graphite-web,333113389,333113401,333113411,333113391
 python314Packages.hatch,,,333511557,
 python314Packages.hmmlearn,,333114151,333114153,333114150
 python314Packages.home-assistant-chip-wheels,,333114195,,
-python314Packages.i3ipc,,,333114651,333114597
 python314Packages.imagededup,,,333114818,
 python314Packages.intensity-normalization,333115109,333115101,333115111,333115108
 python314Packages.iterfzf,,,333115451,333115448
@@ -1252,6 +1250,7 @@ python314Packages.saiph,,333132473,,333132470
 python314Packages.scantree,,,333132605,
 python314Packages.scippneutron,334069930,334069929,,334069933
 python314Packages.semgrep,,333458647,,
+python314Packages.slack-sdk,,,334076306,
 python314Packages.snappy,,,,333135860
 python314Packages.solidpython2,,,333133893,333133890
 python314Packages.spectral-cube,,,,334069952
@@ -1289,8 +1288,6 @@ quasselClient,,,,333141899
 quasselDaemon,,,,333141905
 quaternion,,,333141923,333141914
 quill,333141992,333141990,,
-quodlibet-without-gst-plugins,,,333142031,333142025
-quodlibet,,,333142022,333142020
 radicle-ci-broker,,,334070102,334070098
 rappel,,333142376,,
 rarezip,,,333142392,333142388
@@ -1354,6 +1351,7 @@ sif,,,333452545,333452542
 skia,,,,333156013
 skim,,,333610183,
 sleek-todo,,,333156210,
+slint-viewer,,,334076486,
 snapraid,,,333156592,333156590
 snid,,,333156641,333156637
 snouty,,334070161,,
@@ -1485,7 +1483,7 @@ vorbisgain,,,333196847,333196845
 vtk,,,333452593,
 vtkWithQt6,,,333452597,
 vtk_9_5,,,333452601,
-vtk_9_6,333653555,333653550,,
+vtk_9_6,334124585,334124583,,
 wallutils,333199114,333199119,,
 wapiti,,,334076758,334076759
 wasm-tools,,,,333199254

@@ -7,8 +7,6 @@ id,name,system
 332920713,alan_2,aarch64-linux
 332920715,alan_2,x86_64-linux
 333644347,aligator,aarch64-linux
-332921024,alttab,aarch64-darwin
-332921031,alttab,x86_64-darwin
 332921269,angelscript,x86_64-darwin
 332921330,anilibria-winmaclinux,aarch64-darwin
 332921336,anilibria-winmaclinux,x86_64-darwin
@@ -21,8 +19,6 @@ id,name,system
 332923241,aptly,x86_64-darwin
 332922196,archivemount,aarch64-darwin
 332922200,archivemount,x86_64-darwin
-332922279,arftracksat,aarch64-darwin
-332922277,arftracksat,x86_64-darwin
 332922369,ariang,aarch64-darwin
 332922352,ariang,aarch64-linux
 332922379,ariang,x86_64-darwin
@@ -36,6 +32,7 @@ id,name,system
 332923426,atuin,aarch64-darwin
 332923456,audacity,aarch64-darwin
 332923790,aviator,x86_64-darwin
+334074726,aws-sam-cli,aarch64-darwin
 332924126,azure-cli-extensions.acrcssc,aarch64-darwin
 332924127,azure-cli-extensions.acrcssc,aarch64-linux
 332924130,azure-cli-extensions.acrcssc,x86_64-darwin
@@ -278,8 +275,8 @@ id,name,system
 332940040,dovecot_pigeonhole,x86_64-darwin
 332940043,dovecot_pigeonhole_2_4,aarch64-darwin
 332940051,dovecot_pigeonhole_2_4,x86_64-darwin
-332940254,driftnet,aarch64-darwin
-332940260,driftnet,x86_64-darwin
+334123989,driftnet,aarch64-darwin
+334123991,driftnet,x86_64-darwin
 332940387,dt,aarch64-darwin
 332940391,dt,x86_64-darwin
 332940419,dtop,aarch64-darwin
@@ -382,6 +379,7 @@ id,name,system
 332945244,ford,x86_64-darwin
 332945306,fortitude,aarch64-darwin
 332945308,fortitude,x86_64-darwin
+334074861,freelens-bin,aarch64-darwin
 332945556,freepv,aarch64-darwin
 332945559,freepv,x86_64-darwin
 333618381,fresh-editor,x86_64-linux
@@ -680,16 +678,14 @@ id,name,system
 332990293,inspircd,aarch64-darwin
 332990295,inspircd,x86_64-darwin
 332990337,intel-graphics-compiler,aarch64-linux
-332990352,intelli-shell,aarch64-darwin
-332990356,intelli-shell,x86_64-darwin
+334124132,intelli-shell,aarch64-darwin
+334124134,intelli-shell,x86_64-darwin
 332990361,intensity-normalization,aarch64-darwin
 332990362,intensity-normalization,aarch64-linux
 332990366,intensity-normalization,x86_64-darwin
 332990373,intensity-normalization,x86_64-linux
 334074929,inventree,aarch64-linux
 334074925,inventree,x86_64-linux
-332990490,ioping,aarch64-darwin
-332990493,ioping,x86_64-darwin
 333511090,iosevka,aarch64-darwin
 333511091,iosevka,x86_64-darwin
 332990873,iroh-ssh,aarch64-darwin
@@ -1422,11 +1418,7 @@ id,name,system
 333220213,pdfding,aarch64-linux
 333220212,pdfding,x86_64-darwin
 333220209,pdfding,x86_64-linux
-333039626,perl5Packages.Gtk3ImageView,aarch64-darwin
-333039644,perl5Packages.Gtk3ImageView,x86_64-darwin
 333220221,perl5Packages.SysVirt,x86_64-linux
-333047491,perlPackages.Gtk3ImageView,aarch64-darwin
-333047332,perlPackages.Gtk3ImageView,x86_64-darwin
 333220223,perlPackages.SysVirt,x86_64-linux
 333052029,pg_featureserv,x86_64-darwin
 333052305,pgadmin4-desktopmode,aarch64-darwin
@@ -1459,16 +1451,18 @@ id,name,system
 334075180,pkgsRocm.migrate,x86_64-linux
 334075209,pkgsRocm.opensplat,x86_64-linux
 334075292,pkgsRocm.python3Packages.ax-platform,x86_64-linux
-334075283,pkgsRocm.python3Packages.deepwave,x86_64-linux
 333055474,pkgsRocm.python3Packages.elastic-apm,x86_64-linux
 334075350,pkgsRocm.python3Packages.executorch,x86_64-linux
 333055493,pkgsRocm.python3Packages.functions-framework,x86_64-linux
 334075321,pkgsRocm.python3Packages.gpuctypes,x86_64-linux
 334075347,pkgsRocm.python3Packages.gradio,x86_64-linux
+334075418,pkgsRocm.python3Packages.mim-solvers,x86_64-linux
+334075527,pkgsRocm.python3Packages.syne-tune,x86_64-linux
 334075538,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 334075584,pkgsRocm.python3Packages.vmas,x86_64-linux
 334075616,pkgsRocm.tabby,x86_64-linux
 334075658,pkgsRocm.whisper-cpp-vulkan,x86_64-linux
+334075664,pkgsRocm.xyce-parallel,x86_64-linux
 333056168,plzip,aarch64-darwin
 333056170,plzip,x86_64-darwin
 333056181,pmars-x11,aarch64-darwin
@@ -1650,7 +1644,6 @@ id,name,system
 333067149,python313Packages.datalad,x86_64-darwin
 333067127,python313Packages.dbus-fast,aarch64-darwin
 333067131,python313Packages.dbus-fast,x86_64-darwin
-333067273,python313Packages.deepwave,x86_64-linux
 333067309,python313Packages.deid,aarch64-darwin
 333067310,python313Packages.deid,x86_64-darwin
 333067445,python313Packages.devolo-home-control-api,aarch64-darwin
@@ -1706,8 +1699,6 @@ id,name,system
 333073244,python313Packages.hmmlearn,x86_64-darwin
 333073547,python313Packages.httpx-curl-cffi,aarch64-darwin
 333073637,python313Packages.hyper-connections,aarch64-darwin
-333073743,python313Packages.i3ipc,aarch64-darwin
-333073789,python313Packages.i3ipc,x86_64-darwin
 333619336,python313Packages.ibm-watson,x86_64-linux
 333073829,python313Packages.icontract,aarch64-darwin
 333073934,python313Packages.imagededup,x86_64-darwin
@@ -1715,6 +1706,7 @@ id,name,system
 333074206,python313Packages.intensity-normalization,aarch64-linux
 333074197,python313Packages.intensity-normalization,x86_64-darwin
 333074211,python313Packages.intensity-normalization,x86_64-linux
+334075801,python313Packages.iocx,aarch64-darwin
 333074357,python313Packages.ipylab,aarch64-darwin
 333074379,python313Packages.ipytablewidgets,aarch64-darwin
 333074546,python313Packages.iterfzf,aarch64-darwin
@@ -1812,6 +1804,7 @@ id,name,system
 333087020,python313Packages.pyomo,aarch64-darwin
 333087021,python313Packages.pyomo,x86_64-darwin
 333087125,python313Packages.pyoverkiz,aarch64-darwin
+334075936,python313Packages.pyreqwest,aarch64-linux
 333087699,python313Packages.pysdl3,aarch64-darwin
 333087748,python313Packages.pyseries,aarch64-darwin
 333087771,python313Packages.pyside6-qtads,aarch64-darwin
@@ -1857,6 +1850,7 @@ id,name,system
 334069288,python313Packages.scippneutron,aarch64-linux
 334069270,python313Packages.scippneutron,x86_64-linux
 333457236,python313Packages.semgrep,aarch64-linux
+334075969,python313Packages.slack-sdk,x86_64-darwin
 333093192,python313Packages.snakemake-executor-plugin-cluster-generic,aarch64-darwin
 333093214,python313Packages.snakemake-storage-plugin-http,aarch64-darwin
 333093368,python313Packages.solidpython2,aarch64-darwin
@@ -1959,7 +1953,6 @@ id,name,system
 333108142,python314Packages.dbt-common,x86_64-linux
 333108158,python314Packages.dbus-fast,aarch64-darwin
 333108164,python314Packages.dbus-fast,x86_64-darwin
-333108305,python314Packages.deepwave,x86_64-linux
 333108311,python314Packages.deezer-python,aarch64-darwin
 333108343,python314Packages.deid,aarch64-darwin
 333108344,python314Packages.deid,x86_64-darwin
@@ -2024,8 +2017,6 @@ id,name,system
 333114151,python314Packages.hmmlearn,aarch64-linux
 333114153,python314Packages.hmmlearn,x86_64-darwin
 333114195,python314Packages.home-assistant-chip-wheels,aarch64-linux
-333114597,python314Packages.i3ipc,aarch64-darwin
-333114651,python314Packages.i3ipc,x86_64-darwin
 333114818,python314Packages.imagededup,x86_64-darwin
 333115108,python314Packages.intensity-normalization,aarch64-darwin
 333115101,python314Packages.intensity-normalization,aarch64-linux
@@ -2182,6 +2173,7 @@ id,name,system
 334069929,python314Packages.scippneutron,aarch64-linux
 334069930,python314Packages.scippneutron,x86_64-linux
 333458647,python314Packages.semgrep,aarch64-linux
+334076306,python314Packages.slack-sdk,x86_64-darwin
 333135860,python314Packages.snappy,aarch64-darwin
 333133890,python314Packages.solidpython2,aarch64-darwin
 333133893,python314Packages.solidpython2,x86_64-darwin
@@ -2238,10 +2230,6 @@ id,name,system
 333141923,quaternion,x86_64-darwin
 333141990,quill,aarch64-linux
 333141992,quill,x86_64-linux
-333142025,quodlibet-without-gst-plugins,aarch64-darwin
-333142031,quodlibet-without-gst-plugins,x86_64-darwin
-333142020,quodlibet,aarch64-darwin
-333142022,quodlibet,x86_64-darwin
 334070098,radicle-ci-broker,aarch64-darwin
 334070102,radicle-ci-broker,x86_64-darwin
 333142376,rappel,aarch64-linux
@@ -2345,6 +2333,7 @@ id,name,system
 333156013,skia,aarch64-darwin
 333610183,skim,x86_64-darwin
 333156210,sleek-todo,x86_64-darwin
+334076486,slint-viewer,x86_64-darwin
 333156590,snapraid,aarch64-darwin
 333156592,snapraid,x86_64-darwin
 333156637,snid,aarch64-darwin
@@ -2560,8 +2549,8 @@ id,name,system
 333452593,vtk,x86_64-darwin
 333452597,vtkWithQt6,x86_64-darwin
 333452601,vtk_9_5,x86_64-darwin
-333653550,vtk_9_6,aarch64-linux
-333653555,vtk_9_6,x86_64-linux
+334124583,vtk_9_6,aarch64-linux
+334124585,vtk_9_6,x86_64-linux
 333199119,wallutils,aarch64-linux
 333199114,wallutils,x86_64-linux
 334076759,wapiti,aarch64-darwin
