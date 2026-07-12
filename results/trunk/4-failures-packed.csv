@@ -10,7 +10,7 @@ allegro5,,,,336872236
 alot,336872273,336872306,,
 alttab,,,,336872343
 amnezia-vpn-bin,336872440,,,
-ansible-language-server,,,,337296196
+ansible-language-server,,,,337390383
 anvil-editor,,,,336872795
 ao3downloader,336872818,336873005,,336872812
 apacheHttpdPackages.mod_tile,336872999,336872905,,
@@ -99,13 +99,12 @@ cfv,,,,336879574
 cgt-calc,336879617,336879642,,336879812
 cgterm,,,,336879614
 chickenPackages_5.chickenEggs.fusion-arrays,,,,336880356
-chiri,337378397,,,337296244
+chiri,,,,337390467
 choose-gui,,,,336881696
 cinny-desktop,337378398,,,
 cleanit,336882045,336882042,,336882043
 clevercsv,336882050,336882047,,336882049
 clfft,,,,336882066
-cliamp,,,,337297870
 clutter,,,,336882350
 cocom-tool-set,,,,336882619
 codeblocks,337378420,,,
@@ -178,7 +177,7 @@ dwarfs,337374685,,,
 dyndnsc,336887879,336887834,,336887837
 easylpac,,,,336887919
 ecl_16_1_2,336887993,336887994,,
-eggnog-mapper,,,,336888256
+eggnog-mapper,,,,337390513
 ela-widget-tools,,,,336888328
 elements,,,,336888418
 elmPackages.elm-wrap,,,,336888566
@@ -382,10 +381,9 @@ herbstluftwm,336922968,,,
 hexagonrpc,,,,336923005
 hgrep,,336923076,,
 hime,337295347,337295348,,
-home-assistant-custom-components.gtfs-realtime,337378667,337378669,,
-home-assistant-custom-components.mypyllant,336923434,336923433,,
-home-assistant-custom-components.powercalc,336924008,336924098,,
-home-assistant-custom-components.thewatchman,336924258,,,
+home-assistant-custom-components.gtfs-realtime,337390650,337390647,,
+home-assistant-custom-components.mypyllant,337390666,337390664,,
+home-assistant-custom-components.powercalc,337390662,337390668,,
 home-assistant-custom-components.yoto_ha,336923522,336923520,,
 hsd,,,,336923824
 httpstat,336923958,336923957,,336923956
@@ -507,7 +505,7 @@ libucontext,,336934755,,
 libui-ng,,,,336934774
 libui,,,,336934771
 lice,336935249,336935247,,336935248
-lidarr,,,,336935475
+lidarr,,,,337390755
 lima-full,,,,336935395
 lima,,,,336935387
 linuxKernel.packages.linux_5_10.acer-wmi-battery,,336935586,,
@@ -853,9 +851,8 @@ mspds,336948443,336948442,,336948440
 mucommander,,,,336948927
 multipart-parser-c,,,,336948572
 mumble,,,,337371656
-murmure,,,,337371663
 musescore-evolution,336948676,336948674,,336948678
-musescore,336948673,336948671,,336948679
+musescore,,,,337390828
 musikcube,,,,336948700
 mystmd,,,,336948878
 nagiosPlugins.check_interfaces,336948917,336948916,,336948915
@@ -939,7 +936,7 @@ opencomposite,,,,336960980
 opendrop,336961034,,,
 opengothic,,337376302,,
 openpa,,,,336961297
-openrussian-cli,336961399,336961405,,336961394
+openrussian-cli,337390901,337390897,,337390898
 openscenegraph,,,,336961409
 openssh-askpass,,,,336961495
 oq,336961760,336961759,,336961768
@@ -1002,7 +999,7 @@ pkgsRocm.python3Packages.textnets,337376508,,,
 pkgsRocm.python3Packages.tinygrad,337376509,,,
 pkgsRocm.seagoat,337376517,,,
 pkgsRocm.tabby,337295101,,,
-pkgsRocm.whisper-cpp-vulkan,336978057,,,
+pkgsRocm.whisper-cpp-vulkan,337390968,,,
 plan9port,,,,336978080
 plover_4,336978258,336978252,,
 plzip,,,,336978294
@@ -1039,7 +1036,7 @@ postgresql19Packages.tds_fdw,336979851,336979848,,336979849
 postgresql19Packages.temporal_tables,336979853,336979852,,336979850
 postgresql19Packages.wal2json,336979857,336979855,,336979854
 postgresqlPackages.pointcloud,,,,336980010
-postsrsd,,,,336980102
+postsrsd,,,,337390989
 powertabeditor,,,,336980184
 prime-server,,,,336980361
 prmt,,,,336980422
@@ -1097,7 +1094,6 @@ python313Packages.canopen,,,,336985780
 python313Packages.capa,,,,336985815
 python313Packages.capstone_4,336985792,336985791,,336985790
 python313Packages.category-encoders,336985865,336985862,,336985864
-python313Packages.catppuccin,336985872,336985870,,336985869
 python313Packages.cdcs,336985888,336985887,,336985890
 python313Packages.cert-chain-resolver,336985926,336985924,,336985925
 python313Packages.certauth,336985930,336985927,,336985929
@@ -1428,7 +1424,6 @@ python314Packages.calmjs-types,337017881,337017882,,337017880
 python314Packages.capa,,,,337018028
 python314Packages.capstone_4,337017928,337017927,,337017926
 python314Packages.category-encoders,337017999,337017997,,337018000
-python314Packages.catppuccin,337018006,337018004,,337018003
 python314Packages.cdcs,337018023,337018022,,337018021
 python314Packages.cert-chain-resolver,337018060,337018061,,337018059
 python314Packages.certauth,337018058,337018062,,337018063
@@ -1760,7 +1755,6 @@ raylib-games,,,,337047213
 rbdoom-3-bfg,,,,337047222
 rclip,,,,337372491
 rdpgw,,,,337047312
-readest,337379455,,,
 reaper-sws-extension,,,,337047421
 recoll-nox,,,,337390138
 recoll,,,,337390137
@@ -1824,7 +1818,6 @@ shader-slang,,,,337295658
 shaperglot,337057274,337057282,,337057273
 shpool,,,,337057494
 sif,,,,337057553
-siyuan,,,,337296748
 sketchybar,,,,337057909
 skypilot,337058036,337058034,,337058033
 slint-viewer,,,,337377873
@@ -1834,7 +1827,6 @@ snouty,,337372530,,
 snpeff,,,,337058499
 socalabs-sid,337379513,,,
 solana-agave,,,,337058633
-sone,337379515,,,
 soundconverter,337058797,337058802,,
 spacebar,,,,337058869
 spades,,,,337058895
@@ -1892,12 +1884,11 @@ tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,,337063856
 tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,,337063868
 tests.hardeningFlags-gcc.sfa3explicitDisabledDoesntDisableSfa1ExecTest,,,,337063874
 tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,,,,337063881
-tests.home-assistant-components.anthropic,337064083,337064077,,
-tests.home-assistant-components.ecovacs,337064378,337064377,,
+tests.home-assistant-components.anthropic,,337391848,,
 tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,,337067290
 tests.testers.runCommand.bork,337067484,337067482,,337067481
 tests.texlive.binaries,337067553,337067567,,337067576
-tev,,,,337067764
+tev,,,,337394040
 texmacs,,,,337067829
 teyjus,,,,337067940
 timewall,,337068305,,337068304
@@ -1905,7 +1896,7 @@ timr-tui,,,,337068323
 toastify,,,,337068831
 todds,,337068843,,
 tokscale,,337068882,,
-topgrade,,,,337069005
+topgrade,,,,337394047
 tortoisehg,337069038,337069037,,
 tpm2-totp,,,,337069606
 tpnote,,337069123,,337069122
@@ -1963,8 +1954,8 @@ wfuzz,337092059,337092061,,337092065
 wfview,337092063,337092057,,337092060
 whale,,,,337092103
 whipper,337092144,337092139,,337092153
-whisper-cpp-vulkan,,,,337092151
-whisper-cpp,,,,337092145
+whisper-cpp-vulkan,,,,337394099
+whisper-cpp,,,,337394095
 whitesur-gtk-theme,,,,337092173
 wiiuse,,,,337092215
 wireshark,,,,337295732
@@ -1982,6 +1973,7 @@ xob,,,,337093969
 xonotic-dedicated-unwrapped,,,,337093975
 xonotic-sdl-unwrapped,,,,337093978
 xorg-server,,,,337094050
+xournalpp,,,,337390312
 xsnow,,337094184,,337094189
 xstow,,,,337094191
 yabai,,,,337094313

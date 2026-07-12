@@ -12,7 +12,7 @@ id,name,system
 336872273,alot,x86_64-linux
 336872343,alttab,aarch64-darwin
 336872440,amnezia-vpn-bin,x86_64-linux
-337296196,ansible-language-server,aarch64-darwin
+337390383,ansible-language-server,aarch64-darwin
 336872795,anvil-editor,aarch64-darwin
 336872812,ao3downloader,aarch64-darwin
 336873005,ao3downloader,aarch64-linux
@@ -158,8 +158,7 @@ id,name,system
 336879617,cgt-calc,x86_64-linux
 336879614,cgterm,aarch64-darwin
 336880356,chickenPackages_5.chickenEggs.fusion-arrays,aarch64-darwin
-337296244,chiri,aarch64-darwin
-337378397,chiri,x86_64-linux
+337390467,chiri,aarch64-darwin
 336881696,choose-gui,aarch64-darwin
 337378398,cinny-desktop,x86_64-linux
 336882043,cleanit,aarch64-darwin
@@ -169,7 +168,6 @@ id,name,system
 336882047,clevercsv,aarch64-linux
 336882050,clevercsv,x86_64-linux
 336882066,clfft,aarch64-darwin
-337297870,cliamp,aarch64-darwin
 336882350,clutter,aarch64-darwin
 336882619,cocom-tool-set,aarch64-darwin
 337378420,codeblocks,x86_64-linux
@@ -273,7 +271,7 @@ id,name,system
 336887919,easylpac,aarch64-darwin
 336887994,ecl_16_1_2,aarch64-linux
 336887993,ecl_16_1_2,x86_64-linux
-336888256,eggnog-mapper,aarch64-darwin
+337390513,eggnog-mapper,aarch64-darwin
 336888328,ela-widget-tools,aarch64-darwin
 336888418,elements,aarch64-darwin
 336888566,elmPackages.elm-wrap,aarch64-darwin
@@ -530,13 +528,12 @@ id,name,system
 336923076,hgrep,aarch64-linux
 337295348,hime,aarch64-linux
 337295347,hime,x86_64-linux
-337378669,home-assistant-custom-components.gtfs-realtime,aarch64-linux
-337378667,home-assistant-custom-components.gtfs-realtime,x86_64-linux
-336923433,home-assistant-custom-components.mypyllant,aarch64-linux
-336923434,home-assistant-custom-components.mypyllant,x86_64-linux
-336924098,home-assistant-custom-components.powercalc,aarch64-linux
-336924008,home-assistant-custom-components.powercalc,x86_64-linux
-336924258,home-assistant-custom-components.thewatchman,x86_64-linux
+337390647,home-assistant-custom-components.gtfs-realtime,aarch64-linux
+337390650,home-assistant-custom-components.gtfs-realtime,x86_64-linux
+337390664,home-assistant-custom-components.mypyllant,aarch64-linux
+337390666,home-assistant-custom-components.mypyllant,x86_64-linux
+337390668,home-assistant-custom-components.powercalc,aarch64-linux
+337390662,home-assistant-custom-components.powercalc,x86_64-linux
 336923520,home-assistant-custom-components.yoto_ha,aarch64-linux
 336923522,home-assistant-custom-components.yoto_ha,x86_64-linux
 336923824,hsd,aarch64-darwin
@@ -698,7 +695,7 @@ id,name,system
 336935248,lice,aarch64-darwin
 336935247,lice,aarch64-linux
 336935249,lice,x86_64-linux
-336935475,lidarr,aarch64-darwin
+337390755,lidarr,aarch64-darwin
 336935395,lima-full,aarch64-darwin
 336935387,lima,aarch64-darwin
 336935586,linuxKernel.packages.linux_5_10.acer-wmi-battery,aarch64-linux
@@ -1184,13 +1181,10 @@ id,name,system
 336948927,mucommander,aarch64-darwin
 336948572,multipart-parser-c,aarch64-darwin
 337371656,mumble,aarch64-darwin
-337371663,murmure,aarch64-darwin
 336948678,musescore-evolution,aarch64-darwin
 336948674,musescore-evolution,aarch64-linux
 336948676,musescore-evolution,x86_64-linux
-336948679,musescore,aarch64-darwin
-336948671,musescore,aarch64-linux
-336948673,musescore,x86_64-linux
+337390828,musescore,aarch64-darwin
 336948700,musikcube,aarch64-darwin
 336948878,mystmd,aarch64-darwin
 336948915,nagiosPlugins.check_interfaces,aarch64-darwin
@@ -1310,9 +1304,9 @@ id,name,system
 336961034,opendrop,x86_64-linux
 337376302,opengothic,aarch64-linux
 336961297,openpa,aarch64-darwin
-336961394,openrussian-cli,aarch64-darwin
-336961405,openrussian-cli,aarch64-linux
-336961399,openrussian-cli,x86_64-linux
+337390898,openrussian-cli,aarch64-darwin
+337390897,openrussian-cli,aarch64-linux
+337390901,openrussian-cli,x86_64-linux
 336961409,openscenegraph,aarch64-darwin
 336961495,openssh-askpass,aarch64-darwin
 336961768,oq,aarch64-darwin
@@ -1389,7 +1383,7 @@ id,name,system
 337376509,pkgsRocm.python3Packages.tinygrad,x86_64-linux
 337376517,pkgsRocm.seagoat,x86_64-linux
 337295101,pkgsRocm.tabby,x86_64-linux
-336978057,pkgsRocm.whisper-cpp-vulkan,x86_64-linux
+337390968,pkgsRocm.whisper-cpp-vulkan,x86_64-linux
 336978080,plan9port,aarch64-darwin
 336978252,plover_4,aarch64-linux
 336978258,plover_4,x86_64-linux
@@ -1469,7 +1463,7 @@ id,name,system
 336979855,postgresql19Packages.wal2json,aarch64-linux
 336979857,postgresql19Packages.wal2json,x86_64-linux
 336980010,postgresqlPackages.pointcloud,aarch64-darwin
-336980102,postsrsd,aarch64-darwin
+337390989,postsrsd,aarch64-darwin
 336980184,powertabeditor,aarch64-darwin
 336980361,prime-server,aarch64-darwin
 336980422,prmt,aarch64-darwin
@@ -1598,9 +1592,6 @@ id,name,system
 336985864,python313Packages.category-encoders,aarch64-darwin
 336985862,python313Packages.category-encoders,aarch64-linux
 336985865,python313Packages.category-encoders,x86_64-linux
-336985869,python313Packages.catppuccin,aarch64-darwin
-336985870,python313Packages.catppuccin,aarch64-linux
-336985872,python313Packages.catppuccin,x86_64-linux
 336985890,python313Packages.cdcs,aarch64-darwin
 336985887,python313Packages.cdcs,aarch64-linux
 336985888,python313Packages.cdcs,x86_64-linux
@@ -2426,9 +2417,6 @@ id,name,system
 337018000,python314Packages.category-encoders,aarch64-darwin
 337017997,python314Packages.category-encoders,aarch64-linux
 337017999,python314Packages.category-encoders,x86_64-linux
-337018003,python314Packages.catppuccin,aarch64-darwin
-337018004,python314Packages.catppuccin,aarch64-linux
-337018006,python314Packages.catppuccin,x86_64-linux
 337018021,python314Packages.cdcs,aarch64-darwin
 337018022,python314Packages.cdcs,aarch64-linux
 337018023,python314Packages.cdcs,x86_64-linux
@@ -3190,7 +3178,6 @@ id,name,system
 337047222,rbdoom-3-bfg,aarch64-darwin
 337372491,rclip,aarch64-darwin
 337047312,rdpgw,aarch64-darwin
-337379455,readest,x86_64-linux
 337047421,reaper-sws-extension,aarch64-darwin
 337390138,recoll-nox,aarch64-darwin
 337390137,recoll,aarch64-darwin
@@ -3277,7 +3264,6 @@ id,name,system
 337057274,shaperglot,x86_64-linux
 337057494,shpool,aarch64-darwin
 337057553,sif,aarch64-darwin
-337296748,siyuan,aarch64-darwin
 337057909,sketchybar,aarch64-darwin
 337058033,skypilot,aarch64-darwin
 337058034,skypilot,aarch64-linux
@@ -3289,7 +3275,6 @@ id,name,system
 337058499,snpeff,aarch64-darwin
 337379513,socalabs-sid,x86_64-linux
 337058633,solana-agave,aarch64-darwin
-337379515,sone,x86_64-linux
 337058802,soundconverter,aarch64-linux
 337058797,soundconverter,x86_64-linux
 337058869,spacebar,aarch64-darwin
@@ -3364,10 +3349,7 @@ id,name,system
 337063868,tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,aarch64-darwin
 337063874,tests.hardeningFlags-gcc.sfa3explicitDisabledDoesntDisableSfa1ExecTest,aarch64-darwin
 337063881,tests.hardeningFlags-gcc.sfa3explicitEnabledProtectsDefLen1ExecTest,aarch64-darwin
-337064077,tests.home-assistant-components.anthropic,aarch64-linux
-337064083,tests.home-assistant-components.anthropic,x86_64-linux
-337064377,tests.home-assistant-components.ecovacs,aarch64-linux
-337064378,tests.home-assistant-components.ecovacs,x86_64-linux
+337391848,tests.home-assistant-components.anthropic,aarch64-linux
 337067290,tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,aarch64-darwin
 337067481,tests.testers.runCommand.bork,aarch64-darwin
 337067482,tests.testers.runCommand.bork,aarch64-linux
@@ -3375,7 +3357,7 @@ id,name,system
 337067576,tests.texlive.binaries,aarch64-darwin
 337067567,tests.texlive.binaries,aarch64-linux
 337067553,tests.texlive.binaries,x86_64-linux
-337067764,tev,aarch64-darwin
+337394040,tev,aarch64-darwin
 337067829,texmacs,aarch64-darwin
 337067940,teyjus,aarch64-darwin
 337068304,timewall,aarch64-darwin
@@ -3384,7 +3366,7 @@ id,name,system
 337068831,toastify,aarch64-darwin
 337068843,todds,aarch64-linux
 337068882,tokscale,aarch64-linux
-337069005,topgrade,aarch64-darwin
+337394047,topgrade,aarch64-darwin
 337069037,tortoisehg,aarch64-linux
 337069038,tortoisehg,x86_64-linux
 337069606,tpm2-totp,aarch64-darwin
@@ -3469,8 +3451,8 @@ id,name,system
 337092153,whipper,aarch64-darwin
 337092139,whipper,aarch64-linux
 337092144,whipper,x86_64-linux
-337092151,whisper-cpp-vulkan,aarch64-darwin
-337092145,whisper-cpp,aarch64-darwin
+337394099,whisper-cpp-vulkan,aarch64-darwin
+337394095,whisper-cpp,aarch64-darwin
 337092173,whitesur-gtk-theme,aarch64-darwin
 337092215,wiiuse,aarch64-darwin
 337295732,wireshark,aarch64-darwin
@@ -3491,6 +3473,7 @@ id,name,system
 337093975,xonotic-dedicated-unwrapped,aarch64-darwin
 337093978,xonotic-sdl-unwrapped,aarch64-darwin
 337094050,xorg-server,aarch64-darwin
+337390312,xournalpp,aarch64-darwin
 337094189,xsnow,aarch64-darwin
 337094184,xsnow,aarch64-linux
 337094191,xstow,aarch64-darwin
