@@ -22,6 +22,7 @@ id,name,system
 337471382,apacheHttpdPackages_2_4.mod_tile,x86_64-linux
 336872998,apcupsd,aarch64-darwin
 336873274,archivemount,aarch64-darwin
+338445372,ardour,aarch64-darwin
 336873306,arduino-create-agent,aarch64-darwin
 338349168,ares,aarch64-darwin
 338001039,arftracksat,aarch64-darwin
@@ -966,6 +967,7 @@ id,name,system
 336947299,mlton20130715,x86_64-linux
 336947305,mlton20210117,aarch64-darwin
 336947426,mobsql,aarch64-darwin
+338438955,modal,aarch64-darwin
 338430674,mokuro,aarch64-darwin
 338430669,mokuro,aarch64-linux
 338430667,mokuro,x86_64-linux
@@ -1779,6 +1781,8 @@ id,name,system
 338439204,python313Packages.mlflow,aarch64-darwin
 338439200,python313Packages.mlflow,aarch64-linux
 338439199,python313Packages.mlflow,x86_64-linux
+338439205,python313Packages.modal,aarch64-darwin
+338439210,python313Packages.modal,aarch64-linux
 336996201,python313Packages.monosat,aarch64-darwin
 336996228,python313Packages.monty,aarch64-darwin
 336996208,python313Packages.monty,aarch64-linux
@@ -2505,6 +2509,7 @@ id,name,system
 338439438,python314Packages.mlflow,aarch64-linux
 338439430,python314Packages.mlflow,x86_64-linux
 337028034,python314Packages.mlx,aarch64-darwin
+338439431,python314Packages.modal,aarch64-darwin
 337028186,python314Packages.monosat,aarch64-darwin
 337028206,python314Packages.monty,aarch64-darwin
 337028221,python314Packages.monty,aarch64-linux
@@ -3200,7 +3205,6 @@ id,name,system
 338439579,wapiti,aarch64-darwin
 337091519,warzone2100,aarch64-linux
 337091521,warzone2100,x86_64-linux
-337091626,watchexec,aarch64-darwin
 337091749,waylock,aarch64-linux
 337989494,webdev,aarch64-linux
 337989495,webdev,x86_64-linux
@@ -3232,7 +3236,6 @@ id,name,system
 337093404,xdriinfo,aarch64-darwin
 337093458,xephem,aarch64-darwin
 337093709,xhosts,aarch64-darwin
-337093739,xjadeo,aarch64-darwin
 337093969,xob,aarch64-darwin
 337093975,xonotic-dedicated-unwrapped,aarch64-darwin
 337093978,xonotic-sdl-unwrapped,aarch64-darwin
