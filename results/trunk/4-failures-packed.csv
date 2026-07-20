@@ -100,6 +100,7 @@ chirpstack-gateway-bridge,,338427541,,
 choose-gui,,,,336881696
 clevercsv,336882050,336882047,,336882049
 clfft,,,,336882066
+cloudcompare,338472531,338472523,,
 clutter,,,,336882350
 cni-plugin-flannel,,338224638,,
 cocom-tool-set,,,,336882619
@@ -343,7 +344,7 @@ hdate,,,,336922744
 hekatomb,336922891,336922890,,336922887
 hexagonrpc,,,,336923005
 hgrep,,336923076,,
-hime,337295347,337295348,,
+hime,338472619,338472617,,
 home-assistant-custom-components.gtfs-realtime,338224920,,,
 home-assistant-custom-components.mypyllant,338224939,,,
 home-assistant-custom-components.yoto_ha,338224971,,,
@@ -379,7 +380,7 @@ jj-pre-push,,,,337983152
 jogger,336927680,336927676,,
 jogl,,,,336927679
 jpegli,,336927771,,
-jtdx,,,,336928009
+jtdx,,,,338472648
 julia_110,,,,336928070
 julia_111,,,,336928078
 junkie,,,,336928117
@@ -770,7 +771,7 @@ nmstate,,,,336951218
 nodehun,,,,337378876
 noriskclient-launcher,337378882,337378878,,
 notes,,,,336951445
-notesnook,,,,336951451
+notesnook,,,,338472784
 notonoto-35,336951522,336951519,,336951515
 notonoto-console,336951523,336951521,,336951520
 notonoto-hs-35,336951527,336951528,,336951526
@@ -833,6 +834,7 @@ openssh-askpass,,,,338431014
 oq,336961760,336961759,,336961768
 osmctools,,,,336961896
 osrm-backend,,,,336961940
+otb,338472841,338472828,,
 outguess,,,,336962045
 oxker,,,,336962143
 p4c,336962170,336962171,,
@@ -864,19 +866,18 @@ pixieditor,,,,337984098
 pjsip,,,,336977418
 pkgit,,,,336977453
 pkgsRocm.babeldoc,338456796,,,
+pkgsRocm.cloudcompare,338473108,,,
 pkgsRocm.dyndnsc,336977512,,,
 pkgsRocm.migrate,338456880,,,
+pkgsRocm.otb,338473137,,,
 pkgsRocm.python3Packages.elastic-apm,337439698,,,
 pkgsRocm.python3Packages.gpuctypes,338457008,,,
+pkgsRocm.python3Packages.pymedio,338473141,,,
 pkgsRocm.python3Packages.slack-bolt,336977932,,,
-pkgsRocm.python3Packages.vtk,338457228,,,
 pkgsRocm.seagoat,338457266,,,
+pkgsRocm.siesta-mpi,338457251,,,
 pkgsRocm.spla,338457255,,,
 pkgsRocm.tabby,338457265,,,
-pkgsRocm.vtk-full,338457293,,,
-pkgsRocm.vtk,338457291,,,
-pkgsRocm.vtkWithQt6,338457296,,,
-pkgsRocm.vtk_9_5,338457295,,,
 pkgsRocm.whisper-cpp-vulkan,338457298,,,
 plan9port,,,,336978080
 plover_4,336978258,336978252,,
@@ -1113,7 +1114,6 @@ python313Packages.pgmpy,,337984540,,
 python313Packages.pillowfight,336999829,336999827,,336999826
 python313Packages.pint-pandas,336999859,336999860,,336999858
 python313Packages.pjsua2,,,,336999933
-python313Packages.plotnine,338433085,338433088,,338433084
 python313Packages.plover_4,337000149,337000140,,
 python313Packages.pmdarima,337000120,337000121,,337000122
 python313Packages.ppscore,337000285,337000286,,337000287
@@ -1136,6 +1136,7 @@ python313Packages.pylibjpeg-rle,,,,337002201
 python313Packages.pylsl,,,,337377017
 python313Packages.pylsp-mypy,337002293,337002300,,337002295
 python313Packages.pymatreader,338433179,338433178,,338433177
+python313Packages.pymedio,338473253,,,
 python313Packages.pynest2d,337002541,337002542,,
 python313Packages.pyobjus,,,,337002646
 python313Packages.pyomo,,,,337002670
@@ -1215,7 +1216,6 @@ python313Packages.vnoise,337012703,337012699,,337012698
 python313Packages.vowpalwabbit,,,,337012735
 python313Packages.vprof,337012741,337012740,,337012742
 python313Packages.vsts,337012745,337012746,,337012743
-python313Packages.vtk,337984706,337984708,,
 python313Packages.webargs,337012929,337012952,,337012927
 python313Packages.wfuzz,337013043,337013034,,337013038
 python313Packages.wirerope,337013150,337013151,,337013149
@@ -1408,7 +1408,6 @@ python314Packages.pgmpy,,337985018,,
 python314Packages.pillowfight,337031791,337031792,,337031786
 python314Packages.pint-pandas,337031822,337031818,,337031817
 python314Packages.pjsua2,,,,337031897
-python314Packages.plotnine,338435794,338435792,,338435796
 python314Packages.plover_4,337032016,337032013,,
 python314Packages.plum-py,337377531,337377530,,337377532
 python314Packages.pmdarima,337032077,337032079,,337032072
@@ -1431,6 +1430,7 @@ python314Packages.pylibjpeg-rle,,,,337034168
 python314Packages.pylsl,,,,337377563
 python314Packages.pylsp-mypy,337034257,337034255,,337034259
 python314Packages.pymatreader,338435882,338435884,,338435883
+python314Packages.pymedio,338473354,,,
 python314Packages.pynest2d,337034503,337034497,,
 python314Packages.pyobjus,,,,337034602
 python314Packages.pyomo,337034630,337034626,,337034625
@@ -1510,7 +1510,6 @@ python314Packages.vnoise,337044559,337044560,,337044557
 python314Packages.vowpalwabbit,,,,337044600
 python314Packages.vprof,337044599,337044601,,337044605
 python314Packages.vsts,337044603,337044604,,337044602
-python314Packages.vtk,337985184,337985183,,
 python314Packages.webargs,337044790,337044791,,337044867
 python314Packages.wfuzz,337044896,337044889,,337044900
 python314Packages.wirerope,337045007,337045004,,337045006
@@ -1629,6 +1628,7 @@ shaperglot,337057274,337057282,,337057273
 shpool,,,,337057494
 sif,,,,337057553
 sioyek,,,,337501907
+siyuan,,,,338457500
 slint-viewer,,,,337377873
 smpeg,,,,337058287
 snid,,,,337058405
@@ -1669,6 +1669,7 @@ syncstorage-rs,337060934,337060936,,
 synergy,,,,337060948
 synergyWithoutGUI,,,,337060947
 syzkaller,,,,337061073
+tabby-agent,,,,338457529
 tabby,338437741,338437740,,338437742
 tabiew,,,,337061273
 tack,,,,337061140
@@ -1757,11 +1758,7 @@ vorbisgain,,,,337089748
 vpp,337089788,337089787,,
 vprof,337089784,337089783,,337089782
 vpv,338351866,338351865,,
-vtk-full,337985716,337985715,,
-vtk,337985694,337985703,,
-vtkWithQt6,337985698,337985700,,
-vtk_9_5,337985710,337985717,,
-vtk_9_6,338003368,338003367,,
+vtk_9_6,338473508,338473503,,
 vulkan-tools,,,,337091327
 wapiti,,,,338439579
 warzone2100,337091521,337091519,,
