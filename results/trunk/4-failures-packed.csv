@@ -33,7 +33,6 @@ azure-cli-extensions.serial-console,338640941,338640937,,338640938
 azure-cli-extensions.stack-hci-vm,338640959,338640958,,338640957
 azure-cli-extensions.webpubsub,338641027,338641026,,338641024
 azure-sdk-for-cpp.security-attestation,338641085,338641084,,
-babeldoc,338995654,,,
 barman,,,,338641340
 bbot,338641633,338641596,,338642110
 beadwork,,338641604,,
@@ -72,7 +71,7 @@ cloudcompare,339139580,339139584,,
 cocom-tool-set,,,,338648274
 compare50,338648685,338648682,,338648703
 contour,,,,338648863
-coqPackages.dpdgraph,,,,338649066
+copacetic,,,,339155258
 coredns,,339143936,,
 cortex-tools,338649418,338649417,,338649416
 cosmopolitan,338649510,,,
@@ -153,7 +152,6 @@ fmt_10,,,,338656864
 fmt_9,,,,338656873
 ford,,,,338657097
 fortitude,,,,338657153
-freeipa,339139692,339139691,,
 freepv,,,,338657360
 g15daemon,,,,338657770
 gam,338657838,338657835,,338657836
@@ -286,7 +284,6 @@ hime,338688905,338688904,,
 home-assistant-custom-components.gtfs-realtime,339139753,,,
 home-assistant-custom-components.homematicip_local,339139773,,,
 home-assistant-custom-components.thewatchman,339139818,,,
-home-assistant-custom-components.yoto_ha,338689257,,,
 hsd,,,,338689701
 httpstat,338689694,338689693,,338689692
 hunk,,,,339139846
@@ -298,7 +295,6 @@ hyprlandPlugins.hyprgrass,338995938,338995924,,
 hyprlandPlugins.hyprspace,338995964,338995946,,
 hyprlandPlugins.hyprsplit,338995932,338995937,,
 hyprlandPlugins.imgborders,338995950,338995931,,
-hyprmagnifier,338995934,338995979,,
 hyprproxlock,,,,338690856
 icesprog,,,,338691099
 iconpack-jade,338691178,338691181,,
@@ -465,7 +461,6 @@ linuxKernel.packages.linux_7_1.nvidia_x11_beta_open,338702823,338702825,,
 linuxKernel.packages.linux_7_1.nxp-pn5xx,338702836,338702832,,
 linuxKernel.packages.linux_7_1.rtl8189es,338702860,338702859,,
 linuxKernel.packages.linux_7_1.rtl8189fs,338702861,338702862,,
-linuxKernel.packages.linux_7_1.rtl8821ce,338702863,,,
 linuxKernel.packages.linux_7_1.rtl8821cu,338702865,338702864,,
 linuxKernel.packages.linux_7_1.rtl88x2bu,338702870,338702866,,
 linuxKernel.packages.linux_7_1.tsme-test,338702893,338702894,,
@@ -486,7 +481,6 @@ linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta_open,338703130,,,
 linuxKernel.packages.linux_xanmod_latest.nxp-pn5xx,338703138,,,
 linuxKernel.packages.linux_xanmod_latest.rtl8189es,338703152,,,
 linuxKernel.packages.linux_xanmod_latest.rtl8189fs,338703153,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8821ce,338703154,,,
 linuxKernel.packages.linux_xanmod_latest.rtl8821cu,338703155,,,
 linuxKernel.packages.linux_xanmod_latest.rtl88x2bu,338703156,,,
 linuxKernel.packages.linux_xanmod_latest.tsme-test,338703173,,,
@@ -503,7 +497,6 @@ linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta_open,338703263,,,
 linuxKernel.packages.linux_xanmod_stable.nxp-pn5xx,338703270,,,
 linuxKernel.packages.linux_xanmod_stable.rtl8189es,338703286,,,
 linuxKernel.packages.linux_xanmod_stable.rtl8189fs,338703287,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8821ce,338703288,,,
 linuxKernel.packages.linux_xanmod_stable.rtl8821cu,338703289,,,
 linuxKernel.packages.linux_xanmod_stable.rtl88x2bu,338703290,,,
 linuxKernel.packages.linux_xanmod_stable.tsme-test,338703310,,,
@@ -520,7 +513,6 @@ linuxKernel.packages.linux_zen.nvidia_x11_beta_open,338703399,,,
 linuxKernel.packages.linux_zen.nxp-pn5xx,338703405,,,
 linuxKernel.packages.linux_zen.rtl8189es,338703421,,,
 linuxKernel.packages.linux_zen.rtl8189fs,338703422,,,
-linuxKernel.packages.linux_zen.rtl8821ce,338703423,,,
 linuxKernel.packages.linux_zen.rtl8821cu,338703424,,,
 linuxKernel.packages.linux_zen.rtl88x2bu,338703425,,,
 linuxKernel.packages.linux_zen.tsme-test,338703440,,,
@@ -546,7 +538,6 @@ linuxPackages_latest.nvidia_x11_beta_open,338703785,338703784,,
 linuxPackages_latest.nxp-pn5xx,338703798,338703797,,
 linuxPackages_latest.rtl8189es,338703822,338703819,,
 linuxPackages_latest.rtl8189fs,338703824,338703823,,
-linuxPackages_latest.rtl8821ce,338703828,,,
 linuxPackages_latest.rtl8821cu,338703825,338703826,,
 linuxPackages_latest.rtl88x2bu,338703827,338703829,,
 linuxPackages_latest.tsme-test,338703854,338703855,,
@@ -567,7 +558,6 @@ linuxPackages_xanmod_latest.nvidia_x11_beta_open,338704096,,,
 linuxPackages_xanmod_latest.nxp-pn5xx,338704495,,,
 linuxPackages_xanmod_latest.rtl8189es,338704118,,,
 linuxPackages_xanmod_latest.rtl8189fs,338704116,,,
-linuxPackages_xanmod_latest.rtl8821ce,338704119,,,
 linuxPackages_xanmod_latest.rtl8821cu,338704120,,,
 linuxPackages_xanmod_latest.rtl88x2bu,338704121,,,
 linuxPackages_xanmod_latest.tsme-test,338704139,,,
@@ -584,7 +574,6 @@ linuxPackages_xanmod_stable.nvidia_x11_beta_open,338704229,,,
 linuxPackages_xanmod_stable.nxp-pn5xx,338704236,,,
 linuxPackages_xanmod_stable.rtl8189es,338704251,,,
 linuxPackages_xanmod_stable.rtl8189fs,338704252,,,
-linuxPackages_xanmod_stable.rtl8821ce,338704253,,,
 linuxPackages_xanmod_stable.rtl8821cu,338704254,,,
 linuxPackages_xanmod_stable.rtl88x2bu,338704255,,,
 linuxPackages_xanmod_stable.tsme-test,338704273,,,
@@ -601,7 +590,6 @@ linuxPackages_zen.nvidia_x11_beta_open,338704362,,,
 linuxPackages_zen.nxp-pn5xx,338704370,,,
 linuxPackages_zen.rtl8189es,338704382,,,
 linuxPackages_zen.rtl8189fs,338704385,,,
-linuxPackages_zen.rtl8821ce,338704387,,,
 linuxPackages_zen.rtl8821cu,338704386,,,
 linuxPackages_zen.rtl88x2bu,338704388,,,
 linuxPackages_zen.tsme-test,338704404,,,
@@ -700,7 +688,7 @@ nihstro,,,,338715906
 nix-serve-ng,,338716313,,338716218
 nmstate,,,,338716957
 nodehun,,,,338717021
-noriskclient-launcher,339140037,339140038,,
+noriskclient-launcher,339157050,339157053,,
 notesnook,,,,338717185
 notonoto-35,338717254,338717253,,338717251
 notonoto-console,338717257,338717256,,338717255
@@ -723,7 +711,7 @@ ocamlPackages.janeStreet.ecaml,,,,338719583
 ocamlPackages.janeStreet.janestreet_cpuid,,338719643,,338719647
 ocamlPackages.janestreet_cpuid,,338719966,,338720077
 ocamlPackages.llvm,,,,338720146
-ocamlPackages.magic-trace,,338720350,,
+ocamlPackages.magic-trace,,339157284,,
 ocamlPackages.owl,,,,338720864
 ocamlPackages.stog,,,,338721628
 ocamlPackages_latest.class_group_vdf,,,,338722418
@@ -733,7 +721,7 @@ ocamlPackages_latest.janeStreet.ecaml,,,,338723470
 ocamlPackages_latest.janeStreet.janestreet_cpuid,,338723529,,338723533
 ocamlPackages_latest.janestreet_cpuid,,338723849,,338723851
 ocamlPackages_latest.llvm,,,,338724026
-ocamlPackages_latest.magic-trace,,338724144,,
+ocamlPackages_latest.magic-trace,,339157598,,
 ocamlPackages_latest.owl,,,,338724750
 ocamlPackages_latest.stog,,,,338725505
 ocrs,338725962,,,
@@ -791,7 +779,6 @@ pipenv-poetry-migrate,338743100,338743099,,338743097
 pipx,338743152,338743151,,338743145
 pixieditor,,,,338743280
 pkgit,,,,338743257
-pkgsRocm.babeldoc,338996462,,,
 pkgsRocm.cloudcompare,339140119,,,
 pkgsRocm.dyndnsc,338743313,,,
 pkgsRocm.migrate,338743397,,,
@@ -824,7 +811,7 @@ pkgsRocm.python3Packages.rerun-sdk,338989465,,,
 pkgsRocm.python3Packages.scikit-survival,338989442,,,
 pkgsRocm.python3Packages.slack-bolt,338743737,,,
 pkgsRocm.python3Packages.slicer,338989451,,,
-pkgsRocm.python3Packages.stytra,338989464,,,
+pkgsRocm.python3Packages.stytra,339157929,,,
 pkgsRocm.python3Packages.ultralytics,338996599,,,
 pkgsRocm.rclip,338996523,,,
 pkgsRocm.seagoat,338996527,,,
@@ -857,7 +844,7 @@ postgresql19Packages.pg_graphql,338745555,338745543,,
 postgresql19Packages.pg_hll,338745541,338745540,,338745538
 postgresql19Packages.pg_ivm,338745542,338745551,,338745539
 postgresql19Packages.pg_rational,,,,338745554
-postgresql19Packages.pg_search,338745577,338745581,,
+postgresql19Packages.pg_search,339157946,339157949,,
 postgresql19Packages.pg_similarity,338745572,338745570,,338745571
 postgresql19Packages.pg_textsearch,338745597,338745578,,338745576
 postgresql19Packages.pg_tle,338745583,338745584,,338745580
@@ -938,12 +925,13 @@ python313Packages.busylight-for-humans,338751507,338751500,,338751496
 python313Packages.cachier,338751538,338751540,,338751541
 python313Packages.cadwyn,338751550,338751543,,338751545
 python313Packages.caldav,,,,339155539
+python313Packages.caldav_2,,,,339155540
 python313Packages.canmatrix,338751596,338751595,,338751594
 python313Packages.capa,338751679,338751649,,338751664
 python313Packages.capstone_4,338751615,338751614,,338751613
 python313Packages.category-encoders,338751689,338751690,,338751686
 python313Packages.cdcs,338751714,338751711,,338751709
-python313Packages.celery-redbeat,338751750,338751753,,338751735
+python313Packages.celery-redbeat,339157980,339157979,,339157978
 python313Packages.cert-chain-resolver,338751745,338751744,,338751742
 python313Packages.check-manifest,338751873,338751896,,338751947
 python313Packages.checksumdir,338751884,338751882,,338751881
@@ -1140,7 +1128,7 @@ python313Packages.monosat,,,,338762033
 python313Packages.monty,338762040,338762041,,338762039
 python313Packages.motmetrics,338762084,338762083,,338762082
 python313Packages.mpi4py,,,,338762120
-python313Packages.mplhep,338999247,338999249,,338999248
+python313Packages.mplhep,339158217,339158219,,339158216
 python313Packages.mpv,,,,339145769
 python313Packages.mrsqm,338762172,338762171,,338762170
 python313Packages.mwclient,338762343,338762342,,338762341
@@ -1269,7 +1257,6 @@ python313Packages.python-constraint,338769988,338769987,,338769985
 python313Packages.python-djvulibre,338770036,338770037,,338770042
 python313Packages.python-etherscan-api,338770082,338770078,,338770077
 python313Packages.python-fontconfig,338770102,338770100,,338770097
-python313Packages.python-lsp-black,338770270,338770251,,338770250
 python313Packages.python-otcextensions,338770373,338770369,,338770377
 python313Packages.python-owasp-zap-v2-4,338770376,338770374,,338770375
 python313Packages.python-prctl,,338770416,,
@@ -1353,7 +1340,7 @@ python313Packages.steampy,338774181,338774180,,338774178
 python313Packages.stp,338774233,338774232,,338774235
 python313Packages.streamz,,338774297,,338774293
 python313Packages.stups-zign,338774354,338774353,,338774361
-python313Packages.stytra,338774403,338774405,,
+python313Packages.stytra,339158309,339158293,,
 python313Packages.succulent,338774374,338774373,,338774375
 python313Packages.swi-tools,338774513,338774514,,338774512
 python313Packages.swisshydrodata,338774530,338774527,,338774525
@@ -1667,7 +1654,6 @@ python313Packages.webargs,338778806,338778796,,338778809
 python313Packages.webexpythonsdk,338778826,338778824,,338778823
 python313Packages.wfuzz,338778901,338778896,,338778898
 python313Packages.wgpu-py,338778917,338778916,,338778915
-python313Packages.wordfreq,338779053,338779065,,338779060
 python313Packages.wsme,338779102,338779104,,338779110
 python313Packages.xdis,338779181,338779180,,338779179
 python313Packages.xml2rfc,338779248,338779249,,338779243
@@ -1746,7 +1732,7 @@ python314Packages.capa,338783852,338783917,,338783877
 python314Packages.capstone_4,338783815,338783814,,338783813
 python314Packages.category-encoders,338783886,338783885,,338783890
 python314Packages.cdcs,338783911,338783910,,338783908
-python314Packages.celery-redbeat,338783981,338783923,,338783951
+python314Packages.celery-redbeat,339158346,339158345,,339158347
 python314Packages.cert-chain-resolver,338783944,338783943,,338783942
 python314Packages.check-manifest,338784100,338784094,,338784148
 python314Packages.checksumdir,338784081,338784080,,338784079
@@ -1933,7 +1919,7 @@ python314Packages.monosat,,,,338794118
 python314Packages.monty,338794131,338794132,,338794129
 python314Packages.motmetrics,338794173,338794171,,338794170
 python314Packages.mpi4py,,,,338794204
-python314Packages.mplhep,338999307,338999308,,338999309
+python314Packages.mplhep,339158589,339158591,,339158584
 python314Packages.mpv,,,,339145889
 python314Packages.mrsqm,338794260,338794259,,338794257
 python314Packages.mwclient,338794424,338794425,,338794423
@@ -2062,7 +2048,6 @@ python314Packages.python-djvulibre,338802099,338802102,,338802097
 python314Packages.python-etherscan-api,338802142,338802140,,338802141
 python314Packages.python-fontconfig,338802163,338802164,,338802161
 python314Packages.python-fx,338802189,338802175,,338802184
-python314Packages.python-lsp-black,338802317,338802311,,338802315
 python314Packages.python-otcextensions,338802453,338802438,,338802439
 python314Packages.python-owasp-zap-v2-4,338802440,338802437,,338802434
 python314Packages.python-prctl,,338802484,,
@@ -2144,7 +2129,7 @@ python314Packages.steampy,338806222,338806220,,338806219
 python314Packages.stp,338806278,338806279,,338806285
 python314Packages.streamz,,,,338806334
 python314Packages.stups-zign,338806393,338806390,,338806392
-python314Packages.stytra,338806494,338806430,,
+python314Packages.stytra,339158672,339158671,,
 python314Packages.succulent,338806416,338806417,,338806415
 python314Packages.swi-tools,338806552,338806549,,338806551
 python314Packages.swisshydrodata,338806564,338806563,,338806562
@@ -2458,7 +2443,6 @@ python314Packages.webargs,338811188,338810803,,338810790
 python314Packages.webexpythonsdk,338811427,338810816,,338810817
 python314Packages.wfuzz,338810894,338810890,,338810888
 python314Packages.wgpu-py,338810897,338810899,,338810898
-python314Packages.wordfreq,338811054,338811046,,338811063
 python314Packages.ws4py,,,,338811072
 python314Packages.wsme,338811101,338811091,,338811095
 python314Packages.xml2rfc,338811236,338811234,,338811242
@@ -2533,6 +2517,7 @@ rp,,338814889,,
 rsop,,,,338815019
 rtk,338815106,338815105,,338815104
 rucola,338820287,,,
+rustfs,,,,339155649
 rvvm,,,,338820561
 s3fs,,,,338820669
 sail-riscv,,,,338820797
@@ -2627,7 +2612,6 @@ tokscale,338834931,338834929,,338834930
 tpm2-totp,,,,338835253
 tpnote,,338835171,,
 transmission-rss,,,,338835373
-trurl,338836438,338836437,,338836436
 ts-warp,,,,338836461
 tsduck,,,,338836473
 tuir,338836669,338836677,,338836687
