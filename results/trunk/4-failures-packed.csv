@@ -54,6 +54,7 @@ cargo-deb,,,,338644329
 cargo-risczero,,,,338644509
 cargo-ui,,,,338644585
 casacore,,,,338644662
+castero,339329275,,,
 cbconvert-gui,338644840,338644842,,
 cbconvert,338644838,338644837,,
 cbmbasic,,,,338644855
@@ -105,7 +106,7 @@ diamond,,,,338651461
 dico,,,,338651463
 dino,,,,338651653
 direvent,,,,338651677
-direwolf-unstable,,,,338651689
+direwolf-unstable,,,,339483153
 direwolf,,,,338651684
 dl-librescore,,,,338651897
 dleyna,,,,338651900
@@ -176,7 +177,7 @@ git-together,,,,338659499
 gitbeaker-cli,,338659578,,
 gitlab-elasticsearch-indexer,,,,338659686
 gjs,,,,338659806
-glances,339266077,339266076,,
+glances,339483181,339483182,,
 globus-cli,338659958,338659961,,338659957
 gnat16Packages.gpr2,338660264,338660263,,
 gnome2.gtksourceview,,,,338660561
@@ -245,7 +246,7 @@ haskellPackages.memzero,,,,338679039
 haskellPackages.minici,,,,338679202
 haskellPackages.miso-examples,338679256,338679257,,
 haskellPackages.network-can,,,,338679995
-haskellPackages.nix-serve-ng,,338681910,,338680966
+haskellPackages.nix-serve-ng,,339483185,,338680966
 haskellPackages.om-time,,,,338680475
 haskellPackages.pdftotext,338681140,338681139,,338681144
 haskellPackages.perceptual-hash,,,,338681245
@@ -342,7 +343,6 @@ kore,,,,338696360
 kube-hunter,338696560,338696562,,338696586
 kubectl-kcl,338696637,338696635,,338696636
 kuro,,,,338696851
-lact,339329529,339329530,,
 ladybugdb,,,,338696970
 landrun,,338697017,,
 lanraragi,,,,338697202
@@ -599,11 +599,11 @@ linuxPackages_zen.tsme-test,339291438,,,
 linuxPackages_zen.vmm_clock,339291453,,,
 linuxkit,,,,338704446
 live555,,,,338704570
-lixPackageSets.git.nix-serve-ng,,338704691,,338704972
-lixPackageSets.latest.nix-serve-ng,,338704696,,338704695
-lixPackageSets.lix_2_94.nix-serve-ng,,338705118,,338705665
-lixPackageSets.lix_2_95.nix-serve-ng,,338704801,,338704800
-lixPackageSets.stable.nix-serve-ng,,338704854,,338704853
+lixPackageSets.git.nix-serve-ng,,339483258,,338704972
+lixPackageSets.latest.nix-serve-ng,,339483280,,338704695
+lixPackageSets.lix_2_94.nix-serve-ng,,339483304,,338705665
+lixPackageSets.lix_2_95.nix-serve-ng,,339483332,,338704800
+lixPackageSets.stable.nix-serve-ng,,339483362,,338704853
 llvmPackages_18.compiler-rt-libc,,,,338705160
 llvmPackages_18.compiler-rt,,,,338705155
 llvmPackages_18.mlir,338705209,338705210,,338705208
@@ -686,7 +686,7 @@ nexa,,338715716,,
 ngadmin,,,,338715807
 nhentai,338716065,338716082,,338715982
 nihstro,,,,338715906
-nix-serve-ng,,338716313,,338716218
+nix-serve-ng,,339483406,,338716218
 nmstate,,,,338716957
 nodehun,,,,338717021
 nodejs-slim_26,,339313766,,
@@ -1020,7 +1020,6 @@ python313Packages.filterpy,,,,338756945
 python313Packages.finetuning-scheduler,338755875,338755873,,338755869
 python313Packages.firecrawl-py,338755896,338755895,,338756260
 python313Packages.fireworks-ai,,,,338756134
-python313Packages.fitfile,338755941,338755943,,338755940
 python313Packages.flask-versioned,338756180,338756181,,338756178
 python313Packages.flickrapi,338756231,338756230,,338756229
 python313Packages.fnllm,338756297,338756296,,338756295
@@ -1645,13 +1644,6 @@ python313Packages.xdis,338779181,338779180,,338779179
 python313Packages.xml2rfc,338779248,338779249,,338779243
 python313Packages.xnatpy,338779273,338779272,,338779282
 python313Packages.xrootd,338779303,338779295,,338779284
-python313Packages.xstatic-asciinema-player,338779300,338779299,,338779298
-python313Packages.xstatic-bootbox,338779307,338779305,,338779304
-python313Packages.xstatic-bootstrap,338779310,338779309,,338779306
-python313Packages.xstatic-font-awesome,338779314,338779312,,338779311
-python313Packages.xstatic-jquery,338779316,338779318,,338779313
-python313Packages.xstatic-pygments,338779330,338779326,,338779323
-python313Packages.xstatic,338779297,338779296,,338779294
 python313Packages.yargy,338779408,338779407,,338779417
 python313Packages.ydata-profiling,338779435,338779427,,338779433
 python313Packages.youtokentome,338779458,338779456,,338779453
@@ -1805,7 +1797,6 @@ python314Packages.filterpy,,,,338787983
 python314Packages.finetuning-scheduler,338788010,338788003,,338788002
 python314Packages.firecrawl-py,338788032,338788033,,338788031
 python314Packages.fireworks-ai,,,,338788054
-python314Packages.fitfile,338788074,338788073,,338788071
 python314Packages.flask-versioned,338788312,338788310,,338788311
 python314Packages.flickrapi,338788367,338788356,,338788357
 python314Packages.fortune,338788496,338788497,,338788494
@@ -2421,13 +2412,6 @@ python314Packages.wsme,338811101,338811091,,338811095
 python314Packages.xml2rfc,338811236,338811234,,338811242
 python314Packages.xnatpy,338811286,338811269,,338811266
 python314Packages.xrootd,338811284,338811430,,338811280
-python314Packages.xstatic-asciinema-player,338811292,338811291,,338811290
-python314Packages.xstatic-bootbox,338811295,338811294,,338811293
-python314Packages.xstatic-bootstrap,338811300,338811298,,338811296
-python314Packages.xstatic-font-awesome,338811302,338811301,,338811299
-python314Packages.xstatic-jquery,338811305,338811304,,338811303
-python314Packages.xstatic-pygments,338811314,338811313,,338811312
-python314Packages.xstatic,338811289,338811288,,338811287
 python314Packages.yargy,338811394,338811391,,338811390
 python314Packages.youtokentome,338811448,338811446,,338811441
 python314Packages.yoyo-migrations,338811461,338811464,,338811460
@@ -2520,7 +2504,7 @@ siesta,338823561,,,
 sif,,,,338997354
 slint-viewer,,,,338824165
 snid,,,,338824425
-snouty,,339269517,,
+snouty,,339483590,,
 snpeff,,,,338824513
 solana-agave,,,,338824648
 sosreport,338824782,338824781,,
@@ -2635,6 +2619,7 @@ wfview,338842655,338842646,,338842657
 whale,,,,338842687
 whitesur-gtk-theme,,,,338842771
 wire-desktop,,,,338842984
+worktrunk,,,,339330205
 wownero,,,,338843437
 wxc,,,,338843605
 x11basic,338843650,338843654,,
