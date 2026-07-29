@@ -85,9 +85,6 @@ id,name,system
 338643855,bicep,aarch64-darwin
 338642370,biglybt,aarch64-darwin
 339915363,bootil,aarch64-darwin
-339915359,borgbackup,aarch64-darwin
-339915364,borgbackup,aarch64-linux
-339915361,borgbackup,x86_64-linux
 338643120,boulder,aarch64-darwin
 339923308,brlcad,x86_64-linux
 338643354,brutus,aarch64-darwin
@@ -129,6 +126,7 @@ id,name,system
 338647698,clevercsv,aarch64-linux
 338647697,clevercsv,x86_64-linux
 339812468,clfft,aarch64-darwin
+339925280,clipcat,aarch64-darwin
 339923356,cloudcompare,aarch64-linux
 339923346,cloudcompare,x86_64-linux
 338648274,cocom-tool-set,aarch64-darwin
@@ -215,6 +213,9 @@ id,name,system
 338654032,ela-widget-tools,aarch64-darwin
 338654227,elmPackages.elm-wrap,aarch64-darwin
 339923379,elmerfem,aarch64-darwin
+339927321,emborg,aarch64-darwin
+339927323,emborg,aarch64-linux
+339927322,emborg,x86_64-linux
 338654381,emmy-lua-code-style,aarch64-darwin
 338654459,enca,aarch64-linux
 338654646,epgstation,aarch64-darwin
@@ -235,6 +236,7 @@ id,name,system
 338655714,fedimint,aarch64-linux
 338655717,fedimint,x86_64-linux
 338655883,ffmpeg-livepeer,aarch64-darwin
+339925313,firefox-beta-unwrapped,aarch64-linux
 339923409,fittrackee,aarch64-linux
 339923410,fittrackee,x86_64-linux
 338656579,fleng,aarch64-darwin
@@ -474,6 +476,8 @@ id,name,system
 338692259,invoice2data,aarch64-linux
 338692260,invoice2data,x86_64-linux
 338692298,ioquake3,aarch64-darwin
+339925363,irrd,aarch64-linux
+339925365,irrd,x86_64-linux
 338692805,j2lint,aarch64-darwin
 338692807,j2lint,aarch64-linux
 338692809,j2lint,x86_64-linux
@@ -510,6 +514,7 @@ id,name,system
 338695813,kind2,x86_64-linux
 338696151,kodiPackages.plex-for-kodi,aarch64-darwin
 339923575,kopuz,aarch64-darwin
+339923576,kopuz,x86_64-linux
 338696358,kord,aarch64-linux
 338696359,kord,x86_64-linux
 338696360,kore,aarch64-darwin
@@ -913,12 +918,13 @@ id,name,system
 339140001,mindustry,x86_64-linux
 339329640,minitube,aarch64-linux
 339329641,minitube,x86_64-linux
+339923753,mise,aarch64-darwin
 338713020,mlton20130715,x86_64-linux
 338713024,mlton20210117,aarch64-darwin
 338713149,mobsql,aarch64-darwin
-338713356,mokuro,aarch64-darwin
-338713339,mokuro,aarch64-linux
-338713383,mokuro,x86_64-linux
+339925428,mokuro,aarch64-darwin
+339925429,mokuro,aarch64-linux
+339925430,mokuro,x86_64-linux
 339915679,mono_repo,aarch64-linux
 339915677,mono_repo,x86_64-linux
 338713351,monotone,aarch64-darwin
@@ -946,7 +952,6 @@ id,name,system
 338996266,mspds,aarch64-darwin
 338996247,mspds,aarch64-linux
 338996257,mspds,x86_64-linux
-339145424,mtail,x86_64-linux
 338714443,mucommander,aarch64-darwin
 339813181,mullvad-vpn,aarch64-darwin
 338714304,multipart-parser-c,aarch64-darwin
@@ -961,6 +966,7 @@ id,name,system
 338714690,naja,aarch64-darwin
 338714729,nanobench,aarch64-darwin
 338714886,nbd,aarch64-darwin
+339923787,netbird-dashboard,aarch64-darwin
 338715528,netfoil,aarch64-darwin
 338715580,netperf,aarch64-darwin
 338715600,netron,aarch64-darwin
@@ -1075,7 +1081,7 @@ id,name,system
 339923925,otb,x86_64-linux
 338727829,outguess,aarch64-darwin
 338727894,owncloud-client,aarch64-darwin
-338727929,oxker,aarch64-darwin
+339925459,oxker,aarch64-darwin
 339915763,p4c,aarch64-linux
 339915762,p4c,x86_64-linux
 338728039,packcc,aarch64-darwin
@@ -1120,7 +1126,7 @@ id,name,system
 339924021,pkgsRocm.cloudcompare,x86_64-linux
 339268459,pkgsRocm.dyndnsc,x86_64-linux
 338743397,pkgsRocm.migrate,x86_64-linux
-338989254,pkgsRocm.mokuro,x86_64-linux
+339925479,pkgsRocm.mokuro,x86_64-linux
 339924033,pkgsRocm.otb,x86_64-linux
 338989241,pkgsRocm.python3Packages.array-api-compat,x86_64-linux
 338989274,pkgsRocm.python3Packages.clip,x86_64-linux
@@ -1248,6 +1254,7 @@ id,name,system
 338746333,profanity,aarch64-darwin
 338746467,prometheus-mikrotik-exporter,aarch64-darwin
 338746852,protoc-gen-js,aarch64-darwin
+339924134,prowlarr,x86_64-linux
 338746897,proxysql,aarch64-linux
 338746898,proxysql,x86_64-linux
 338746991,pspy,aarch64-darwin
@@ -1322,9 +1329,7 @@ id,name,system
 338749645,python313Packages.arelle,aarch64-darwin
 338749642,python313Packages.arelle,aarch64-linux
 338749633,python313Packages.arelle,x86_64-linux
-338749661,python313Packages.ariadne,aarch64-darwin
-338749662,python313Packages.ariadne,aarch64-linux
-338749663,python313Packages.ariadne,x86_64-linux
+339925512,python313Packages.ariadne,aarch64-darwin
 338749700,python313Packages.array-api-compat,aarch64-darwin
 338749670,python313Packages.array-api-compat,aarch64-linux
 338749675,python313Packages.array-api-compat,x86_64-linux
@@ -1593,6 +1598,9 @@ id,name,system
 338755070,python313Packages.elastic-apm,aarch64-darwin
 338755059,python313Packages.elastic-apm,aarch64-linux
 338755061,python313Packages.elastic-apm,x86_64-linux
+339927399,python313Packages.emborg,aarch64-darwin
+339927398,python313Packages.emborg,aarch64-linux
+339927397,python313Packages.emborg,x86_64-linux
 338755227,python313Packages.envisage,aarch64-darwin
 338755230,python313Packages.envisage,aarch64-linux
 338755226,python313Packages.envisage,x86_64-linux
@@ -2298,9 +2306,6 @@ id,name,system
 339268974,python313Packages.retinaface,x86_64-linux
 338771902,python313Packages.rmsd,aarch64-linux
 338771901,python313Packages.rmsd,x86_64-linux
-338772159,python313Packages.ruff-format,aarch64-darwin
-338772160,python313Packages.ruff-format,aarch64-linux
-338772164,python313Packages.ruff-format,x86_64-linux
 338772251,python313Packages.saiph,aarch64-darwin
 338772256,python313Packages.saiph,aarch64-linux
 338772253,python313Packages.saiph,x86_64-linux
@@ -3000,9 +3005,9 @@ id,name,system
 338776134,python313Packages.tree-sitter-grammars.tree-sitter-ql,aarch64-darwin
 338776128,python313Packages.tree-sitter-grammars.tree-sitter-ql,aarch64-linux
 338776132,python313Packages.tree-sitter-grammars.tree-sitter-ql,x86_64-linux
-338776138,python313Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-darwin
-338776137,python313Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-linux
-338776139,python313Packages.tree-sitter-grammars.tree-sitter-qmljs,x86_64-linux
+339925611,python313Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-darwin
+339925610,python313Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-linux
+339925617,python313Packages.tree-sitter-grammars.tree-sitter-qmljs,x86_64-linux
 338776144,python313Packages.tree-sitter-grammars.tree-sitter-query,aarch64-darwin
 338776141,python313Packages.tree-sitter-grammars.tree-sitter-query,aarch64-linux
 338776143,python313Packages.tree-sitter-grammars.tree-sitter-query,x86_64-linux
@@ -3421,9 +3426,6 @@ id,name,system
 338781850,python314Packages.arelle,aarch64-darwin
 338781856,python314Packages.arelle,aarch64-linux
 338781876,python314Packages.arelle,x86_64-linux
-338781878,python314Packages.ariadne,aarch64-darwin
-338781880,python314Packages.ariadne,aarch64-linux
-338781883,python314Packages.ariadne,x86_64-linux
 338781925,python314Packages.array-api-compat,aarch64-darwin
 338781889,python314Packages.array-api-compat,aarch64-linux
 338781919,python314Packages.array-api-compat,x86_64-linux
@@ -3699,6 +3701,9 @@ id,name,system
 338787209,python314Packages.elastic-apm,aarch64-darwin
 338787204,python314Packages.elastic-apm,aarch64-linux
 338787212,python314Packages.elastic-apm,x86_64-linux
+339927412,python314Packages.emborg,aarch64-darwin
+339927414,python314Packages.emborg,aarch64-linux
+339927413,python314Packages.emborg,x86_64-linux
 338787272,python314Packages.embrace,aarch64-linux
 338787372,python314Packages.envisage,aarch64-darwin
 338788157,python314Packages.envisage,aarch64-linux
@@ -4379,9 +4384,6 @@ id,name,system
 338804182,python314Packages.rtoml,aarch64-darwin
 338804186,python314Packages.rtoml,aarch64-linux
 338804187,python314Packages.rtoml,x86_64-linux
-338804216,python314Packages.ruff-format,aarch64-darwin
-338804215,python314Packages.ruff-format,aarch64-linux
-338804217,python314Packages.ruff-format,x86_64-linux
 338804306,python314Packages.saiph,aarch64-darwin
 338804307,python314Packages.saiph,aarch64-linux
 338804310,python314Packages.saiph,x86_64-linux
@@ -5084,9 +5086,9 @@ id,name,system
 338808120,python314Packages.tree-sitter-grammars.tree-sitter-ql,aarch64-darwin
 338808119,python314Packages.tree-sitter-grammars.tree-sitter-ql,aarch64-linux
 338808122,python314Packages.tree-sitter-grammars.tree-sitter-ql,x86_64-linux
-338808124,python314Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-darwin
-338808126,python314Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-linux
-338808127,python314Packages.tree-sitter-grammars.tree-sitter-qmljs,x86_64-linux
+339925727,python314Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-darwin
+339925726,python314Packages.tree-sitter-grammars.tree-sitter-qmljs,aarch64-linux
+339925728,python314Packages.tree-sitter-grammars.tree-sitter-qmljs,x86_64-linux
 338808129,python314Packages.tree-sitter-grammars.tree-sitter-query,aarch64-darwin
 338808130,python314Packages.tree-sitter-grammars.tree-sitter-query,aarch64-linux
 338808128,python314Packages.tree-sitter-grammars.tree-sitter-query,x86_64-linux
@@ -5659,6 +5661,9 @@ id,name,system
 338997477,ultralytics,aarch64-darwin
 339269680,ultralytics,aarch64-linux
 339269679,ultralytics,x86_64-linux
+339925823,umple-lsp,aarch64-darwin
+339925821,umple-lsp,aarch64-linux
+339925822,umple-lsp,x86_64-linux
 338837739,unshieldv3,aarch64-darwin
 338837752,unsilence,aarch64-darwin
 338837750,unsilence,aarch64-linux
@@ -5687,6 +5692,7 @@ id,name,system
 338838585,versatiles,aarch64-darwin
 338838603,vesta,aarch64-darwin
 338838619,vgm2x,aarch64-darwin
+339925206,vimPlugins.avante-nvim,x86_64-linux
 339923034,vimPlugins.neotest,aarch64-linux
 338840182,vixl,aarch64-darwin
 338840268,vodozemac-bindings-cpp,aarch64-darwin

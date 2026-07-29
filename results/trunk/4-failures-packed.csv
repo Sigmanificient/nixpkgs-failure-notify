@@ -40,7 +40,6 @@ beanhub-cli,338642155,338642134,,338642098
 bicep,,,,338643855
 biglybt,,,,338642370
 bootil,,,,339915363
-borgbackup,339915361,339915364,,339915359
 boulder,,,,338643120
 brlcad,339923308,,,
 brutus,,,,338643354
@@ -70,6 +69,7 @@ chipsec,338645531,338645530,,338645529
 chirpstack-gateway-bridge,,338647307,,
 clevercsv,338647697,338647698,,338647696
 clfft,,,,339812468
+clipcat,,,,339925280
 cloudcompare,339923346,339923356,,
 cocom-tool-set,,,,338648274
 compare50,338648685,338648682,,338648703
@@ -130,6 +130,7 @@ egoboo,,,,339290947
 ela-widget-tools,,,,338654032
 elmPackages.elm-wrap,,,,338654227
 elmerfem,,,,339923379
+emborg,339927322,339927323,,339927321
 emmy-lua-code-style,,,,338654381
 enca,,338654459,,
 epgstation,,,,338654646
@@ -144,6 +145,7 @@ fbv,,,,338655574
 fcron,,,,338655673
 fedimint,338655717,338655714,,
 ffmpeg-livepeer,,,,338655883
+firefox-beta-unwrapped,,339925313,,
 fittrackee,339923410,339923409,,
 fleng,,,,338656579
 flet-client-flutter,,,,339143997
@@ -312,6 +314,7 @@ intelli-shell,,,,338692181
 intensity-normalization,338692194,338692202,,338692217
 invoice2data,338692260,338692259,,338692261
 ioquake3,,,,338692298
+irrd,339925365,339925363,,
 j2lint,338692809,338692807,,338692805
 jarl,,,,338692923
 jaspr_cli,339915546,339915547,,
@@ -336,7 +339,7 @@ kikit,339915581,339915575,,
 kilo,339313716,339313715,,
 kind2,338695813,338695811,,
 kodiPackages.plex-for-kodi,,,,338696151
-kopuz,,,,339923575
+kopuz,339923576,,,339923575
 kord,338696359,338696358,,
 kore,,,,338696360
 kube-hunter,338696560,338696562,,338696586
@@ -640,10 +643,11 @@ minc_tools,338712542,338712541,,
 mindustry-wayland,339140003,,,
 mindustry,339140001,,,
 minitube,339329641,339329640,,
+mise,,,,339923753
 mlton20130715,338713020,,,
 mlton20210117,,,,338713024
 mobsql,,,,338713149
-mokuro,338713383,338713339,,338713356
+mokuro,339925430,339925429,,339925428
 mono_repo,339915677,339915679,,
 monotone,,,,338713351
 moonfire-nvr,,,,338713382
@@ -662,7 +666,6 @@ mrpack-install,,,,338714077
 mrustc-bootstrap,338714097,,,
 msieve,,,,338714138
 mspds,338996257,338996247,,338996266
-mtail,339145424,,,
 mucommander,,,,338714443
 mullvad-vpn,,,,339813181
 multipart-parser-c,,,,338714304
@@ -674,6 +677,7 @@ nagiosPlugins.check_interfaces,338714647,338714646,,338714659
 naja,,,,338714690
 nanobench,,,,338714729
 nbd,,,,338714886
+netbird-dashboard,,,,339923787
 netfoil,,,,338715528
 netperf,,,,338715580
 netron,,,,338715600
@@ -749,7 +753,7 @@ ossim,338727738,338727736,,338727739
 otb,339923925,339923926,,
 outguess,,,,338727829
 owncloud-client,,,,338727894
-oxker,,,,338727929
+oxker,,,,339925459
 p4c,339915762,339915763,,
 packcc,,,,338728039
 pam_gnupg,,,,338728114
@@ -781,7 +785,7 @@ pkgit,,,,338743257
 pkgsRocm.cloudcompare,339924021,,,
 pkgsRocm.dyndnsc,339268459,,,
 pkgsRocm.migrate,338743397,,,
-pkgsRocm.mokuro,338989254,,,
+pkgsRocm.mokuro,339925479,,,
 pkgsRocm.otb,339924033,,,
 pkgsRocm.python3Packages.array-api-compat,338989241,,,
 pkgsRocm.python3Packages.clip,338989274,,,
@@ -864,6 +868,7 @@ prmt,,,,338746221
 profanity,,,,338746333
 prometheus-mikrotik-exporter,,,,338746467
 protoc-gen-js,,,,338746852
+prowlarr,339924134,,,
 proxysql,338746898,338746897,,
 pspy,,,,338746991
 ptouch-print,,,,338747058
@@ -894,7 +899,7 @@ python313Packages.aocd,338749486,338749476,,338749470
 python313Packages.apache-beam,338749528,338749518,,338749493
 python313Packages.arelle-headless,338749660,338749636,,338749644
 python313Packages.arelle,338749633,338749642,,338749645
-python313Packages.ariadne,338749663,338749662,,338749661
+python313Packages.ariadne,,,,339925512
 python313Packages.array-api-compat,338749675,338749670,,338749700
 python313Packages.arxiv,338749718,338749716,,338749715
 python313Packages.astropy-helpers,338749833,338749830,,338749829
@@ -993,6 +998,7 @@ python313Packages.e2b,338754901,338754900,,338754899
 python313Packages.editdistpy,338754999,338754997,,338754996
 python313Packages.effect,338755020,338755018,,338755017
 python313Packages.elastic-apm,338755061,338755059,,338755070
+python313Packages.emborg,339927397,339927398,,339927399
 python313Packages.envisage,338755226,338755230,,338755227
 python313Packages.es-client,338755283,338755282,,338755278
 python313Packages.etebase,338755326,338755327,,338755325
@@ -1271,7 +1277,6 @@ python313Packages.requirements-detector,338771688,338771685,,338771686
 python313Packages.rerun-sdk,338771716,,,
 python313Packages.retinaface,339268974,339268975,,
 python313Packages.rmsd,338771901,338771902,,
-python313Packages.ruff-format,338772164,338772160,,338772159
 python313Packages.saiph,338772253,338772256,,338772251
 python313Packages.scantree,,,,338772359
 python313Packages.scienceplots,338772397,338772399,,338772392
@@ -1509,7 +1514,7 @@ python313Packages.tree-sitter-grammars.tree-sitter-purescript,338776126,33877613
 python313Packages.tree-sitter-grammars.tree-sitter-python,338776133,338776131,,338776127
 python313Packages.tree-sitter-grammars.tree-sitter-ql-dbscheme,338776140,338776135,,338776136
 python313Packages.tree-sitter-grammars.tree-sitter-ql,338776132,338776128,,338776134
-python313Packages.tree-sitter-grammars.tree-sitter-qmljs,338776139,338776137,,338776138
+python313Packages.tree-sitter-grammars.tree-sitter-qmljs,339925617,339925610,,339925611
 python313Packages.tree-sitter-grammars.tree-sitter-query,338776143,338776141,,338776144
 python313Packages.tree-sitter-grammars.tree-sitter-quint,338776145,338776149,,338776142
 python313Packages.tree-sitter-grammars.tree-sitter-r,338776146,338776152,,338776150
@@ -1653,7 +1658,6 @@ python314Packages.aocd,338781698,338781693,,338781691
 python314Packages.apache-beam,338781730,338781731,,338781749
 python314Packages.arelle-headless,338781849,338781857,,338781877
 python314Packages.arelle,338781876,338781856,,338781850
-python314Packages.ariadne,338781883,338781880,,338781878
 python314Packages.array-api-compat,338781919,338781889,,338781925
 python314Packages.arxiv,338781938,338781936,,338781932
 python314Packages.astropy-helpers,338782049,338782047,,338782046
@@ -1756,6 +1760,7 @@ python314Packages.e2b,338787053,338787052,,338787051
 python314Packages.editdistpy,338787149,338787148,,338787147
 python314Packages.effect,338787167,338787166,,338787165
 python314Packages.elastic-apm,338787212,338787204,,338787209
+python314Packages.emborg,339927413,339927414,,339927412
 python314Packages.embrace,,338787272,,
 python314Packages.envisage,338787374,338788157,,338787372
 python314Packages.es-client,338787429,338787430,,338787425
@@ -2024,7 +2029,6 @@ python314Packages.rerun-sdk,338803791,,,
 python314Packages.rmsd,338803961,338803960,,
 python314Packages.rq,339282263,,,
 python314Packages.rtoml,338804187,338804186,,338804182
-python314Packages.ruff-format,338804217,338804215,,338804216
 python314Packages.saiph,338804310,338804307,,338804306
 python314Packages.scantree,,,,338804409
 python314Packages.scienceplots,338804449,338804447,,338804445
@@ -2264,7 +2268,7 @@ python314Packages.tree-sitter-grammars.tree-sitter-purescript,338808115,33880811
 python314Packages.tree-sitter-grammars.tree-sitter-python,338808117,338808114,,338808118
 python314Packages.tree-sitter-grammars.tree-sitter-ql-dbscheme,338808125,338808121,,338808123
 python314Packages.tree-sitter-grammars.tree-sitter-ql,338808122,338808119,,338808120
-python314Packages.tree-sitter-grammars.tree-sitter-qmljs,338808127,338808126,,338808124
+python314Packages.tree-sitter-grammars.tree-sitter-qmljs,339925728,339925726,,339925727
 python314Packages.tree-sitter-grammars.tree-sitter-query,338808128,338808130,,338808129
 python314Packages.tree-sitter-grammars.tree-sitter-quint,338808131,338808132,,338808133
 python314Packages.tree-sitter-grammars.tree-sitter-r,338808205,338808202,,338810217
@@ -2541,6 +2545,7 @@ tuliprox,339916269,339916268,,338997474
 ucode,,,,338837133
 ulfius,,,,338837357
 ultralytics,339269679,339269680,,338997477
+umple-lsp,339925822,339925821,,339925823
 unshieldv3,,,,338837739
 unsilence,338837745,338837750,,338837752
 update-dotdee,,,,338837878
@@ -2562,6 +2567,7 @@ verilator,,,,338838582
 versatiles,,,,338838585
 vesta,,,,338838603
 vgm2x,,,,338838619
+vimPlugins.avante-nvim,339925206,,,
 vimPlugins.neotest,,339923034,,
 vixl,,,,338840182
 vodozemac-bindings-cpp,,,,338840268
