@@ -4,7 +4,7 @@ actual-server,,,,339984478
 aerion,,,,338994578
 aerogramme,338636531,338636530,,
 alan_2,338637736,338637735,,
-alttab,,,,339984494
+alttab,,,,340013313
 amnezia-vpn-bin,338638086,,,
 anilibria-winmaclinux,,,,339143891
 ao3downloader,338638466,338638528,,338638496
@@ -47,7 +47,8 @@ btrsync,339265849,339265848,,
 bugdom,,,,338643538
 bumblebee-status,338643696,338643697,,
 cadabra2,338643924,338643918,,
-calls,339265869,339265870,,
+cai,339997109,,,
+calls,,340013340,,
 candle,,,,338644100
 capa,,,,338644205
 cargo-arc,,,,339984596
@@ -55,6 +56,7 @@ cargo-deb,,,,338644329
 cargo-risczero,,,,338644509
 cargo-ui,,,,338644585
 casacore,,,,338644662
+castero,339997117,,,
 cbconvert-gui,338644840,338644842,,
 cbconvert,338644838,338644837,,
 cbmbasic,,,,338644855
@@ -696,7 +698,7 @@ ocamlPackages.janeStreet.ecaml,,,,338719583
 ocamlPackages.janeStreet.janestreet_cpuid,,338719643,,338719647
 ocamlPackages.janestreet_cpuid,,338719966,,338720077
 ocamlPackages.llvm,,,,338720146
-ocamlPackages.magic-trace,,339157284,,
+ocamlPackages.magic-trace,,340013650,,
 ocamlPackages.owl,,,,338720864
 ocamlPackages.stog,,,,338721628
 ocamlPackages_latest.class_group_vdf,,,,338722418
@@ -706,7 +708,7 @@ ocamlPackages_latest.janeStreet.ecaml,,,,338723470
 ocamlPackages_latest.janeStreet.janestreet_cpuid,,338723529,,338723533
 ocamlPackages_latest.janestreet_cpuid,,338723849,,338723851
 ocamlPackages_latest.llvm,,,,338724026
-ocamlPackages_latest.magic-trace,,339157598,,
+ocamlPackages_latest.magic-trace,,340013700,,
 ocamlPackages_latest.owl,,,,338724750
 ocamlPackages_latest.stog,,,,338725505
 ocrs,338725962,,,
@@ -863,7 +865,7 @@ python313Packages.aioweenect,338748330,338748331,,338748325
 python313Packages.allure-pytest,338749264,338749262,,338749260
 python313Packages.allure-python-commons-test,338749268,338749270,,338749266
 python313Packages.alpha-vantage,338749271,338749269,,338749267
-python313Packages.alphashape,,,,339997781
+python313Packages.alphashape,,340013882,,340013884
 python313Packages.amazon-ion,338749304,338749300,,338749299
 python313Packages.amcrest,338749307,338749306,,338749305
 python313Packages.angr,339329807,339329801,,339329803
@@ -1006,7 +1008,6 @@ python313Packages.google-cloud-dataproc,338757081,338757080,,338757079
 python313Packages.google-cloud-error-reporting,338757093,338757091,,338757098
 python313Packages.google-cloud-iot,338757109,338757107,,338757104
 python313Packages.google-cloud-spanner,338757166,338757167,,338757164
-python313Packages.gradio,,,,339985612
 python313Packages.graphite-web,338757385,338757377,,338757376
 python313Packages.graphql-subscription-manager,338757389,338757390,,338757386
 python313Packages.great-tables,339813334,339813329,,339813328
@@ -1093,6 +1094,7 @@ python313Packages.myst-docutils,338763452,338763453,,338763450
 python313Packages.nanomsg-python,338763515,338763513,,338763516
 python313Packages.napalm-hp-procurve,338763558,338763519,,338763527
 python313Packages.napalm-ros,338763522,338763542,,
+python313Packages.nats-py,339998042,,,
 python313Packages.nats-python,338763552,338763550,,338763551
 python313Packages.netdata-pandas,338763715,338763713,,
 python313Packages.newversion,338763767,338763765,,338763764
@@ -1198,7 +1200,7 @@ python313Packages.python-fontconfig,338770102,338770100,,338770097
 python313Packages.python-otcextensions,338770373,338770369,,338770377
 python313Packages.python-owasp-zap-v2-4,338770376,338770374,,338770375
 python313Packages.python-prctl,,338770416,,
-python313Packages.python-redis-lock,,,,338770438
+python313Packages.python-redis-lock,,,,340014002
 python313Packages.python-registry,338770436,338770434,,338770435
 python313Packages.python-tsp,338770546,338770545,,338770541
 python313Packages.python-velbus,338770564,338770563,,338770562
@@ -1261,7 +1263,7 @@ python313Packages.sourmash,338773423,338773428,,338773420
 python313Packages.spectral-cube,338773502,338773501,,338773495
 python313Packages.sphinx-automodapi,338773545,338773546,,338773551
 python313Packages.sphinx-markdown-builder,338773610,338773609,,338773608
-python313Packages.spsdk,338773842,338773927,,338773857
+python313Packages.spsdk,340014006,340014007,,340014009
 python313Packages.sqlfmt,338773907,338773902,,338773905
 python313Packages.ssdeep,338773986,338773979,,338773977
 python313Packages.ssdp,338773982,338773981,,338773980
@@ -1279,6 +1281,7 @@ python313Packages.tcxparser,338774717,338774714,,338774716
 python313Packages.tensordict,338774814,338774812,,
 python313Packages.toggl-cli,338775253,338775259,,338775238
 python313Packages.torch-c-dlpack-ext,338775298,338775297,,338775296
+python313Packages.torchcrepe,,,,339998230
 python313Packages.trackpy,338775434,,,338775432
 python313Packages.tree-sitter-grammars.tree-sitter-ada,338775564,338775562,,338775563
 python313Packages.tree-sitter-grammars.tree-sitter-adl,338775557,338775559,,338775553
@@ -1606,7 +1609,7 @@ python314Packages.aioweenect,338780557,338780555,,338780554
 python314Packages.allure-pytest,338781484,338781483,,338781482
 python314Packages.allure-python-commons-test,338781489,338781488,,338781487
 python314Packages.alpha-vantage,338781493,338781492,,338781490
-python314Packages.alphashape,,,,339998272
+python314Packages.alphashape,,340014031,,340014033
 python314Packages.amazon-ion,338781527,338781531,,338781521
 python314Packages.amcrest,338781532,338781530,,338781529
 python314Packages.angr,339329907,339329910,,339329909
@@ -1699,7 +1702,7 @@ python314Packages.disnake,338785855,338785852,,338785854
 python314Packages.django-cacheops,338786062,338786061,,338786067
 python314Packages.django-currentuser,338786121,338786120,,338786117
 python314Packages.django-postgres-extra,338786345,338786343,,338786348
-python314Packages.django-q2,,339282196,,339282203
+python314Packages.django-q2,,340014068,,
 python314Packages.django-scheduler,338786411,338786409,,338786410
 python314Packages.django-scim2,338786416,338786415,,338786414
 python314Packages.dm-haiku,338786615,338786617,,338786616
@@ -1828,7 +1831,7 @@ python314Packages.myst-docutils,338795534,338795531,,338795528
 python314Packages.nanomsg-python,338795590,338795591,,338795594
 python314Packages.napalm-hp-procurve,338795599,338795604,,338795608
 python314Packages.napalm-ros,338795601,338795600,,
-python314Packages.nats-py,,339998490,,
+python314Packages.nats-py,339998491,339998490,,339998486
 python314Packages.nats-python,338795629,338795630,,338795627
 python314Packages.netdata-pandas,338795801,338795800,,
 python314Packages.newversion,338795857,338795856,,338795854
@@ -1932,7 +1935,7 @@ python314Packages.python-fx,338802189,338802175,,338802184
 python314Packages.python-otcextensions,338802453,338802438,,338802439
 python314Packages.python-owasp-zap-v2-4,338802440,338802437,,338802434
 python314Packages.python-prctl,,338802484,,
-python314Packages.python-redis-lock,,,,338802504
+python314Packages.python-redis-lock,,,,340014160
 python314Packages.python-registry,338802503,338802505,,338802500
 python314Packages.python-tsp,338802610,338802611,,338802607
 python314Packages.python-velbus,338802629,338802628,,338802626
@@ -1996,7 +1999,7 @@ python314Packages.sourmash,338805472,338805469,,338805474
 python314Packages.spectral-cube,338805561,338805559,,338805563
 python314Packages.sphinx-automodapi,338805588,338805585,,338805597
 python314Packages.sphinx-markdown-builder,338805653,338805652,,338805651
-python314Packages.spsdk,338805885,338805884,,338805971
+python314Packages.spsdk,340014164,340014165,,340014167
 python314Packages.sqlfmt,338805942,338805941,,338805940
 python314Packages.ssdeep,338806022,338806017,,338806019
 python314Packages.ssdp,338806020,338806021,,338806018

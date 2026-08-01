@@ -6,7 +6,7 @@ id,name,system
 338636531,aerogramme,x86_64-linux
 338637735,alan_2,aarch64-linux
 338637736,alan_2,x86_64-linux
-339984494,alttab,aarch64-darwin
+340013313,alttab,aarch64-darwin
 338638086,amnezia-vpn-bin,x86_64-linux
 339143891,anilibria-winmaclinux,aarch64-darwin
 338638496,ao3downloader,aarch64-darwin
@@ -95,8 +95,8 @@ id,name,system
 338643696,bumblebee-status,x86_64-linux
 338643918,cadabra2,aarch64-linux
 338643924,cadabra2,x86_64-linux
-339265870,calls,aarch64-linux
-339265869,calls,x86_64-linux
+339997109,cai,x86_64-linux
+340013340,calls,aarch64-linux
 338644100,candle,aarch64-darwin
 338644205,capa,aarch64-darwin
 339984596,cargo-arc,aarch64-darwin
@@ -104,6 +104,7 @@ id,name,system
 338644509,cargo-risczero,aarch64-darwin
 338644585,cargo-ui,aarch64-darwin
 338644662,casacore,aarch64-darwin
+339997117,castero,x86_64-linux
 338644842,cbconvert-gui,aarch64-linux
 338644840,cbconvert-gui,x86_64-linux
 338644837,cbconvert,aarch64-linux
@@ -1005,7 +1006,7 @@ id,name,system
 338720077,ocamlPackages.janestreet_cpuid,aarch64-darwin
 338719966,ocamlPackages.janestreet_cpuid,aarch64-linux
 338720146,ocamlPackages.llvm,aarch64-darwin
-339157284,ocamlPackages.magic-trace,aarch64-linux
+340013650,ocamlPackages.magic-trace,aarch64-linux
 338720864,ocamlPackages.owl,aarch64-darwin
 338721628,ocamlPackages.stog,aarch64-darwin
 338722418,ocamlPackages_latest.class_group_vdf,aarch64-darwin
@@ -1017,7 +1018,7 @@ id,name,system
 338723851,ocamlPackages_latest.janestreet_cpuid,aarch64-darwin
 338723849,ocamlPackages_latest.janestreet_cpuid,aarch64-linux
 338724026,ocamlPackages_latest.llvm,aarch64-darwin
-339157598,ocamlPackages_latest.magic-trace,aarch64-linux
+340013700,ocamlPackages_latest.magic-trace,aarch64-linux
 338724750,ocamlPackages_latest.owl,aarch64-darwin
 338725505,ocamlPackages_latest.stog,aarch64-darwin
 338725962,ocrs,x86_64-linux
@@ -1268,7 +1269,8 @@ id,name,system
 338749267,python313Packages.alpha-vantage,aarch64-darwin
 338749269,python313Packages.alpha-vantage,aarch64-linux
 338749271,python313Packages.alpha-vantage,x86_64-linux
-339997781,python313Packages.alphashape,aarch64-darwin
+340013884,python313Packages.alphashape,aarch64-darwin
+340013882,python313Packages.alphashape,aarch64-linux
 338749299,python313Packages.amazon-ion,aarch64-darwin
 338749300,python313Packages.amazon-ion,aarch64-linux
 338749304,python313Packages.amazon-ion,x86_64-linux
@@ -1646,7 +1648,6 @@ id,name,system
 338757164,python313Packages.google-cloud-spanner,aarch64-darwin
 338757167,python313Packages.google-cloud-spanner,aarch64-linux
 338757166,python313Packages.google-cloud-spanner,x86_64-linux
-339985612,python313Packages.gradio,aarch64-darwin
 338757376,python313Packages.graphite-web,aarch64-darwin
 338757377,python313Packages.graphite-web,aarch64-linux
 338757385,python313Packages.graphite-web,x86_64-linux
@@ -1878,6 +1879,7 @@ id,name,system
 338763558,python313Packages.napalm-hp-procurve,x86_64-linux
 338763542,python313Packages.napalm-ros,aarch64-linux
 338763522,python313Packages.napalm-ros,x86_64-linux
+339998042,python313Packages.nats-py,x86_64-linux
 338763551,python313Packages.nats-python,aarch64-darwin
 338763550,python313Packages.nats-python,aarch64-linux
 338763552,python313Packages.nats-python,x86_64-linux
@@ -2137,7 +2139,7 @@ id,name,system
 338770374,python313Packages.python-owasp-zap-v2-4,aarch64-linux
 338770376,python313Packages.python-owasp-zap-v2-4,x86_64-linux
 338770416,python313Packages.python-prctl,aarch64-linux
-338770438,python313Packages.python-redis-lock,aarch64-darwin
+340014002,python313Packages.python-redis-lock,aarch64-darwin
 338770435,python313Packages.python-registry,aarch64-darwin
 338770434,python313Packages.python-registry,aarch64-linux
 338770436,python313Packages.python-registry,x86_64-linux
@@ -2292,9 +2294,9 @@ id,name,system
 338773608,python313Packages.sphinx-markdown-builder,aarch64-darwin
 338773609,python313Packages.sphinx-markdown-builder,aarch64-linux
 338773610,python313Packages.sphinx-markdown-builder,x86_64-linux
-338773857,python313Packages.spsdk,aarch64-darwin
-338773927,python313Packages.spsdk,aarch64-linux
-338773842,python313Packages.spsdk,x86_64-linux
+340014009,python313Packages.spsdk,aarch64-darwin
+340014007,python313Packages.spsdk,aarch64-linux
+340014006,python313Packages.spsdk,x86_64-linux
 338773905,python313Packages.sqlfmt,aarch64-darwin
 338773902,python313Packages.sqlfmt,aarch64-linux
 338773907,python313Packages.sqlfmt,x86_64-linux
@@ -2343,6 +2345,7 @@ id,name,system
 338775296,python313Packages.torch-c-dlpack-ext,aarch64-darwin
 338775297,python313Packages.torch-c-dlpack-ext,aarch64-linux
 338775298,python313Packages.torch-c-dlpack-ext,x86_64-linux
+339998230,python313Packages.torchcrepe,aarch64-darwin
 338775432,python313Packages.trackpy,aarch64-darwin
 338775434,python313Packages.trackpy,x86_64-linux
 338775563,python313Packages.tree-sitter-grammars.tree-sitter-ada,aarch64-darwin
@@ -3315,7 +3318,8 @@ id,name,system
 338781490,python314Packages.alpha-vantage,aarch64-darwin
 338781492,python314Packages.alpha-vantage,aarch64-linux
 338781493,python314Packages.alpha-vantage,x86_64-linux
-339998272,python314Packages.alphashape,aarch64-darwin
+340014033,python314Packages.alphashape,aarch64-darwin
+340014031,python314Packages.alphashape,aarch64-linux
 338781521,python314Packages.amazon-ion,aarch64-darwin
 338781531,python314Packages.amazon-ion,aarch64-linux
 338781527,python314Packages.amazon-ion,x86_64-linux
@@ -3562,8 +3566,7 @@ id,name,system
 338786348,python314Packages.django-postgres-extra,aarch64-darwin
 338786343,python314Packages.django-postgres-extra,aarch64-linux
 338786345,python314Packages.django-postgres-extra,x86_64-linux
-339282203,python314Packages.django-q2,aarch64-darwin
-339282196,python314Packages.django-q2,aarch64-linux
+340014068,python314Packages.django-q2,aarch64-linux
 338786410,python314Packages.django-scheduler,aarch64-darwin
 338786409,python314Packages.django-scheduler,aarch64-linux
 338786411,python314Packages.django-scheduler,x86_64-linux
@@ -3901,7 +3904,9 @@ id,name,system
 338795599,python314Packages.napalm-hp-procurve,x86_64-linux
 338795600,python314Packages.napalm-ros,aarch64-linux
 338795601,python314Packages.napalm-ros,x86_64-linux
+339998486,python314Packages.nats-py,aarch64-darwin
 339998490,python314Packages.nats-py,aarch64-linux
+339998491,python314Packages.nats-py,x86_64-linux
 338795627,python314Packages.nats-python,aarch64-darwin
 338795630,python314Packages.nats-python,aarch64-linux
 338795629,python314Packages.nats-python,x86_64-linux
@@ -4163,7 +4168,7 @@ id,name,system
 338802437,python314Packages.python-owasp-zap-v2-4,aarch64-linux
 338802440,python314Packages.python-owasp-zap-v2-4,x86_64-linux
 338802484,python314Packages.python-prctl,aarch64-linux
-338802504,python314Packages.python-redis-lock,aarch64-darwin
+340014160,python314Packages.python-redis-lock,aarch64-darwin
 338802500,python314Packages.python-registry,aarch64-darwin
 338802505,python314Packages.python-registry,aarch64-linux
 338802503,python314Packages.python-registry,x86_64-linux
@@ -4321,9 +4326,9 @@ id,name,system
 338805651,python314Packages.sphinx-markdown-builder,aarch64-darwin
 338805652,python314Packages.sphinx-markdown-builder,aarch64-linux
 338805653,python314Packages.sphinx-markdown-builder,x86_64-linux
-338805971,python314Packages.spsdk,aarch64-darwin
-338805884,python314Packages.spsdk,aarch64-linux
-338805885,python314Packages.spsdk,x86_64-linux
+340014167,python314Packages.spsdk,aarch64-darwin
+340014165,python314Packages.spsdk,aarch64-linux
+340014164,python314Packages.spsdk,x86_64-linux
 338805940,python314Packages.sqlfmt,aarch64-darwin
 338805941,python314Packages.sqlfmt,aarch64-linux
 338805942,python314Packages.sqlfmt,x86_64-linux
