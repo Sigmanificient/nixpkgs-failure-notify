@@ -177,7 +177,6 @@ id,name,system
 342205148,cyberstrike,aarch64-linux
 341719283,d-seams,x86_64-linux
 342205164,dafny,aarch64-darwin
-341719293,daikhan,aarch64-linux
 342327694,dart_frog_cli,aarch64-linux
 342327688,dart_frog_cli,x86_64-linux
 342327695,das,aarch64-darwin
@@ -2980,7 +2979,6 @@ id,name,system
 341873235,python314Packages.qiskit,aarch64-darwin
 341873234,python314Packages.qiskit,aarch64-linux
 341873236,python314Packages.qiskit,x86_64-linux
-342318855,python314Packages.qtile,x86_64-linux
 341873306,python314Packages.quantulum3,aarch64-darwin
 341873310,python314Packages.quantulum3,aarch64-linux
 341873307,python314Packages.quantulum3,x86_64-linux
@@ -3270,8 +3268,6 @@ id,name,system
 341892105,sbclPackages.qt-libs,aarch64-darwin
 341892106,sbclPackages.qt-libs,aarch64-linux
 341892110,sbclPackages.qt-libs,x86_64-linux
-342426044,scantpaper,x86_64-linux
-342272868,schemes,x86_64-linux
 341892838,schildi-revenge,aarch64-linux
 341892743,sct,aarch64-linux
 341892956,selfci,aarch64-darwin

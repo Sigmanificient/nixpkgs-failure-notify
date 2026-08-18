@@ -240,7 +240,6 @@ id,status,name,system
 342205160,D,cyclonedx-cli,aarch64-darwin
 341719283,F,d-seams,x86_64-linux
 342205164,F,dafny,aarch64-darwin
-341719293,F,daikhan,aarch64-linux
 342327694,F,dart_frog_cli,aarch64-linux
 342327688,F,dart_frog_cli,x86_64-linux
 342327695,F,das,aarch64-darwin
@@ -4438,9 +4437,6 @@ id,status,name,system
 341873267,D,python314Packages.qpageview,aarch64-darwin
 341873255,D,python314Packages.qreactor,aarch64-darwin
 341873275,D,python314Packages.qtconsole,aarch64-darwin
-342318867,D,python314Packages.qtile-bonsai,x86_64-linux
-342318858,D,python314Packages.qtile-extras,x86_64-linux
-342318855,F,python314Packages.qtile,x86_64-linux
 341873306,F,python314Packages.quantulum3,aarch64-darwin
 341873310,F,python314Packages.quantulum3,aarch64-linux
 341873307,F,python314Packages.quantulum3,x86_64-linux
@@ -4879,10 +4875,8 @@ id,status,name,system
 341892482,D,sca2d,aarch64-darwin
 341892476,D,sca2d,aarch64-linux
 341892483,D,sca2d,x86_64-linux
-342426044,F,scantpaper,x86_64-linux
 342206212,D,sccmhunter,aarch64-darwin
 342206218,D,sccmhunter,aarch64-linux
-342272868,F,schemes,x86_64-linux
 341892838,F,schildi-revenge,aarch64-linux
 341892564,D,schleuder,aarch64-linux
 341892563,D,schleuder,x86_64-linux
@@ -19679,6 +19673,7 @@ id,status,name,system
 341719377,S,dafny,aarch64-linux
 341719393,S,dafny,x86_64-linux
 341719287,S,daggerfall-unity,x86_64-linux
+341719293,S,daikhan,aarch64-linux
 341719291,S,daikhan,x86_64-linux
 341719289,S,dailies,aarch64-darwin
 341719290,S,dailies,aarch64-linux
@@ -170979,8 +170974,11 @@ id,status,name,system
 341873266,S,python314Packages.qtconsole,aarch64-linux
 341873268,S,python314Packages.qtconsole,x86_64-linux
 342318865,S,python314Packages.qtile-bonsai,aarch64-linux
+342318867,S,python314Packages.qtile-bonsai,x86_64-linux
 342318863,S,python314Packages.qtile-extras,aarch64-linux
+342318858,S,python314Packages.qtile-extras,x86_64-linux
 342318861,S,python314Packages.qtile,aarch64-linux
+342318855,S,python314Packages.qtile,x86_64-linux
 341873273,S,python314Packages.qtpy,aarch64-darwin
 341873274,S,python314Packages.qtpy,aarch64-linux
 341873276,S,python314Packages.qtpy,x86_64-linux
@@ -189855,6 +189853,7 @@ id,status,name,system
 341892541,S,scheme48,aarch64-linux
 341892543,S,scheme48,x86_64-linux
 342272869,S,schemes,aarch64-linux
+342272868,S,schemes,x86_64-linux
 341892545,S,schemesh,aarch64-darwin
 341892544,S,schemesh,aarch64-linux
 341892547,S,schemesh,x86_64-linux
