@@ -82,9 +82,6 @@ id,name,system
 341709738,azure-cli-extensions.webpubsub,x86_64-linux
 341709800,azure-sdk-for-cpp.security-attestation,aarch64-linux
 341709794,azure-sdk-for-cpp.security-attestation,x86_64-linux
-341709926,badkeys,aarch64-darwin
-341709927,badkeys,aarch64-linux
-341709928,badkeys,x86_64-linux
 342427887,badness,aarch64-darwin
 341710073,barman,aarch64-darwin
 341710324,beadwork,aarch64-linux
@@ -251,6 +248,8 @@ id,name,system
 341724520,fedimint,x86_64-linux
 341725026,fex-headless,aarch64-linux
 341725024,fex,aarch64-linux
+342456756,firefox-esr-140-unwrapped,aarch64-linux
+342456766,firefox-unwrapped,aarch64-linux
 342327708,fishPlugins.pure,aarch64-darwin
 341725395,fleng,aarch64-darwin
 342205337,flet-client-flutter,aarch64-darwin
@@ -351,7 +350,9 @@ id,name,system
 341726346,freebsd.xf86-video-scfb,x86_64-linux
 341726408,freepv,aarch64-darwin
 342428467,fromager,x86_64-linux
+342456801,fzf-preview,aarch64-darwin
 341726823,g15daemon,aarch64-darwin
+342456804,gallery-dl,aarch64-darwin
 341726882,gam,aarch64-darwin
 341726890,gam,aarch64-linux
 341726885,gam,x86_64-linux
@@ -598,7 +599,7 @@ id,name,system
 341763055,jrl-cmakemodules-scripts,aarch64-darwin
 341763057,jrl-cmakemodules-scripts,aarch64-linux
 341763059,jrl-cmakemodules-scripts,x86_64-linux
-341763287,julia_110,aarch64-darwin
+342608645,julia_110,aarch64-darwin
 341763288,julia_111,aarch64-darwin
 341763328,junkie,aarch64-darwin
 341763623,kanagawa-icon-theme,aarch64-darwin
@@ -1414,6 +1415,7 @@ id,name,system
 341815948,prmt,aarch64-darwin
 341816192,prometheus-mikrotik-exporter,aarch64-darwin
 341816488,protoc-gen-js,aarch64-darwin
+342457208,prs,aarch64-darwin
 341816718,pspy,aarch64-darwin
 341816845,pulseaudio-dlna,aarch64-linux
 341816847,pulseaudio-dlna,x86_64-linux
@@ -1610,9 +1612,6 @@ id,name,system
 341823070,python313Packages.dbt-common,aarch64-darwin
 341823065,python313Packages.dbt-common,aarch64-linux
 341823079,python313Packages.dbt-common,x86_64-linux
-341823084,python313Packages.dbt-semantic-interfaces,aarch64-darwin
-341823085,python313Packages.dbt-semantic-interfaces,aarch64-linux
-341823086,python313Packages.dbt-semantic-interfaces,x86_64-linux
 342432280,python313Packages.deepspeed,aarch64-darwin
 341823204,python313Packages.deepwave,x86_64-linux
 342275850,python313Packages.deform,aarch64-darwin
@@ -1651,9 +1650,6 @@ id,name,system
 341824597,python313Packages.duct-py,aarch64-darwin
 341824595,python313Packages.duct-py,aarch64-linux
 341824596,python313Packages.duct-py,x86_64-linux
-341824694,python313Packages.e2b,aarch64-darwin
-341824695,python313Packages.e2b,aarch64-linux
-341825425,python313Packages.e2b,x86_64-linux
 341824789,python313Packages.editdistpy,aarch64-darwin
 341824790,python313Packages.editdistpy,aarch64-linux
 341824791,python313Packages.editdistpy,x86_64-linux
@@ -2596,9 +2592,6 @@ id,name,system
 341856914,python314Packages.duct-py,aarch64-darwin
 341856915,python314Packages.duct-py,aarch64-linux
 341856916,python314Packages.duct-py,x86_64-linux
-341857014,python314Packages.e2b,aarch64-darwin
-341857013,python314Packages.e2b,aarch64-linux
-341857648,python314Packages.e2b,x86_64-linux
 341857341,python314Packages.editdistpy,aarch64-darwin
 341857109,python314Packages.editdistpy,aarch64-linux
 341857110,python314Packages.editdistpy,x86_64-linux
@@ -3278,8 +3271,6 @@ id,name,system
 341881908,qcm,x86_64-linux
 341881945,qdrant,x86_64-linux
 342438133,qemu-python-utils,aarch64-darwin
-342438137,qemu_full,aarch64-linux
-342438141,qemu_full,x86_64-linux
 341881983,qgo,aarch64-darwin
 341881986,qgrep,aarch64-darwin
 341882055,qmic,aarch64-darwin
@@ -3356,6 +3347,7 @@ id,name,system
 341893239,sfcgal,aarch64-linux
 341893240,sfcgal,x86_64-linux
 341893287,sgfutils,aarch64-darwin
+342457483,shotcut,aarch64-darwin
 341893663,sif,aarch64-darwin
 341894524,snid,aarch64-darwin
 342438495,snouty,aarch64-linux
@@ -3465,6 +3457,7 @@ id,name,system
 342331014,tuliprox,aarch64-linux
 342331013,tuliprox,x86_64-linux
 341906922,turnstile,aarch64-darwin
+342457581,ubridge,aarch64-darwin
 341907321,ucode,aarch64-darwin
 342439242,udiskie,aarch64-linux
 342338455,uefitool,aarch64-darwin
