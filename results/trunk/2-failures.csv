@@ -29,7 +29,7 @@ id,name,system
 344467238,aws-sam-cli,aarch64-darwin
 343467058,ax25-tools,aarch64-linux
 343467060,ax25-tools,x86_64-linux
-344219357,azahar,aarch64-darwin
+345008125,azahar,aarch64-darwin
 343467125,azure-cli-extensions.acrcssc,aarch64-darwin
 343467127,azure-cli-extensions.acrcssc,aarch64-linux
 343467138,azure-cli-extensions.acrcssc,x86_64-linux
@@ -84,7 +84,6 @@ id,name,system
 344048021,barman,aarch64-darwin
 344934349,beads,x86_64-linux
 343468298,beadwork,aarch64-linux
-344226741,beamMinimal27Packages.expert,aarch64-darwin
 343468833,beanhub-cli,aarch64-darwin
 343678754,beanhub-cli,aarch64-linux
 343678727,beanhub-cli,x86_64-linux
@@ -144,6 +143,7 @@ id,name,system
 343475430,compare50,aarch64-darwin
 343679537,compare50,aarch64-linux
 343679540,compare50,x86_64-linux
+344999685,concord-tui,aarch64-darwin
 344934462,contour,aarch64-darwin
 344808978,convos,aarch64-darwin
 344808979,convos,aarch64-linux
@@ -175,6 +175,7 @@ id,name,system
 343477489,dasher,aarch64-darwin
 343477586,db-rest,aarch64-darwin
 343477801,deadpixi-sam-unstable,aarch64-darwin
+344999725,deeptools,aarch64-darwin
 343478039,deskew,aarch64-darwin
 343478193,dgop,aarch64-darwin
 343478284,dico,aarch64-darwin
@@ -229,6 +230,7 @@ id,name,system
 343481331,enca,aarch64-linux
 343481512,epgstation,aarch64-darwin
 343680605,equalx,aarch64-darwin
+344999781,errbot,aarch64-linux
 344093654,ete-unwrapped,aarch64-darwin
 344093657,ete-unwrapped,aarch64-linux
 343481868,exatorrent,aarch64-darwin
@@ -241,6 +243,7 @@ id,name,system
 343481904,exfat,aarch64-darwin
 344113551,factoriolab,aarch64-darwin
 344095039,famistudio,aarch64-darwin
+344999792,fancy-cat,aarch64-darwin
 343482452,fbv,aarch64-darwin
 343482550,fcron,aarch64-darwin
 343482591,fedimint,aarch64-linux
@@ -591,6 +594,7 @@ id,name,system
 343523531,kind2,aarch64-linux
 343523534,kind2,x86_64-linux
 343523869,kodiPackages.plex-for-kodi,aarch64-darwin
+345000299,kopuz,x86_64-linux
 343524081,kord,aarch64-linux
 343524084,kord,x86_64-linux
 343524083,kore,aarch64-darwin
@@ -1315,7 +1319,6 @@ id,name,system
 344971096,pkgsRocm.python3Packages.torch,x86_64-linux
 344971123,pkgsRocm.python3Packages.torchWithVulkan,x86_64-linux
 344971113,pkgsRocm.python3Packages.torchWithoutCuda,x86_64-linux
-344971169,pkgsRocm.spla,x86_64-linux
 344967141,pkgsRocm.umpire,x86_64-linux
 344983988,pkgsRocm.vtk_9_6,x86_64-linux
 344967157,pkgsRocm.whisper-cpp-vulkan,x86_64-linux
@@ -1401,6 +1404,7 @@ id,name,system
 345000708,previewqt,aarch64-darwin
 343574567,prmt,aarch64-darwin
 343574818,prometheus-mikrotik-exporter,aarch64-darwin
+345000711,prometheus,aarch64-linux
 343575103,protoc-gen-js,aarch64-darwin
 343575351,pspy,aarch64-darwin
 344311805,pulseaudio-dlna,aarch64-linux
@@ -1819,9 +1823,6 @@ id,name,system
 344971831,python313Packages.niaarm,aarch64-darwin
 344971846,python313Packages.niaarm,aarch64-linux
 344971832,python313Packages.niaarm,x86_64-linux
-343592924,python313Packages.nidaqmx,aarch64-darwin
-343592925,python313Packages.nidaqmx,aarch64-linux
-343592931,python313Packages.nidaqmx,x86_64-linux
 343593016,python313Packages.noaa-coops,aarch64-darwin
 343695138,python313Packages.noaa-coops,aarch64-linux
 343695157,python313Packages.noaa-coops,x86_64-linux
@@ -1944,9 +1945,6 @@ id,name,system
 343596639,python313Packages.pyfcm,aarch64-darwin
 343695994,python313Packages.pyfcm,aarch64-linux
 343695988,python313Packages.pyfcm,x86_64-linux
-343596847,python313Packages.pygount,aarch64-darwin
-343696033,python313Packages.pygount,aarch64-linux
-343696034,python313Packages.pygount,x86_64-linux
 344936627,python313Packages.pyinterp,x86_64-linux
 343597012,python313Packages.pyirishrail,aarch64-darwin
 343597010,python313Packages.pyirishrail,aarch64-linux
@@ -2596,9 +2594,6 @@ id,name,system
 344972819,python314Packages.niaarm,aarch64-darwin
 344972823,python314Packages.niaarm,aarch64-linux
 344972821,python314Packages.niaarm,x86_64-linux
-343626055,python314Packages.nidaqmx,aarch64-darwin
-343626057,python314Packages.nidaqmx,aarch64-linux
-343626058,python314Packages.nidaqmx,x86_64-linux
 343626152,python314Packages.noaa-coops,aarch64-darwin
 343704144,python314Packages.noaa-coops,aarch64-linux
 343704153,python314Packages.noaa-coops,x86_64-linux
@@ -2721,9 +2716,6 @@ id,name,system
 343629771,python314Packages.pyfcm,aarch64-darwin
 343704993,python314Packages.pyfcm,aarch64-linux
 343704994,python314Packages.pyfcm,x86_64-linux
-343629969,python314Packages.pygount,aarch64-darwin
-343705031,python314Packages.pygount,aarch64-linux
-343705032,python314Packages.pygount,x86_64-linux
 343630136,python314Packages.pyirishrail,aarch64-darwin
 343630137,python314Packages.pyirishrail,aarch64-linux
 343630138,python314Packages.pyirishrail,x86_64-linux
@@ -2984,7 +2976,6 @@ id,name,system
 343708844,qcm,x86_64-linux
 343642334,qdrant,x86_64-linux
 343642346,qemu-python-utils,aarch64-darwin
-343708867,qgo,aarch64-darwin
 343642378,qgrep,aarch64-darwin
 343642446,qmic,aarch64-darwin
 344313807,qstopmotion,aarch64-linux
@@ -3053,9 +3044,11 @@ id,name,system
 344071594,sfcgal,x86_64-linux
 343653964,sgfutils,aarch64-darwin
 344938492,shellshot,aarch64-darwin
+345001046,shoko-webui,aarch64-darwin
 343654356,shpool,aarch64-darwin
 343710540,shrinkray,aarch64-linux
 344221835,sif,aarch64-darwin
+345001047,sing-box-dashboard,aarch64-darwin
 343655192,snid,aarch64-darwin
 344130519,snouty,aarch64-linux
 343655280,snpeff,aarch64-darwin
@@ -3157,7 +3150,6 @@ id,name,system
 343666040,tpnote,aarch64-linux
 343714254,transgui,x86_64-linux
 343666240,transmission-rss,aarch64-darwin
-343667389,trgui-ng,aarch64-darwin
 343667482,ts-warp,aarch64-darwin
 343667500,tsduck,aarch64-darwin
 343667708,tuir,aarch64-darwin
@@ -3171,6 +3163,7 @@ id,name,system
 343668153,ucode,aarch64-darwin
 343668371,ulfius,aarch64-darwin
 344295930,ultralytics,aarch64-darwin
+345001227,umami,aarch64-linux
 343668584,undertalemodcli,aarch64-darwin
 343668793,unshieldv3,aarch64-darwin
 343668786,unsilence,aarch64-darwin

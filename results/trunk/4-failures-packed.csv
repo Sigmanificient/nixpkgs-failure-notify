@@ -18,7 +18,7 @@ atmos,,,,344113447
 auto-editor,344999584,344999588,,344999587
 aws-sam-cli,,,,344467238
 ax25-tools,343467060,343467058,,
-azahar,,,,344219357
+azahar,,,,345008125
 azure-cli-extensions.acrcssc,343467138,343467127,,343467125
 azure-cli-extensions.aksarc,343678475,343678472,,343467147
 azure-cli-extensions.alias,343467155,343467154,,343467152
@@ -40,7 +40,6 @@ badness,,344940046,,
 barman,,,,344048021
 beads,344934349,,,
 beadwork,,343468298,,
-beamMinimal27Packages.expert,,,,344226741
 beanhub-cli,343678727,343678754,,343468833
 biglybt,,,,343469065
 bitbake-language-server,,,,344292118
@@ -81,6 +80,7 @@ cloudcompare,344982988,344982996,,
 cocom-tool-set,,,,343475051
 colmap,,344983000,,
 compare50,343679540,343679537,,343475430
+concord-tui,,,,344999685
 contour,,,,344934462
 convos,344808977,344808979,,344808978
 coq_8_7,343476152,343476153,,
@@ -100,6 +100,7 @@ dart_frog_cli,343827178,343827177,,
 dasher,,,,343477489
 db-rest,,,,343477586
 deadpixi-sam-unstable,,,,343477801
+deeptools,,,,344999725
 deskew,,,,343478039
 dgop,,,,343478193
 dico,,,,343478284
@@ -136,6 +137,7 @@ empserver,,343481291,,
 enca,,343481331,,
 epgstation,,,,343481512
 equalx,,,,343680605
+errbot,,344999781,,
 ete-unwrapped,,344093657,,344093654
 exatorrent,,,,343481868
 excalidraw_export,343481875,343481872,,343481871
@@ -143,6 +145,7 @@ exegol4,343680699,343680695,,343481888
 exfat,,,,343481904
 factoriolab,,,,344113551
 famistudio,,,,344095039
+fancy-cat,,,,344999792
 fbv,,,,343482452
 fcron,,,,343482550
 fedimint,343482592,343482591,,
@@ -375,6 +378,7 @@ ki,344310756,344310752,,
 kilo,344296498,344296492,,344296497
 kind2,343523534,343523531,,
 kodiPackages.plex-for-kodi,,,,343523869
+kopuz,345000299,,,
 kord,343524084,343524081,,
 kore,,,,343524083
 kubectl-kcl,343524361,343524359,,343524358
@@ -900,7 +904,6 @@ pkgsRocm.python3Packages.torch-no-triton,344971109,,,
 pkgsRocm.python3Packages.torch,344971096,,,
 pkgsRocm.python3Packages.torchWithVulkan,344971123,,,
 pkgsRocm.python3Packages.torchWithoutCuda,344971113,,,
-pkgsRocm.spla,344971169,,,
 pkgsRocm.umpire,344967141,,,
 pkgsRocm.vtk_9_6,344983988,,,
 pkgsRocm.whisper-cpp-vulkan,344967157,,,
@@ -944,6 +947,7 @@ powertabeditor,,,,343690459
 previewqt,,,,345000708
 prmt,,,,343574567
 prometheus-mikrotik-exporter,,,,343574818
+prometheus,,345000711,,
 protoc-gen-js,,,,343575103
 pspy,,,,343575351
 pulseaudio-dlna,344311810,344311805,,
@@ -1114,7 +1118,6 @@ python313Packages.mrsqm,344971793,344971814,,344971812
 python313Packages.nanomsg-python,343592605,343592603,,343592601
 python313Packages.nfcpy,,,,343592883
 python313Packages.niaarm,344971832,344971846,,344971831
-python313Packages.nidaqmx,343592931,343592925,,343592924
 python313Packages.noaa-coops,343695157,343695138,,343593016
 python313Packages.notebook,,,,344125327
 python313Packages.nuclear,343695202,343695173,,343593156
@@ -1166,7 +1169,6 @@ python313Packages.pyeclib,,,,343596511
 python313Packages.pyephember2,343596580,343596578,,343596579
 python313Packages.pyexiv2,344971975,344971963,,344971965
 python313Packages.pyfcm,343695988,343695994,,343596639
-python313Packages.pygount,343696034,343696033,,343596847
 python313Packages.pyinterp,344936627,,,
 python313Packages.pyirishrail,343597014,343597010,,343597012
 python313Packages.pyitachip2ir,,,,343597028
@@ -1432,7 +1434,6 @@ python314Packages.mygpoclient,,343624591,,
 python314Packages.nanomsg-python,343625729,343625725,,343625726
 python314Packages.nats-py,344049337,344049336,,344049334
 python314Packages.niaarm,344972821,344972823,,344972819
-python314Packages.nidaqmx,343626058,343626057,,343626055
 python314Packages.noaa-coops,343704153,343704144,,343626152
 python314Packages.nuclear,343704178,343704202,,343626291
 python314Packages.nuitka,343626298,343626297,,
@@ -1481,7 +1482,6 @@ python314Packages.pyeclib,,,,343629639
 python314Packages.pyephember2,343629715,343629714,,343629707
 python314Packages.pyexiv2,344972932,344972938,,344972931
 python314Packages.pyfcm,343704994,343704993,,343629771
-python314Packages.pygount,343705032,343705031,,343629969
 python314Packages.pyirishrail,343630138,343630137,,343630136
 python314Packages.pyitachip2ir,,,,343630156
 python314Packages.pykdtree,,343630208,,
@@ -1595,7 +1595,6 @@ python314Packages.zulip-emoji-mapping,343642169,343642168,,343642166
 qcm,343708844,343708811,,
 qdrant,343642334,,,
 qemu-python-utils,,,,343642346
-qgo,,,,343708867
 qgrep,,,,343642378
 qmic,,,,343642446
 qstopmotion,344313806,344313807,,
@@ -1652,9 +1651,11 @@ selfci,,,,343653616
 sfcgal,344071594,344071592,,344071593
 sgfutils,,,,343653964
 shellshot,,,,344938492
+shoko-webui,,,,345001046
 shpool,,,,343654356
 shrinkray,,343710540,,
 sif,,,,344221835
+sing-box-dashboard,,,,345001047
 snid,,,,343655192
 snouty,,344130519,,
 snpeff,,,,343655280
@@ -1725,7 +1726,6 @@ tpm2-totp,,,,343666277
 tpnote,,343666040,,343666786
 transgui,343714254,,,
 transmission-rss,,,,343666240
-trgui-ng,,,,343667389
 ts-warp,,,,343667482
 tsduck,,,,343667500
 tuir,343714334,343714330,,343667708
@@ -1735,6 +1735,7 @@ ubridge,,,,343668112
 ucode,,,,343668153
 ulfius,,,,343668371
 ultralytics,,,,344295930
+umami,,345001227,,
 undertalemodcli,,,,343668584
 unshieldv3,,,,343668793
 unsilence,343714496,343714497,,343668786
