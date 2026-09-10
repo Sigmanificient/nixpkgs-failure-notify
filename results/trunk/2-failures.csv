@@ -102,7 +102,6 @@ id,name,system
 343470392,bumblebee-status,x86_64-linux
 344934392,cadabra2,aarch64-linux
 344934393,cadabra2,x86_64-linux
-344977228,cai,aarch64-linux
 344310126,calibre-no-speech,x86_64-linux
 344968782,calibre,x86_64-linux
 343679131,candle,aarch64-darwin
@@ -201,6 +200,8 @@ id,name,system
 343480829,eggnog-mapper,aarch64-darwin
 343480837,egoboo,aarch64-darwin
 343680445,ela-widget-tools,aarch64-darwin
+345027342,electron_44-bin,aarch64-linux
+345027343,electron_44-bin,x86_64-linux
 343481045,elm-land,aarch64-darwin
 343481047,elm-land,aarch64-linux
 343481046,elm-land,x86_64-linux
@@ -712,6 +713,7 @@ id,name,system
 343528715,lice,aarch64-darwin
 343528720,lice,aarch64-linux
 343528722,lice,x86_64-linux
+345028527,licensedigger,aarch64-darwin
 344247525,linuxKernel.packages.linux_5_10.acer-wmi-battery,aarch64-linux
 344247527,linuxKernel.packages.linux_5_10.ax99100,aarch64-linux
 344247546,linuxKernel.packages.linux_5_10.can-isotp,aarch64-linux
@@ -1262,7 +1264,6 @@ id,name,system
 343552041,ocamlPackages_latest.janestreet_cpuid,aarch64-linux
 343552215,ocamlPackages_latest.llvm,aarch64-darwin
 343552936,ocamlPackages_latest.owl,aarch64-darwin
-345000566,ocamlPackages_latest.oxenstored,x86_64-linux
 344245343,ocamlPackages_latest.paf,aarch64-darwin
 343553690,ocamlPackages_latest.stog,aarch64-darwin
 343554141,ocrodjvu,aarch64-linux
@@ -1500,9 +1501,6 @@ id,name,system
 343577641,python313Packages.allure-python-commons-test,x86_64-linux
 344971286,python313Packages.alphashape,aarch64-darwin
 344971281,python313Packages.alphashape,aarch64-linux
-343577673,python313Packages.amazon-ion,aarch64-darwin
-343577674,python313Packages.amazon-ion,aarch64-linux
-343577675,python313Packages.amazon-ion,x86_64-linux
 343577722,python313Packages.angr,aarch64-darwin
 343691189,python313Packages.angr,aarch64-linux
 343691233,python313Packages.angr,x86_64-linux
@@ -1810,6 +1808,9 @@ id,name,system
 343588692,python313Packages.kbcstorage,aarch64-darwin
 343694132,python313Packages.kbcstorage,aarch64-linux
 343694223,python313Packages.kbcstorage,x86_64-linux
+345041446,python313Packages.kestra,aarch64-darwin
+345041444,python313Packages.kestra,aarch64-linux
+345041445,python313Packages.kestra,x86_64-linux
 343588812,python313Packages.kmock,aarch64-darwin
 343694191,python313Packages.kopf,aarch64-linux
 343694201,python313Packages.kopf,x86_64-linux
@@ -1817,6 +1818,7 @@ id,name,system
 344971582,python313Packages.kotsu,aarch64-linux
 344971566,python313Packages.kotsu,x86_64-linux
 344940950,python313Packages.kserve-storage,aarch64-darwin
+345029145,python313Packages.langchain-fireworks,aarch64-darwin
 343589078,python313Packages.latexify-py,aarch64-darwin
 343589079,python313Packages.latexify-py,aarch64-linux
 343589080,python313Packages.latexify-py,x86_64-linux
@@ -1909,6 +1911,7 @@ id,name,system
 343593687,python313Packages.openslide,aarch64-darwin
 343593691,python313Packages.openslide,aarch64-linux
 343593689,python313Packages.openslide,x86_64-linux
+345029291,python313Packages.openstacksdk,aarch64-darwin
 343593776,python313Packages.opentelemetry-instrumentation-system-metrics,aarch64-darwin
 343593784,python313Packages.opentelemetry-instrumentation-urllib3,aarch64-darwin
 343695346,python313Packages.opentelemetry-instrumentation-urllib3,aarch64-linux
@@ -2137,6 +2140,7 @@ id,name,system
 343602622,python313Packages.sourmash,aarch64-darwin
 343697462,python313Packages.sourmash,aarch64-linux
 343697491,python313Packages.sourmash,x86_64-linux
+345029456,python313Packages.spacy,aarch64-darwin
 344972151,python313Packages.spectral-cube,aarch64-darwin
 344972152,python313Packages.spectral-cube,aarch64-linux
 344972147,python313Packages.spectral-cube,x86_64-linux
@@ -2283,9 +2287,7 @@ id,name,system
 343610894,python314Packages.allure-python-commons-test,x86_64-linux
 344972329,python314Packages.alphashape,aarch64-darwin
 344972328,python314Packages.alphashape,aarch64-linux
-343610923,python314Packages.amazon-ion,aarch64-darwin
-343610925,python314Packages.amazon-ion,aarch64-linux
-343610924,python314Packages.amazon-ion,x86_64-linux
+345041546,python314Packages.amazon-ion,aarch64-darwin
 343610978,python314Packages.angr,aarch64-darwin
 343700258,python314Packages.angr,aarch64-linux
 343700272,python314Packages.angr,x86_64-linux
@@ -2579,6 +2581,8 @@ id,name,system
 343621831,python314Packages.kbcstorage,aarch64-darwin
 343703157,python314Packages.kbcstorage,aarch64-linux
 343703156,python314Packages.kbcstorage,x86_64-linux
+345041618,python314Packages.kestra,aarch64-linux
+345041619,python314Packages.kestra,x86_64-linux
 343621951,python314Packages.kmock,aarch64-darwin
 343703194,python314Packages.kopf,aarch64-linux
 343703216,python314Packages.kopf,x86_64-linux
@@ -2654,7 +2658,6 @@ id,name,system
 343626152,python314Packages.noaa-coops,aarch64-darwin
 343704144,python314Packages.noaa-coops,aarch64-linux
 343704153,python314Packages.noaa-coops,x86_64-linux
-345026242,python314Packages.notobuilder,aarch64-darwin
 343626291,python314Packages.nuclear,aarch64-darwin
 343704202,python314Packages.nuclear,aarch64-linux
 343704178,python314Packages.nuclear,x86_64-linux
@@ -2682,6 +2685,7 @@ id,name,system
 343626817,python314Packages.openslide,aarch64-darwin
 343626818,python314Packages.openslide,aarch64-linux
 343626819,python314Packages.openslide,x86_64-linux
+345029796,python314Packages.openstacksdk,aarch64-darwin
 343626904,python314Packages.opentelemetry-instrumentation-system-metrics,aarch64-darwin
 343626916,python314Packages.opentelemetry-instrumentation-urllib3,aarch64-darwin
 343704345,python314Packages.opentelemetry-instrumentation-urllib3,aarch64-linux
@@ -2814,6 +2818,8 @@ id,name,system
 343632059,python314Packages.pytest-selenium,aarch64-darwin
 343705570,python314Packages.pytest-selenium,aarch64-linux
 343705555,python314Packages.pytest-selenium,x86_64-linux
+345029872,python314Packages.python-barbicanclient,aarch64-darwin
+345029878,python314Packages.python-cinderclient,aarch64-darwin
 343632271,python314Packages.python-constraint,aarch64-darwin
 343632273,python314Packages.python-constraint,aarch64-linux
 343632272,python314Packages.python-constraint,x86_64-linux
@@ -2823,6 +2829,7 @@ id,name,system
 343632396,python314Packages.python-fx,aarch64-darwin
 343705609,python314Packages.python-fx,aarch64-linux
 343705620,python314Packages.python-fx,x86_64-linux
+345029885,python314Packages.python-keystoneclient,aarch64-darwin
 343632701,python314Packages.python-prctl,aarch64-linux
 343632718,python314Packages.python-redis-lock,aarch64-darwin
 343632721,python314Packages.python-registry,aarch64-darwin
@@ -3313,7 +3320,7 @@ id,name,system
 343715653,zeekscript,x86_64-linux
 343677000,zerofs,aarch64-darwin
 343677025,zf,aarch64-darwin
-343677109,zigfetch,aarch64-darwin
+345041921,zigfetch,aarch64-darwin
 343677609,zulip-term,aarch64-darwin
 343715731,zulip-term,aarch64-linux
 343715736,zulip-term,x86_64-linux

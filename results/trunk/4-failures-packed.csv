@@ -52,7 +52,6 @@ btrsync,343470169,343470168,,
 bugdom,,,,343470232
 bumblebee-status,343470392,343470391,,
 cadabra2,344934393,344934392,,
-cai,,344977228,,
 calibre-no-speech,344310126,,,
 calibre,344968782,,,
 candle,,,,343679131
@@ -122,6 +121,7 @@ ecapture,343824710,343824711,,
 eggnog-mapper,,,,343480829
 egoboo,,,,343480837
 ela-widget-tools,,,,343680445
+electron_44-bin,345027343,345027342,,
 elm-land,343481046,343481047,,343481045
 elmPackages.elm-analyse,343481060,343481048,,343481059
 elmPackages.elm-doc-preview,343481099,343481070,,343481050
@@ -457,6 +457,7 @@ libucontext,,343528218,,
 libui-ng,,,,343528245
 libui,,,,343528240
 lice,343528722,343528720,,343528715
+licensedigger,,,,345028527
 linuxKernel.packages.linux_5_10.acer-wmi-battery,,344247525,,
 linuxKernel.packages.linux_5_10.ax99100,,344247527,,
 linuxKernel.packages.linux_5_10.can-isotp,344247532,344247546,,
@@ -855,7 +856,6 @@ ocamlPackages_latest.janeStreet.janestreet_cpuid,,343551717,,343551714
 ocamlPackages_latest.janestreet_cpuid,,343552041,,343552037
 ocamlPackages_latest.llvm,,,,343552215
 ocamlPackages_latest.owl,,,,343552936
-ocamlPackages_latest.oxenstored,345000566,,,
 ocamlPackages_latest.paf,,,,344245343
 ocamlPackages_latest.stog,,,,343553690
 ocrodjvu,343554138,343554141,,
@@ -997,7 +997,6 @@ python313Packages.aiovban-pyaudio,343691070,343691112,,343576680
 python313Packages.allure-pytest,343577635,343577634,,343577632
 python313Packages.allure-python-commons-test,343577641,343577639,,343577640
 python313Packages.alphashape,,344971281,,344971286
-python313Packages.amazon-ion,343577675,343577674,,343577673
 python313Packages.angr,343691233,343691189,,343577722
 python313Packages.anki-mac-helper,,,,343577745
 python313Packages.aocd,343691217,343691216,,343577843
@@ -1120,10 +1119,12 @@ python313Packages.json-schema-for-humans,343588302,343588298,,343588307
 python313Packages.json-tricks,343588313,343588312,,343588310
 python313Packages.jupyter-server,344125156,344125160,,
 python313Packages.kbcstorage,343694223,343694132,,343588692
+python313Packages.kestra,345041445,345041444,,345041446
 python313Packages.kmock,,,,343588812
 python313Packages.kopf,343694201,343694191,,
 python313Packages.kotsu,344971566,344971582,,344971564
 python313Packages.kserve-storage,,,,344940950
+python313Packages.langchain-fireworks,,,,345029145
 python313Packages.latexify-py,343589080,343589079,,343589078
 python313Packages.libbs,344971609,344971608,,344971607
 python313Packages.libvirt-python,,,,344244086
@@ -1160,6 +1161,7 @@ python313Packages.opencensus-ext-azure,343695288,343695289,,343593602
 python313Packages.opendal,343593949,343593953,,343593905
 python313Packages.openhomedevice,344245801,344245803,,344245798
 python313Packages.openslide,343593689,343593691,,343593687
+python313Packages.openstacksdk,,,,345029291
 python313Packages.opentelemetry-instrumentation-system-metrics,,,,343593776
 python313Packages.opentelemetry-instrumentation-urllib3,343695371,343695346,,343593784
 python313Packages.opentelemetry-propagator-aws-xray,343695352,343695373,,343593787
@@ -1260,6 +1262,7 @@ python313Packages.siuba,343602235,343602236,,343602234
 python313Packages.slack-sdk,,,,344308694
 python313Packages.solidpython2,,,,343602570
 python313Packages.sourmash,343697491,343697462,,343602622
+python313Packages.spacy,,,,345029456
 python313Packages.spectral-cube,344972147,344972152,,344972151
 python313Packages.sphinx-automodapi,343602753,343602748,,343602752
 python313Packages.ssort,343603224,343603223,,343603220
@@ -1319,7 +1322,7 @@ python314Packages.aiovban-pyaudio,343700142,343700144,,343611695
 python314Packages.allure-pytest,343610897,343610893,,343610889
 python314Packages.allure-python-commons-test,343610894,343610891,,343610888
 python314Packages.alphashape,,344972328,,344972329
-python314Packages.amazon-ion,343610924,343610925,,343610923
+python314Packages.amazon-ion,,,,345041546
 python314Packages.angr,343700272,343700258,,343610978
 python314Packages.anki-mac-helper,,,,343611035
 python314Packages.aocd,343700287,343700289,,343611097
@@ -1437,6 +1440,7 @@ python314Packages.json-schema-for-humans,343621451,343621447,,343621448
 python314Packages.json-tricks,343621459,343621453,,343621456
 python314Packages.jupyter-server,,344125723,,344125722
 python314Packages.kbcstorage,343703156,343703157,,343621831
+python314Packages.kestra,345041619,345041618,,
 python314Packages.kmock,,,,343621951
 python314Packages.kopf,343703216,343703194,,
 python314Packages.kotsu,344972570,344972566,,344972574
@@ -1468,7 +1472,6 @@ python314Packages.nats-py,344049337,344049336,,344049334
 python314Packages.neuralfoil,,,,345026235
 python314Packages.niaarm,344972821,344972823,,344972819
 python314Packages.noaa-coops,343704153,343704144,,343626152
-python314Packages.notobuilder,,,,345026242
 python314Packages.nuclear,343704178,343704202,,343626291
 python314Packages.nuitka,343626298,343626297,,
 python314Packages.numpy-groupies,344937836,344937837,,344937835
@@ -1479,6 +1482,7 @@ python314Packages.opencensus-ext-azure,343704299,343704293,,343626726
 python314Packages.opendal,343627183,343627077,,343627099
 python314Packages.openhomedevice,344246031,344246030,,344246029
 python314Packages.openslide,343626819,343626818,,343626817
+python314Packages.openstacksdk,,,,345029796
 python314Packages.opentelemetry-instrumentation-system-metrics,,,,343626904
 python314Packages.opentelemetry-instrumentation-urllib3,343704370,343704345,,343626916
 python314Packages.opentelemetry-propagator-aws-xray,343704346,343704344,,343626919
@@ -1534,9 +1538,12 @@ python314Packages.pysmbc,,,,343631483
 python314Packages.pytest-harvest,343631866,343631867,,343631868
 python314Packages.pytest-md-report,,,,343631928
 python314Packages.pytest-selenium,343705555,343705570,,343632059
+python314Packages.python-barbicanclient,,,,345029872
+python314Packages.python-cinderclient,,,,345029878
 python314Packages.python-constraint,343632272,343632273,,343632271
 python314Packages.python-etherscan-api,343632365,343632364,,343632363
 python314Packages.python-fx,343705620,343705609,,343632396
+python314Packages.python-keystoneclient,,,,345029885
 python314Packages.python-prctl,,343632701,,
 python314Packages.python-redis-lock,,,,343632718
 python314Packages.python-registry,343632723,343632722,,343632721
@@ -1832,5 +1839,5 @@ zee,,,,343676887
 zeekscript,343715653,343715662,,343676911
 zerofs,,,,343677000
 zf,,,,343677025
-zigfetch,,,,343677109
+zigfetch,,,,345041921
 zulip-term,343715736,343715731,,343677609
