@@ -39843,6 +39843,7 @@ id,status,name,system
 344557755,S,nix-zsh-completions,aarch64-linux
 344557757,S,nix-zsh-completions,x86_64-linux
 344557532,S,nix,x86_64-linux
+344557745,S,nixDependencies.aws-sdk-cpp,aarch64-darwin
 344557746,S,nixDependencies.aws-sdk-cpp,aarch64-linux
 344557747,S,nixDependencies.aws-sdk-cpp,x86_64-linux
 344557748,S,nixDependencies.boehmgc,aarch64-darwin
