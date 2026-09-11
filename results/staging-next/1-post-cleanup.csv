@@ -1416,7 +1416,6 @@ id,status,name,system
 344570540,D,pawn-appetit,aarch64-darwin
 344570550,F,paxtest,aarch64-linux
 344570545,F,paxtest,x86_64-linux
-344570590,F,pcalc,aarch64-darwin
 344570601,D,pcem,aarch64-linux
 344570654,D,pcl,aarch64-darwin
 344570686,D,pdf-cli,aarch64-linux
@@ -2162,7 +2161,6 @@ id,status,name,system
 344606147,D,python313Packages.nbsmoke,aarch64-darwin
 344606243,D,python313Packages.nemosis,aarch64-darwin
 344606301,D,python313Packages.neurokit2,aarch64-darwin
-344606347,F,python313Packages.nfcpy,aarch64-darwin
 344606346,D,python313Packages.niaarm,aarch64-darwin
 344606367,D,python313Packages.niaarm,aarch64-linux
 344606372,D,python313Packages.niaarm,x86_64-linux
@@ -64921,6 +64919,7 @@ id,status,name,system
 344588500,S,protobuf_33,aarch64-darwin
 344588501,S,protobuf_33,aarch64-linux
 344588502,S,protobuf_33,x86_64-linux
+344588529,S,protobuf_34,aarch64-darwin
 344588522,S,protobuf_34,aarch64-linux
 344588516,S,protobuf_34,x86_64-linux
 344588542,S,protobuf_35,aarch64-darwin
@@ -72375,6 +72374,7 @@ id,status,name,system
 344611871,S,python313Packages.pysol-cards,aarch64-linux
 344611866,S,python313Packages.pysol-cards,x86_64-linux
 344611867,S,python313Packages.pysolarmanv5,aarch64-darwin
+344611888,S,python313Packages.pysolarmanv5,aarch64-linux
 344611884,S,python313Packages.pysolarmanv5,x86_64-linux
 344611891,S,python313Packages.pysoma,aarch64-darwin
 344611906,S,python313Packages.pysoma,aarch64-linux

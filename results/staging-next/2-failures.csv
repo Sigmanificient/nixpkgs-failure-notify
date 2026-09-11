@@ -459,7 +459,6 @@ id,name,system
 344570351,partclone-utils,aarch64-darwin
 344570550,paxtest,aarch64-linux
 344570545,paxtest,x86_64-linux
-344570590,pcalc,aarch64-darwin
 344582807,php82Extensions.event,aarch64-darwin
 344582780,php82Extensions.event,aarch64-linux
 344582785,php82Extensions.event,x86_64-linux
@@ -605,7 +604,6 @@ id,name,system
 344606070,python313Packages.nanomsg-python,aarch64-darwin
 344606083,python313Packages.nanomsg-python,aarch64-linux
 344606069,python313Packages.nanomsg-python,x86_64-linux
-344606347,python313Packages.nfcpy,aarch64-darwin
 344607877,python313Packages.pbar,aarch64-darwin
 344607841,python313Packages.pbar,aarch64-linux
 344607852,python313Packages.pbar,x86_64-linux
