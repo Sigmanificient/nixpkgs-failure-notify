@@ -15,7 +15,7 @@ armitage,,,,344808895
 ath9k-htc-blobless-firmware-unstable,343466478,343466477,,
 ath9k-htc-blobless-firmware,343466476,343466475,,
 auto-editor,345052605,345052601,,345024775
-aws-sam-cli,,,,345061717
+aws-sam-cli,,,,345068900
 ax25-tools,343467060,343467058,,
 azahar,,,,345008125
 azure-cli-extensions.acrcssc,343467138,343467127,,343467125
@@ -72,9 +72,8 @@ chipsec,343474056,343474057,,343474055
 clevercsv,343474469,343474468,,343474467
 clfft,,,,343474474
 clipcat,,,,343474566
-cloudcompare,345052636,345052634,,
 cocom-tool-set,,,,343475051
-colmap,,344983000,,
+colmap,,345068916,,
 compare50,343679540,343679537,,343475430
 concord-tui,,,,344999685
 contour,,,,344934462
@@ -87,6 +86,7 @@ cosmopolitan,343476320,,,
 cp437,,,,343476380
 cpond,,,,343476407
 cppclean,343476435,343476433,,
+credsweeper,,345061775,,
 creek,343476607,343476610,,
 cuneiform,343477032,343477027,,
 cups-dymo,,,,343679813
@@ -187,7 +187,7 @@ git-together,,,,343486749
 gitbeaker-cli,,344217582,,
 gitcomet,,344048153,,
 gitlab-container-registry,,344072337,,
-gitlab-elasticsearch-indexer,,,,343486939
+gitlab-elasticsearch-indexer,,,,345068937
 gittype,,,,343487031
 glances,,344130212,,
 globus-cli,343487219,343487218,,343487217
@@ -196,7 +196,6 @@ gnudatalanguage,,343681939,,
 goobook,343682123,343682106,,343491517
 gossip,,,,343491693
 goxlr-utility,,,,343491815
-gplates,345052754,345052755,,
 gpt4all,343682244,343682201,,
 gradm,,343492052,,
 grafx2,,,,344126736
@@ -308,6 +307,7 @@ idrisPackages.eternal,,,,343519016
 idrisPackages.mhd,,,,343519106
 idrisPackages.pacman,,,,343519136
 imageworsener,343519358,343519355,,343519356
+inkscape,,,,345061918
 inochi-creator,344966079,344966080,,
 inspircd,,,,344809265
 intel-graphics-compiler,,344072394,,
@@ -550,6 +550,7 @@ linuxKernel.packages.linux_zen.rtl8189es,345062138,,,
 linuxKernel.packages.linux_zen.rtl8189fs,345062144,,,
 linuxKernel.packages.linux_zen.rtl8821cu,345062129,,,
 linuxKernel.packages.linux_zen.rtl88x2bu,345062130,,,
+linuxKernel.packages.linux_zen.shufflecake,345062134,,,
 linuxKernel.packages.linux_zen.tp_smapi,345062166,,,
 linuxKernel.packages.linux_zen.tsme-test,345062142,,,
 linuxKernel.packages.linux_zen.vmm_clock,345062157,,,
@@ -647,6 +648,7 @@ linuxPackages_zen.rtl8189es,345062255,,,
 linuxPackages_zen.rtl8189fs,345062253,,,
 linuxPackages_zen.rtl8821cu,345062256,,,
 linuxPackages_zen.rtl88x2bu,345062259,,,
+linuxPackages_zen.shufflecake,345062262,,,
 linuxPackages_zen.tp_smapi,345062269,,,
 linuxPackages_zen.tsme-test,345062277,,,
 linuxPackages_zen.vmm_clock,345062286,,,
@@ -811,7 +813,7 @@ openorienteering-mapper,,,,345053450
 openpa,,,,343555302
 openpbs,,,,343555323
 openroad,345049118,,,345049120
-openscad-unstable,,,,344970457
+openscad-unstable,,,,345069021
 openssh-askpass,,,,343555509
 osmctools,,,,343555913
 osrm-backend,,,,343555959
@@ -854,7 +856,6 @@ pinnacle,345062508,,,
 pint,,,,343571292
 pkgit,,,,343571494
 pkgsRocm.auto-editor,345053493,,,
-pkgsRocm.cloudcompare,345053494,,,
 pkgsRocm.fotema,344970700,,,
 pkgsRocm.migrate,344970760,,,
 pkgsRocm.petsc,344970799,,,
@@ -962,6 +963,7 @@ python313Packages.confight,343580952,343580946,,343580947
 python313Packages.connect-box,343692056,343692055,,343580973
 python313Packages.connexion,343692070,343692072,,343580986
 python313Packages.cornice,344979315,344979316,,344979317
+python313Packages.credsweeper,,345062536,,
 python313Packages.cvxpy,,,,344935860
 python313Packages.cx-freeze,,343581399,,
 python313Packages.cyclonedds-python,343692142,343692141,,343581422
@@ -1017,7 +1019,7 @@ python313Packages.google-cloud-error-reporting,343693500,343693509,,343585559
 python313Packages.google-cloud-iot,343693498,343693482,,343585568
 python313Packages.google-cloud-spanner,343693517,343693544,,343585635
 python313Packages.gradio,,,,345049346
-python313Packages.graph-tool,,,,344936039
+python313Packages.graph-tool,,,,345069119
 python313Packages.graphite-web,343693607,343693614,,343585841
 python313Packages.graphql-subscription-manager,343585858,343585860,,343585855
 python313Packages.habitipy,343586117,343586116,,343586115
@@ -1033,7 +1035,7 @@ python313Packages.imantics,343587556,343587557,,343587553
 python313Packages.imbalanced-learn,344971544,344971539,,344971541
 python313Packages.intensity-normalization,343693957,343693947,,343587766
 python313Packages.invocations,343693970,343693954,,343587799
-python313Packages.iocx,,,,344085506
+python313Packages.iocx,,,,345069139
 python313Packages.iplotx,344936129,344936108,,
 python313Packages.isbnlib,343587959,343587958,,343587954
 python313Packages.iterfzf,,,,343588033
@@ -1283,6 +1285,7 @@ python314Packages.confight,343614174,343614173,,343614170
 python314Packages.connect-box,343701106,343701105,,343614198
 python314Packages.connexion,343701107,343701125,,343614210
 python314Packages.cornice,344980824,344980827,,344980836
+python314Packages.credsweeper,,345062627,,
 python314Packages.crochet,,,,343614420
 python314Packages.cvxpy,,,,344937268
 python314Packages.cx-freeze,,343614629,,
@@ -1333,7 +1336,7 @@ python314Packages.gepa,343618401,343618400,,343618399
 python314Packages.gilknocker,343702406,343702412,,343618486
 python314Packages.glueviz,344313129,344313121,,
 python314Packages.gradio,,,,345049612
-python314Packages.graph-tool,,,,344937449
+python314Packages.graph-tool,,,,345069338
 python314Packages.graphite-web,343702629,343702637,,343618989
 python314Packages.graphql-subscription-manager,343619003,343619005,,343619002
 python314Packages.habitipy,343619266,343619274,,343619267
@@ -1351,7 +1354,6 @@ python314Packages.imantics,343620703,343620796,,343620700
 python314Packages.imbalanced-learn,344972546,344972544,,344972547
 python314Packages.intensity-normalization,343702955,343702964,,343620910
 python314Packages.invocations,343702980,343702975,,343620945
-python314Packages.iocx,344085818,,,
 python314Packages.iplotx,344937498,344937499,,344937508
 python314Packages.iterfzf,,,,343621175
 python314Packages.j2lint,343703039,343703009,,343621210
@@ -1485,7 +1487,6 @@ python314Packages.recordlinkage,344973027,344973037,,344973026
 python314Packages.reolink,343706029,343706118,,343633850
 python314Packages.repoze-who,343633884,343633881,,343633882
 python314Packages.requirements-detector,343633978,343633976,,343633974
-python314Packages.rerun-sdk,,,,344809990
 python314Packages.rmsd,343634193,343634192,,
 python314Packages.saiph,344973045,344973044,,344973042
 python314Packages.scantree,,,,343634650
@@ -1579,6 +1580,7 @@ reaper-sws-extension,,,,343643896
 recoll-nox,,,,344938439
 recoll,,,,344938435
 reindeer,,,,345054187
+release-checks,345069513,,,
 remarkable-toolchain,343644193,,,
 remarkable2-toolchain,343644195,,,
 retdec,343644433,,,
@@ -1609,7 +1611,7 @@ schildi-revenge,344218522,344218518,,
 sct,,343653403,,
 secretspec,,344224776,,
 selfci,,,,343653616
-sfcgal,344071594,344071592,,344071593
+sfcgal,345069526,345069525,,345069527
 sgfutils,,,,343653964
 shellshot,,,,344938492
 shoko-webui,,,,345001046
@@ -1680,7 +1682,6 @@ tests.testers.hasCmakeConfigModules.eigen-does-not-have-eigen,,,,343664195
 tests.testers.runCommand.bork,343713886,343713885,,343664256
 tests.texlive.binaries,344297273,344297267,,344297257
 teyjus,,,,343664894
-tgrep,,345049913,,
 timewall,,343665231,,
 todds,,343665759,,
 tokscale,343665800,343665799,,343665797
