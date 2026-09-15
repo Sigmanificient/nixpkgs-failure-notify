@@ -74602,6 +74602,7 @@ id,status,name,system
 345752981,S,lomiri.lomiri-indicator-datetime,aarch64-linux
 345752991,S,lomiri.lomiri-indicator-datetime,x86_64-linux
 345752980,S,lomiri.lomiri-indicator-network,aarch64-linux
+345752984,S,lomiri.lomiri-indicator-network,x86_64-linux
 345752993,S,lomiri.lomiri-mediaplayer-app,aarch64-linux
 345752983,S,lomiri.lomiri-mediaplayer-app,x86_64-linux
 345752995,S,lomiri.lomiri-notifications,aarch64-linux
@@ -74609,6 +74610,7 @@ id,status,name,system
 345752997,S,lomiri.lomiri-polkit-agent,aarch64-linux
 345752996,S,lomiri.lomiri-polkit-agent,x86_64-linux
 345752994,S,lomiri.lomiri-push-qml,aarch64-linux
+345752992,S,lomiri.lomiri-push-qml,x86_64-linux
 345298437,S,lomiri.lomiri-schemas,aarch64-linux
 345298439,S,lomiri.lomiri-schemas,x86_64-linux
 345298441,S,lomiri.lomiri-settings-components,aarch64-linux
