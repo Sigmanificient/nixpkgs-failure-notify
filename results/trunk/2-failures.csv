@@ -181,9 +181,6 @@ id,name,system
 345245810,elmPackages.elm-graphql,aarch64-linux
 345245658,elmPackages.elm-graphql,x86_64-linux
 345864684,elmPackages.elm-test-rs,aarch64-linux
-345245876,elmPackages.elm-verify-examples,aarch64-darwin
-345245937,elmPackages.elm-verify-examples,aarch64-linux
-345245852,elmPackages.elm-verify-examples,x86_64-linux
 345245675,elmPackages.elm-wrap,aarch64-darwin
 345245683,elmPackages.elm-xref,aarch64-darwin
 345245900,elmPackages.elm-xref,aarch64-linux
@@ -593,7 +590,7 @@ id,name,system
 345761098,linuxKernel.packages.linux_5_10.tuxedo-drivers,x86_64-linux
 345761116,linuxKernel.packages.linux_5_10.universal-pidff,aarch64-linux
 345761118,linuxKernel.packages.linux_5_10.universal-pidff,x86_64-linux
-345761136,linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,aarch64-linux
+345978544,linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,aarch64-linux
 345761119,linuxKernel.packages.linux_5_10.xpadneo,aarch64-linux
 345761137,linuxKernel.packages.linux_5_10.xpadneo,x86_64-linux
 345761140,linuxKernel.packages.linux_5_15.acer-wmi-battery,aarch64-linux
@@ -1049,7 +1046,7 @@ id,name,system
 345306957,mygpoclient,aarch64-linux
 345307056,mysql-workbench,aarch64-linux
 345307066,mysql-workbench,x86_64-linux
-345661008,mystmd,aarch64-darwin
+345978635,mystmd,aarch64-darwin
 345307132,naja,aarch64-darwin
 345307167,nanobench,aarch64-darwin
 345307330,nbd,aarch64-darwin
@@ -1667,6 +1664,7 @@ id,name,system
 345353465,python313Packages.kotsu,aarch64-darwin
 345353468,python313Packages.kotsu,aarch64-linux
 345353467,python313Packages.kotsu,x86_64-linux
+345974603,python313Packages.langchain-azure-dynamic-sessions,aarch64-darwin
 345353685,python313Packages.latexify-py,aarch64-darwin
 345353689,python313Packages.latexify-py,aarch64-linux
 345353688,python313Packages.latexify-py,x86_64-linux
@@ -2025,7 +2023,6 @@ id,name,system
 345372618,python313Packages.vina,aarch64-darwin
 345372614,python313Packages.vina,aarch64-linux
 345372619,python313Packages.vina,x86_64-linux
-345888978,python313Packages.viser,aarch64-darwin
 345372650,python313Packages.vnoise,aarch64-darwin
 345372649,python313Packages.vnoise,aarch64-linux
 345372654,python313Packages.vnoise,x86_64-linux
@@ -2383,6 +2380,7 @@ id,name,system
 345386832,python314Packages.kotsu,aarch64-darwin
 345386764,python314Packages.kotsu,aarch64-linux
 345386765,python314Packages.kotsu,x86_64-linux
+345974827,python314Packages.langsmith,x86_64-linux
 345755697,python314Packages.lerobot,aarch64-darwin
 345387154,python314Packages.libbs,aarch64-darwin
 345387157,python314Packages.libbs,aarch64-linux
@@ -2987,7 +2985,6 @@ id,name,system
 345433724,unsilence,aarch64-darwin
 345433826,unsilence,aarch64-linux
 345433723,unsilence,x86_64-linux
-345433899,urn-timer,aarch64-darwin
 345434054,uucp,aarch64-darwin
 345434135,uxn11,aarch64-darwin
 345434285,vapoursynth-znedi3,aarch64-linux

@@ -110,7 +110,6 @@ electrum,,,,345752076
 elmPackages.elm-doc-preview,345245637,345245646,,345245649
 elmPackages.elm-graphql,345245658,345245810,,345245834
 elmPackages.elm-test-rs,,345864684,,
-elmPackages.elm-verify-examples,345245852,345245937,,345245876
 elmPackages.elm-wrap,,,,345245675
 elmPackages.elm-xref,345245817,345245900,,345245683
 elmerfem,,,,345886951
@@ -393,7 +392,7 @@ linuxKernel.packages.linux_5_10.tbs,,345761086,,
 linuxKernel.packages.linux_5_10.tsme-test,,345761103,,
 linuxKernel.packages.linux_5_10.tuxedo-drivers,345761098,,,
 linuxKernel.packages.linux_5_10.universal-pidff,345761118,345761116,,
-linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,,345761136,,
+linuxKernel.packages.linux_5_10.virtualboxGuestAdditions,,345978544,,
 linuxKernel.packages.linux_5_10.xpadneo,345761137,345761119,,
 linuxKernel.packages.linux_5_15.acer-wmi-battery,,345761140,,
 linuxKernel.packages.linux_5_15.amneziawg,345761165,345761144,,
@@ -733,7 +732,7 @@ mullvad-vpn,,,,345306727
 multipart-parser-c,,,,345306742
 mygpoclient,,345306957,,
 mysql-workbench,345307066,345307056,,
-mystmd,,,,345661008
+mystmd,,,,345978635
 naja,,,,345307132
 nanobench,,,,345307167
 nbd,,,,345307330
@@ -1038,6 +1037,7 @@ python313Packages.kestra,345861879,345861881,,345861874
 python313Packages.kmock,,,,345353418
 python313Packages.kopf,345353466,345353454,,
 python313Packages.kotsu,345353467,345353468,,345353465
+python313Packages.langchain-azure-dynamic-sessions,,,,345974603
 python313Packages.latexify-py,345353688,345353689,,345353685
 python313Packages.libbs,345353856,345353862,,345353855
 python313Packages.libxc,345354034,345354036,,345354033
@@ -1185,7 +1185,6 @@ python313Packages.urllib3-future,345862209,,,
 python313Packages.usbrelay-py,345372369,345372364,,
 python313Packages.vega,345755362,345755357,,345755359
 python313Packages.vina,345372619,345372614,,345372618
-python313Packages.viser,,,,345888978
 python313Packages.vnoise,345372654,345372649,,345372650
 python313Packages.vowpalwabbit,,,,345372687
 python313Packages.vprof,345372693,345372691,,345372689
@@ -1328,6 +1327,7 @@ python314Packages.kestra,345862421,345862422,,
 python314Packages.kmock,,,,345386723
 python314Packages.kopf,345386754,345386755,,
 python314Packages.kotsu,345386765,345386764,,345386832
+python314Packages.langsmith,345974827,,,
 python314Packages.lerobot,,,,345755697
 python314Packages.libbs,345387158,345387157,,345387154
 python314Packages.libvirt-python,,,,345889108
@@ -1638,7 +1638,6 @@ ultrastardx,,,,345847759
 unblob,345889520,345889523,,
 unshieldv3,,,,345433719
 unsilence,345433723,345433826,,345433724
-urn-timer,,,,345433899
 uucp,,,,345434054
 uxn11,,,,345434135
 vapoursynth-znedi3,345434286,345434285,,
