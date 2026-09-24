@@ -1,7 +1,7 @@
 name,x86_64-linux,aarch64-linux,x86_64-darwin,aarch64-darwin
 OVMFFull,,,,346512586
 ac-library,,,,345227373
-actual-server,,,,345227510
+actual-server,,,,346772873
 aerogramme,345227668,345227667,,
 agent-browser,345987809,,,
 agentsploit,,,,346512628
@@ -12,7 +12,7 @@ archivemount,,,,345230070
 ath9k-htc-blobless-firmware,,346545280,,
 atmos,,,,346379102
 auto-editor,345854949,345854943,,345854944
-aws-sam-cli,,,,346536508
+aws-sam-cli,,,,346777975
 ax25-tools,345231555,345231553,,
 azahar,,,,346525684
 azure-cli-extensions.acrcssc,345231622,345231624,,345231619
@@ -59,6 +59,7 @@ chipsec,345236793,345236791,,345236792
 clipcat,,,,345239125
 cocom-tool-set,,,,345239608
 contour,,,,345987861
+copacetic,,,,346773942
 coredns,,,,346369254
 cosmopolitan,345859894,,,
 credsweeper,,346764414,,
@@ -124,9 +125,10 @@ g15daemon,,,,345249367
 gccNGPackages.gcc-unwrapped,,,,345249765
 gccNGPackages_15.gcc-unwrapped,,,,345249832
 gccNGPackages_16.gcc-unwrapped,,,,345249909
-gdcm,,,,346521579
+gdcm,,,,346774075
 gerbera,346538832,346538831,,
 gimme-aws-creds,345250824,345250826,,345250827
+git-annex,346774090,346774091,,346774093
 git-branchstack,345250960,345250958,,345250959
 git-privacy,345251154,345251153,,345251155
 git-wt,346525898,,,
@@ -134,7 +136,7 @@ gitbeaker-cli,,345251340,,
 glances,,346536599,,
 globus-cli,345251730,345251728,,345251729
 gnat16Packages.gpr2,345252041,345252031,,
-gnudatalanguage,,345987938,,
+gnudatalanguage,,346774158,,
 golden-cheetah,,,,345255902
 goobook,345256026,345255983,,345255980
 goxlr-utility,,,,345256325
@@ -146,7 +148,6 @@ grafx2,,,,345256712
 greenbone-feed-sync,,,,345256893
 groestlcoin,345256995,345256997,,345256994
 groestlcoind,345256999,345257001,,345256996
-gsd,,,,346371622
 gummy,345257536,345257534,,
 gvfs,,,,345660722
 hashcash,,,,345257915
@@ -171,6 +172,7 @@ haskellPackages.gi-gdkx114,,,,345266267
 haskellPackages.gi-gst,345266231,345266230,,345266227
 haskellPackages.gi-gtkosxapplication,,,,345266252
 haskellPackages.gi-soup3,,,,345266298
+haskellPackages.git-annex,346774193,346774194,,346774195
 haskellPackages.gtk-mac-integration,,,,345267210
 haskellPackages.gtk-traymanager,,,,345267225
 haskellPackages.gtk3-mac-integration,,,,345267239
@@ -235,6 +237,7 @@ hime,345281073,345281072,,
 home-assistant-custom-components.dreo,346371651,,,
 home-assistant-custom-components.moonraker,346371648,346371657,,
 home-assistant-custom-components.pirate-weather,346371673,346371681,,
+hooky,,,,346774224
 httpstat,345281871,345281869,,345281870
 hyprlandPlugins.hyprgrass,346369883,346369885,,
 hyprlandPlugins.hyprspace,346369882,346369903,,
@@ -623,11 +626,11 @@ mayo,,,,345304091
 mediasynclite,,,,345304425
 meerk40t,345304458,345304512,,345304456
 memtree,345304562,345304561,,
-meshcentral,,345304667,,
+meshcentral,,346774446,,
 metapixel,,,,345304728
 micronucleus,,,,345304854
 micropython,345304865,345304863,,345304864
-migrate,345887732,345887734,,
+migrate,346774448,345887734,,
 minitube,345855484,345855480,,
 minutor,,,,345864835
 mlton20130715,345305447,,,
@@ -646,7 +649,6 @@ mpich,,,,345306223
 mplayer,,,,345306244
 mrustc-bootstrap,345306527,,,
 mspds,345306601,345306602,,
-mullvad-vpn,,,,346526195
 multipart-parser-c,,,,345306742
 mygpoclient,,345306957,,
 mysql-workbench,345988121,345988118,,
@@ -761,19 +763,19 @@ pimsync,,,,345891034
 pint,,,,345335801
 pkgit,,,,345336007
 pkgsRocm.auto-editor,345856061,,,
-pkgsRocm.fotema,345888127,,,
-pkgsRocm.migrate,345888181,,,
-pkgsRocm.petsc,345888216,,,
+pkgsRocm.fotema,346774660,,,
+pkgsRocm.migrate,346774724,,,
+pkgsRocm.petsc,346774756,,,
 pkgsRocm.python3Packages.gpuctypes,345336298,,,
-pkgsRocm.python3Packages.petsc4py,345888423,,,
-pkgsRocm.python3Packages.piper-phonemize,345888430,,,
-pkgsRocm.python3Packages.sirius,346372143,,,
-pkgsRocm.python3Packages.torch-no-triton,345888513,,,
-pkgsRocm.python3Packages.torch,345888491,,,
-pkgsRocm.python3Packages.torchWithVulkan,345888559,,,
-pkgsRocm.python3Packages.torchWithoutCuda,345888510,,,
-pkgsRocm.sirius,346372151,,,
-pkgsRocm.vtk_9_6,346521950,,,
+pkgsRocm.python3Packages.petsc4py,346774989,,,
+pkgsRocm.python3Packages.piper-phonemize,346775019,,,
+pkgsRocm.python3Packages.sirius,346775067,,,
+pkgsRocm.python3Packages.torch-no-triton,346775112,,,
+pkgsRocm.python3Packages.torch,346775068,,,
+pkgsRocm.python3Packages.torchWithVulkan,346775125,,,
+pkgsRocm.python3Packages.torchWithoutCuda,346775081,,,
+pkgsRocm.sirius,346775157,,,
+pkgsRocm.vtk_9_6,346775180,,,
 pkgsRocm.whisper-cpp-vulkan,345336637,,,
 pmars-x11,,,,345336918
 pnetcdf,,,,345888629
@@ -851,7 +853,7 @@ python313Packages.cinemagoer,345344877,345344878,,345344876
 python313Packages.cleanlab,,346546540,,
 python313Packages.clip,345345090,345345074,,345345073
 python313Packages.clx-sdk-xms,345345123,345345122,,345345121
-python313Packages.colcon-argcomplete,345345235,345345233,,345345232
+python313Packages.colcon-argcomplete,346775242,346775241,,346775277
 python313Packages.compressed-tensors,,,,345979248
 python313Packages.confight,345345522,345345520,,345345518
 python313Packages.connect-box,345345547,345345546,,345345545
@@ -861,8 +863,6 @@ python313Packages.credsweeper,,346764779,,
 python313Packages.cx-freeze,,345345972,,
 python313Packages.cyclonedds-python,345856534,345856535,,345856533
 python313Packages.dataclass-csv,345346154,345346152,,345346151
-python313Packages.datalad-next,345888710,,,345444597
-python313Packages.datalad,,345888711,,
 python313Packages.datashader,346515900,346515901,,345346215
 python313Packages.datashaper,345444592,345444596,,345444591
 python313Packages.dbt-common,345346274,345346272,,345346270
@@ -900,7 +900,7 @@ python313Packages.filterpy,,,,345348890
 python313Packages.flask-versioned,345349218,345349220,,345349219
 python313Packages.flickrapi,345349270,345349269,,345349268
 python313Packages.fritzconnection,,,,345349500
-python313Packages.gdcm,,,,346522026
+python313Packages.gdcm,,,,346775377
 python313Packages.geoarrow-rust-io,,,,345988438
 python313Packages.glueviz,345891251,345891250,,345350052
 python313Packages.google-cloud-dataproc,345350140,345350142,,345350139
@@ -931,6 +931,7 @@ python313Packages.jax-jumpy,345352744,345352743,,345352742
 python313Packages.jenkinsapi,345352792,345352791,,345352790
 python313Packages.json-schema-for-humans,345352905,345352910,,345352903
 python313Packages.json-tricks,345352922,345352920,,345352921
+python313Packages.kagglehub,346775425,,,
 python313Packages.kbcstorage,345353303,345353301,,345353299
 python313Packages.kestra,346214797,346214798,,346214799
 python313Packages.kmock,,,,345353418
@@ -970,7 +971,7 @@ python313Packages.openslide,346522084,346522085,,346522086
 python313Packages.opentelemetry-instrumentation-system-metrics,,,,345358379
 python313Packages.opentelemetry-instrumentation-urllib3,345358383,345358381,,345358380
 python313Packages.opentelemetry-propagator-aws-xray,345358387,345358389,,345358393
-python313Packages.optiland,,346522088,,346522087
+python313Packages.optiland,,346775604,,346775602
 python313Packages.opytimark,345358486,,,
 python313Packages.paddlepaddle,,345358732,,
 python313Packages.panphon,345358810,345358821,,345358822
@@ -1015,6 +1016,7 @@ python313Packages.pyosohotwaterapi,345362344,345362347,,345362345
 python313Packages.pyqt3d,345362560,345362561,,345362562
 python313Packages.pyramid-exclog,345362650,345362648,,345362639
 python313Packages.pyramid-multiauth,345362676,345362646,,345362669
+python313Packages.pyreqwest,,346765899,,
 python313Packages.pyslurm,345888904,345888903,,
 python313Packages.pysmart,345362970,345362971,,345362969
 python313Packages.pysmbc,,,,345363000
@@ -1070,9 +1072,10 @@ python313Packages.swi-tools,345368395,345368394,,345368390
 python313Packages.tcxparser,345368592,345368591,,345368590
 python313Packages.tinygrad,346516791,346516785,,345754352
 python313Packages.toggl-cli,345369164,345369195,,345369138
-python313Packages.torchWithRocm,345888971,,,
+python313Packages.torchWithRocm,346775692,,,
 python313Packages.torchao,,,,345369230
 python313Packages.torchdata,,,,345369240
+python313Packages.torchrl,346765930,,,
 python313Packages.trackpy,345369335,,,345369336
 python313Packages.trino-python-client,345370488,345370491,,345370484
 python313Packages.tsfresh,346517794,,,345847040
@@ -1138,7 +1141,7 @@ python314Packages.cinemagoer,345378276,345378275,,345378273
 python314Packages.class-doc,345378332,345378335,,345378333
 python314Packages.clip,345378467,345378471,,345378465
 python314Packages.clx-sdk-xms,345378521,345378515,,345378517
-python314Packages.colcon-argcomplete,345378613,345378615,,345378614
+python314Packages.colcon-argcomplete,346775732,346775735,,346775758
 python314Packages.compressed-tensors,,,,345979299
 python314Packages.confight,345378902,345378898,,345378899
 python314Packages.connect-box,345378927,345378928,,345378926
@@ -1147,7 +1150,6 @@ python314Packages.cornice,345379080,345379051,,345379075
 python314Packages.credsweeper,,346764882,,
 python314Packages.cx-freeze,,345379360,,
 python314Packages.dataclass-csv,345379530,345379529,,345379527
-python314Packages.datalad-next,345889014,345889010,,345445016
 python314Packages.datashader,346518007,346518008,,345379591
 python314Packages.datashaper,345445024,345445025,,345445022
 python314Packages.dbt-common,345379650,345379652,,345379647
@@ -1181,7 +1183,7 @@ python314Packages.filterpy,,,,345382224
 python314Packages.flask-versioned,345382556,345382554,,345382550
 python314Packages.flickrapi,345382601,345382603,,345382599
 python314Packages.func-timeout,,,,345382867
-python314Packages.gdcm,,,,346522205
+python314Packages.gdcm,,,,346775867
 python314Packages.glueviz,345891721,345891722,,345383345
 python314Packages.gradio,,,,346518107
 python314Packages.graph-tool,,,,346370874
@@ -1248,7 +1250,7 @@ python314Packages.openslide,346522265,346522269,,346522264
 python314Packages.opentelemetry-instrumentation-system-metrics,,,,345391662
 python314Packages.opentelemetry-instrumentation-urllib3,345391675,345391676,,345391674
 python314Packages.opentelemetry-propagator-aws-xray,345391678,345391682,,345391677
-python314Packages.optiland,,346522266,,346522268
+python314Packages.optiland,,346776096,,346776095
 python314Packages.opytimark,345391776,,,
 python314Packages.os-client-config,,,,346518419
 python314Packages.panphon,345392090,345392088,,345392086
@@ -1350,7 +1352,7 @@ python314Packages.tinygrad,346518843,346518844,,345756033
 python314Packages.toggl-cli,345402385,345402382,,345402407
 python314Packages.tololib,,345402397,,
 python314Packages.torch-checkpointing,,,,345402443
-python314Packages.torchWithRocm,345889254,,,
+python314Packages.torchWithRocm,346776182,,,
 python314Packages.torchao,,,,345402480
 python314Packages.torchdata,,,,345402487
 python314Packages.trackpy,345402582,,,345402581
@@ -1427,10 +1429,10 @@ sbclPackages.cl-notify,,,,345416935
 sbclPackages.qt-libs,345417612,345417613,,345417611
 scantpaper,346538475,,,
 schildi-revenge,,346371261,,
+secretspec,,,,346776247
 selfci,,,,345418440
 sfcgal,345418736,345418735,,345418738
 shpool,,,,345419103
-siesta,345889391,,,
 sif,,,,345419164
 snid,,,,345420030
 snouty,,346538493,,
@@ -1448,7 +1450,7 @@ static-server,346522356,,,
 steghide,,,,345421581
 stoat-desktop,,,,346539304
 stog,,,,346527391
-stoolap,345421696,345421695,,
+stoolap,346778127,346778125,,
 stp,,,,345421723
 stratisd,345421736,,,
 stripe-cli,,345421798,,
@@ -1538,7 +1540,7 @@ vodozemac-bindings-cpp,,,,345436269
 vowpal-wabbit,345436321,345436320,,345436319
 vpp,346520431,346520432,,
 vprof,345436348,345436347,,345436346
-vtk_9_6,346522436,346522440,,346522435
+vtk_9_6,346776446,346776450,,346776447
 vyper,345437963,345437962,,345437966
 warzone2100,345438121,345438118,,
 waylock,,345438359,,
