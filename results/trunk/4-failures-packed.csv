@@ -61,6 +61,7 @@ cocom-tool-set,,,,345239608
 contour,,,,345987861
 coredns,,,,346369254
 cosmopolitan,345859894,,,
+credsweeper,,346764414,,
 creek,345241194,345241193,,
 csol,,,,345990385
 cups-dymo,,,,345241616
@@ -68,7 +69,7 @@ dart_frog_cli,345242035,345242017,,
 dasher,,,,345242058
 dbqn-native,346525785,,,
 depot-cli,,,,346512820
-dgop,,,,345752030
+dgop,,,,346765125
 discordchatexporter-desktop,,,,346369472
 dleyna,,,,345243290
 dnslink-std-go,,,,345243432
@@ -79,7 +80,6 @@ dyndnsc,345244986,345244992,,345244981
 ecapture,345859968,345859962,,
 eggnog-mapper,,,,345245387
 ela-widget-tools,,,,345245467
-electron_44-bin,345245524,345245523,,
 electrum,,,,346521537
 elmPackages.elm-doc-preview,345245637,345245646,,345245649
 elmPackages.elm-graphql,345245658,345245810,,345245834
@@ -617,7 +617,7 @@ mallard-ducktype,345303290,345303289,,345303288
 mapnik,345988087,345988088,,345988090
 mathemagix,345303839,,,
 matrix-synapse-unwrapped,346055829,346055827,,
-matrix-tuwunel,,,,346053434
+matrix-tuwunel,,,,346765249
 mattermost-desktop,,345860656,,
 mayo,,,,345304091
 mediasynclite,,,,345304425
@@ -633,6 +633,7 @@ minutor,,,,345864835
 mlton20130715,345305447,,,
 mlton20210117,,,,345305452
 mobsql,,,,345305579
+modal,,,,346764725
 mono_repo,345305800,345305824,,
 moonfire-nvr,,,,345305811
 mopidy-spotify,345305890,345305892,,345305889
@@ -674,12 +675,12 @@ nix-serve-ng,,346515354,,346515348
 nmstate,,,,345309511
 noctalia,,346053504,,
 nodehun,,,,345309587
-notepad-next,,,,345309749
+notepad-next,,,,346765283
 ntp,,,,345310065
 numr,,345310159,,
 nvidia-mig-parted,,,,346538977
 obitools3,345310471,345310472,,345310469
-obliteratus,346515392,346515393,,
+obliteratus,,346765285,,
 obs-studio-plugins.obs-dvd-screensaver,346538996,346539008,,
 obs-studio-plugins.obs-move-transition,346539015,346539016,,
 obs-studio-plugins.obs-replay-source,346539025,346539036,,
@@ -722,7 +723,7 @@ opencomposite,,,,345319473
 opengothic,,345319568,,
 openpa,,,,345319789
 openpbs,,,,345887960
-openroad,,,,346539196
+openroad,,,,346765664
 openscad-unstable,,,,346526892
 openssh-askpass,,,,345320003
 opensupaplex,,,,346053793
@@ -815,9 +816,7 @@ py3dtiles,,346515728,,
 pyp,345340303,345340301,,345340297
 python313Packages.aiohttp-client-cache,345340929,345340876,,345340883
 python313Packages.aiohttp-remotes,345340880,345341291,,345340878
-python313Packages.aiormq,345341103,345341101,,345341100
 python313Packages.aiosonic,,,,345341175
-python313Packages.aiotools,345341220,345341221,,345341217
 python313Packages.aiovban-pyaudio,345341256,345341244,,345341241
 python313Packages.allure-pytest,345342191,345342193,,345342192
 python313Packages.allure-python-commons-test,345342196,345342197,,345342198
@@ -837,12 +836,10 @@ python313Packages.bbox,345343723,345343721,,345343719
 python313Packages.beanhub-cli,345343795,345343792,,345343791
 python313Packages.bizkaibus,345344033,345344032,,345344031
 python313Packages.blastdns,,,,345344053
-python313Packages.bluezero,345344150,345344155,,345344152
 python313Packages.borb,345344226,345344225,,345344227
 python313Packages.brian2,345344312,345344310,,345344309
 python313Packages.brotli-asgi,345344335,345344334,,345344332
 python313Packages.caldav_2,,,,346053954
-python313Packages.canmatrix,345344543,345344539,,345344538
 python313Packages.capa,345856512,345856513,,345856514
 python313Packages.capstone_4,345344559,345344558,,345344556
 python313Packages.category-encoders,346515817,346515816,,345344639
@@ -860,6 +857,7 @@ python313Packages.confight,345345522,345345520,,345345518
 python313Packages.connect-box,345345547,345345546,,345345545
 python313Packages.connexion,345345563,345345562,,345345561
 python313Packages.cornice,345345668,345345674,,345345666
+python313Packages.credsweeper,,346764779,,
 python313Packages.cx-freeze,,345345972,,
 python313Packages.cyclonedds-python,345856534,345856535,,345856533
 python313Packages.dataclass-csv,345346154,345346152,,345346151
@@ -1105,9 +1103,7 @@ python313Packages.zulip-emoji-mapping,345373816,345373814,,345373811
 python314Packages.aiohttp-client-cache,345374353,345374389,,345374398
 python314Packages.aiohttp-remotes,345374290,345374289,,345374499
 python314Packages.aiokef,345374351,345374355,,345374352
-python314Packages.aiormq,345374518,345374517,,345374514
 python314Packages.aiosonic,,,,345374577
-python314Packages.aiotools,345374628,345374631,,345374629
 python314Packages.aiovban-pyaudio,345374664,345374665,,345374659
 python314Packages.allure-pytest,345375601,345375598,,345375599
 python314Packages.allure-python-commons-test,345375603,345375602,,345375600
@@ -1128,11 +1124,9 @@ python314Packages.bbox,345377116,345377115,,345377114
 python314Packages.beanhub-cli,345377203,345377195,,345377190
 python314Packages.bizkaibus,345377429,345377428,,345377427
 python314Packages.blastdns,,,,345377449
-python314Packages.bluezero,345377547,345377548,,345377546
 python314Packages.borb,345377626,345377625,,345377623
 python314Packages.brian2,345377703,345377704,,345377706
 python314Packages.brotli-asgi,345377725,345377724,,345377721
-python314Packages.canmatrix,345377933,345377935,,345377932
 python314Packages.canopen,,,,345377940
 python314Packages.capa,345856772,345856766,,345856752
 python314Packages.capstone_4,345377951,345377950,,345377949
@@ -1150,6 +1144,7 @@ python314Packages.confight,345378902,345378898,,345378899
 python314Packages.connect-box,345378927,345378928,,345378926
 python314Packages.connexion,345378948,345378946,,345378943
 python314Packages.cornice,345379080,345379051,,345379075
+python314Packages.credsweeper,,346764882,,
 python314Packages.cx-freeze,,345379360,,
 python314Packages.dataclass-csv,345379530,345379529,,345379527
 python314Packages.datalad-next,345889014,345889010,,345445016
@@ -1296,7 +1291,6 @@ python314Packages.pyosohotwaterapi,345395637,345395636,,345395643
 python314Packages.pyqt3d,345395855,345395871,,345395852
 python314Packages.pyramid-exclog,345395961,345395951,,345395958
 python314Packages.pyramid-multiauth,345395969,345395942,,345395938
-python314Packages.pyreqwest,,345764782,,
 python314Packages.pyslurm,345889194,345889195,,
 python314Packages.pysmart,345396258,345396266,,345396262
 python314Packages.pysmbc,,,,345396290
@@ -1572,7 +1566,7 @@ yap,345441400,,,
 yoinks,,345857184,,
 zcash,345441857,345441856,,
 zenn-cli,,,,345765999
-zerofs,,,,345757808
+zerofs,,,,346766190
 zf,,,,345442013
 zigfetch,,,,345442096
 zulip-term,345442588,345442590,,345442589

@@ -109,6 +109,7 @@ id,name,system
 345987861,contour,aarch64-darwin
 346369254,coredns,aarch64-darwin
 345859894,cosmopolitan,x86_64-linux
+346764414,credsweeper,aarch64-linux
 345241193,creek,aarch64-linux
 345241194,creek,x86_64-linux
 345990385,csol,aarch64-darwin
@@ -118,7 +119,7 @@ id,name,system
 345242058,dasher,aarch64-darwin
 346525785,dbqn-native,x86_64-linux
 346512820,depot-cli,aarch64-darwin
-345752030,dgop,aarch64-darwin
+346765125,dgop,aarch64-darwin
 346369472,discordchatexporter-desktop,aarch64-darwin
 345243290,dleyna,aarch64-darwin
 345243432,dnslink-std-go,aarch64-darwin
@@ -132,8 +133,6 @@ id,name,system
 345859968,ecapture,x86_64-linux
 345245387,eggnog-mapper,aarch64-darwin
 345245467,ela-widget-tools,aarch64-darwin
-345245523,electron_44-bin,aarch64-linux
-345245524,electron_44-bin,x86_64-linux
 346521537,electrum,aarch64-darwin
 345245649,elmPackages.elm-doc-preview,aarch64-darwin
 345245646,elmPackages.elm-doc-preview,aarch64-linux
@@ -876,7 +875,7 @@ id,name,system
 345303839,mathemagix,x86_64-linux
 346055827,matrix-synapse-unwrapped,aarch64-linux
 346055829,matrix-synapse-unwrapped,x86_64-linux
-346053434,matrix-tuwunel,aarch64-darwin
+346765249,matrix-tuwunel,aarch64-darwin
 345860656,mattermost-desktop,aarch64-linux
 345304091,mayo,aarch64-darwin
 345304425,mediasynclite,aarch64-darwin
@@ -899,6 +898,7 @@ id,name,system
 345305447,mlton20130715,x86_64-linux
 345305452,mlton20210117,aarch64-darwin
 345305579,mobsql,aarch64-darwin
+346764725,modal,aarch64-darwin
 345305824,mono_repo,aarch64-linux
 345305800,mono_repo,x86_64-linux
 345305811,moonfire-nvr,aarch64-darwin
@@ -961,15 +961,14 @@ id,name,system
 345309511,nmstate,aarch64-darwin
 346053504,noctalia,aarch64-linux
 345309587,nodehun,aarch64-darwin
-345309749,notepad-next,aarch64-darwin
+346765283,notepad-next,aarch64-darwin
 345310065,ntp,aarch64-darwin
 345310159,numr,aarch64-linux
 346538977,nvidia-mig-parted,aarch64-darwin
 345310469,obitools3,aarch64-darwin
 345310472,obitools3,aarch64-linux
 345310471,obitools3,x86_64-linux
-346515393,obliteratus,aarch64-linux
-346515392,obliteratus,x86_64-linux
+346765285,obliteratus,aarch64-linux
 346539008,obs-studio-plugins.obs-dvd-screensaver,aarch64-linux
 346538996,obs-studio-plugins.obs-dvd-screensaver,x86_64-linux
 346539016,obs-studio-plugins.obs-move-transition,aarch64-linux
@@ -1035,7 +1034,7 @@ id,name,system
 345319568,opengothic,aarch64-linux
 345319789,openpa,aarch64-darwin
 345887960,openpbs,aarch64-darwin
-346539196,openroad,aarch64-darwin
+346765664,openroad,aarch64-darwin
 346526892,openscad-unstable,aarch64-darwin
 345320003,openssh-askpass,aarch64-darwin
 346053793,opensupaplex,aarch64-darwin
@@ -1195,13 +1194,7 @@ id,name,system
 345340878,python313Packages.aiohttp-remotes,aarch64-darwin
 345341291,python313Packages.aiohttp-remotes,aarch64-linux
 345340880,python313Packages.aiohttp-remotes,x86_64-linux
-345341100,python313Packages.aiormq,aarch64-darwin
-345341101,python313Packages.aiormq,aarch64-linux
-345341103,python313Packages.aiormq,x86_64-linux
 345341175,python313Packages.aiosonic,aarch64-darwin
-345341217,python313Packages.aiotools,aarch64-darwin
-345341221,python313Packages.aiotools,aarch64-linux
-345341220,python313Packages.aiotools,x86_64-linux
 345341241,python313Packages.aiovban-pyaudio,aarch64-darwin
 345341244,python313Packages.aiovban-pyaudio,aarch64-linux
 345341256,python313Packages.aiovban-pyaudio,x86_64-linux
@@ -1251,9 +1244,6 @@ id,name,system
 345344032,python313Packages.bizkaibus,aarch64-linux
 345344033,python313Packages.bizkaibus,x86_64-linux
 345344053,python313Packages.blastdns,aarch64-darwin
-345344152,python313Packages.bluezero,aarch64-darwin
-345344155,python313Packages.bluezero,aarch64-linux
-345344150,python313Packages.bluezero,x86_64-linux
 345344227,python313Packages.borb,aarch64-darwin
 345344225,python313Packages.borb,aarch64-linux
 345344226,python313Packages.borb,x86_64-linux
@@ -1264,9 +1254,6 @@ id,name,system
 345344334,python313Packages.brotli-asgi,aarch64-linux
 345344335,python313Packages.brotli-asgi,x86_64-linux
 346053954,python313Packages.caldav_2,aarch64-darwin
-345344538,python313Packages.canmatrix,aarch64-darwin
-345344539,python313Packages.canmatrix,aarch64-linux
-345344543,python313Packages.canmatrix,x86_64-linux
 345856514,python313Packages.capa,aarch64-darwin
 345856513,python313Packages.capa,aarch64-linux
 345856512,python313Packages.capa,x86_64-linux
@@ -1311,6 +1298,7 @@ id,name,system
 345345666,python313Packages.cornice,aarch64-darwin
 345345674,python313Packages.cornice,aarch64-linux
 345345668,python313Packages.cornice,x86_64-linux
+346764779,python313Packages.credsweeper,aarch64-linux
 345345972,python313Packages.cx-freeze,aarch64-linux
 345856533,python313Packages.cyclonedds-python,aarch64-darwin
 345856535,python313Packages.cyclonedds-python,aarch64-linux
@@ -1900,13 +1888,7 @@ id,name,system
 345374352,python314Packages.aiokef,aarch64-darwin
 345374355,python314Packages.aiokef,aarch64-linux
 345374351,python314Packages.aiokef,x86_64-linux
-345374514,python314Packages.aiormq,aarch64-darwin
-345374517,python314Packages.aiormq,aarch64-linux
-345374518,python314Packages.aiormq,x86_64-linux
 345374577,python314Packages.aiosonic,aarch64-darwin
-345374629,python314Packages.aiotools,aarch64-darwin
-345374631,python314Packages.aiotools,aarch64-linux
-345374628,python314Packages.aiotools,x86_64-linux
 345374659,python314Packages.aiovban-pyaudio,aarch64-darwin
 345374665,python314Packages.aiovban-pyaudio,aarch64-linux
 345374664,python314Packages.aiovban-pyaudio,x86_64-linux
@@ -1959,9 +1941,6 @@ id,name,system
 345377428,python314Packages.bizkaibus,aarch64-linux
 345377429,python314Packages.bizkaibus,x86_64-linux
 345377449,python314Packages.blastdns,aarch64-darwin
-345377546,python314Packages.bluezero,aarch64-darwin
-345377548,python314Packages.bluezero,aarch64-linux
-345377547,python314Packages.bluezero,x86_64-linux
 345377623,python314Packages.borb,aarch64-darwin
 345377625,python314Packages.borb,aarch64-linux
 345377626,python314Packages.borb,x86_64-linux
@@ -1971,9 +1950,6 @@ id,name,system
 345377721,python314Packages.brotli-asgi,aarch64-darwin
 345377724,python314Packages.brotli-asgi,aarch64-linux
 345377725,python314Packages.brotli-asgi,x86_64-linux
-345377932,python314Packages.canmatrix,aarch64-darwin
-345377935,python314Packages.canmatrix,aarch64-linux
-345377933,python314Packages.canmatrix,x86_64-linux
 345377940,python314Packages.canopen,aarch64-darwin
 345856752,python314Packages.capa,aarch64-darwin
 345856766,python314Packages.capa,aarch64-linux
@@ -2020,6 +1996,7 @@ id,name,system
 345379075,python314Packages.cornice,aarch64-darwin
 345379051,python314Packages.cornice,aarch64-linux
 345379080,python314Packages.cornice,x86_64-linux
+346764882,python314Packages.credsweeper,aarch64-linux
 345379360,python314Packages.cx-freeze,aarch64-linux
 345379527,python314Packages.dataclass-csv,aarch64-darwin
 345379529,python314Packages.dataclass-csv,aarch64-linux
@@ -2370,7 +2347,6 @@ id,name,system
 345395938,python314Packages.pyramid-multiauth,aarch64-darwin
 345395942,python314Packages.pyramid-multiauth,aarch64-linux
 345395969,python314Packages.pyramid-multiauth,x86_64-linux
-345764782,python314Packages.pyreqwest,aarch64-linux
 345889195,python314Packages.pyslurm,aarch64-linux
 345889194,python314Packages.pyslurm,x86_64-linux
 345396262,python314Packages.pysmart,aarch64-darwin
@@ -2847,7 +2823,7 @@ id,name,system
 345441856,zcash,aarch64-linux
 345441857,zcash,x86_64-linux
 345765999,zenn-cli,aarch64-darwin
-345757808,zerofs,aarch64-darwin
+346766190,zerofs,aarch64-darwin
 345442013,zf,aarch64-darwin
 345442096,zigfetch,aarch64-darwin
 345442589,zulip-term,aarch64-darwin
