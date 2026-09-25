@@ -165,7 +165,6 @@ id,status,name,system
 345239985,D,communi,aarch64-darwin
 345987861,F,contour,aarch64-darwin
 346773942,F,copacetic,aarch64-darwin
-346522542,D,coqPackages.ConCert,aarch64-darwin
 346522541,D,coqPackages.QuickChick,aarch64-darwin
 346522548,D,coqPackages.autosubst,aarch64-darwin
 346522547,D,coqPackages.coq-elpi,aarch64-darwin
@@ -3847,7 +3846,6 @@ id,status,name,system
 345409568,F,river-bedload,x86_64-linux
 345409601,F,rkdeveloptool-pine64,aarch64-darwin
 345409853,D,rocmPackages.llvm.libcxx,aarch64-linux
-346523455,D,rocqPackages.ConCert,aarch64-darwin
 346523454,D,rocqPackages.QuickChick,aarch64-darwin
 346523459,D,rocqPackages.autosubst,aarch64-darwin
 346523484,D,rocqPackages.coq-elpi,aarch64-darwin
@@ -18223,6 +18221,7 @@ id,status,name,system
 345240325,S,coqPackages.CoLoR,aarch64-darwin
 345240326,S,coqPackages.CoLoR,aarch64-linux
 345240327,S,coqPackages.CoLoR,x86_64-linux
+346522542,S,coqPackages.ConCert,aarch64-darwin
 346522556,S,coqPackages.ConCert,aarch64-linux
 346522544,S,coqPackages.ConCert,x86_64-linux
 345240330,S,coqPackages.ExtLib,aarch64-darwin
@@ -184495,6 +184494,7 @@ id,status,name,system
 345409995,S,rocqPackages.CoLoR,aarch64-darwin
 345409996,S,rocqPackages.CoLoR,aarch64-linux
 345410011,S,rocqPackages.CoLoR,x86_64-linux
+346523455,S,rocqPackages.ConCert,aarch64-darwin
 346523460,S,rocqPackages.ConCert,aarch64-linux
 346523490,S,rocqPackages.ConCert,x86_64-linux
 345410015,S,rocqPackages.ExtLib,aarch64-darwin
