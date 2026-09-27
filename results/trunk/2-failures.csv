@@ -230,7 +230,6 @@ id,name,system
 345256999,groestlcoind,x86_64-linux
 345257534,gummy,aarch64-linux
 345257536,gummy,x86_64-linux
-345660722,gvfs,aarch64-darwin
 345257915,hashcash,aarch64-darwin
 345258122,haskellPackages.AppleScript,aarch64-darwin
 345258390,haskellPackages.GOST34112012-Hash,aarch64-darwin
@@ -873,7 +872,7 @@ id,name,system
 345988087,mapnik,x86_64-linux
 345303839,mathemagix,x86_64-linux
 346788445,matrix-synapse-unwrapped,aarch64-linux
-346765249,matrix-tuwunel,aarch64-darwin
+346853549,matrix-tuwunel,aarch64-darwin
 345860656,mattermost-desktop,aarch64-linux
 345304091,mayo,aarch64-darwin
 345304425,mediasynclite,aarch64-darwin
@@ -1200,6 +1199,7 @@ id,name,system
 345342283,python313Packages.angr,aarch64-linux
 345342284,python313Packages.angr,x86_64-linux
 345342293,python313Packages.anki-mac-helper,aarch64-darwin
+346852543,python313Packages.ansible,aarch64-darwin
 345342405,python313Packages.aocd,aarch64-darwin
 345342406,python313Packages.aocd,aarch64-linux
 345342409,python313Packages.aocd,x86_64-linux
@@ -1321,7 +1321,7 @@ id,name,system
 345347442,python313Packages.dlib,aarch64-darwin
 345347688,python313Packages.dragonfly,aarch64-linux
 345347683,python313Packages.dragonfly,x86_64-linux
-346538118,python313Packages.dspy,aarch64-darwin
+346853839,python313Packages.dspy,aarch64-darwin
 345347801,python313Packages.duct-py,aarch64-darwin
 345347804,python313Packages.duct-py,aarch64-linux
 345347806,python313Packages.duct-py,x86_64-linux

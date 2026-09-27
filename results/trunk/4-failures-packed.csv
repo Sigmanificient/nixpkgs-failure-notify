@@ -144,7 +144,6 @@ greenbone-feed-sync,,,,345256893
 groestlcoin,345256995,345256997,,345256994
 groestlcoind,345256999,345257001,,345256996
 gummy,345257536,345257534,,
-gvfs,,,,345660722
 hashcash,,,,345257915
 haskellPackages.AppleScript,,,,345258122
 haskellPackages.GOST34112012-Hash,,345258391,,345258390
@@ -614,7 +613,7 @@ mallard-ducktype,345303290,345303289,,345303288
 mapnik,345988087,345988088,,345988090
 mathemagix,345303839,,,
 matrix-synapse-unwrapped,,346788445,,
-matrix-tuwunel,,,,346765249
+matrix-tuwunel,,,,346853549
 mattermost-desktop,,345860656,,
 mayo,,,,345304091
 mediasynclite,,,,345304425
@@ -817,6 +816,7 @@ python313Packages.allure-python-commons-test,345342196,345342197,,345342198
 python313Packages.alphashape,,346515747,,345988343
 python313Packages.angr,345342284,345342283,,345342281
 python313Packages.anki-mac-helper,,,,345342293
+python313Packages.ansible,,,,346852543
 python313Packages.aocd,345342409,345342406,,345342405
 python313Packages.arelle-headless,345753679,345753683,,345753678
 python313Packages.arelle,345753680,345753682,,345753676
@@ -868,7 +868,7 @@ python313Packages.django-currentuser,345346951,345346952,,345346950
 python313Packages.djvulibre-python,,,,345347441
 python313Packages.dlib,,,,345347442
 python313Packages.dragonfly,345347683,345347688,,
-python313Packages.dspy,,,,346538118
+python313Packages.dspy,,,,346853839
 python313Packages.duct-py,345347806,345347804,,345347801
 python313Packages.editdistpy,345348003,345348002,,345348001
 python313Packages.effect,345348025,345348024,,345348023
