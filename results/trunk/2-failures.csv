@@ -2006,6 +2006,7 @@ id,name,system
 345380794,python314Packages.dlib,aarch64-darwin
 345381036,python314Packages.dragonfly,aarch64-linux
 345381041,python314Packages.dragonfly,x86_64-linux
+346855089,python314Packages.dspy,aarch64-darwin
 345381156,python314Packages.duct-py,aarch64-darwin
 345381153,python314Packages.duct-py,aarch64-linux
 345381155,python314Packages.duct-py,x86_64-linux
