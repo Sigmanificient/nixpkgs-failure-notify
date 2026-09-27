@@ -85,7 +85,6 @@ elmPackages.elm-doc-preview,345245637,345245646,,345245649
 elmPackages.elm-graphql,345245658,345245810,,345245834
 elmPackages.elm-test-rs,,345864684,,
 elmPackages.elm-wrap,,,,345245675
-elmPackages.elm-xref,345245817,345245900,,345245683
 emacs-gtk,,,,345859977
 emacs-macport,,,,345860005
 emacs-pgtk,,,,345859995
@@ -174,7 +173,6 @@ haskellPackages.hamid,,,,345267393
 haskellPackages.hcwiid,345267729,345267728,,
 haskellPackages.heftia-effects,,,,345267812
 haskellPackages.heph-aligned-storable,,,,345267837
-haskellPackages.hevm,345267908,345267931,,345267925
 haskellPackages.highlight,,,,345267983
 haskellPackages.hlibgit2,,345268077,,
 haskellPackages.huckleberry,,,,345268980
@@ -256,8 +254,8 @@ jasterix,,,,345285123
 jbofihe,,,,345285264
 jetuml,,,,345752454
 jogger,345752458,345752457,,
-julia_110,345286017,346513136,,346513137
-julia_111,,,,346513138
+julia_110,346880802,346880787,,346880776
+julia_111,,,,346880781
 keeperrl,345287785,,,
 ketch,,,,345287833
 key,,,,346214713
@@ -744,11 +742,11 @@ pdftoipe,345321823,345321822,,345321826
 perl5Packages.Gtk3ImageView,,,,345891032
 perlPackages.Gtk3ImageView,,,,345891033
 photoview,345333755,345333751,,
-php82Extensions.event,345333805,345333806,,345333804
-php83Extensions.event,345334155,345334162,,345334154
-php84Extensions.event,345334512,345334514,,345334513
-php85Extensions.event,345334866,345334862,,345334881
-phpExtensions.event,345335200,345335195,,345335194
+php82Extensions.event,346881067,346881066,,346881063
+php83Extensions.event,346881451,346881436,,346881374
+php84Extensions.event,346881727,346881734,,346881830
+php85Extensions.event,346882078,346882100,,346882076
+phpExtensions.event,346882409,346882410,,346882408
 phytool,,,,345335538
 picat,,,,345335558
 picolibc,,,,345335599
@@ -863,7 +861,7 @@ python313Packages.deltalake,,,,345346468
 python313Packages.devpi-server,346523391,,,
 python313Packages.dicomweb-client,,,,345346648
 python313Packages.disnake,345346786,345346675,,345346673
-python313Packages.distrax,346789257,346789258,,
+python313Packages.distrax,,346882791,,
 python313Packages.django-currentuser,345346951,345346952,,345346950
 python313Packages.djvulibre-python,,,,345347441
 python313Packages.dlib,,,,345347442
@@ -1062,7 +1060,6 @@ python313Packages.toggl-cli,345369164,345369195,,345369138
 python313Packages.torchWithRocm,346775692,,,
 python313Packages.torchao,,,,345369230
 python313Packages.torchdata,,,,345369240
-python313Packages.torchrl,346789506,,,
 python313Packages.trackpy,345369335,,,345369336
 python313Packages.trino-python-client,345370488,345370491,,345370484
 python313Packages.tsfresh,346517794,,,345847040
@@ -1416,7 +1413,6 @@ sbclPackages.cl-notify,,,,345416935
 sbclPackages.qt-libs,345417612,345417613,,345417611
 scantpaper,346538475,,,
 schildi-revenge,,346371261,,
-secretspec,,,,346776247
 selfci,,,,345418440
 sfcgal,345418736,345418735,,345418738
 shpool,,,,345419103
