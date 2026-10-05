@@ -168,7 +168,7 @@ ghidra-extensions.gnudisassembler,347106925,347106923,,
 gimme-aws-creds,347107079,347107076,,347107074
 gitbeaker-cli,,347107589,,
 gittype,347107795,,,
-glances,,347459530,,
+glances,,347947382,,
 globus-cli,347107979,347107978,,347107976
 gnat16Packages.gpr2,347108280,347108279,,
 gnatPackages.gpr2,347108327,347108329,,
@@ -753,8 +753,6 @@ ngadmin,,,,347164764
 nhentai,347164898,347164883,,347164829
 nix-serve-ng,,347888376,,347888375
 nmstate,,,,347165918
-nodejs-slim_26,,347166003,,
-nodejs-slim_latest,,347166004,,
 notepad-next,,,,347166159
 ns-3,347166362,,,
 ntp,,,,347166477
@@ -817,6 +815,8 @@ openroad,347816179,347816177,,347816178
 openssh-askpass,,,,347176537
 openvas-scanner,347176679,347176678,,
 openvino-genai,347791502,347791499,,
+openvswitch-dpdk,,347926327,,
+openvswitch,,347926326,,
 osmctools,,,,347176941
 osrm-backend,347176985,347176988,,
 ossia-score,347176991,347176990,,
@@ -1014,7 +1014,7 @@ python313Packages.fastapi-versionizer,347205252,347205253,,347205251
 python313Packages.fastcan,347205265,,,347205263
 python313Packages.fhir-py,347205427,347205426,,347205425
 python313Packages.fickling,347205436,347205435,,347205457
-python313Packages.firedrake,347205559,347205553,,
+python313Packages.firedrake,347947623,347947624,,
 python313Packages.flask-versioned,347205801,347205799,,347205798
 python313Packages.flickrapi,347205857,347205856,,347205855
 python313Packages.floret,347205876,347205874,,
@@ -1193,7 +1193,7 @@ python313Packages.toggl-cli,347225765,347225764,,347225763
 python313Packages.torch-checkpointing,,,,347225834
 python313Packages.torchao,,,,347226033
 python313Packages.torchdata,,,,347225889
-python313Packages.torchrl,347918083,,,
+python313Packages.torchrl,347947669,,,
 python313Packages.trackpy,347225984,,,347225982
 python313Packages.trino-python-client,347227124,347227119,,347227118
 python313Packages.tsfresh,347227183,,,347227181
@@ -1301,7 +1301,7 @@ python314Packages.fastapi-versionizer,347238709,347238708,,347238707
 python314Packages.fastcan,347238719,,,347238712
 python314Packages.fastmcp,,347890249,,
 python314Packages.fhir-py,347238878,347238876,,347238877
-python314Packages.firedrake,347238987,347238988,,
+python314Packages.firedrake,347947676,347947677,,
 python314Packages.flask-versioned,347239252,347239251,,347239250
 python314Packages.flickrapi,347239306,347239305,,347239304
 python314Packages.floret,347239327,347239325,,
@@ -1518,7 +1518,7 @@ qstopmotion,347264249,347264247,,
 qt6Packages.maplibre-native-qt,347264558,347264557,,
 qui,,,,347264895
 quill,347264938,347264937,,
-radian,,347265073,,
+radian,,347947723,,
 radicle-artifact,,347265065,,
 rapidgzip,347265200,,,
 rappel,,347265213,,
@@ -1547,8 +1547,8 @@ river-bedload,347266348,347266346,,
 rkdeveloptool-pine64,,,,347266385
 rojo,,347267084,,
 rp,,347267238,,
-rstudio-server,347918926,347918923,,
-rstudio,347918928,347918931,,
+rstudio-server,347947819,347947821,,
+rstudio,347947827,347947823,,
 rtl_wmbus,,,,347267484
 rubyPackages.zookeeper,347268817,347268816,,
 rubyPackages_3_3.zookeeper,347270082,347270083,,
@@ -1590,7 +1590,7 @@ sioyek,,,,347817209
 snagboot,347276767,347276766,,
 snid,,,,347276830
 snort,347276897,347276895,,
-snouty,,347460477,,
+snouty,,347947851,,
 solana-agave,,,,347277058
 sonobus,347277145,347277144,,
 sosreport,347277189,347277190,,
@@ -1621,6 +1621,7 @@ tblite,347279981,347279983,,
 tboot,347279986,,,
 tcl9Packages.tclx,347280168,347280167,,347280166
 tcptrack,347280233,347280232,,
+tela-circle-icon-theme,347926756,347926758,,
 telemt,,347280348,,
 televido,347280388,347280387,,
 terraform-providers.cloudflare_cloudflare,,,,347792483
@@ -1728,7 +1729,7 @@ xonotic-dedicated-unwrapped,,,,347297517
 xonotic-sdl-unwrapped,,,,347297522
 xsnow,,347297714,,
 yaegi,,347297889,,
-yap,347298067,,,
+yap,347947921,,,
 z3-tptp,347831878,347831879,,347831877
 zabbix.agent2,,,,347298623
 zabbix70.agent2,,,,347298609

@@ -285,7 +285,7 @@ id,name,system
 347107079,gimme-aws-creds,x86_64-linux
 347107589,gitbeaker-cli,aarch64-linux
 347107795,gittype,x86_64-linux
-347459530,glances,aarch64-linux
+347947382,glances,aarch64-linux
 347107976,globus-cli,aarch64-darwin
 347107978,globus-cli,aarch64-linux
 347107979,globus-cli,x86_64-linux
@@ -1129,8 +1129,6 @@ id,name,system
 347888375,nix-serve-ng,aarch64-darwin
 347888376,nix-serve-ng,aarch64-linux
 347165918,nmstate,aarch64-darwin
-347166003,nodejs-slim_26,aarch64-linux
-347166004,nodejs-slim_latest,aarch64-linux
 347166159,notepad-next,aarch64-darwin
 347166362,ns-3,x86_64-linux
 347166477,ntp,aarch64-darwin
@@ -1232,6 +1230,8 @@ id,name,system
 347176679,openvas-scanner,x86_64-linux
 347791499,openvino-genai,aarch64-linux
 347791502,openvino-genai,x86_64-linux
+347926327,openvswitch-dpdk,aarch64-linux
+347926326,openvswitch,aarch64-linux
 347176941,osmctools,aarch64-darwin
 347176988,osrm-backend,aarch64-linux
 347176985,osrm-backend,x86_64-linux
@@ -1599,8 +1599,8 @@ id,name,system
 347205457,python313Packages.fickling,aarch64-darwin
 347205435,python313Packages.fickling,aarch64-linux
 347205436,python313Packages.fickling,x86_64-linux
-347205553,python313Packages.firedrake,aarch64-linux
-347205559,python313Packages.firedrake,x86_64-linux
+347947624,python313Packages.firedrake,aarch64-linux
+347947623,python313Packages.firedrake,x86_64-linux
 347205798,python313Packages.flask-versioned,aarch64-darwin
 347205799,python313Packages.flask-versioned,aarch64-linux
 347205801,python313Packages.flask-versioned,x86_64-linux
@@ -2004,7 +2004,7 @@ id,name,system
 347225834,python313Packages.torch-checkpointing,aarch64-darwin
 347226033,python313Packages.torchao,aarch64-darwin
 347225889,python313Packages.torchdata,aarch64-darwin
-347918083,python313Packages.torchrl,x86_64-linux
+347947669,python313Packages.torchrl,x86_64-linux
 347225982,python313Packages.trackpy,aarch64-darwin
 347225984,python313Packages.trackpy,x86_64-linux
 347227118,python313Packages.trino-python-client,aarch64-darwin
@@ -2257,8 +2257,8 @@ id,name,system
 347238877,python314Packages.fhir-py,aarch64-darwin
 347238876,python314Packages.fhir-py,aarch64-linux
 347238878,python314Packages.fhir-py,x86_64-linux
-347238988,python314Packages.firedrake,aarch64-linux
-347238987,python314Packages.firedrake,x86_64-linux
+347947677,python314Packages.firedrake,aarch64-linux
+347947676,python314Packages.firedrake,x86_64-linux
 347239250,python314Packages.flask-versioned,aarch64-darwin
 347239251,python314Packages.flask-versioned,aarch64-linux
 347239252,python314Packages.flask-versioned,x86_64-linux
@@ -2741,7 +2741,7 @@ id,name,system
 347264895,qui,aarch64-darwin
 347264937,quill,aarch64-linux
 347264938,quill,x86_64-linux
-347265073,radian,aarch64-linux
+347947723,radian,aarch64-linux
 347265065,radicle-artifact,aarch64-linux
 347265200,rapidgzip,x86_64-linux
 347265213,rappel,aarch64-linux
@@ -2786,10 +2786,10 @@ id,name,system
 347266385,rkdeveloptool-pine64,aarch64-darwin
 347267084,rojo,aarch64-linux
 347267238,rp,aarch64-linux
-347918923,rstudio-server,aarch64-linux
-347918926,rstudio-server,x86_64-linux
-347918931,rstudio,aarch64-linux
-347918928,rstudio,x86_64-linux
+347947821,rstudio-server,aarch64-linux
+347947819,rstudio-server,x86_64-linux
+347947823,rstudio,aarch64-linux
+347947827,rstudio,x86_64-linux
 347267484,rtl_wmbus,aarch64-darwin
 347268816,rubyPackages.zookeeper,aarch64-linux
 347268817,rubyPackages.zookeeper,x86_64-linux
@@ -2854,7 +2854,7 @@ id,name,system
 347276830,snid,aarch64-darwin
 347276895,snort,aarch64-linux
 347276897,snort,x86_64-linux
-347460477,snouty,aarch64-linux
+347947851,snouty,aarch64-linux
 347277058,solana-agave,aarch64-darwin
 347277144,sonobus,aarch64-linux
 347277145,sonobus,x86_64-linux
@@ -2901,6 +2901,8 @@ id,name,system
 347280168,tcl9Packages.tclx,x86_64-linux
 347280232,tcptrack,aarch64-linux
 347280233,tcptrack,x86_64-linux
+347926758,tela-circle-icon-theme,aarch64-linux
+347926756,tela-circle-icon-theme,x86_64-linux
 347280348,telemt,aarch64-linux
 347280387,televido,aarch64-linux
 347280388,televido,x86_64-linux
@@ -3075,7 +3077,7 @@ id,name,system
 347297522,xonotic-sdl-unwrapped,aarch64-darwin
 347297714,xsnow,aarch64-linux
 347297889,yaegi,aarch64-linux
-347298067,yap,x86_64-linux
+347947921,yap,x86_64-linux
 347831877,z3-tptp,aarch64-darwin
 347831879,z3-tptp,aarch64-linux
 347831878,z3-tptp,x86_64-linux
