@@ -16,9 +16,7 @@ avro-cpp,347086789,347086787,,
 aws-encryption-sdk-cli,347086879,347086878,,347086877
 aws-sam-cli,,,,347885149
 ax25-tools,347086965,347086964,,
-ayatana-indicator-datetime,,347916581,,
 ayatana-indicator-power,,347916588,,
-ayatana-indicator-session,,347916579,,
 azure-cli-extensions.acrcssc,347087033,347087029,,347087028
 azure-cli-extensions.aksarc,347087062,347087158,,347087057
 azure-cli-extensions.alias,347087064,347087061,,347087058
@@ -48,7 +46,6 @@ biglybt,,,,347088978
 bngblaster,,347089465,,
 bochs,,,,347089490
 boulder,,,,347089723
-breakpad,347089834,347089833,,
 brlcad,347089935,347089919,,
 bugdom,,,,347090146
 bumblebee-status,347090346,347090345,,
@@ -70,14 +67,13 @@ chickenPackages_5.chickenEggs.hypergiant,,,,347092809
 chickenPackages_5.chickenEggs.libyaml,,347092892,,347092895
 chipsec,347094859,347094857,,347094855
 ciphey,,347790600,,
-clickhouse-lts,347095320,347095321,,
-clickhouse,347095307,347095308,,
 clightning,347095338,347095339,,
 clipboard-jh,,,,347912542
 clipcat,,,,347095359
 cocom-tool-set,,,,347095848
 collabora-desktop,347916655,347916653,,
 contour,347096450,347096444,,347096442
+coqPackages.metarocq-template-rocq,,,,347947318
 coredns,,,,347096956
 corrscope,,,,347097026
 cosmopolitan,347097136,,,
@@ -121,7 +117,7 @@ empty-epsilon,347102085,347102090,,
 enca,,347102111,,
 equalx,,,,347102343
 ergoscf,347102378,347102377,,
-ete-unwrapped,,347102497,,347102498
+ete-unwrapped,,348097811,,348097812
 eternal-terminal,347102504,347102503,,
 etterna,347102537,347102536,,
 exatorrent,,,,347102651
@@ -180,14 +176,12 @@ goose-cli,347815538,347815537,,
 goshs,,,,347112845
 goxel,347112878,347112877,,
 goxlr-utility,,,,347112881
-graalvmPackages.graalvm-ce-musl,347829258,,,
 grafx2,,,,347912815
 grass,347885681,347885680,,
 greenbone-feed-sync,,,,347113451
 groestlcoin,347113552,347113548,,347113551
 groestlcoind,347113556,347113558,,347113553
 halfempty,,,,347114326
-handlr,347114377,347114376,,347114375
 hashcash,,,,347114475
 haskell.compiler.ghc94,347114533,347114532,,
 haskell.compiler.ghc948,347114537,347114536,,
@@ -684,12 +678,12 @@ llvmPackages_21.libc,347154285,347154283,,
 llvmPackages_23.lldb,,,,347154574
 llvmPackages_23.openmp,347154591,347154592,,347154596
 lomiri.lomiri-history-service,347917047,347917027,,
-lomiri.lomiri-mediaplayer-app,,347917030,,
 losslesscut,,,,347834961
 loudmouth,,,,347155062
 louvre,347155073,347155343,,
 ltrace,347155220,347155218,,
 mac-fdisk,347159471,,,
+macaulay2,,,,347947487
 mallard-ducktype,347159722,347159721,,347159720
 martin,347160121,,,
 mathemagix,347160273,347160272,,
@@ -756,7 +750,6 @@ nmstate,,,,347165918
 notepad-next,,,,347166159
 ns-3,347166362,,,
 ntp,,,,347166477
-numkong,,347166567,,
 numr,347166583,347166577,,
 nushellPlugins.desktop_notifications,,,,347166598
 nvidia-mig-parted,,,,347166678
@@ -857,7 +850,7 @@ perlPackages.ImageScale,347186811,,,
 pgadmin4-desktopmode,347804358,347804360,,
 pgadmin4,347804362,347804363,,
 pgschema,,347190206,,
-photoview,347190319,347190315,,
+photoview,348098206,348098207,,
 phytool,347192103,347192102,,347192100
 picat,,,,347192117
 picolibc,,,,347192152
@@ -892,10 +885,8 @@ pkgsRocm.python3Packages.openmm-torch,347888720,,,
 pkgsRocm.python3Packages.petsc4py,347836005,,,
 pkgsRocm.python3Packages.pyg-lib,347888800,,,
 pkgsRocm.python3Packages.pytorch-pfn-extras,347888754,,,
-pkgsRocm.python3Packages.sirius,347836098,,,
 pkgsRocm.python3Packages.stytra,347888801,,,
 pkgsRocm.python3Packages.tinygrad,347888823,,,
-pkgsRocm.sirius,347836178,,,
 pkgsRocm.vtk_9_6,347836222,,,
 pkgsRocm.whisper-cpp-vulkan,347836216,,,
 pktgen,347193224,347193223,,
@@ -956,7 +947,6 @@ python313Packages.bayesian-optimization,,,,347917353
 python313Packages.bayespy,347200288,347200286,,347200285
 python313Packages.bbox,347200292,347200290,,347200291
 python313Packages.beanhub-cli,347914249,347914247,,347914245
-python313Packages.bizkaibus,347200597,347200598,,347200596
 python313Packages.blastdns,,,,347200619
 python313Packages.borb,347200788,347200787,,347200785
 python313Packages.brian2,347200881,347200882,,347200880
@@ -1080,7 +1070,6 @@ python313Packages.nanomsg-python,347213831,347213830,,347213829
 python313Packages.niaarm,347214113,,,347214125
 python313Packages.noaa-coops,347214239,347214236,,347214235
 python313Packages.nuclear,347214368,347214367,,347214366
-python313Packages.numkong,,347214407,,
 python313Packages.numpy-groupies,347214416,347214419,,347214414
 python313Packages.openai-agents,347889112,347889110,,347889111
 python313Packages.openbabel,,347214791,,
@@ -1133,6 +1122,7 @@ python313Packages.pypdf,,347791959,,
 python313Packages.pyqt3d,347219214,347219190,,347219191
 python313Packages.pyramid-exclog,347219269,347219268,,347219263
 python313Packages.pyramid-multiauth,347219294,347219293,,347219282
+python313Packages.pyreqwest,,347947652,,
 python313Packages.pyslurm,347219577,347219576,,
 python313Packages.pysmart,347219591,347219593,,347219590
 python313Packages.pytest-harvest,347220010,347220009,,347220007
@@ -1242,7 +1232,6 @@ python314Packages.bayesian-optimization,,,,347918169
 python314Packages.bayespy,347233790,347233789,,347233787
 python314Packages.bbox,347233793,347233792,,347233791
 python314Packages.beanhub-cli,347914754,347914753,,347914755
-python314Packages.bizkaibus,347234097,347234098,,347234096
 python314Packages.blastdns,,,,347234119
 python314Packages.borb,347234287,347234284,,347234288
 python314Packages.brian2,347234382,347234380,,347234381
@@ -1362,7 +1351,6 @@ python314Packages.neoteroi-mkdocs,,347247399,,
 python314Packages.niaarm,347247532,,,347247530
 python314Packages.noaa-coops,347247672,347247656,,347247658
 python314Packages.nuclear,347247790,347247788,,347247789
-python314Packages.numkong,,347247825,,
 python314Packages.numpy-groupies,347247837,347247836,,347247833
 python314Packages.openai-agents,347890355,347890358,,347890357
 python314Packages.openbabel,,347248204,,
@@ -1414,6 +1402,7 @@ python314Packages.pypdf,,347792237,,
 python314Packages.pyqt3d,347252610,347252605,,347252606
 python314Packages.pyramid-exclog,347252685,347252683,,347252682
 python314Packages.pyramid-multiauth,347252695,347252693,,347252690
+python314Packages.pyreqwest,,347947700,,
 python314Packages.pyslurm,347252995,347252993,,
 python314Packages.pysmart,347253008,347253007,,347253006
 python314Packages.pytelegrambotapi,,,,347253240
@@ -1545,6 +1534,7 @@ rfc-bibtex,347266143,347266142,,347266141
 rhvoice,,,,347266189
 river-bedload,347266348,347266346,,
 rkdeveloptool-pine64,,,,347266385
+rocqPackages.metarocq-template-rocq,,,,347947813
 rojo,,347267084,,
 rp,,347267238,,
 rstudio-server,347947819,347947821,,
@@ -1570,7 +1560,7 @@ sbclPackages.cl-gtk2-glib,,347273620,,347273619
 sbclPackages.cl-gtk4_dot_webkit,347891538,347891537,,
 sbclPackages.cl-notify,,,,347273688
 sbclPackages.qt-libs,347274361,347274360,,347274359
-scantpaper,347817181,,,
+scantpaper,,348098509,,
 scd2html,347274767,347274766,,
 schemes,347274817,,,
 schildi-revenge,,347817202,,
@@ -1662,7 +1652,7 @@ tests.testers.runCommand.bork,347286073,347286072,,347286059
 tests.texlive.binaries,347817358,347817363,,347817366
 teyjus,,,,347286653
 tgrep,,347792634,,
-timeshift-minimal,347287040,347287043,,
+timeshift-minimal,348098597,348098600,,
 tlrender,347287282,347287300,,
 todds,,347836722,,
 tokscale,347287619,347287618,,347287617
@@ -1686,7 +1676,6 @@ ubridge,,,,347289936
 ulfius,,,,347290189
 ultralytics,,,,347290212
 unsilence,347290609,347290608,,347290607
-usearch,,347290859,,
 uucp,,,,347290937
 uxn11,,,,347291018
 vapoursynth-znedi3,347291169,347291168,,

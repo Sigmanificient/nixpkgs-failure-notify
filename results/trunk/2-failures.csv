@@ -27,9 +27,7 @@ id,name,system
 347885149,aws-sam-cli,aarch64-darwin
 347086964,ax25-tools,aarch64-linux
 347086965,ax25-tools,x86_64-linux
-347916581,ayatana-indicator-datetime,aarch64-linux
 347916588,ayatana-indicator-power,aarch64-linux
-347916579,ayatana-indicator-session,aarch64-linux
 347087028,azure-cli-extensions.acrcssc,aarch64-darwin
 347087029,azure-cli-extensions.acrcssc,aarch64-linux
 347087033,azure-cli-extensions.acrcssc,x86_64-linux
@@ -96,8 +94,6 @@ id,name,system
 347089465,bngblaster,aarch64-linux
 347089490,bochs,aarch64-darwin
 347089723,boulder,aarch64-darwin
-347089833,breakpad,aarch64-linux
-347089834,breakpad,x86_64-linux
 347089919,brlcad,aarch64-linux
 347089935,brlcad,x86_64-linux
 347090146,bugdom,aarch64-darwin
@@ -135,10 +131,6 @@ id,name,system
 347094857,chipsec,aarch64-linux
 347094859,chipsec,x86_64-linux
 347790600,ciphey,aarch64-linux
-347095321,clickhouse-lts,aarch64-linux
-347095320,clickhouse-lts,x86_64-linux
-347095308,clickhouse,aarch64-linux
-347095307,clickhouse,x86_64-linux
 347095339,clightning,aarch64-linux
 347095338,clightning,x86_64-linux
 347912542,clipboard-jh,aarch64-darwin
@@ -149,6 +141,7 @@ id,name,system
 347096442,contour,aarch64-darwin
 347096444,contour,aarch64-linux
 347096450,contour,x86_64-linux
+347947318,coqPackages.metarocq-template-rocq,aarch64-darwin
 347096956,coredns,aarch64-darwin
 347097026,corrscope,aarch64-darwin
 347097136,cosmopolitan,x86_64-linux
@@ -215,8 +208,8 @@ id,name,system
 347102343,equalx,aarch64-darwin
 347102377,ergoscf,aarch64-linux
 347102378,ergoscf,x86_64-linux
-347102498,ete-unwrapped,aarch64-darwin
-347102497,ete-unwrapped,aarch64-linux
+348097812,ete-unwrapped,aarch64-darwin
+348097811,ete-unwrapped,aarch64-linux
 347102503,eternal-terminal,aarch64-linux
 347102504,eternal-terminal,x86_64-linux
 347102536,etterna,aarch64-linux
@@ -306,7 +299,6 @@ id,name,system
 347112877,goxel,aarch64-linux
 347112878,goxel,x86_64-linux
 347112881,goxlr-utility,aarch64-darwin
-347829258,graalvmPackages.graalvm-ce-musl,x86_64-linux
 347912815,grafx2,aarch64-darwin
 347885680,grass,aarch64-linux
 347885681,grass,x86_64-linux
@@ -318,9 +310,6 @@ id,name,system
 347113558,groestlcoind,aarch64-linux
 347113556,groestlcoind,x86_64-linux
 347114326,halfempty,aarch64-darwin
-347114375,handlr,aarch64-darwin
-347114376,handlr,aarch64-linux
-347114377,handlr,x86_64-linux
 347114475,hashcash,aarch64-darwin
 347114532,haskell.compiler.ghc94,aarch64-linux
 347114533,haskell.compiler.ghc94,x86_64-linux
@@ -1023,7 +1012,6 @@ id,name,system
 347154591,llvmPackages_23.openmp,x86_64-linux
 347917027,lomiri.lomiri-history-service,aarch64-linux
 347917047,lomiri.lomiri-history-service,x86_64-linux
-347917030,lomiri.lomiri-mediaplayer-app,aarch64-linux
 347834961,losslesscut,aarch64-darwin
 347155062,loudmouth,aarch64-darwin
 347155343,louvre,aarch64-linux
@@ -1031,6 +1019,7 @@ id,name,system
 347155218,ltrace,aarch64-linux
 347155220,ltrace,x86_64-linux
 347159471,mac-fdisk,x86_64-linux
+347947487,macaulay2,aarch64-darwin
 347159720,mallard-ducktype,aarch64-darwin
 347159721,mallard-ducktype,aarch64-linux
 347159722,mallard-ducktype,x86_64-linux
@@ -1132,7 +1121,6 @@ id,name,system
 347166159,notepad-next,aarch64-darwin
 347166362,ns-3,x86_64-linux
 347166477,ntp,aarch64-darwin
-347166567,numkong,aarch64-linux
 347166577,numr,aarch64-linux
 347166583,numr,x86_64-linux
 347166598,nushellPlugins.desktop_notifications,aarch64-darwin
@@ -1291,8 +1279,8 @@ id,name,system
 347804363,pgadmin4,aarch64-linux
 347804362,pgadmin4,x86_64-linux
 347190206,pgschema,aarch64-linux
-347190315,photoview,aarch64-linux
-347190319,photoview,x86_64-linux
+348098207,photoview,aarch64-linux
+348098206,photoview,x86_64-linux
 347192100,phytool,aarch64-darwin
 347192102,phytool,aarch64-linux
 347192103,phytool,x86_64-linux
@@ -1333,10 +1321,8 @@ id,name,system
 347836005,pkgsRocm.python3Packages.petsc4py,x86_64-linux
 347888800,pkgsRocm.python3Packages.pyg-lib,x86_64-linux
 347888754,pkgsRocm.python3Packages.pytorch-pfn-extras,x86_64-linux
-347836098,pkgsRocm.python3Packages.sirius,x86_64-linux
 347888801,pkgsRocm.python3Packages.stytra,x86_64-linux
 347888823,pkgsRocm.python3Packages.tinygrad,x86_64-linux
-347836178,pkgsRocm.sirius,x86_64-linux
 347836222,pkgsRocm.vtk_9_6,x86_64-linux
 347836216,pkgsRocm.whisper-cpp-vulkan,x86_64-linux
 347193223,pktgen,aarch64-linux
@@ -1466,9 +1452,6 @@ id,name,system
 347914245,python313Packages.beanhub-cli,aarch64-darwin
 347914247,python313Packages.beanhub-cli,aarch64-linux
 347914249,python313Packages.beanhub-cli,x86_64-linux
-347200596,python313Packages.bizkaibus,aarch64-darwin
-347200598,python313Packages.bizkaibus,aarch64-linux
-347200597,python313Packages.bizkaibus,x86_64-linux
 347200619,python313Packages.blastdns,aarch64-darwin
 347200785,python313Packages.borb,aarch64-darwin
 347200787,python313Packages.borb,aarch64-linux
@@ -1756,7 +1739,6 @@ id,name,system
 347214366,python313Packages.nuclear,aarch64-darwin
 347214367,python313Packages.nuclear,aarch64-linux
 347214368,python313Packages.nuclear,x86_64-linux
-347214407,python313Packages.numkong,aarch64-linux
 347214414,python313Packages.numpy-groupies,aarch64-darwin
 347214419,python313Packages.numpy-groupies,aarch64-linux
 347214416,python313Packages.numpy-groupies,x86_64-linux
@@ -1871,6 +1853,7 @@ id,name,system
 347219282,python313Packages.pyramid-multiauth,aarch64-darwin
 347219293,python313Packages.pyramid-multiauth,aarch64-linux
 347219294,python313Packages.pyramid-multiauth,x86_64-linux
+347947652,python313Packages.pyreqwest,aarch64-linux
 347219576,python313Packages.pyslurm,aarch64-linux
 347219577,python313Packages.pyslurm,x86_64-linux
 347219590,python313Packages.pysmart,aarch64-darwin
@@ -2124,9 +2107,6 @@ id,name,system
 347914755,python314Packages.beanhub-cli,aarch64-darwin
 347914753,python314Packages.beanhub-cli,aarch64-linux
 347914754,python314Packages.beanhub-cli,x86_64-linux
-347234096,python314Packages.bizkaibus,aarch64-darwin
-347234098,python314Packages.bizkaibus,aarch64-linux
-347234097,python314Packages.bizkaibus,x86_64-linux
 347234119,python314Packages.blastdns,aarch64-darwin
 347234288,python314Packages.borb,aarch64-darwin
 347234284,python314Packages.borb,aarch64-linux
@@ -2398,7 +2378,6 @@ id,name,system
 347247789,python314Packages.nuclear,aarch64-darwin
 347247788,python314Packages.nuclear,aarch64-linux
 347247790,python314Packages.nuclear,x86_64-linux
-347247825,python314Packages.numkong,aarch64-linux
 347247833,python314Packages.numpy-groupies,aarch64-darwin
 347247836,python314Packages.numpy-groupies,aarch64-linux
 347247837,python314Packages.numpy-groupies,x86_64-linux
@@ -2513,6 +2492,7 @@ id,name,system
 347252690,python314Packages.pyramid-multiauth,aarch64-darwin
 347252693,python314Packages.pyramid-multiauth,aarch64-linux
 347252695,python314Packages.pyramid-multiauth,x86_64-linux
+347947700,python314Packages.pyreqwest,aarch64-linux
 347252993,python314Packages.pyslurm,aarch64-linux
 347252995,python314Packages.pyslurm,x86_64-linux
 347253006,python314Packages.pysmart,aarch64-darwin
@@ -2784,6 +2764,7 @@ id,name,system
 347266346,river-bedload,aarch64-linux
 347266348,river-bedload,x86_64-linux
 347266385,rkdeveloptool-pine64,aarch64-darwin
+347947813,rocqPackages.metarocq-template-rocq,aarch64-darwin
 347267084,rojo,aarch64-linux
 347267238,rp,aarch64-linux
 347947821,rstudio-server,aarch64-linux
@@ -2823,7 +2804,7 @@ id,name,system
 347274359,sbclPackages.qt-libs,aarch64-darwin
 347274360,sbclPackages.qt-libs,aarch64-linux
 347274361,sbclPackages.qt-libs,x86_64-linux
-347817181,scantpaper,x86_64-linux
+348098509,scantpaper,aarch64-linux
 347274766,scd2html,aarch64-linux
 347274767,scd2html,x86_64-linux
 347274817,schemes,x86_64-linux
@@ -2964,8 +2945,8 @@ id,name,system
 347817358,tests.texlive.binaries,x86_64-linux
 347286653,teyjus,aarch64-darwin
 347792634,tgrep,aarch64-linux
-347287043,timeshift-minimal,aarch64-linux
-347287040,timeshift-minimal,x86_64-linux
+348098600,timeshift-minimal,aarch64-linux
+348098597,timeshift-minimal,x86_64-linux
 347287300,tlrender,aarch64-linux
 347287282,tlrender,x86_64-linux
 347836722,todds,aarch64-linux
@@ -3008,7 +2989,6 @@ id,name,system
 347290607,unsilence,aarch64-darwin
 347290608,unsilence,aarch64-linux
 347290609,unsilence,x86_64-linux
-347290859,usearch,aarch64-linux
 347290937,uucp,aarch64-darwin
 347291018,uxn11,aarch64-darwin
 347291168,vapoursynth-znedi3,aarch64-linux
