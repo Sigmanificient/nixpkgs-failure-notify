@@ -3,7 +3,6 @@ ac-library,,,,347082755
 aerogramme,347083052,347083051,,
 akkoma-admin-fe,347815192,347815191,,
 amnezia-vpn-bin,347084628,,,
-android-mic,,347809814,,
 apacheHttpdPackages.mod_tile,347834337,347834416,,
 apacheHttpdPackages_2_4.mod_tile,347834393,347834417,,
 apt-cacher-ng,347912414,347912413,,
@@ -132,7 +131,6 @@ fedimint,347103386,347103385,,
 ferrishot,,,,347103480
 ffmpeg-livepeer,,,,347103559
 filen-desktop,347834642,347834641,,
-firefox-devedition-unwrapped,,347815435,,
 fittrackee,347104407,,,
 flame,,,,347104140
 flet-client-flutter,,,,347104433
@@ -162,7 +160,7 @@ ghidra-extensions.gnudisassembler,347106925,347106923,,
 gimme-aws-creds,347107079,347107076,,347107074
 gitbeaker-cli,,347107589,,
 gittype,347107795,,,
-glances,,347947382,,
+glances,,348175939,,
 globus-cli,347107979,347107978,,347107976
 gnat16Packages.gpr2,347108280,347108279,,
 gnatPackages.gpr2,347108327,347108329,,
@@ -295,7 +293,7 @@ ios-webkit-debug-proxy,347141061,347141060,,
 ipe,347141289,347141258,,
 irods,347141273,347141272,,
 irrd,347804141,347804140,,
-jarl,,,,347141610
+jarl,,,,348175979
 jaspr_cli,347829320,347829321,,
 jasterix,,,,347141624
 jbofihe,,,,347141775
@@ -310,6 +308,7 @@ julia_110,347142512,347142511,,347142528
 julia_111,,,,347142524
 julia_112-bin,347142519,347142518,,
 julia_113,,347142522,,347142521
+kache,348173509,348173510,,
 kdePackages.maplibre-native-qt,347143817,347143819,,
 keeperrl,347144291,,,
 ketch,,,,347144340
@@ -343,6 +342,7 @@ libixion,,,,347147511
 libkiwix,,,,347147565
 liblastfm-vambrose,,,,347147590
 liblognorm,,,,347459645
+libnixxml,,,,348173527
 libnop,347147925,347147926,,347147923
 libomxil-bellagio,347147999,347147996,,
 libopenshot,347459651,347459649,,347459652
@@ -661,8 +661,8 @@ llvmPackages_20.libc-overlay,347154161,347154162,,
 llvmPackages_20.libc,347154157,347154155,,
 llvmPackages_21.libc-overlay,347154289,347154290,,
 llvmPackages_21.libc,347154285,347154283,,
-llvmPackages_23.lldb,,,,347154574
-llvmPackages_23.openmp,347154591,347154592,,347154596
+llvmPackages_23.lldb,,,,348176168
+llvmPackages_23.openmp,348176170,348176153,,348176166
 losslesscut,,,,347834961
 loudmouth,,,,347155062
 louvre,347155073,347155343,,
@@ -773,6 +773,7 @@ octavePackages.communications,347175130,347175147,,
 octavePackages.general,347175169,347175166,,
 octavePackages.ocl,,,,347175220
 octavePackages.strings,347175259,347175258,,
+ollaya,,348173663,,
 onednn_2,,347175576,,
 open5gs-webui,,,,347175766
 openarc,,,,347175806
@@ -844,7 +845,6 @@ picolibc,,,,347192152
 pidginPackages.purple-plugin-pack,347192219,347192218,,
 pihole-ftl,347192251,347192250,,
 pimsync,,,,347914081
-pinnacle,347849740,,,
 pinocchio,347192373,347192426,,
 pint,,,,347192366
 piper-phonemize,347791558,347791557,,
@@ -967,7 +967,7 @@ python313Packages.deltalake,,,,347203042
 python313Packages.devpi-server,347804510,347804514,,
 python313Packages.dicomweb-client,,,,347203158
 python313Packages.disnake,347203257,347203254,,347203256
-python313Packages.distrax,347917457,,,
+python313Packages.distrax,348176511,,,
 python313Packages.django-currentuser,347203530,347203527,,347203528
 python313Packages.djvulibre-python,,,,347204017
 python313Packages.dlib,,,,347204025
@@ -1530,7 +1530,6 @@ sbclPackages.cl-gtk4_dot_webkit,347891538,347891537,,
 sbclPackages.cl-notify,,,,347273688
 sbclPackages.qt-libs,347274361,347274360,,347274359
 scantpaper,,348098509,,
-scd2html,347274767,347274766,,
 schemes,347274817,,,
 schildi-revenge,,347817202,,
 see-cat,347275214,347275212,,
@@ -1542,14 +1541,14 @@ shadershark,347275629,347275628,,
 shadowsocks-libev,347275640,347275638,,
 shaka-packager,347915311,347915310,,
 shrinkray,,347275913,,
-sif,,,,347275960
+sif,,,,348177284
 signalbackup-tools,,,,347460461
 silverbullet,,347849824,,
 sioyek,,,,347817209
 snagboot,347276767,347276766,,
 snid,,,,347276830
 snort,347276897,347276895,,
-snouty,,347947851,,
+snouty,,348177299,,
 solana-agave,,,,347277058
 sonobus,347277145,347277144,,
 sosreport,347277189,347277190,,
@@ -1598,7 +1597,7 @@ tests.cc-wrapper.llvmTests.llvmPackages_19.libcxx,,,,347281698
 tests.cc-wrapper.llvmTests.llvmPackages_20.clang,,,,347281717
 tests.cc-wrapper.llvmTests.llvmPackages_21.clang,,,,347281706
 tests.cc-wrapper.llvmTests.llvmPackages_22.clang,,,,347281720
-tests.cc-wrapper.llvmTests.llvmPackages_23.clang,,,,347281724
+tests.cc-wrapper.llvmTests.llvmPackages_23.clang,,,,348177328
 tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,,,,347282402
 tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,,,,347282473
 tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,,,,347282479
@@ -1701,7 +1700,6 @@ zeroc-ice-cpp11,347298871,347298870,,
 zeroc-ice,347298875,347298872,,
 zerofs,,,,347298878
 zookeeper_mt,,,,347299183
-zotero,347813048,347813051,,347813052
+zotero,348177490,,,348177491
 zrythm,347299257,347299274,,
 zulip-term,347299486,347299483,,347299484
-zxtune,347299455,347299459,,

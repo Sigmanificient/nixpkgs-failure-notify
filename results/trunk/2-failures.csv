@@ -5,7 +5,6 @@ id,name,system
 347815191,akkoma-admin-fe,aarch64-linux
 347815192,akkoma-admin-fe,x86_64-linux
 347084628,amnezia-vpn-bin,x86_64-linux
-347809814,android-mic,aarch64-linux
 347834416,apacheHttpdPackages.mod_tile,aarch64-linux
 347834337,apacheHttpdPackages.mod_tile,x86_64-linux
 347834417,apacheHttpdPackages_2_4.mod_tile,aarch64-linux
@@ -230,7 +229,6 @@ id,name,system
 347103559,ffmpeg-livepeer,aarch64-darwin
 347834641,filen-desktop,aarch64-linux
 347834642,filen-desktop,x86_64-linux
-347815435,firefox-devedition-unwrapped,aarch64-linux
 347104407,fittrackee,x86_64-linux
 347104140,flame,aarch64-darwin
 347104433,flet-client-flutter,aarch64-darwin
@@ -272,7 +270,7 @@ id,name,system
 347107079,gimme-aws-creds,x86_64-linux
 347107589,gitbeaker-cli,aarch64-linux
 347107795,gittype,x86_64-linux
-347947382,glances,aarch64-linux
+348175939,glances,aarch64-linux
 347107976,globus-cli,aarch64-darwin
 347107978,globus-cli,aarch64-linux
 347107979,globus-cli,x86_64-linux
@@ -462,7 +460,7 @@ id,name,system
 347141273,irods,x86_64-linux
 347804140,irrd,aarch64-linux
 347804141,irrd,x86_64-linux
-347141610,jarl,aarch64-darwin
+348175979,jarl,aarch64-darwin
 347829321,jaspr_cli,aarch64-linux
 347829320,jaspr_cli,x86_64-linux
 347141624,jasterix,aarch64-darwin
@@ -486,6 +484,8 @@ id,name,system
 347142519,julia_112-bin,x86_64-linux
 347142521,julia_113,aarch64-darwin
 347142522,julia_113,aarch64-linux
+348173510,kache,aarch64-linux
+348173509,kache,x86_64-linux
 347143819,kdePackages.maplibre-native-qt,aarch64-linux
 347143817,kdePackages.maplibre-native-qt,x86_64-linux
 347144291,keeperrl,x86_64-linux
@@ -531,6 +531,7 @@ id,name,system
 347147565,libkiwix,aarch64-darwin
 347147590,liblastfm-vambrose,aarch64-darwin
 347459645,liblognorm,aarch64-darwin
+348173527,libnixxml,aarch64-darwin
 347147923,libnop,aarch64-darwin
 347147926,libnop,aarch64-linux
 347147925,libnop,x86_64-linux
@@ -979,10 +980,10 @@ id,name,system
 347154289,llvmPackages_21.libc-overlay,x86_64-linux
 347154283,llvmPackages_21.libc,aarch64-linux
 347154285,llvmPackages_21.libc,x86_64-linux
-347154574,llvmPackages_23.lldb,aarch64-darwin
-347154596,llvmPackages_23.openmp,aarch64-darwin
-347154592,llvmPackages_23.openmp,aarch64-linux
-347154591,llvmPackages_23.openmp,x86_64-linux
+348176168,llvmPackages_23.lldb,aarch64-darwin
+348176166,llvmPackages_23.openmp,aarch64-darwin
+348176153,llvmPackages_23.openmp,aarch64-linux
+348176170,llvmPackages_23.openmp,x86_64-linux
 347834961,losslesscut,aarch64-darwin
 347155062,loudmouth,aarch64-darwin
 347155343,louvre,aarch64-linux
@@ -1149,6 +1150,7 @@ id,name,system
 347175220,octavePackages.ocl,aarch64-darwin
 347175258,octavePackages.strings,aarch64-linux
 347175259,octavePackages.strings,x86_64-linux
+348173663,ollaya,aarch64-linux
 347175576,onednn_2,aarch64-linux
 347175766,open5gs-webui,aarch64-darwin
 347175806,openarc,aarch64-darwin
@@ -1263,7 +1265,6 @@ id,name,system
 347192250,pihole-ftl,aarch64-linux
 347192251,pihole-ftl,x86_64-linux
 347914081,pimsync,aarch64-darwin
-347849740,pinnacle,x86_64-linux
 347192426,pinocchio,aarch64-linux
 347192373,pinocchio,x86_64-linux
 347192366,pint,aarch64-darwin
@@ -1505,7 +1506,7 @@ id,name,system
 347203256,python313Packages.disnake,aarch64-darwin
 347203254,python313Packages.disnake,aarch64-linux
 347203257,python313Packages.disnake,x86_64-linux
-347917457,python313Packages.distrax,x86_64-linux
+348176511,python313Packages.distrax,x86_64-linux
 347203528,python313Packages.django-currentuser,aarch64-darwin
 347203527,python313Packages.django-currentuser,aarch64-linux
 347203530,python313Packages.django-currentuser,x86_64-linux
@@ -2739,8 +2740,6 @@ id,name,system
 347274360,sbclPackages.qt-libs,aarch64-linux
 347274361,sbclPackages.qt-libs,x86_64-linux
 348098509,scantpaper,aarch64-linux
-347274766,scd2html,aarch64-linux
-347274767,scd2html,x86_64-linux
 347274817,schemes,x86_64-linux
 347817202,schildi-revenge,aarch64-linux
 347275212,see-cat,aarch64-linux
@@ -2760,7 +2759,7 @@ id,name,system
 347915310,shaka-packager,aarch64-linux
 347915311,shaka-packager,x86_64-linux
 347275913,shrinkray,aarch64-linux
-347275960,sif,aarch64-darwin
+348177284,sif,aarch64-darwin
 347460461,signalbackup-tools,aarch64-darwin
 347849824,silverbullet,aarch64-linux
 347817209,sioyek,aarch64-darwin
@@ -2769,7 +2768,7 @@ id,name,system
 347276830,snid,aarch64-darwin
 347276895,snort,aarch64-linux
 347276897,snort,x86_64-linux
-347947851,snouty,aarch64-linux
+348177299,snouty,aarch64-linux
 347277058,solana-agave,aarch64-darwin
 347277144,sonobus,aarch64-linux
 347277145,sonobus,x86_64-linux
@@ -2840,7 +2839,7 @@ id,name,system
 347281717,tests.cc-wrapper.llvmTests.llvmPackages_20.clang,aarch64-darwin
 347281706,tests.cc-wrapper.llvmTests.llvmPackages_21.clang,aarch64-darwin
 347281720,tests.cc-wrapper.llvmTests.llvmPackages_22.clang,aarch64-darwin
-347281724,tests.cc-wrapper.llvmTests.llvmPackages_23.clang,aarch64-darwin
+348177328,tests.cc-wrapper.llvmTests.llvmPackages_23.clang,aarch64-darwin
 347282402,tests.hardeningFlags-gcc.fortify3ExplicitEnabledExecTest,aarch64-darwin
 347282473,tests.hardeningFlags-gcc.sfa1explicitEnabledExecTest,aarch64-darwin
 347282479,tests.hardeningFlags-gcc.sfa3StdenvUnsuppDoesntUnsuppSfa1ExecTest,aarch64-darwin
@@ -3011,13 +3010,10 @@ id,name,system
 347298875,zeroc-ice,x86_64-linux
 347298878,zerofs,aarch64-darwin
 347299183,zookeeper_mt,aarch64-darwin
-347813052,zotero,aarch64-darwin
-347813051,zotero,aarch64-linux
-347813048,zotero,x86_64-linux
+348177491,zotero,aarch64-darwin
+348177490,zotero,x86_64-linux
 347299274,zrythm,aarch64-linux
 347299257,zrythm,x86_64-linux
 347299484,zulip-term,aarch64-darwin
 347299483,zulip-term,aarch64-linux
 347299486,zulip-term,x86_64-linux
-347299459,zxtune,aarch64-linux
-347299455,zxtune,x86_64-linux
