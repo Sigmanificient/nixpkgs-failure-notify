@@ -4067,7 +4067,6 @@ id,status,name,system
 347291564,F,video2x,x86_64-linux
 347849903,D,vikunja-desktop,aarch64-linux
 347849905,D,vikunja-desktop,x86_64-linux
-347849904,D,vikunja,aarch64-linux
 347849907,D,vikunja,x86_64-linux
 347947906,D,vimPlugins.macaulay2,aarch64-darwin
 348173233,O,virt-v2v,x86_64-linux
@@ -208891,6 +208890,7 @@ id,status,name,system
 347291578,S,viking,aarch64-linux
 347291580,S,viking,x86_64-linux
 347849906,S,vikunja-desktop,aarch64-darwin
+347849904,S,vikunja,aarch64-linux
 347291606,S,vim-classic,aarch64-darwin
 347291589,S,vim-classic,aarch64-linux
 347291590,S,vim-classic,x86_64-linux
