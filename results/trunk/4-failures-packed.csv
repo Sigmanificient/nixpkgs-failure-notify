@@ -130,7 +130,9 @@ fcron,,,,347103342
 fedimint,347103386,347103385,,
 ferrishot,,,,347103480
 ffmpeg-livepeer,,,,347103559
-filen-desktop,347834642,347834641,,
+filen-desktop,348330716,348330714,,
+firefox-esr-153-unwrapped,,348175900,,
+firefox-esr-unwrapped,,348175892,,
 fittrackee,347104407,,,
 flame,,,,347104140
 flet-client-flutter,,,,347104433
@@ -157,8 +159,9 @@ gccNGPackages_15.gcc-unwrapped,,,,347106083
 gccNGPackages_16.gcc-unwrapped,,,,347106156
 gerbera,347106596,347106587,,
 ghidra-extensions.gnudisassembler,347106925,347106923,,
+ghostunnel,,,,348175924
 gimme-aws-creds,347107079,347107076,,347107074
-gitbeaker-cli,,347107589,,
+gitbeaker-cli,,348330750,,
 gittype,347107795,,,
 glances,,348175939,,
 globus-cli,347107979,347107978,,347107976
@@ -317,7 +320,7 @@ kind2,347144564,347144563,,
 knot-dns,,347912938,,
 kodiPackages.plex-for-kodi,,,,347144902
 komikku,,347885798,,
-kopuz,,,,347145106
+kopuz,,,,348330853
 kord,347145116,347145114,,
 kubectl-kcl,347145395,347145394,,
 kuro,,,,347834906
@@ -389,7 +392,7 @@ linuxKernel.packages.linux_5_15.can-isotp,347886096,347886095,,
 linuxKernel.packages.linux_5_15.chipsec,347886101,,,
 linuxKernel.packages.linux_5_15.ecapture,347886119,347886102,,
 linuxKernel.packages.linux_5_15.ena,347886114,347886105,,
-linuxKernel.packages.linux_5_15.lenovo-legion-module,347886140,,,
+linuxKernel.packages.linux_5_15.lenovo-legion-module,348330870,,,
 linuxKernel.packages.linux_5_15.mbp2018-bridge-drv,347886151,347886177,,
 linuxKernel.packages.linux_5_15.nvidia_x11_beta_open,347886167,347886236,,
 linuxKernel.packages.linux_5_15.nvidia_x11_vulkan_beta_open,347886182,347886173,,
@@ -404,7 +407,7 @@ linuxKernel.packages.linux_6_1.ax99100,,347886346,,
 linuxKernel.packages.linux_6_1.chipsec,347886314,,,
 linuxKernel.packages.linux_6_1.ecapture,347886335,347886349,,
 linuxKernel.packages.linux_6_1.ena,347886329,347886320,,
-linuxKernel.packages.linux_6_1.lenovo-legion-module,347886365,,,
+linuxKernel.packages.linux_6_1.lenovo-legion-module,348330871,,,
 linuxKernel.packages.linux_6_1.lttng-modules,347886367,347886368,,
 linuxKernel.packages.linux_6_1.mbp2018-bridge-drv,347886374,347886387,,
 linuxKernel.packages.linux_6_1.morse-driver,347886375,347886381,,
@@ -663,7 +666,7 @@ llvmPackages_21.libc-overlay,347154289,347154290,,
 llvmPackages_21.libc,347154285,347154283,,
 llvmPackages_23.lldb,,,,348176168
 llvmPackages_23.openmp,348176170,348176153,,348176166
-losslesscut,,,,347834961
+losslesscut,,,,348330896
 loudmouth,,,,347155062
 louvre,347155073,347155343,,
 mac-fdisk,347159471,,,
@@ -675,7 +678,7 @@ martin,347160121,,,
 mathemagix,347160273,347160272,,
 mathmod,347160290,347160289,,
 matrix-synapse-unwrapped,,347804197,,
-mattermost-desktop,,347835447,,
+mattermost-desktop,,348330910,,
 mayo,,,,347160454
 mbuffer,,,,347160520
 mc-monitor,,,,348100909
@@ -769,11 +772,7 @@ ocamlPackages_latest.owl,,,,347173875
 ocamlPackages_latest.stog,,,,347174632
 ocrodjvu,347175091,347175092,,
 ocrs,347175093,,,
-octavePackages.communications,347175130,347175147,,
-octavePackages.general,347175169,347175166,,
-octavePackages.ocl,,,,347175220
-octavePackages.strings,347175259,347175258,,
-ollaya,,348173663,,
+octavePackages.ocl,,,,348331057
 onednn_2,,347175576,,
 open5gs-webui,,,,347175766
 openarc,,,,347175806
@@ -835,8 +834,8 @@ perlPackages.BoostGeometryUtils,347184604,347184590,,
 perlPackages.FutureIO,,,,347186325
 perlPackages.Gtk3ImageView,,,,347816226
 perlPackages.ImageScale,347186811,,,
-pgadmin4-desktopmode,347804358,347804360,,
-pgadmin4,347804362,347804363,,
+pgadmin4-desktopmode,348331147,348331146,,
+pgadmin4,348331149,348331150,,
 pgschema,,347190206,,
 photoview,348098206,348098207,,
 phytool,347192103,347192102,,347192100
@@ -845,7 +844,6 @@ picolibc,,,,347192152
 pidginPackages.purple-plugin-pack,347192219,347192218,,
 pihole-ftl,347192251,347192250,,
 pimsync,,,,347914081
-pinocchio,347192373,347192426,,
 pint,,,,347192366
 piper-phonemize,347791558,347791557,,
 pkgit,,,,347192567
@@ -900,7 +898,6 @@ postgresql19Packages.tds_fdw,347195095,347195093,,347195102
 postgresql19Packages.temporal_tables,347195097,347195098,,347195094
 postgresql19Packages.wal2json,347195104,347195103,,347195100
 powertabeditor,,,,347195427
-previewqt,,,,347917307
 prmt,,,,347195686
 progress-tracker,347195760,347195921,,
 project-graph,347888932,347888933,,
@@ -941,6 +938,7 @@ python313Packages.cert-chain-resolver,347201265,347201262,,347201261
 python313Packages.cgal,347201336,347201335,,
 python313Packages.chirpstack-api,347201427,347201426,,347201423
 python313Packages.cinemagoer,347201451,347201450,,347201448
+python313Packages.cleanlab,348176494,,,
 python313Packages.clip,347201651,347201645,,347201644
 python313Packages.clx-sdk-xms,347201694,347201693,,347201692
 python313Packages.colcon-argcomplete,347201807,347201808,,347201805
@@ -1105,7 +1103,7 @@ python313Packages.pyqt3d,347219214,347219190,,347219191
 python313Packages.pyramid-exclog,347219269,347219268,,347219263
 python313Packages.pyramid-multiauth,347219294,347219293,,347219282
 python313Packages.pyreqwest,,347947652,,
-python313Packages.pyslurm,347219577,347219576,,
+python313Packages.pyslurm,348331276,348331275,,
 python313Packages.pysmart,347219591,347219593,,347219590
 python313Packages.pytest-harvest,347220010,347220009,,347220007
 python313Packages.pytest-selenium,347220203,347220204,,347220202
@@ -1381,7 +1379,7 @@ python314Packages.pyqt3d,347252610,347252605,,347252606
 python314Packages.pyramid-exclog,347252685,347252683,,347252682
 python314Packages.pyramid-multiauth,347252695,347252693,,347252690
 python314Packages.pyreqwest,,347947700,,
-python314Packages.pyslurm,347252995,347252993,,
+python314Packages.pyslurm,348331355,348331356,,
 python314Packages.pysmart,347253008,347253007,,347253006
 python314Packages.pytelegrambotapi,,,,347253240
 python314Packages.pytest-harvest,347253426,347253427,,347253428
@@ -1510,7 +1508,7 @@ rocqPackages.metarocq-template-rocq,,,,347947813
 rojo,,347267084,,
 rp,,347267238,,
 rstudio-server,347947819,347947821,,
-rstudio,347947827,347947823,,
+rstudio,348331395,348331397,,
 rtl_wmbus,,,,347267484
 rubyPackages.zookeeper,347268817,347268816,,
 rubyPackages_3_3.zookeeper,347270082,347270083,,
@@ -1518,6 +1516,7 @@ rubyPackages_3_4.zookeeper,347271354,347271353,,
 rubyPackages_4_0.zookeeper,347272620,347272619,,
 runitor,,347272690,,
 rust-paddle-ocr,347272772,347272771,,
+rustical,,348177264,,
 s3fs,,,,347273027
 sail-riscv,,,,347831684
 salut,347273177,347273176,,
@@ -1673,6 +1672,7 @@ wealthfolio-server,347891780,,,
 webdev,347831861,347831860,,
 werf,,,,347295529
 whale,,,,347295607
+whisparr_3,,,,348177467
 whitesur-gtk-theme,,,,347295686
 wire-desktop,,,,347915537
 wsjtz,347817478,347817481,,

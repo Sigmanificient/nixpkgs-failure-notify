@@ -227,8 +227,10 @@ id,name,system
 347103386,fedimint,x86_64-linux
 347103480,ferrishot,aarch64-darwin
 347103559,ffmpeg-livepeer,aarch64-darwin
-347834641,filen-desktop,aarch64-linux
-347834642,filen-desktop,x86_64-linux
+348330714,filen-desktop,aarch64-linux
+348330716,filen-desktop,x86_64-linux
+348175900,firefox-esr-153-unwrapped,aarch64-linux
+348175892,firefox-esr-unwrapped,aarch64-linux
 347104407,fittrackee,x86_64-linux
 347104140,flame,aarch64-darwin
 347104433,flet-client-flutter,aarch64-darwin
@@ -265,10 +267,11 @@ id,name,system
 347106596,gerbera,x86_64-linux
 347106923,ghidra-extensions.gnudisassembler,aarch64-linux
 347106925,ghidra-extensions.gnudisassembler,x86_64-linux
+348175924,ghostunnel,aarch64-darwin
 347107074,gimme-aws-creds,aarch64-darwin
 347107076,gimme-aws-creds,aarch64-linux
 347107079,gimme-aws-creds,x86_64-linux
-347107589,gitbeaker-cli,aarch64-linux
+348330750,gitbeaker-cli,aarch64-linux
 347107795,gittype,x86_64-linux
 348175939,glances,aarch64-linux
 347107976,globus-cli,aarch64-darwin
@@ -496,7 +499,7 @@ id,name,system
 347912938,knot-dns,aarch64-linux
 347144902,kodiPackages.plex-for-kodi,aarch64-darwin
 347885798,komikku,aarch64-linux
-347145106,kopuz,aarch64-darwin
+348330853,kopuz,aarch64-darwin
 347145114,kord,aarch64-linux
 347145116,kord,x86_64-linux
 347145394,kubectl-kcl,aarch64-linux
@@ -604,7 +607,7 @@ id,name,system
 347886119,linuxKernel.packages.linux_5_15.ecapture,x86_64-linux
 347886105,linuxKernel.packages.linux_5_15.ena,aarch64-linux
 347886114,linuxKernel.packages.linux_5_15.ena,x86_64-linux
-347886140,linuxKernel.packages.linux_5_15.lenovo-legion-module,x86_64-linux
+348330870,linuxKernel.packages.linux_5_15.lenovo-legion-module,x86_64-linux
 347886177,linuxKernel.packages.linux_5_15.mbp2018-bridge-drv,aarch64-linux
 347886151,linuxKernel.packages.linux_5_15.mbp2018-bridge-drv,x86_64-linux
 347886236,linuxKernel.packages.linux_5_15.nvidia_x11_beta_open,aarch64-linux
@@ -628,7 +631,7 @@ id,name,system
 347886335,linuxKernel.packages.linux_6_1.ecapture,x86_64-linux
 347886320,linuxKernel.packages.linux_6_1.ena,aarch64-linux
 347886329,linuxKernel.packages.linux_6_1.ena,x86_64-linux
-347886365,linuxKernel.packages.linux_6_1.lenovo-legion-module,x86_64-linux
+348330871,linuxKernel.packages.linux_6_1.lenovo-legion-module,x86_64-linux
 347886368,linuxKernel.packages.linux_6_1.lttng-modules,aarch64-linux
 347886367,linuxKernel.packages.linux_6_1.lttng-modules,x86_64-linux
 347886387,linuxKernel.packages.linux_6_1.mbp2018-bridge-drv,aarch64-linux
@@ -984,7 +987,7 @@ id,name,system
 348176166,llvmPackages_23.openmp,aarch64-darwin
 348176153,llvmPackages_23.openmp,aarch64-linux
 348176170,llvmPackages_23.openmp,x86_64-linux
-347834961,losslesscut,aarch64-darwin
+348330896,losslesscut,aarch64-darwin
 347155062,loudmouth,aarch64-darwin
 347155343,louvre,aarch64-linux
 347155073,louvre,x86_64-linux
@@ -1001,7 +1004,7 @@ id,name,system
 347160289,mathmod,aarch64-linux
 347160290,mathmod,x86_64-linux
 347804197,matrix-synapse-unwrapped,aarch64-linux
-347835447,mattermost-desktop,aarch64-linux
+348330910,mattermost-desktop,aarch64-linux
 347160454,mayo,aarch64-darwin
 347160520,mbuffer,aarch64-darwin
 348100909,mc-monitor,aarch64-darwin
@@ -1143,14 +1146,7 @@ id,name,system
 347175092,ocrodjvu,aarch64-linux
 347175091,ocrodjvu,x86_64-linux
 347175093,ocrs,x86_64-linux
-347175147,octavePackages.communications,aarch64-linux
-347175130,octavePackages.communications,x86_64-linux
-347175166,octavePackages.general,aarch64-linux
-347175169,octavePackages.general,x86_64-linux
-347175220,octavePackages.ocl,aarch64-darwin
-347175258,octavePackages.strings,aarch64-linux
-347175259,octavePackages.strings,x86_64-linux
-348173663,ollaya,aarch64-linux
+348331057,octavePackages.ocl,aarch64-darwin
 347175576,onednn_2,aarch64-linux
 347175766,open5gs-webui,aarch64-darwin
 347175806,openarc,aarch64-darwin
@@ -1248,10 +1244,10 @@ id,name,system
 347186325,perlPackages.FutureIO,aarch64-darwin
 347816226,perlPackages.Gtk3ImageView,aarch64-darwin
 347186811,perlPackages.ImageScale,x86_64-linux
-347804360,pgadmin4-desktopmode,aarch64-linux
-347804358,pgadmin4-desktopmode,x86_64-linux
-347804363,pgadmin4,aarch64-linux
-347804362,pgadmin4,x86_64-linux
+348331146,pgadmin4-desktopmode,aarch64-linux
+348331147,pgadmin4-desktopmode,x86_64-linux
+348331150,pgadmin4,aarch64-linux
+348331149,pgadmin4,x86_64-linux
 347190206,pgschema,aarch64-linux
 348098207,photoview,aarch64-linux
 348098206,photoview,x86_64-linux
@@ -1265,8 +1261,6 @@ id,name,system
 347192250,pihole-ftl,aarch64-linux
 347192251,pihole-ftl,x86_64-linux
 347914081,pimsync,aarch64-darwin
-347192426,pinocchio,aarch64-linux
-347192373,pinocchio,x86_64-linux
 347192366,pint,aarch64-darwin
 347791557,piper-phonemize,aarch64-linux
 347791558,piper-phonemize,x86_64-linux
@@ -1358,7 +1352,6 @@ id,name,system
 347195103,postgresql19Packages.wal2json,aarch64-linux
 347195104,postgresql19Packages.wal2json,x86_64-linux
 347195427,powertabeditor,aarch64-darwin
-347917307,previewqt,aarch64-darwin
 347195686,prmt,aarch64-darwin
 347195921,progress-tracker,aarch64-linux
 347195760,progress-tracker,x86_64-linux
@@ -1449,6 +1442,7 @@ id,name,system
 347201448,python313Packages.cinemagoer,aarch64-darwin
 347201450,python313Packages.cinemagoer,aarch64-linux
 347201451,python313Packages.cinemagoer,x86_64-linux
+348176494,python313Packages.cleanlab,x86_64-linux
 347201644,python313Packages.clip,aarch64-darwin
 347201645,python313Packages.clip,aarch64-linux
 347201651,python313Packages.clip,x86_64-linux
@@ -1820,8 +1814,8 @@ id,name,system
 347219293,python313Packages.pyramid-multiauth,aarch64-linux
 347219294,python313Packages.pyramid-multiauth,x86_64-linux
 347947652,python313Packages.pyreqwest,aarch64-linux
-347219576,python313Packages.pyslurm,aarch64-linux
-347219577,python313Packages.pyslurm,x86_64-linux
+348331275,python313Packages.pyslurm,aarch64-linux
+348331276,python313Packages.pyslurm,x86_64-linux
 347219590,python313Packages.pysmart,aarch64-darwin
 347219593,python313Packages.pysmart,aarch64-linux
 347219591,python313Packages.pysmart,x86_64-linux
@@ -2450,8 +2444,8 @@ id,name,system
 347252693,python314Packages.pyramid-multiauth,aarch64-linux
 347252695,python314Packages.pyramid-multiauth,x86_64-linux
 347947700,python314Packages.pyreqwest,aarch64-linux
-347252993,python314Packages.pyslurm,aarch64-linux
-347252995,python314Packages.pyslurm,x86_64-linux
+348331356,python314Packages.pyslurm,aarch64-linux
+348331355,python314Packages.pyslurm,x86_64-linux
 347253006,python314Packages.pysmart,aarch64-darwin
 347253007,python314Packages.pysmart,aarch64-linux
 347253008,python314Packages.pysmart,x86_64-linux
@@ -2709,8 +2703,8 @@ id,name,system
 347267238,rp,aarch64-linux
 347947821,rstudio-server,aarch64-linux
 347947819,rstudio-server,x86_64-linux
-347947823,rstudio,aarch64-linux
-347947827,rstudio,x86_64-linux
+348331397,rstudio,aarch64-linux
+348331395,rstudio,x86_64-linux
 347267484,rtl_wmbus,aarch64-darwin
 347268816,rubyPackages.zookeeper,aarch64-linux
 347268817,rubyPackages.zookeeper,x86_64-linux
@@ -2723,6 +2717,7 @@ id,name,system
 347272690,runitor,aarch64-linux
 347272771,rust-paddle-ocr,aarch64-linux
 347272772,rust-paddle-ocr,x86_64-linux
+348177264,rustical,aarch64-linux
 347273027,s3fs,aarch64-darwin
 347831684,sail-riscv,aarch64-darwin
 347273176,salut,aarch64-linux
@@ -2971,6 +2966,7 @@ id,name,system
 347831861,webdev,x86_64-linux
 347295529,werf,aarch64-darwin
 347295607,whale,aarch64-darwin
+348177467,whisparr_3,aarch64-darwin
 347295686,whitesur-gtk-theme,aarch64-darwin
 347915537,wire-desktop,aarch64-darwin
 347817481,wsjtz,aarch64-linux
