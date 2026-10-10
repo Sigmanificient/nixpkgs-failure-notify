@@ -27,6 +27,7 @@ id,name,system
 347885149,aws-sam-cli,aarch64-darwin
 347086964,ax25-tools,aarch64-linux
 347086965,ax25-tools,x86_64-linux
+348482365,ayatana-indicator-datetime,aarch64-linux
 347916588,ayatana-indicator-power,aarch64-linux
 347087028,azure-cli-extensions.acrcssc,aarch64-darwin
 347087029,azure-cli-extensions.acrcssc,aarch64-linux
@@ -104,6 +105,7 @@ id,name,system
 347090613,caffe,x86_64-linux
 348448914,cai,aarch64-darwin
 347912510,calibre-no-speech,aarch64-linux
+348482376,calls,x86_64-linux
 347090772,canokey-usbip,aarch64-linux
 347090773,canokey-usbip,x86_64-linux
 347916622,casacore,aarch64-darwin
@@ -203,7 +205,7 @@ id,name,system
 347102067,empserver,aarch64-linux
 347102090,empty-epsilon,aarch64-linux
 347102085,empty-epsilon,x86_64-linux
-347102111,enca,aarch64-linux
+348647846,enca,aarch64-linux
 347102343,equalx,aarch64-darwin
 348097812,ete-unwrapped,aarch64-darwin
 348097811,ete-unwrapped,aarch64-linux
@@ -281,6 +283,8 @@ id,name,system
 347108280,gnat16Packages.gpr2,x86_64-linux
 347108329,gnatPackages.gpr2,aarch64-linux
 347108327,gnatPackages.gpr2,x86_64-linux
+348482512,gnome-applets,x86_64-linux
+348482521,gnome-flashback,x86_64-linux
 347885661,gnudatalanguage,aarch64-linux
 347112059,goawk,aarch64-linux
 347112539,goobook,aarch64-darwin
@@ -449,7 +453,7 @@ id,name,system
 347140830,inochi-creator,aarch64-linux
 347140836,inochi-creator,x86_64-linux
 347140910,intel-graphics-compiler,aarch64-linux
-347140920,intelli-shell,aarch64-darwin
+348647947,intelli-shell,aarch64-darwin
 347140941,intensity-normalization,aarch64-darwin
 347140928,intensity-normalization,aarch64-linux
 347140938,intensity-normalization,x86_64-linux
@@ -466,10 +470,9 @@ id,name,system
 347829320,jaspr_cli,x86_64-linux
 347141624,jasterix,aarch64-darwin
 347141775,jbofihe,aarch64-darwin
-348449291,jellyfin-desktop,aarch64-darwin
 347141910,jerryscript,x86_64-linux
 347141951,jetuml,aarch64-darwin
-347847211,jj-pre-push,aarch64-darwin
+348647965,jj-pre-push,aarch64-darwin
 347142117,jogger,aarch64-linux
 347142115,jogger,x86_64-linux
 347815632,jtdx,aarch64-linux
@@ -1193,12 +1196,11 @@ id,name,system
 347192100,phytool,aarch64-darwin
 347192102,phytool,aarch64-linux
 347192103,phytool,x86_64-linux
+348482675,picard,aarch64-darwin
 347192117,picat,aarch64-darwin
 347192152,picolibc,aarch64-darwin
 347192218,pidginPackages.purple-plugin-pack,aarch64-linux
 347192219,pidginPackages.purple-plugin-pack,x86_64-linux
-347192250,pihole-ftl,aarch64-linux
-347192251,pihole-ftl,x86_64-linux
 347914081,pimsync,aarch64-darwin
 348458543,pinnacle,x86_64-linux
 347192366,pint,aarch64-darwin
@@ -1366,6 +1368,8 @@ id,name,system
 347200909,python313Packages.brotli-asgi,aarch64-darwin
 347200908,python313Packages.brotli-asgi,aarch64-linux
 347200907,python313Packages.brotli-asgi,x86_64-linux
+348482690,python313Packages.caldav,aarch64-darwin
+348482694,python313Packages.caldav_2,aarch64-darwin
 347201133,python313Packages.capstone_4,aarch64-darwin
 347201132,python313Packages.capstone_4,aarch64-linux
 347201131,python313Packages.capstone_4,x86_64-linux
@@ -1822,9 +1826,6 @@ id,name,system
 347222895,python313Packages.scikit-rf,aarch64-darwin
 347222896,python313Packages.scikit-rf,aarch64-linux
 347222897,python313Packages.scikit-rf,x86_64-linux
-347889183,python313Packages.semgrep,aarch64-darwin
-347889182,python313Packages.semgrep,aarch64-linux
-347889181,python313Packages.semgrep,x86_64-linux
 348459191,python313Packages.sendspin,aarch64-linux
 348459187,python313Packages.sendspin,x86_64-linux
 347223228,python313Packages.setuptools-odoo,aarch64-darwin
@@ -2451,9 +2452,6 @@ id,name,system
 347256310,python314Packages.scikit-rf,aarch64-darwin
 347256313,python314Packages.scikit-rf,aarch64-linux
 347256311,python314Packages.scikit-rf,x86_64-linux
-347890420,python314Packages.semgrep,aarch64-darwin
-347890419,python314Packages.semgrep,aarch64-linux
-347890421,python314Packages.semgrep,x86_64-linux
 348459639,python314Packages.sendspin,aarch64-linux
 348459637,python314Packages.sendspin,x86_64-linux
 347256642,python314Packages.setuptools-odoo,aarch64-darwin
@@ -2617,7 +2615,6 @@ id,name,system
 347265530,reaper-sws-extension,aarch64-darwin
 348174293,reaper-sws-extension,aarch64-linux
 348174288,reaper-sws-extension,x86_64-linux
-347265569,recode,aarch64-darwin
 347265663,redo-apenwarr,aarch64-darwin
 347794798,reindeer,aarch64-darwin
 347265826,remarkable-toolchain,x86_64-linux
@@ -2678,9 +2675,6 @@ id,name,system
 347275212,see-cat,aarch64-linux
 347275214,see-cat,x86_64-linux
 347275239,selfci,aarch64-darwin
-347891549,semgrep,aarch64-darwin
-347891547,semgrep,aarch64-linux
-347891548,semgrep,x86_64-linux
 347275532,sfcgal,aarch64-darwin
 347275533,sfcgal,aarch64-linux
 347275534,sfcgal,x86_64-linux
@@ -2693,7 +2687,6 @@ id,name,system
 347915311,shaka-packager,x86_64-linux
 347275913,shrinkray,aarch64-linux
 348177284,sif,aarch64-darwin
-347460461,signalbackup-tools,aarch64-darwin
 347849824,silverbullet,aarch64-linux
 347817209,sioyek,aarch64-darwin
 347276766,snagboot,aarch64-linux

@@ -2682,7 +2682,6 @@ id,name,system
 346842673,python314Packages.pyosohotwaterapi,aarch64-linux
 346842702,python314Packages.pyosohotwaterapi,x86_64-linux
 346717340,python314Packages.pyoxipng,x86_64-linux
-346842694,python314Packages.pypdf,aarch64-linux
 346717578,python314Packages.pyqt3d,aarch64-darwin
 346717551,python314Packages.pyqt3d,aarch64-linux
 346717522,python314Packages.pyqt3d,x86_64-linux

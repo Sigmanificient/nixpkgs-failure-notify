@@ -16,6 +16,7 @@ avro-cpp,347086789,347086787,,
 aws-encryption-sdk-cli,347086879,347086878,,347086877
 aws-sam-cli,,,,347885149
 ax25-tools,347086965,347086964,,
+ayatana-indicator-datetime,,348482365,,
 ayatana-indicator-power,,347916588,,
 azure-cli-extensions.acrcssc,347087033,347087029,,347087028
 azure-cli-extensions.aksarc,347087062,347087158,,347087057
@@ -52,6 +53,7 @@ cadabra2,,347090568,,
 caffe,347090613,347090614,,347090612
 cai,,,,348448914
 calibre-no-speech,,347912510,,
+calls,348482376,,,
 canokey-usbip,347090773,347090772,,
 casacore,347916621,347916624,,347916622
 castero,,347793882,,
@@ -114,7 +116,7 @@ emiluaPlugins.qt6,347790741,347790725,,
 emmy-lua-code-style,,,,347102031
 empserver,,347102067,,
 empty-epsilon,347102085,347102090,,
-enca,,347102111,,
+enca,,348647846,,
 equalx,,,,347102343
 ete-unwrapped,,348097811,,348097812
 eternal-terminal,347102504,347102503,,
@@ -169,6 +171,8 @@ glances,,348175939,,
 globus-cli,347107979,347107978,,347107976
 gnat16Packages.gpr2,347108280,347108279,,
 gnatPackages.gpr2,347108327,347108329,,
+gnome-applets,348482512,,,
+gnome-flashback,348482521,,,
 gnudatalanguage,,347885661,,
 goawk,,347112059,,
 goobook,347112543,347112545,,347112539
@@ -291,7 +295,7 @@ iio-oscilloscope,347140359,347140358,,
 imageworsener,347140430,347140428,,
 inochi-creator,347140836,347140830,,
 intel-graphics-compiler,,347140910,,
-intelli-shell,,,,347140920
+intelli-shell,,,,348647947
 intensity-normalization,347140938,347140928,,347140941
 ioq3-scion,347141045,347141044,,
 ios-webkit-debug-proxy,347141061,347141060,,
@@ -301,10 +305,9 @@ jarl,,,,348175979
 jaspr_cli,347829320,347829321,,
 jasterix,,,,347141624
 jbofihe,,,,347141775
-jellyfin-desktop,,,,348449291
 jerryscript,347141910,,,
 jetuml,,,,347141951
-jj-pre-push,,,,347847211
+jj-pre-push,,,,348647965
 jogger,347142115,347142117,,
 jtdx,347815631,347815632,,
 julia-stable,,347142505,,347142497
@@ -803,10 +806,10 @@ pgadmin4,348331149,348331150,,
 pgschema,,347190206,,
 photoview,348098206,348098207,,
 phytool,347192103,347192102,,347192100
+picard,,,,348482675
 picat,,,,347192117
 picolibc,,,,347192152
 pidginPackages.purple-plugin-pack,347192219,347192218,,
-pihole-ftl,347192251,347192250,,
 pimsync,,,,347914081
 pinnacle,348458543,,,
 pint,,,,347192366
@@ -898,6 +901,8 @@ python313Packages.blastdns,,,,347200619
 python313Packages.borb,347200788,347200787,,347200785
 python313Packages.brian2,347200881,347200882,,347200880
 python313Packages.brotli-asgi,347200907,347200908,,347200909
+python313Packages.caldav,,,,348482690
+python313Packages.caldav_2,,,,348482694
 python313Packages.capstone_4,347201131,347201132,,347201133
 python313Packages.category-encoders,347201201,,,347201202
 python313Packages.cement,347201252,347201249,,
@@ -1103,7 +1108,6 @@ python313Packages.s3torchconnectorclient,347222667,347222663,,
 python313Packages.saiph,347222715,,,347222712
 python313Packages.scantree,,,,347222822
 python313Packages.scikit-rf,347222897,347222896,,347222895
-python313Packages.semgrep,347889181,347889182,,347889183
 python313Packages.sendspin,348459187,348459191,,
 python313Packages.setuptools-odoo,347223229,347223231,,347223228
 python313Packages.sharp-aquos-rc,347223293,347223291,,347223288
@@ -1378,7 +1382,6 @@ python314Packages.s3torchconnectorclient,347256076,347256074,,
 python314Packages.saiph,347256125,,,347256124
 python314Packages.scantree,,,,347256232
 python314Packages.scikit-rf,347256311,347256313,,347256310
-python314Packages.semgrep,347890421,347890419,,347890420
 python314Packages.sendspin,348459637,348459639,,
 python314Packages.setuptools-odoo,347256644,347256645,,347256642
 python314Packages.sharp-aquos-rc,347256703,347256702,,347256699
@@ -1457,7 +1460,6 @@ rbdoom-3-bfg,347836556,347836554,,
 rdpgw,,,,347265419
 reaper-reapack-extension,348174291,348174289,,
 reaper-sws-extension,348174288,348174293,,347265530
-recode,,,,347265569
 redo-apenwarr,,,,347265663
 reindeer,,,,347794798
 remarkable-toolchain,347265826,,,
@@ -1501,7 +1503,6 @@ schildi-revenge,,347817202,,
 seabird,,,,348450225
 see-cat,347275214,347275212,,
 selfci,,,,347275239
-semgrep,347891548,347891547,,347891549
 sfcgal,347275534,347275533,,347275532
 sgx-psw,347275597,,,
 shadershark,347275629,347275628,,
@@ -1509,7 +1510,6 @@ shadowsocks-libev,347275640,347275638,,
 shaka-packager,347915311,347915310,,
 shrinkray,,347275913,,
 sif,,,,348177284
-signalbackup-tools,,,,347460461
 silverbullet,,347849824,,
 sioyek,,,,347817209
 snagboot,347276767,347276766,,
