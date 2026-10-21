@@ -4440,7 +4440,6 @@ id,status,name,system
 349595804,F,robotframework-tidy,aarch64-linux
 349595810,F,robotframework-tidy,x86_64-linux
 349595880,F,rocmPackages.hiprt,x86_64-linux
-349596068,F,rocqPackages.dpdgraph,aarch64-darwin
 349596353,F,rojo,aarch64-linux
 349596433,D,romm,aarch64-linux
 349596512,D,roslyn,aarch64-linux
@@ -184205,6 +184204,7 @@ id,status,name,system
 349596064,S,rocqPackages.deriving,aarch64-darwin
 349596066,S,rocqPackages.deriving,aarch64-linux
 349596070,S,rocqPackages.deriving,x86_64-linux
+349596068,S,rocqPackages.dpdgraph,aarch64-darwin
 349596071,S,rocqPackages.dpdgraph,aarch64-linux
 349596178,S,rocqPackages.dpdgraph,x86_64-linux
 349596069,S,rocqPackages.equations,aarch64-darwin
