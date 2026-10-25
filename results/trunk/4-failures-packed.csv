@@ -68,8 +68,10 @@ bugdom,,,,350181837
 bulk_extractor,350181915,350181934,,
 bump-my-version,350181955,350181954,,350181943
 buttermanager,350182066,350182019,,350182008
+c3c,,,,350552254
 caffe,350182113,350182116,,350182110
 cai,350466730,,,350466717
+canaille,350552263,350552266,,
 cargo-llvm-cov,350182570,350182593,,350182543
 casacore,,,,349420885
 casacpp,349420893,349420890,,
@@ -89,7 +91,7 @@ clipcat,350183778,350183786,,350183794
 cloud-init,,350321141,,
 cocom-tool-set,,,,349425537
 commitmsgfmt,,,,350184328
-concord-tui,,,,350184383
+concord-tui,,,,350553913
 coredns,,,,350184604
 cosh,,,,350184664
 cutter,350466908,350466894,,350185253
@@ -138,7 +140,7 @@ exatorrent,,,,350188450
 excalidraw_export,350188464,350188452,,
 exfat,,,,349432080
 factplusplus,350321466,350321465,,
-fancy-cat,,,,350315047
+fancy-cat,,,,350553967
 fava-investor,350188832,350188822,,350188804
 fbv,,,,349432641
 fcron,,,,349432737
@@ -169,7 +171,7 @@ garnet,,,,350337613
 gccNGPackages.gcc-unwrapped,,,,349435459
 gccNGPackages_15.gcc-unwrapped,,,,349435532
 gccNGPackages_16.gcc-unwrapped,,,,349435602
-gearlever,350190622,350190605,,
+gearlever,350554024,350554023,,
 gerbera,350552421,350552420,,
 gerbolyze,350190745,350190774,,
 ghidra-extensions.gnudisassembler,350321662,,,
@@ -183,7 +185,7 @@ globus-cli,350191853,350191840,,350191845
 gnat16Packages.gpr2,349437795,349437791,,349437798
 gnatPackages.gpr2,349437862,349437861,,349437864
 gnudatalanguage,,350195263,,
-go-httpbin,350195382,350195388,,350195393
+go-httpbin,,350554082,,
 google-amber,350195980,350195946,,
 goshs,,,,350196091
 goxel,350196229,350196228,,
@@ -684,8 +686,8 @@ lixPackageSets.lix_2_95.nix-serve-ng,,350468721,,350468717
 lixPackageSets.lix_2_96.nix-serve-ng,350468773,350468805,,350468766
 lixPackageSets.stable.nix-serve-ng,,350468823,,350468815
 lixStatic,350468853,350468850,,
-llama-cpp-vulkan,350330174,350330173,,
-llama-cpp,,350330171,,
+llama-cpp-vulkan,,350554226,,
+llama-cpp,,350554224,,
 llvmPackages.libc-overlay,349483001,349483000,,
 llvmPackages.libc,349483003,349482996,,
 llvmPackages_18.compiler-rt-libc,,,,349483114
@@ -698,6 +700,7 @@ llvmPackages_23.lldb,,,,349483773
 llvmPackages_23.openmp,349483789,349483796,,349483792
 log4shib,,,,349483934
 logdy,,350231009,,
+lomiri.lomiri-thumbnailer,,350552622,,
 lon,,,,350315526
 loudmouth,,,,350231181
 louvre,350231226,350231206,,
@@ -705,7 +708,7 @@ lxqt.lxqt-config,350460202,350460204,,
 mac-fdisk,349488162,,,
 maigret,350468889,,,
 mallard-ducktype,349488418,349488417,,349488416
-manim,350330200,,,350330198
+manim,350554246,,,350554244
 martin,350232396,,,
 mathemagix,349488968,349488966,,
 mathmod,350232530,350232510,,
@@ -876,7 +879,7 @@ piper-phonemize,350241129,350241123,,
 pkgit,,,,350241226
 pkgsRocm.deface,350324860,,,
 pkgsRocm.ieda,350324917,,,
-pkgsRocm.manim,350331985,,,
+pkgsRocm.manim,350554442,,,
 pkgsRocm.migrate,350324943,,,
 pkgsRocm.newelle,350469355,,,
 pkgsRocm.opensplat,350460912,,,
@@ -890,9 +893,9 @@ pkgsRocm.python3Packages.facenet-pytorch,350460976,,,
 pkgsRocm.python3Packages.gpuctypes,350325085,,,
 pkgsRocm.python3Packages.hoomd-blue,350325102,,,
 pkgsRocm.python3Packages.ignite,350460999,,,
-pkgsRocm.python3Packages.manim,350332056,,,
+pkgsRocm.python3Packages.manim,350554454,,,
 pkgsRocm.python3Packages.mdtraj,350461122,,,
-pkgsRocm.python3Packages.mmcv,350553023,,,
+pkgsRocm.python3Packages.mmcv,350554466,,,
 pkgsRocm.python3Packages.openmm-torch,350461080,,,
 pkgsRocm.python3Packages.petsc4py,350325222,,,
 pkgsRocm.python3Packages.pyg-lib,350461131,,,
@@ -1036,7 +1039,6 @@ python313Packages.fastapi-versionizer,350249760,350249712,,350249711
 python313Packages.fastcan,350249743,,,350249757
 python313Packages.fava-investor,350249801,350249802,,350249805
 python313Packages.firedrake,350250115,350250108,,
-python313Packages.flask-swagger-ui,350250119,350250118,,350250154
 python313Packages.flask-versioned,350250181,350250170,,350250159
 python313Packages.flickrapi,350250179,350250164,,350250166
 python313Packages.fmpy,350469551,,,
@@ -1077,7 +1079,7 @@ python313Packages.linode-api,350253653,350253643,,350253649
 python313Packages.localstack-ext,350253952,350253935,,350253954
 python313Packages.mallard-ducktype,349540440,349540442,,349540441
 python313Packages.manifestoo,350254114,350254112,,350254111
-python313Packages.manim,350332526,,,350332541
+python313Packages.manim,350554707,,,350554675
 python313Packages.md2pdf,,,,350254291
 python313Packages.mdtraj,350461816,350461791,,350461793
 python313Packages.mergedb,349540829,349540830,,349540825
@@ -1087,7 +1089,7 @@ python313Packages.mir-eval,350254531,350254523,,350254535
 python313Packages.mkdocs-embed-file-plugin,350254608,350254591,,350254582
 python313Packages.mkdocs-simple-blog,349541221,349541217,,349541213
 python313Packages.mlt,,,,350254677
-python313Packages.mmcv,350553238,,,350553184
+python313Packages.mmcv,350554726,,,350554736
 python313Packages.modal,350469638,,,
 python313Packages.motmetrics,350254801,350254800,,350254865
 python313Packages.mpv,,,,350339076
@@ -1169,7 +1171,6 @@ python313Packages.python-ldap,,,,350260549
 python313Packages.python-overseerr,350260660,350260639,,350260642
 python313Packages.python-prctl,,350260653,,
 python313Packages.python-redis-lock,,,,350260666
-python313Packages.python-registry,349549961,349549963,,349549960
 python313Packages.python-tsp,350260743,350260757,,350260789
 python313Packages.pytikz-allefeld,350325938,350325940,,350316660
 python313Packages.pytorch-pfn-extras,350462075,350462056,,
@@ -1221,6 +1222,7 @@ python313Packages.succulent,350263398,350263397,,350263396
 python313Packages.summarytools,350263430,350263404,,350263419
 python313Packages.sunpy,350325998,350325992,,350263408
 python313Packages.swh-auth,,350263506,,
+python313Packages.swh-storage,,350553298,,
 python313Packages.swi-tools,350263522,350263517,,350263523
 python313Packages.synchronicity,,350263547,,
 python313Packages.tcxparser,349554359,349554358,,349554357
@@ -1244,7 +1246,6 @@ python313Packages.typing-validation,350266521,350266524,,350266522
 python313Packages.ultralytics,,,,350462396
 python313Packages.unsloth-zoo,350462398,,,
 python313Packages.upass,350266651,350266662,,350266644
-python313Packages.urllib3-future,350316758,350316759,,
 python313Packages.usbrelay-py,349558134,349558133,,
 python313Packages.vega,350266797,,,350266814
 python313Packages.vina,350266902,350266859,,350266858
@@ -1253,7 +1254,6 @@ python313Packages.vowpalwabbit,,,,350266907
 python313Packages.vprof,349558467,349558470,,349558462
 python313Packages.vsts,350266943,350266910,,350266966
 python313Packages.vyper,350266945,350266951,,350266944
-python313Packages.websockify,350267107,350267118,,350267116
 python313Packages.whirlpool-sixth-sense,350267172,350267162,,350267168
 python313Packages.ws4py,,,,350267262
 python313Packages.xdis,349559047,349559044,,349559042
@@ -1348,7 +1348,6 @@ python314Packages.fastapi-versionizer,350273422,350273435,,350273419
 python314Packages.fastcan,350273462,,,350273433
 python314Packages.fava-investor,350273514,350273550,,350273512
 python314Packages.firedrake,350273652,350273933,,
-python314Packages.flask-swagger-ui,350273827,350273826,,350273825
 python314Packages.flask-versioned,350273861,350273865,,350273841
 python314Packages.flickrapi,350273887,350273867,,350273871
 python314Packages.fmpy,350470976,,,
@@ -1388,7 +1387,7 @@ python314Packages.linode-api,350277333,350277342,,350277330
 python314Packages.localstack-ext,350277603,350277602,,350277604
 python314Packages.mallard-ducktype,349573969,349573963,,349573964
 python314Packages.manifestoo,350277808,350277812,,350277819
-python314Packages.manim,350333128,,,350333129
+python314Packages.manim,350555040,,,350555044
 python314Packages.mdtraj,350462953,350462933,,350462936
 python314Packages.mergedb,349574356,349574352,,349574357
 python314Packages.meteo-lt-pkg,350278103,350278195,,350278106
@@ -1397,14 +1396,13 @@ python314Packages.mir-eval,350278279,350278226,,350278234
 python314Packages.mkdocs-embed-file-plugin,350278276,350278283,,350278311
 python314Packages.mkdocs-simple-blog,349574741,349574739,,349574737
 python314Packages.mlt,,,,350278368
-python314Packages.mmcv,350553457,,,350553519
+python314Packages.mmcv,350555099,,,350555084
 python314Packages.motmetrics,350278531,350278492,,350278515
 python314Packages.mpv,,,,350339193
 python314Packages.mrsqm,350278580,,,350278560
 python314Packages.mss,,350462969,,
 python314Packages.mygpoclient,,349575271,,
 python314Packages.nanomsg-python,349576417,349576421,,349576420
-python314Packages.nemo-relay,,,,350279879
 python314Packages.neoteroi-mkdocs,,350280007,,
 python314Packages.nexusformat,350279970,350279981,,350280017
 python314Packages.nglview,350279980,350279986,,350279976
@@ -1482,7 +1480,6 @@ python314Packages.python-ldap,,,,350284242
 python314Packages.python-overseerr,350284327,350284326,,350284374
 python314Packages.python-prctl,,350284424,,
 python314Packages.python-redis-lock,,,,350284354
-python314Packages.python-registry,349583481,349583479,,349583480
 python314Packages.python-tsp,350284494,350284521,,350284427
 python314Packages.pytikz-allefeld,350326385,350326393,,350317220
 python314Packages.pytorch-pfn-extras,350463176,350463174,,
@@ -1534,6 +1531,8 @@ python314Packages.stytra,350471276,350471280,,
 python314Packages.succulent,350287115,350287133,,350287076
 python314Packages.summarytools,350287098,350287089,,350287196
 python314Packages.sunpy,350326455,350326440,,350287092
+python314Packages.swh-journal,350553574,,,
+python314Packages.swh-storage,,350553587,,
 python314Packages.swi-tools,350287233,350287192,,350287197
 python314Packages.tcxparser,349587874,349587869,,349587868
 python314Packages.telnetlib3,,,,350287326
@@ -1557,7 +1556,7 @@ python314Packages.typing-validation,350290167,350290168,,350290169
 python314Packages.ultralytics,,,,350463503
 python314Packages.unsloth-zoo,350463499,,,
 python314Packages.upass,350290327,350290306,,350290295
-python314Packages.urllib3-future,350317329,350317330,,
+python314Packages.urllib3-future,,350555209,,
 python314Packages.usbrelay-py,349591616,349591615,,
 python314Packages.vega,350290436,,,350290437
 python314Packages.vina,350290497,350290523,,350290531
@@ -1566,7 +1565,6 @@ python314Packages.vowpalwabbit,,,,350290582
 python314Packages.vprof,349591947,349591946,,349591945
 python314Packages.vsts,350290562,350290576,,350290556
 python314Packages.vyper,350290606,350290593,,350290629
-python314Packages.websockify,350290757,350290755,,350290756
 python314Packages.ws4py,,,,350290911
 python314Packages.xnatpy,350291006,350291082,,350291062
 python314Packages.xtensor-python,350291042,350291048,,
@@ -1591,6 +1589,7 @@ qucs-s,,,,350292160
 qui,,,,350176625
 quickwit,350292214,350292207,,350292190
 quill,350292189,350292212,,
+radicle-artifact,,350553603,,
 rarezip,,,,349594474
 raylib-games,,,,350456542
 rdpgw,,,,350292499
@@ -1604,10 +1603,9 @@ reuse,350292995,350292994,,350293010
 rexi,350293038,350293053,,350293050
 rfc-bibtex,350293048,350293033,,350293044
 rhvoice,,,,350472375
-river-bedload,350293188,350293184,,
+river-bedload,350555265,350555268,,
 rkdeveloptool-pine64,,,,349595644
 robotframework-tidy,350293346,350293330,,350293329
-rocmPackages.hiprt,350326622,,,
 rojo,,350317369,,
 routino,,,,349596578
 rp,,349596507,,
@@ -1765,8 +1763,8 @@ vrb,349622590,349622589,,
 vyper,350310877,350310889,,350310870
 warzone2100,350310994,350310977,,
 waves,,350311111,,
-waylock,,350311187,,
-wayprompt,350311191,350311203,,
+waylock,,350555497,,
+wayprompt,350555495,350555496,,
 wealthfolio-server,350339665,,,
 webdev,350311294,350311273,,
 whale,,,,350311412
