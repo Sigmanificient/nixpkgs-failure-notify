@@ -1497,7 +1497,6 @@ id,status,name,system
 350908664,D,lomiri.lomiri-session,aarch64-linux
 350908658,D,lomiri.lomiri-system-settings-unwrapped,aarch64-linux
 350908659,D,lomiri.lomiri-system-settings,aarch64-linux
-350552622,F,lomiri.lomiri-thumbnailer,aarch64-linux
 350908663,D,lomiri.lomiri,aarch64-linux
 350552641,D,lomiri.teleports,aarch64-linux
 350954662,F,lon,aarch64-darwin
@@ -4280,7 +4279,6 @@ id,status,name,system
 351370070,D,whispers,aarch64-linux
 351370065,D,whispers,x86_64-linux
 350333850,F,whitesur-gtk-theme,aarch64-darwin
-350910035,D,wingpanel-indicator-namarupa,aarch64-linux
 350333868,F,wire-desktop,aarch64-darwin
 349625438,F,wmic-bin,x86_64-linux
 350311915,F,world-wall-clock,aarch64-darwin
@@ -74996,6 +74994,7 @@ id,status,name,system
 350552623,S,lomiri.lomiri-telephony-service,x86_64-linux
 350231097,S,lomiri.lomiri-terminal-app,aarch64-linux
 350231084,S,lomiri.lomiri-terminal-app,x86_64-linux
+350552622,S,lomiri.lomiri-thumbnailer,aarch64-linux
 350552624,S,lomiri.lomiri-thumbnailer,x86_64-linux
 350231076,S,lomiri.lomiri-ui-extras,aarch64-linux
 350231077,S,lomiri.lomiri-ui-extras,x86_64-linux
@@ -211045,6 +211044,7 @@ id,status,name,system
 350311614,S,winetricks,aarch64-darwin
 350311615,S,winetricks,aarch64-linux
 350311616,S,winetricks,x86_64-linux
+350910035,S,wingpanel-indicator-namarupa,aarch64-linux
 350910045,S,wingpanel-indicator-namarupa,x86_64-linux
 350910033,S,wings,aarch64-linux
 350910034,S,wings,x86_64-linux
