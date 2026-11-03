@@ -55,6 +55,7 @@ c3c,,,,350552254
 caffe,350182113,350182116,,350182110
 cai,351850934,,,
 calibre,351850940,,,
+calls,351936013,,,
 canaille,351526223,351526222,,
 cargo-llvm-cov,350182570,350182593,,350182543
 casacore,,,,351752582
@@ -71,6 +72,7 @@ clpeak,,,,350633050
 cocom-tool-set,,,,349425537
 colmap,,,,350711480
 commitmsgfmt,,,,350184328
+comrak,,351936065,,
 concord-tui,,,,351931521
 coredns,,,,350184604
 craftos-pc-accelerated,,,,351364708
@@ -108,11 +110,11 @@ elmPackages.elm-wrap,,,,349431280
 emborg,350187983,350187991,,350187982
 emmy-lua-code-style,,,,349431430
 empserver,,349431467,,
-empty-epsilon,350188077,350188049,,
+empty-epsilon,352006924,352006920,,
 enca,,349431508,,
 envoluntary,,,,350188238
 equalx,,,,350188229
-esphome-device-builder,,351590115,,
+esphome-device-builder,,352006933,,
 ete-unwrapped,,350188342,,350188346
 etterna,350188380,350188379,,
 exatorrent,,,,350188450
@@ -179,6 +181,7 @@ greenbone-feed-sync,,,,350196542
 groestlcoin,350196618,350196607,,350196612
 groestlcoind,349443121,349443116,,349443114
 guile-zstd,,,,350004001
+ha-mcp,,,,351936375
 halfempty,,,,350197130
 hashcash,,,,349444039
 haskell.packages.ghc96.haskell-language-server,,,,350200095
@@ -270,18 +273,19 @@ haskellPackages.zlib-bytes,,,,350219774
 haskellPackages.zot,,,,350219751
 heimer,,,,350219991
 herbstluftwm,,350897844,,
+herdr-core,,351936389,,
 hexagonrpc,,,,349467033
 hgrep,,350220129,,
 home-assistant-custom-components.cover_time_based,,351365393,,
 home-assistant-custom-components.thewatchman,351365439,351365428,,
 htmlcxx,349467918,349467917,,
-hyprlandPlugins.hypr-darkwindow,351851056,351851038,,
-hyprlandPlugins.hypr-dynamic-cursors,351851037,351851034,,
-hyprlandPlugins.hyprgrass,351851039,351851045,,
-hyprlandPlugins.hyprspace,351851044,351851046,,
-hyprlandPlugins.hyprsplit,351851059,351851052,,
-hyprlandPlugins.hyprtasking,351851063,351851064,,
-hyprlandPlugins.imgborders,351851047,351851053,,
+hyprlandPlugins.hypr-darkwindow,352006987,352006984,,
+hyprlandPlugins.hypr-dynamic-cursors,352006985,352006999,,
+hyprlandPlugins.hyprgrass,352006989,352006992,,
+hyprlandPlugins.hyprspace,352007001,352006988,,
+hyprlandPlugins.hyprsplit,352006983,352007024,,
+hyprlandPlugins.hyprtasking,352006990,352006991,,
+hyprlandPlugins.imgborders,352007008,352007003,,
 iaito,350221149,350221136,,
 iamb,,,,350819041
 icesprog,,,,349469421
@@ -973,6 +977,7 @@ python313Packages.google-cloud-error-reporting,350250753,350250800,,350250760
 python313Packages.google-cloud-iot,350250780,350250775,,350250829
 python313Packages.google-cloud-spanner,350461566,350461553,,350461554
 python313Packages.graphql-subscription-manager,350250993,350251001,,349536077
+python313Packages.ha-mcp,,,,351937227
 python313Packages.habitipy,350251178,350251177,,350251176
 python313Packages.halide,351564195,,,
 python313Packages.hdf5plugin,351778001,351778000,,
@@ -1091,6 +1096,7 @@ python313Packages.pyttsx3,,,,349550305
 python313Packages.qcodes,350261107,,,350261121
 python313Packages.qudida,350261257,,,350261220
 python313Packages.rapidyaml,349550838,349550835,,349550836
+python313Packages.raygeo,,351937348,,
 python313Packages.raylib,,,,350456377
 python313Packages.rbtools,351849445,351849446,,351849447
 python313Packages.rds2py,,,,350261296
@@ -1117,7 +1123,6 @@ python313Packages.sourmash,350262719,350262735,,350262746
 python313Packages.spacy,,,,351849456
 python313Packages.sphinx-jupyterbook-latex,350262882,350262958,,350263013
 python313Packages.spsdk-pyocd,350726778,350726865,,350726771
-python313Packages.sqliteschema,350263138,350263134,,350263140
 python313Packages.stac-validator,350263192,350263188,,350263187
 python313Packages.stp,,,,349553876
 python313Packages.streamz,,350263356,,
@@ -1205,6 +1210,7 @@ python314Packages.dask-ml,350271614,,,350271617
 python314Packages.datalad-next,350735007,350735001,,350271680
 python314Packages.datashader,350271685,,,350271759
 python314Packages.datashaper,350271683,350271739,,350271682
+python314Packages.dbt-redshift,351937476,351937469,,351937463
 python314Packages.dedupe,350271785,,,350271786
 python314Packages.deebot-client,,,,350271788
 python314Packages.deepspeed,,,,351852330
@@ -1250,6 +1256,7 @@ python314Packages.gdb-pt-dump,349568856,349568855,,349568853
 python314Packages.glueviz,351767571,351767572,,
 python314Packages.google-nest-sdm,,350274592,,
 python314Packages.graphql-subscription-manager,350274738,350274707,,349569616
+python314Packages.ha-mcp,,,,351937563
 python314Packages.habitipy,350274878,350274904,,350274896
 python314Packages.halide,351565144,351565140,,
 python314Packages.hdf5plugin,351778333,351778335,,351778334
@@ -1398,7 +1405,6 @@ python314Packages.solidpython2,349586493,349586494,,349586490
 python314Packages.sourmash,350286418,350286409,,350286467
 python314Packages.sphinx-jupyterbook-latex,350286620,350286548,,350286572
 python314Packages.spsdk-pyocd,350729736,350729740,,350729742
-python314Packages.sqliteschema,350286816,350286822,,350286821
 python314Packages.stac-validator,350286954,350286951,,350286882
 python314Packages.stp,,,,349587381
 python314Packages.succulent,350287115,350287133,,350287076
@@ -1406,6 +1412,7 @@ python314Packages.summarytools,350287098,350287089,,350287196
 python314Packages.sunpy,351756246,351756242,,351756252
 python314Packages.swh-journal,350553574,,,
 python314Packages.swi-tools,350287233,350287192,,350287197
+python314Packages.synchronicity,,351937678,,
 python314Packages.tables,,351778532,,
 python314Packages.tcxparser,349587874,349587869,,349587868
 python314Packages.telnetlib3,,,,350287326
@@ -1456,6 +1463,8 @@ qucs-s,,,,350292160
 qui,,351565894,,
 quickwit,350292214,350292207,,350292190
 quill,350292189,350292212,,
+quiver-launcher-unwrapped,351937748,351937746,,
+quiver-launcher,,351937747,,
 radian,,350803573,,
 radicle-artifact,,350553603,,
 rarezip,,,,349594474
@@ -1611,6 +1620,7 @@ ubootPythonTools.dtoc,349619255,349619254,,349619253
 udiskie,351597141,,,
 ulfius,,,,349619558
 ultralytics,,,,350463724
+unblob,,351937900,,
 undertalemodcli,,,,351370014
 unsilence,350308439,350308426,,350308423
 upbrr,,,,351093375
@@ -1653,6 +1663,7 @@ wxc,,,,350312069
 x11basic,350312088,350312087,,
 xarchiver,,,,351597280
 xautocfg,350312166,350312168,,
+xcp,,,,351937981
 xcpc,350312252,350312267,,
 xdriinfo,,,,350312347
 xephem,,,,350312379
