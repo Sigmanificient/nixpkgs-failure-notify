@@ -1270,7 +1270,6 @@ id,status,name,system
 352422531,D,matrix-synapse-plugins.matrix-synapse-s3-storage-provider,aarch64-linux
 352422539,D,matrix-synapse-plugins.matrix-synapse-shared-secret-auth,aarch64-linux
 352422538,D,matrix-synapse-plugins.synapse-http-antispam,aarch64-linux
-352422544,F,matrix-synapse-unwrapped,aarch64-linux
 352422526,D,matrix-synapse,aarch64-linux
 352422638,F,mayo,aarch64-darwin
 352422670,F,mbuffer,aarch64-darwin
@@ -79243,6 +79242,7 @@ id,status,name,system
 352422536,S,matrix-synapse-plugins.matrix-synapse-s3-storage-provider,x86_64-linux
 352422537,S,matrix-synapse-plugins.matrix-synapse-shared-secret-auth,x86_64-linux
 352422551,S,matrix-synapse-plugins.synapse-http-antispam,x86_64-linux
+352422544,S,matrix-synapse-unwrapped,aarch64-linux
 352422532,S,matrix-synapse-unwrapped,x86_64-linux
 352422525,S,matrix-synapse,x86_64-linux
 353155803,S,matrix-tuwunel,aarch64-linux
