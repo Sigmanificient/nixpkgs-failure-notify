@@ -4,7 +4,6 @@ acme-client,,,,352346140
 acr-cli,352346176,352346173,,352346177
 adif-multitool,352346305,352346304,,352346303
 aerogramme,352346402,352346400,,
-age-plugin-se,,,,352880882
 airdrop-cli,,,,352880886
 amnezia-vpn-bin,352347958,,,
 anytype-cli,353072230,353072229,,
@@ -86,7 +85,6 @@ clpeak,,,,352359145
 cocom-tool-set,,,,352359434
 code,352359449,352359448,,352359446
 concord-tui,,,,352359887
-container,,,,352881072
 convco,352360047,352360046,,352360045
 cook-cli,,,,353076947
 coredns,,352360220,,352361969
@@ -1323,9 +1321,7 @@ stp,,,,352540010
 strfry,352540056,352540055,,
 string-view-lite,,,,352540066
 super-slicer-beta,,,,353049888
-swift-format,,,,352883454
 swiftPackages.swift-docc,,,,353158989
-swiftPackages.swift-format,,,,352883460
 switchfin,,,,353165756
 syzkaller,,,,352541083
 tabularis,,,,353049916
