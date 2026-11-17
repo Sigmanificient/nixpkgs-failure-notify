@@ -25,9 +25,6 @@ id,name,system
 353179682,atopile,x86_64-linux
 353161945,aurral,aarch64-linux
 352880960,autokbisw,aarch64-darwin
-352350177,aws-encryption-sdk-cli,aarch64-darwin
-352350179,aws-encryption-sdk-cli,aarch64-linux
-352350178,aws-encryption-sdk-cli,x86_64-linux
 352350224,awscli,aarch64-darwin
 352350228,awscli,aarch64-linux
 352350229,awscli,x86_64-linux
@@ -35,7 +32,7 @@ id,name,system
 352350265,ax25-tools,x86_64-linux
 353379935,ayatana-indicator-datetime,aarch64-linux
 353053955,ayatana-indicator-power,aarch64-linux
-352350304,azahar,aarch64-darwin
+353379931,ayatana-indicator-session,aarch64-linux
 352350327,azure-cli-extensions.acrcssc,aarch64-darwin
 352350333,azure-cli-extensions.acrcssc,aarch64-linux
 352350329,azure-cli-extensions.acrcssc,x86_64-linux
@@ -77,6 +74,7 @@ id,name,system
 352350922,azure-cli-extensions.webpubsub,x86_64-linux
 352350980,azure-sdk-for-cpp.security-attestation,aarch64-linux
 352350982,azure-sdk-for-cpp.security-attestation,x86_64-linux
+353379941,bark-wallet,aarch64-darwin
 352351524,beadwork,aarch64-linux
 352352156,beanhub-cli,aarch64-darwin
 352352101,beanhub-cli,aarch64-linux
@@ -91,7 +89,6 @@ id,name,system
 352352392,bigquery-emulator,aarch64-linux
 352352393,bigquery-emulator,x86_64-linux
 353179732,bitwarden-desktop,aarch64-linux
-352352684,blazesym-c,aarch64-linux
 353154027,blint,aarch64-darwin
 352352911,bochs,aarch64-darwin
 352869970,bossa-arduino,aarch64-darwin
@@ -111,7 +108,6 @@ id,name,system
 352870049,cataclysm-dda,aarch64-darwin
 352354833,catboost,aarch64-linux
 352354964,cbmbasic,aarch64-darwin
-352354975,cbmc,aarch64-darwin
 352355023,cc-switch-cli,aarch64-darwin
 352355018,cc-switch-cli,aarch64-linux
 352355022,cc-switch-cli,x86_64-linux
@@ -145,9 +141,6 @@ id,name,system
 352359449,code,x86_64-linux
 353291941,cogfly,x86_64-linux
 353299104,concord-tui,aarch64-darwin
-352360045,convco,aarch64-darwin
-352360046,convco,aarch64-linux
-352360047,convco,x86_64-linux
 353076947,cook-cli,aarch64-darwin
 352361969,coredns,aarch64-darwin
 352360220,coredns,aarch64-linux
@@ -173,7 +166,6 @@ id,name,system
 353076967,dbqn-native,x86_64-linux
 352870304,dell-530cdn,aarch64-darwin
 352362136,depot-cli,aarch64-linux
-353179828,dezoomify-rs,aarch64-darwin
 352362533,digibyte,aarch64-linux
 352362537,digibyte,x86_64-linux
 352362618,directfb,aarch64-linux
@@ -206,7 +198,6 @@ id,name,system
 352365447,enca,aarch64-linux
 353299201,entangled,aarch64-linux
 353154358,equalx,aarch64-darwin
-353299289,esphome-device-builder,aarch64-darwin
 352365832,ete-unwrapped,aarch64-linux
 352365903,evebox,aarch64-darwin
 352365907,evebox,aarch64-linux
@@ -236,6 +227,7 @@ id,name,system
 352870581,flamerobin,x86_64-linux
 352881371,flet-client-flutter,aarch64-darwin
 352367634,flex-launcher,aarch64-darwin
+353380962,flexget,aarch64-darwin
 352367655,flightcore,aarch64-darwin
 352367890,flye,aarch64-darwin
 352911127,folia-major,aarch64-darwin
@@ -261,9 +253,6 @@ id,name,system
 353292155,ghidra-extensions.ghidra-firmware-utils,aarch64-darwin
 353292128,ghidra-extensions.ghidra-firmware-utils,aarch64-linux
 353292125,ghidra-extensions.ghidra-firmware-utils,x86_64-linux
-353292164,ghidra-extensions.lightkeeper,aarch64-darwin
-353292131,ghidra-extensions.lightkeeper,aarch64-linux
-353292139,ghidra-extensions.lightkeeper,x86_64-linux
 353292157,ghidra-extensions.reva,aarch64-darwin
 353292150,ghidra-extensions.reva,aarch64-linux
 353292148,ghidra-extensions.reva,x86_64-linux
@@ -287,7 +276,6 @@ id,name,system
 352371144,gitpulsar,aarch64-darwin
 352371145,gitpulsar,aarch64-linux
 352371146,gitpulsar,x86_64-linux
-353179948,glab-tui,aarch64-darwin
 353299385,glances,aarch64-linux
 353299384,glances,x86_64-linux
 352371367,globus-cli,aarch64-darwin
@@ -306,9 +294,6 @@ id,name,system
 352375738,golem,aarch64-darwin
 352375739,golem,aarch64-linux
 352375745,golem,x86_64-linux
-352375750,golink,aarch64-darwin
-352375752,golink,aarch64-linux
-352375751,golink,x86_64-linux
 352375827,google-amber,aarch64-linux
 352375828,google-amber,x86_64-linux
 352375916,gophernotes,aarch64-darwin
@@ -445,8 +430,6 @@ id,name,system
 352400700,hilbish,aarch64-darwin
 352400703,hilbish,aarch64-linux
 352400702,hilbish,x86_64-linux
-353162267,home-assistant-custom-components.auth_oidc,aarch64-linux
-353162234,home-assistant-custom-components.auth_oidc,x86_64-linux
 353162264,home-assistant-custom-components.hcl_lighting,aarch64-linux
 353162262,home-assistant-custom-components.hcl_lighting,x86_64-linux
 353162307,home-assistant-custom-components.localthings,x86_64-linux
@@ -459,9 +442,6 @@ id,name,system
 353162328,home-assistant-custom-components.thewatchman,aarch64-linux
 353162340,home-assistant-custom-components.yandex-station,x86_64-linux
 353162252,home-assistant,aarch64-linux
-352401505,http-nu,aarch64-darwin
-352401503,http-nu,aarch64-linux
-352401500,http-nu,x86_64-linux
 352401616,humility,aarch64-darwin
 352401615,humility,aarch64-linux
 352401619,humility,x86_64-linux
@@ -469,8 +449,6 @@ id,name,system
 353106231,hyprlandPlugins.hypr-dynamic-cursors,x86_64-linux
 353106209,hyprlandPlugins.hyprgrass,aarch64-linux
 353106210,hyprlandPlugins.hyprgrass,x86_64-linux
-353106228,hyprlandPlugins.hyprspace,aarch64-linux
-353106212,hyprlandPlugins.hyprspace,x86_64-linux
 353106251,hyprlandPlugins.hyprsplit,aarch64-linux
 353106214,hyprlandPlugins.hyprsplit,x86_64-linux
 353106215,hyprlandPlugins.hyprtasking,aarch64-linux
@@ -502,8 +480,6 @@ id,name,system
 352404024,insulator2,aarch64-linux
 352404032,insulator2,x86_64-linux
 352404043,intel-lpmd,aarch64-linux
-353162414,inventree,aarch64-linux
-353162416,inventree,x86_64-linux
 352404197,ios-webkit-debug-proxy,aarch64-linux
 352404199,ios-webkit-debug-proxy,x86_64-linux
 352404313,ipfs-cluster,aarch64-darwin
@@ -590,13 +566,11 @@ id,name,system
 352409371,leo-lang,aarch64-darwin
 352409441,lerna_6,aarch64-linux
 352409493,liana,x86_64-linux
-352409495,lianad,x86_64-linux
 352409740,libcardiacarrest,aarch64-darwin
 352409907,libcue-lang,aarch64-darwin
 352410139,libesmtp,aarch64-darwin
 352410174,libexecinfo,aarch64-darwin
 352410523,libigloo,aarch64-darwin
-352410624,libixion,aarch64-darwin
 352410685,libkiwix,aarch64-darwin
 352410701,liblastfm-vambrose,aarch64-darwin
 353077302,libnixxml,aarch64-darwin
@@ -662,10 +636,6 @@ id,name,system
 353077588,linuxKernel.packages.linux_6_12.mbp2018-bridge-drv,x86_64-linux
 353162507,linuxKernel.packages.linux_6_12.rtl8188eus-aircrack,aarch64-linux
 353162506,linuxKernel.packages.linux_6_12.rtl8188eus-aircrack,x86_64-linux
-353077623,linuxKernel.packages.linux_6_12.rtl8189es,aarch64-linux
-353077637,linuxKernel.packages.linux_6_12.rtl8189es,x86_64-linux
-353077621,linuxKernel.packages.linux_6_12.rtl8189fs,aarch64-linux
-353077630,linuxKernel.packages.linux_6_12.rtl8189fs,x86_64-linux
 353077616,linuxKernel.packages.linux_6_12.rtl8192eu,x86_64-linux
 353077629,linuxKernel.packages.linux_6_12.rtl8723ds,aarch64-linux
 353077617,linuxKernel.packages.linux_6_12.rtl8723ds,x86_64-linux
@@ -683,8 +653,6 @@ id,name,system
 353077741,linuxKernel.packages.linux_6_18.ecapture,aarch64-linux
 353077764,linuxKernel.packages.linux_6_18.ecapture,x86_64-linux
 353077784,linuxKernel.packages.linux_6_18.mbp2018-bridge-drv,x86_64-linux
-353077849,linuxKernel.packages.linux_6_18.shufflecake,aarch64-linux
-353077845,linuxKernel.packages.linux_6_18.shufflecake,x86_64-linux
 353077888,linuxKernel.packages.linux_6_18.vmm_clock,x86_64-linux
 353077925,linuxKernel.packages.linux_6_6.ax99100,aarch64-linux
 352413896,linuxKernel.packages.linux_6_6.chipsec,x86_64-linux
@@ -730,14 +698,8 @@ id,name,system
 353078171,linuxKernel.packages.linux_7_3.nullfsvfs,x86_64-linux
 353078173,linuxKernel.packages.linux_7_3.nvidia_x11_beta_open,aarch64-linux
 353078200,linuxKernel.packages.linux_7_3.nvidia_x11_beta_open,x86_64-linux
-353078208,linuxKernel.packages.linux_7_3.rtl8189es,aarch64-linux
-353078203,linuxKernel.packages.linux_7_3.rtl8189es,x86_64-linux
-353078204,linuxKernel.packages.linux_7_3.rtl8189fs,aarch64-linux
-353078217,linuxKernel.packages.linux_7_3.rtl8189fs,x86_64-linux
 353078207,linuxKernel.packages.linux_7_3.rtl8821cu,aarch64-linux
 353078246,linuxKernel.packages.linux_7_3.rtl8821cu,x86_64-linux
-353078228,linuxKernel.packages.linux_7_3.shufflecake,aarch64-linux
-353078233,linuxKernel.packages.linux_7_3.shufflecake,x86_64-linux
 353078238,linuxKernel.packages.linux_7_3.sysdig,aarch64-linux
 353078249,linuxKernel.packages.linux_7_3.system76-acpi,x86_64-linux
 353078234,linuxKernel.packages.linux_7_3.tsme-test,x86_64-linux
@@ -745,7 +707,6 @@ id,name,system
 353106389,linuxKernel.packages.linux_xanmod.chipsec,x86_64-linux
 353106345,linuxKernel.packages.linux_xanmod.ecapture,x86_64-linux
 353106382,linuxKernel.packages.linux_xanmod.mbp2018-bridge-drv,x86_64-linux
-353106421,linuxKernel.packages.linux_xanmod.shufflecake,x86_64-linux
 353106449,linuxKernel.packages.linux_xanmod.vmm_clock,x86_64-linux
 353106502,linuxKernel.packages.linux_xanmod_latest.apfs,x86_64-linux
 353106519,linuxKernel.packages.linux_xanmod_latest.chipsec,x86_64-linux
@@ -754,10 +715,7 @@ id,name,system
 353106506,linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,x86_64-linux
 353106513,linuxKernel.packages.linux_xanmod_latest.nullfsvfs,x86_64-linux
 353106515,linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta_open,x86_64-linux
-353106534,linuxKernel.packages.linux_xanmod_latest.rtl8189es,x86_64-linux
-353106536,linuxKernel.packages.linux_xanmod_latest.rtl8189fs,x86_64-linux
 353106538,linuxKernel.packages.linux_xanmod_latest.rtl8821cu,x86_64-linux
-353106543,linuxKernel.packages.linux_xanmod_latest.shufflecake,x86_64-linux
 353106545,linuxKernel.packages.linux_xanmod_latest.system76-acpi,x86_64-linux
 353106555,linuxKernel.packages.linux_xanmod_latest.tsme-test,x86_64-linux
 353106569,linuxKernel.packages.linux_xanmod_latest.vmm_clock,x86_64-linux
@@ -768,10 +726,7 @@ id,name,system
 353106629,linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,x86_64-linux
 353106636,linuxKernel.packages.linux_xanmod_stable.nullfsvfs,x86_64-linux
 353106638,linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta_open,x86_64-linux
-353106655,linuxKernel.packages.linux_xanmod_stable.rtl8189es,x86_64-linux
-353106657,linuxKernel.packages.linux_xanmod_stable.rtl8189fs,x86_64-linux
 353106658,linuxKernel.packages.linux_xanmod_stable.rtl8821cu,x86_64-linux
-353106666,linuxKernel.packages.linux_xanmod_stable.shufflecake,x86_64-linux
 353106669,linuxKernel.packages.linux_xanmod_stable.system76-acpi,x86_64-linux
 353106679,linuxKernel.packages.linux_xanmod_stable.tsme-test,x86_64-linux
 353106695,linuxKernel.packages.linux_xanmod_stable.vmm_clock,x86_64-linux
@@ -782,10 +737,7 @@ id,name,system
 353155255,linuxKernel.packages.linux_zen.mbp2018-bridge-drv,x86_64-linux
 353155284,linuxKernel.packages.linux_zen.nullfsvfs,x86_64-linux
 353155264,linuxKernel.packages.linux_zen.nvidia_x11_beta_open,x86_64-linux
-353155271,linuxKernel.packages.linux_zen.rtl8189es,x86_64-linux
-353155272,linuxKernel.packages.linux_zen.rtl8189fs,x86_64-linux
 353155273,linuxKernel.packages.linux_zen.rtl8821cu,x86_64-linux
-353155297,linuxKernel.packages.linux_zen.shufflecake,x86_64-linux
 353155290,linuxKernel.packages.linux_zen.system76-acpi,x86_64-linux
 353155288,linuxKernel.packages.linux_zen.tsme-test,x86_64-linux
 353155304,linuxKernel.packages.linux_zen.vmm_clock,x86_64-linux
@@ -793,8 +745,6 @@ id,name,system
 353078687,linuxPackages.ecapture,aarch64-linux
 353078688,linuxPackages.ecapture,x86_64-linux
 353078732,linuxPackages.mbp2018-bridge-drv,x86_64-linux
-353078793,linuxPackages.shufflecake,aarch64-linux
-353078798,linuxPackages.shufflecake,x86_64-linux
 353078839,linuxPackages.vmm_clock,x86_64-linux
 353078870,linuxPackages_latest.apfs,aarch64-linux
 353078869,linuxPackages_latest.apfs,x86_64-linux
@@ -809,14 +759,8 @@ id,name,system
 353078956,linuxPackages_latest.nullfsvfs,x86_64-linux
 353078959,linuxPackages_latest.nvidia_x11_beta_open,aarch64-linux
 353078962,linuxPackages_latest.nvidia_x11_beta_open,x86_64-linux
-353078984,linuxPackages_latest.rtl8189es,aarch64-linux
-353078987,linuxPackages_latest.rtl8189es,x86_64-linux
-353078993,linuxPackages_latest.rtl8189fs,aarch64-linux
-353078994,linuxPackages_latest.rtl8189fs,x86_64-linux
 353078995,linuxPackages_latest.rtl8821cu,aarch64-linux
 353078996,linuxPackages_latest.rtl8821cu,x86_64-linux
-353079006,linuxPackages_latest.shufflecake,aarch64-linux
-353079008,linuxPackages_latest.shufflecake,x86_64-linux
 353079015,linuxPackages_latest.sysdig,aarch64-linux
 353079010,linuxPackages_latest.system76-acpi,x86_64-linux
 353079025,linuxPackages_latest.tsme-test,x86_64-linux
@@ -824,7 +768,6 @@ id,name,system
 353106842,linuxPackages_xanmod.chipsec,x86_64-linux
 353106853,linuxPackages_xanmod.ecapture,x86_64-linux
 353106881,linuxPackages_xanmod.mbp2018-bridge-drv,x86_64-linux
-353106912,linuxPackages_xanmod.shufflecake,x86_64-linux
 353106936,linuxPackages_xanmod.vmm_clock,x86_64-linux
 353106955,linuxPackages_xanmod_latest.apfs,x86_64-linux
 353106965,linuxPackages_xanmod_latest.chipsec,x86_64-linux
@@ -833,10 +776,7 @@ id,name,system
 353107001,linuxPackages_xanmod_latest.mbp2018-bridge-drv,x86_64-linux
 353107008,linuxPackages_xanmod_latest.nullfsvfs,x86_64-linux
 353107011,linuxPackages_xanmod_latest.nvidia_x11_beta_open,x86_64-linux
-353107028,linuxPackages_xanmod_latest.rtl8189es,x86_64-linux
-353107029,linuxPackages_xanmod_latest.rtl8189fs,x86_64-linux
 353107030,linuxPackages_xanmod_latest.rtl8821cu,x86_64-linux
-353107037,linuxPackages_xanmod_latest.shufflecake,x86_64-linux
 353107039,linuxPackages_xanmod_latest.system76-acpi,x86_64-linux
 353107049,linuxPackages_xanmod_latest.tsme-test,x86_64-linux
 353107063,linuxPackages_xanmod_latest.vmm_clock,x86_64-linux
@@ -847,10 +787,7 @@ id,name,system
 353107126,linuxPackages_xanmod_stable.mbp2018-bridge-drv,x86_64-linux
 353107132,linuxPackages_xanmod_stable.nullfsvfs,x86_64-linux
 353107134,linuxPackages_xanmod_stable.nvidia_x11_beta_open,x86_64-linux
-353107149,linuxPackages_xanmod_stable.rtl8189es,x86_64-linux
-353107151,linuxPackages_xanmod_stable.rtl8189fs,x86_64-linux
 353107152,linuxPackages_xanmod_stable.rtl8821cu,x86_64-linux
-353107158,linuxPackages_xanmod_stable.shufflecake,x86_64-linux
 353107161,linuxPackages_xanmod_stable.system76-acpi,x86_64-linux
 353107171,linuxPackages_xanmod_stable.tsme-test,x86_64-linux
 353107184,linuxPackages_xanmod_stable.vmm_clock,x86_64-linux
@@ -861,10 +798,7 @@ id,name,system
 353155378,linuxPackages_zen.mbp2018-bridge-drv,x86_64-linux
 353155383,linuxPackages_zen.nullfsvfs,x86_64-linux
 353155385,linuxPackages_zen.nvidia_x11_beta_open,x86_64-linux
-353155403,linuxPackages_zen.rtl8189es,x86_64-linux
-353155404,linuxPackages_zen.rtl8189fs,x86_64-linux
 353155406,linuxPackages_zen.rtl8821cu,x86_64-linux
-353155413,linuxPackages_zen.shufflecake,x86_64-linux
 353155415,linuxPackages_zen.system76-acpi,x86_64-linux
 353155422,linuxPackages_zen.tsme-test,x86_64-linux
 353155437,linuxPackages_zen.vmm_clock,x86_64-linux
@@ -888,7 +822,7 @@ id,name,system
 352417243,llvmPackages_23.lldb,aarch64-darwin
 352417360,localproxy,aarch64-darwin
 352417406,log4shib,aarch64-darwin
-353079456,lon,aarch64-darwin
+353381248,lon,aarch64-darwin
 352872043,lrcget,aarch64-darwin
 353293271,lua51Packages.rustaceanvim,aarch64-darwin
 353293272,lua51Packages.rustaceanvim,aarch64-linux
@@ -937,9 +871,6 @@ id,name,system
 352424800,mp3fs,aarch64-darwin
 352424887,mpich-pmix,aarch64-darwin
 352424884,mpich,aarch64-darwin
-353162663,mqtt-exporter,aarch64-darwin
-353162665,mqtt-exporter,aarch64-linux
-353162671,mqtt-exporter,x86_64-linux
 352425237,mslicer,aarch64-linux
 352425239,mslicer,x86_64-linux
 352425259,mspds,x86_64-linux
@@ -1010,12 +941,6 @@ id,name,system
 353300828,obs-studio-plugins.obs-advanced-masks,x86_64-linux
 353300840,obs-studio-plugins.obs-dvd-screensaver,aarch64-linux
 353300841,obs-studio-plugins.obs-dvd-screensaver,x86_64-linux
-353300926,obs-studio-plugins.obs-noise,aarch64-linux
-353300861,obs-studio-plugins.obs-noise,x86_64-linux
-353300873,obs-studio-plugins.obs-retro-effects,aarch64-linux
-353300871,obs-studio-plugins.obs-retro-effects,x86_64-linux
-353300889,obs-studio-plugins.obs-source-switcher,aarch64-linux
-353300885,obs-studio-plugins.obs-source-switcher,x86_64-linux
 353300929,obs-studio-plugins.obs-stroke-glow-shadow,aarch64-linux
 353300890,obs-studio-plugins.obs-stroke-glow-shadow,x86_64-linux
 352429732,ocamlPackages.class_group_vdf,aarch64-darwin
@@ -1058,13 +983,8 @@ id,name,system
 352438277,opencl-cts,x86_64-linux
 353300963,opencloud-desktop-shell-integration-resources,aarch64-darwin
 353300964,opencloud-desktop,aarch64-darwin
-352438308,opencomposite,aarch64-darwin
-353073286,opendataloader-pdf,aarch64-linux
 352438387,openfoam-unwrapped,aarch64-darwin
 352438406,opengothic,aarch64-linux
-352438429,openhack,aarch64-darwin
-352438502,openhack,aarch64-linux
-352438496,openhack,x86_64-linux
 353073295,openlogi,aarch64-darwin
 352438737,openobserve,aarch64-darwin
 352438615,openobserve,aarch64-linux
@@ -1094,7 +1014,6 @@ id,name,system
 352439287,ossim,aarch64-linux
 352439288,ossim,x86_64-linux
 352439383,outguess,aarch64-darwin
-352889089,owmods-gui,aarch64-darwin
 353301000,owncloud-client,aarch64-darwin
 352439484,oxker,aarch64-darwin
 352439517,p4c,aarch64-linux
@@ -1105,7 +1024,6 @@ id,name,system
 352439679,pam_gnupg,aarch64-darwin
 352439709,pam_xdg,aarch64-darwin
 352439710,pam_xdg,aarch64-linux
-352439718,paml,aarch64-darwin
 353048448,paraview,aarch64-darwin
 352440248,partclone-utils,aarch64-darwin
 352440446,pawn-appetit,aarch64-darwin
@@ -1264,9 +1182,6 @@ id,name,system
 352457950,progress-tracker,x86_64-linux
 353293649,project-graph,aarch64-linux
 353293650,project-graph,x86_64-linux
-352458310,proto,aarch64-darwin
-352458309,proto,aarch64-linux
-352458312,proto,x86_64-linux
 352882488,protoc-gen-swift,aarch64-darwin
 352458644,pspy,aarch64-darwin
 352458786,pulumiPackages.pulumi-azure-native,aarch64-darwin
@@ -1307,8 +1222,6 @@ id,name,system
 352882527,python313Packages.clr-loader,aarch64-darwin
 352463989,python313Packages.clr-loader,aarch64-linux
 352463999,python313Packages.clr-loader,x86_64-linux
-352463932,python313Packages.clustershell,aarch64-linux
-352463922,python313Packages.clustershell,x86_64-linux
 352463923,python313Packages.clx-sdk-xms,aarch64-darwin
 352463926,python313Packages.clx-sdk-xms,aarch64-linux
 352463924,python313Packages.clx-sdk-xms,x86_64-linux
@@ -1482,7 +1395,6 @@ id,name,system
 352477265,python313Packages.opentelemetry-instrumentation-botocore,aarch64-darwin
 352477266,python313Packages.opentelemetry-instrumentation-botocore,aarch64-linux
 352477267,python313Packages.opentelemetry-instrumentation-botocore,x86_64-linux
-352477310,python313Packages.opentelemetry-instrumentation-system-metrics,aarch64-darwin
 353181473,python313Packages.optiland,aarch64-darwin
 353181480,python313Packages.optiland,aarch64-linux
 352477424,python313Packages.opytimark,x86_64-linux
@@ -1504,9 +1416,6 @@ id,name,system
 352478071,python313Packages.peewee-migrate_1,x86_64-linux
 353181522,python313Packages.pex-entysec,aarch64-linux
 353181523,python313Packages.pex-entysec,x86_64-linux
-353058454,python313Packages.pgsanity,aarch64-darwin
-353058470,python313Packages.pgsanity,aarch64-linux
-353058455,python313Packages.pgsanity,x86_64-linux
 352478241,python313Packages.phonopy,aarch64-darwin
 352478321,python313Packages.pillow-jpls,aarch64-darwin
 352478317,python313Packages.pillow-jpls,aarch64-linux
@@ -1534,9 +1443,6 @@ id,name,system
 352480665,python313Packages.pykdtree,aarch64-linux
 352480795,python313Packages.pylibjpeg-rle,aarch64-darwin
 352480866,python313Packages.pylsl,aarch64-darwin
-353108120,python313Packages.pymediainfo,aarch64-darwin
-353108121,python313Packages.pymediainfo,aarch64-linux
-353108122,python313Packages.pymediainfo,x86_64-linux
 353181563,python313Packages.pymupdf,aarch64-linux
 352481132,python313Packages.pynest2d,aarch64-linux
 352481138,python313Packages.pynest2d,x86_64-linux
@@ -1544,7 +1450,6 @@ id,name,system
 352481724,python313Packages.pysail,aarch64-darwin
 352481719,python313Packages.pysail,aarch64-linux
 352481722,python313Packages.pysail,x86_64-linux
-353163928,python313Packages.pysfcgal,aarch64-darwin
 352482592,python313Packages.pytest-selenium,aarch64-darwin
 352482573,python313Packages.pytest-selenium,aarch64-linux
 352482570,python313Packages.pytest-selenium,x86_64-linux
@@ -1560,15 +1465,6 @@ id,name,system
 353058628,python313Packages.qcodes,aarch64-darwin
 353058635,python313Packages.qcodes,aarch64-linux
 353058631,python313Packages.qcodes,x86_64-linux
-353058637,python313Packages.quantulum3,aarch64-darwin
-353058638,python313Packages.quantulum3,aarch64-linux
-353058639,python313Packages.quantulum3,x86_64-linux
-352484130,python313Packages.rapidyaml,aarch64-darwin
-352484131,python313Packages.rapidyaml,aarch64-linux
-352484125,python313Packages.rapidyaml,x86_64-linux
-352484157,python313Packages.raygeo,aarch64-darwin
-352484158,python313Packages.raygeo,aarch64-linux
-352484160,python313Packages.raygeo,x86_64-linux
 352484168,python313Packages.raylib,aarch64-darwin
 352484204,python313Packages.rds2py,aarch64-darwin
 352484235,python313Packages.real-ladybug,aarch64-linux
@@ -1581,9 +1477,6 @@ id,name,system
 353181661,python313Packages.s3torchconnectorclient,aarch64-linux
 353181676,python313Packages.s3torchconnectorclient,x86_64-linux
 352485212,python313Packages.scantree,aarch64-darwin
-352485288,python313Packages.scikit-rf,aarch64-darwin
-352485293,python313Packages.scikit-rf,aarch64-linux
-352485291,python313Packages.scikit-rf,x86_64-linux
 352485626,python313Packages.setuptools-odoo,aarch64-darwin
 352485636,python313Packages.setuptools-odoo,aarch64-linux
 352485630,python313Packages.setuptools-odoo,x86_64-linux
@@ -1594,7 +1487,7 @@ id,name,system
 352485917,python313Packages.siuba,aarch64-linux
 352485921,python313Packages.siuba,x86_64-linux
 353108198,python313Packages.skytemple-files,x86_64-linux
-353164033,python313Packages.slack-sdk,aarch64-darwin
+353381781,python313Packages.slack-sdk,aarch64-darwin
 353301984,python313Packages.smpp-twisted3,aarch64-linux
 352486267,python313Packages.solidpython2,aarch64-darwin
 352486269,python313Packages.solidpython2,aarch64-linux
@@ -1630,7 +1523,6 @@ id,name,system
 352487638,python313Packages.tcxparser,aarch64-darwin
 352487640,python313Packages.tcxparser,aarch64-linux
 352487641,python313Packages.tcxparser,x86_64-linux
-353181843,python313Packages.textnets,aarch64-darwin
 352487993,python313Packages.tiered-debug,aarch64-darwin
 352487997,python313Packages.tiered-debug,aarch64-linux
 352487998,python313Packages.tiered-debug,x86_64-linux
@@ -1720,8 +1612,6 @@ id,name,system
 353160996,python314Packages.clize,aarch64-darwin
 353160994,python314Packages.clize,aarch64-linux
 353160995,python314Packages.clize,x86_64-linux
-352497649,python314Packages.clustershell,aarch64-linux
-352497647,python314Packages.clustershell,x86_64-linux
 352497644,python314Packages.clx-sdk-xms,aarch64-darwin
 352497645,python314Packages.clx-sdk-xms,aarch64-linux
 352497651,python314Packages.clx-sdk-xms,x86_64-linux
@@ -1765,6 +1655,9 @@ id,name,system
 353074374,python314Packages.django-vcache,aarch64-darwin
 352499972,python314Packages.djvulibre-python,aarch64-darwin
 352499980,python314Packages.dlib,aarch64-darwin
+353381862,python314Packages.dmt-core,aarch64-darwin
+353381861,python314Packages.dmt-core,aarch64-linux
+353381869,python314Packages.dmt-core,x86_64-linux
 352500346,python314Packages.dtschema,aarch64-linux
 352500347,python314Packages.dtschema,x86_64-linux
 352500355,python314Packages.duct,aarch64-darwin
@@ -1895,7 +1788,6 @@ id,name,system
 352510933,python314Packages.opentelemetry-instrumentation-botocore,aarch64-darwin
 352510934,python314Packages.opentelemetry-instrumentation-botocore,aarch64-linux
 352510936,python314Packages.opentelemetry-instrumentation-botocore,x86_64-linux
-352510971,python314Packages.opentelemetry-instrumentation-system-metrics,aarch64-darwin
 353182526,python314Packages.optiland,aarch64-darwin
 353182524,python314Packages.optiland,aarch64-linux
 352511092,python314Packages.opytimark,x86_64-linux
@@ -1914,9 +1806,6 @@ id,name,system
 352511728,python314Packages.peewee-migrate_1,x86_64-linux
 353182577,python314Packages.pex-entysec,aarch64-linux
 353182573,python314Packages.pex-entysec,x86_64-linux
-353059917,python314Packages.pgsanity,aarch64-darwin
-353059929,python314Packages.pgsanity,aarch64-linux
-353059905,python314Packages.pgsanity,x86_64-linux
 352511896,python314Packages.phonopy,aarch64-darwin
 352511978,python314Packages.pillow-jpls,aarch64-darwin
 352511984,python314Packages.pillow-jpls,aarch64-linux
@@ -1945,9 +1834,6 @@ id,name,system
 353182609,python314Packages.pylance,aarch64-darwin
 352514450,python314Packages.pylibjpeg-rle,aarch64-darwin
 352514539,python314Packages.pylsl,aarch64-darwin
-353108850,python314Packages.pymediainfo,aarch64-darwin
-353108852,python314Packages.pymediainfo,aarch64-linux
-353108851,python314Packages.pymediainfo,x86_64-linux
 353182615,python314Packages.pymupdf,aarch64-linux
 352514797,python314Packages.pynest2d,aarch64-linux
 352514800,python314Packages.pynest2d,x86_64-linux
@@ -1956,7 +1842,6 @@ id,name,system
 352515388,python314Packages.pysail,aarch64-darwin
 352515392,python314Packages.pysail,aarch64-linux
 352515390,python314Packages.pysail,x86_64-linux
-353165223,python314Packages.pysfcgal,aarch64-darwin
 352516230,python314Packages.pytest-selenium,aarch64-darwin
 352516234,python314Packages.pytest-selenium,aarch64-linux
 352516231,python314Packages.pytest-selenium,x86_64-linux
@@ -1973,15 +1858,6 @@ id,name,system
 353060080,python314Packages.qcodes,aarch64-darwin
 353060073,python314Packages.qcodes,aarch64-linux
 353060075,python314Packages.qcodes,x86_64-linux
-353060101,python314Packages.quantulum3,aarch64-darwin
-353060082,python314Packages.quantulum3,aarch64-linux
-353060078,python314Packages.quantulum3,x86_64-linux
-352517791,python314Packages.rapidyaml,aarch64-darwin
-352517796,python314Packages.rapidyaml,aarch64-linux
-352517798,python314Packages.rapidyaml,x86_64-linux
-352517831,python314Packages.raygeo,aarch64-darwin
-352517833,python314Packages.raygeo,aarch64-linux
-352517839,python314Packages.raygeo,x86_64-linux
 352517841,python314Packages.raylib,aarch64-darwin
 352517873,python314Packages.rds2py,aarch64-darwin
 352517905,python314Packages.real-ladybug,aarch64-linux
@@ -1996,9 +1872,6 @@ id,name,system
 353182717,python314Packages.s3torchconnectorclient,aarch64-linux
 353182709,python314Packages.s3torchconnectorclient,x86_64-linux
 352518867,python314Packages.scantree,aarch64-darwin
-352518943,python314Packages.scikit-rf,aarch64-darwin
-352518947,python314Packages.scikit-rf,aarch64-linux
-352518946,python314Packages.scikit-rf,x86_64-linux
 352519280,python314Packages.setuptools-odoo,aarch64-darwin
 352519287,python314Packages.setuptools-odoo,aarch64-linux
 352519288,python314Packages.setuptools-odoo,x86_64-linux
@@ -2009,7 +1882,6 @@ id,name,system
 352519578,python314Packages.siuba,aarch64-linux
 352519579,python314Packages.siuba,x86_64-linux
 353108946,python314Packages.skytemple-files,x86_64-linux
-353165350,python314Packages.slack-sdk,aarch64-linux
 353302731,python314Packages.smpp-twisted3,aarch64-linux
 352519927,python314Packages.solidpython2,aarch64-darwin
 352519931,python314Packages.solidpython2,aarch64-linux
@@ -2093,9 +1965,6 @@ id,name,system
 353302846,qbittorrent-enhanced,aarch64-darwin
 352526673,qcm,aarch64-linux
 352526672,qcm,x86_64-linux
-352526702,qdrant,aarch64-darwin
-352526709,qdrant,aarch64-linux
-352526708,qdrant,x86_64-linux
 352526731,qemu-python-utils,aarch64-darwin
 352526813,qmasterpassword-wayland,aarch64-linux
 352526815,qmasterpassword-wayland,x86_64-linux
@@ -2116,10 +1985,9 @@ id,name,system
 352527935,rarezip,aarch64-darwin
 352527999,ratspeak,aarch64-linux
 352527997,ratspeak,x86_64-linux
-352528003,rattler-build,aarch64-darwin
-352528007,rattler-build,aarch64-linux
-352528005,rattler-build,x86_64-linux
 352528021,rauthy,aarch64-darwin
+353382106,rayforge,aarch64-linux
+353382107,rayforge,x86_64-linux
 352528153,rdpgw,aarch64-darwin
 353161118,rdx,aarch64-linux
 352528389,redo-apenwarr,aarch64-darwin
@@ -2215,18 +2083,10 @@ id,name,system
 353158915,solana-agave,aarch64-darwin
 352538547,solarus-quest-editor,aarch64-linux
 352538544,solarus-quest-editor,x86_64-linux
-352538621,sonobus,aarch64-linux
-352538622,sonobus,x86_64-linux
 352538803,spades,aarch64-darwin
-352538907,speech-denoiser,x86_64-linux
 352538916,speech-tools,aarch64-linux
 352538918,speech-tools,x86_64-linux
 352538963,spglib,aarch64-darwin
-352883404,splayer-next,aarch64-linux
-352883403,splayer-next,x86_64-linux
-352539107,sploitscan,aarch64-darwin
-352539209,sploitscan,aarch64-linux
-352539108,sploitscan,x86_64-linux
 352539117,spoofdpi,aarch64-darwin
 352539311,sqlpage,aarch64-darwin
 352539314,sqlpage,aarch64-linux
@@ -2285,7 +2145,6 @@ id,name,system
 352543018,tests.build-environment-info,aarch64-darwin
 352543012,tests.build-environment-info,aarch64-linux
 352543009,tests.build-environment-info,x86_64-linux
-352543089,tests.cc-multilib-clang,x86_64-linux
 352543175,tests.cc-wrapper.default,aarch64-darwin
 352543233,tests.cc-wrapper.gccTests.gccMultiStdenv,x86_64-linux
 352543193,tests.cc-wrapper.llvmTests.llvmPackages.clang,aarch64-darwin
@@ -2347,7 +2206,7 @@ id,name,system
 352549270,tokscale,x86_64-linux
 352549469,toxvpn,aarch64-darwin
 352549769,tpm2-totp,aarch64-darwin
-352549520,tpnote,aarch64-linux
+353382225,tpnote,aarch64-linux
 353084947,tracel-cli,aarch64-darwin
 353084949,tracel-cli,aarch64-linux
 352549551,tracexec,aarch64-linux
@@ -2401,8 +2260,6 @@ id,name,system
 353303313,veridian,x86_64-linux
 353075268,victoriametrics,aarch64-linux
 352554803,vodozemac-bindings-cpp,aarch64-darwin
-352554897,vrb,aarch64-linux
-352554894,vrb,x86_64-linux
 352556643,wanderer,aarch64-darwin
 352556647,wanderer,aarch64-linux
 352556642,wanderer,x86_64-linux
@@ -2414,7 +2271,6 @@ id,name,system
 352556944,wayprompt,x86_64-linux
 352557086,webdev,aarch64-linux
 352557177,webdev,x86_64-linux
-353168233,weblate,aarch64-linux
 352557293,whale,aarch64-darwin
 352557370,whitesur-gtk-theme,aarch64-darwin
 352912144,wire-desktop,aarch64-darwin
@@ -2445,6 +2301,3 @@ id,name,system
 352560446,zcash,x86_64-linux
 353050104,zerofs,aarch64-darwin
 352560695,zigscient,aarch64-darwin
-352561185,zulip-term,aarch64-darwin
-352561186,zulip-term,aarch64-linux
-352561187,zulip-term,x86_64-linux

@@ -17,12 +17,11 @@ ath9k-htc-blobless-firmware,,352349669,,
 atopile,353179682,353179679,,
 aurral,,353161945,,
 autokbisw,,,,352880960
-aws-encryption-sdk-cli,352350178,352350179,,352350177
 awscli,352350229,352350228,,352350224
 ax25-tools,352350265,352350263,,
 ayatana-indicator-datetime,,353379935,,
 ayatana-indicator-power,,353053955,,
-azahar,,,,352350304
+ayatana-indicator-session,,353379931,,
 azure-cli-extensions.acrcssc,352350329,352350333,,352350327
 azure-cli-extensions.aksarc,352350357,352350353,,352350363
 azure-cli-extensions.aosm,352350375,352350373,,352350371
@@ -37,6 +36,7 @@ azure-cli-extensions.redisenterprise,352350804,352350802,,352350806
 azure-cli-extensions.stack-hci-vm,352350852,352350853,,352350850
 azure-cli-extensions.webpubsub,352350922,352350918,,352350919
 azure-sdk-for-cpp.security-attestation,352350982,352350980,,
+bark-wallet,,,,353379941
 beadwork,,352351524,,
 beanhub-cli,352352100,352352101,,352352156
 beanstalkd,,,,352352108
@@ -46,7 +46,6 @@ beszel,,,,352352254
 bicep,,,,352881007
 bigquery-emulator,352352393,352352392,,352352389
 bitwarden-desktop,,353179732,,
-blazesym-c,,352352684,,
 blint,,,,353154027
 bochs,,,,352352911
 bossa-arduino,,,,352869970
@@ -65,7 +64,6 @@ cataclysm-dda-git,,,,352870047
 cataclysm-dda,,,,352870049
 catboost,,352354833,,
 cbmbasic,,,,352354964
-cbmc,,,,352354975
 cc-switch-cli,352355022,352355018,,352355023
 cc-switch,352355009,352355010,,352355004
 cdecl,,,,352355099
@@ -87,7 +85,6 @@ cocom-tool-set,,,,352359434
 code,352359449,352359448,,352359446
 cogfly,353291941,,,
 concord-tui,,,,353299104
-convco,352360047,352360046,,352360045
 cook-cli,,,,353076947
 coredns,,352360220,,352361969
 corrscope,,,,353291960
@@ -105,7 +102,6 @@ dasher,,,,352361594
 dbqn-native,353076967,,,
 dell-530cdn,,,,352870304
 depot-cli,,352362136,,
-dezoomify-rs,,,,353179828
 digibyte,352362537,352362533,,
 directfb,352362619,352362618,,
 discordchatexporter-desktop,,,,352881118
@@ -130,7 +126,6 @@ en-croissant,,,,352365462
 enca,,352365447,,
 entangled,,353299201,,
 equalx,,,,353154358
-esphome-device-builder,,,,353299289
 ete-unwrapped,,352365832,,
 evebox,352365906,352365907,,352365903
 exatorrent,,,,352365985
@@ -150,6 +145,7 @@ flame,,,,352367485
 flamerobin,352870581,352870575,,
 flet-client-flutter,,,,352881371
 flex-launcher,,,,352367634
+flexget,,,,353380962
 flightcore,,,,352367655
 flye,,,,352367890
 folia-major,,,,352911127
@@ -167,7 +163,6 @@ gephgui-wry,352369999,352370004,,352370003
 gfs2-utils,,352370105,,
 gg-jj,,,,352370142
 ghidra-extensions.ghidra-firmware-utils,353292125,353292128,,353292155
-ghidra-extensions.lightkeeper,353292139,353292131,,353292164
 ghidra-extensions.reva,353292148,353292150,,353292157
 ghost-complete,,,,352370344
 ghostunnel,,,,352370370
@@ -178,7 +173,6 @@ gitbeaker-cli,,,,353179943
 gitlab-release-cli,352371086,352371085,,352371082
 gitlab-runner,,352371088,,352371087
 gitpulsar,352371146,352371145,,352371144
-glab-tui,,,,353179948
 glances,353299384,353299385,,
 globus-cli,352371365,352371366,,352371367
 gnat16Packages.gpr2,352371750,352371752,,352371751
@@ -186,7 +180,6 @@ gnatPackages.gpr2,352371818,352371808,,352371817
 gnudatalanguage,,353054234,,
 goarista,352870781,352870777,,352870778
 golem,352375745,352375739,,352375738
-golink,352375751,352375752,,352375750
 google-amber,352375828,352375827,,
 gophernotes,352375918,352375915,,352375916
 gophish,352375922,352375921,,352375919
@@ -286,7 +279,6 @@ haskellPackages.zot,,,,352400223
 helixnotes,,353299439,,
 hexagonrpc,,,,352400544
 hilbish,352400702,352400703,,352400700
-home-assistant-custom-components.auth_oidc,353162234,353162267,,
 home-assistant-custom-components.hcl_lighting,353162262,353162264,,
 home-assistant-custom-components.localthings,353162307,,,
 home-assistant-custom-components.mypyllant,353162295,353162284,,
@@ -295,11 +287,9 @@ home-assistant-custom-components.powercalc,353162304,353162308,,
 home-assistant-custom-components.thewatchman,,353162328,,
 home-assistant-custom-components.yandex-station,353162340,,,
 home-assistant,,353162252,,
-http-nu,352401500,352401503,,352401505
 humility,352401619,352401615,,352401616
 hyprlandPlugins.hypr-dynamic-cursors,353106231,353106226,,
 hyprlandPlugins.hyprgrass,353106210,353106209,,
-hyprlandPlugins.hyprspace,353106212,353106228,,
 hyprlandPlugins.hyprsplit,353106214,353106251,,
 hyprlandPlugins.hyprtasking,353106216,353106215,,
 hyprlandPlugins.imgborders,353106218,353106217,,
@@ -318,7 +308,6 @@ inkycap,352403963,352403954,,
 inochi-creator,352403977,352403975,,
 insulator2,352404032,352404024,,
 intel-lpmd,,352404043,,
-inventree,353162416,353162414,,
 ios-webkit-debug-proxy,352404199,352404197,,
 ipfs-cluster,352404318,352404317,,352404313
 ipget,352404324,352404323,,352404321
@@ -366,13 +355,11 @@ leo-editor,,,,353293183
 leo-lang,,,,352409371
 lerna_6,,352409441,,
 liana,352409493,,,
-lianad,352409495,,,
 libcardiacarrest,,,,352409740
 libcue-lang,,,,352409907
 libesmtp,,,,352410139
 libexecinfo,,,,352410174
 libigloo,,,,352410523
-libixion,,,,352410624
 libkiwix,,,,352410685
 liblastfm-vambrose,,,,352410701
 libnixxml,,,,353077302
@@ -418,8 +405,6 @@ linuxKernel.packages.linux_6_12.ecapture,353077519,353077567,,
 linuxKernel.packages.linux_6_12.ethercat,353077547,,,
 linuxKernel.packages.linux_6_12.mbp2018-bridge-drv,353077588,,,
 linuxKernel.packages.linux_6_12.rtl8188eus-aircrack,353162506,353162507,,
-linuxKernel.packages.linux_6_12.rtl8189es,353077637,353077623,,
-linuxKernel.packages.linux_6_12.rtl8189fs,353077630,353077621,,
 linuxKernel.packages.linux_6_12.rtl8192eu,353077616,,,
 linuxKernel.packages.linux_6_12.rtl8723ds,353077617,353077629,,
 linuxKernel.packages.linux_6_12.rtl8812au,353077619,353077668,,
@@ -431,7 +416,6 @@ linuxKernel.packages.linux_6_12.tbs,,353300581,,
 linuxKernel.packages.linux_6_18.chipsec,353077757,,,
 linuxKernel.packages.linux_6_18.ecapture,353077764,353077741,,
 linuxKernel.packages.linux_6_18.mbp2018-bridge-drv,353077784,,,
-linuxKernel.packages.linux_6_18.shufflecake,353077845,353077849,,
 linuxKernel.packages.linux_6_18.vmm_clock,353077888,,,
 linuxKernel.packages.linux_6_6.ax99100,,353077925,,
 linuxKernel.packages.linux_6_6.chipsec,352413896,,,
@@ -460,10 +444,7 @@ linuxKernel.packages.linux_7_3.lkrg,353078161,353078152,,
 linuxKernel.packages.linux_7_3.mbp2018-bridge-drv,353078156,,,
 linuxKernel.packages.linux_7_3.nullfsvfs,353078171,353078169,,
 linuxKernel.packages.linux_7_3.nvidia_x11_beta_open,353078200,353078173,,
-linuxKernel.packages.linux_7_3.rtl8189es,353078203,353078208,,
-linuxKernel.packages.linux_7_3.rtl8189fs,353078217,353078204,,
 linuxKernel.packages.linux_7_3.rtl8821cu,353078246,353078207,,
-linuxKernel.packages.linux_7_3.shufflecake,353078233,353078228,,
 linuxKernel.packages.linux_7_3.sysdig,,353078238,,
 linuxKernel.packages.linux_7_3.system76-acpi,353078249,,,
 linuxKernel.packages.linux_7_3.tsme-test,353078234,,,
@@ -471,7 +452,6 @@ linuxKernel.packages.linux_7_3.vmm_clock,353078257,,,
 linuxKernel.packages.linux_xanmod.chipsec,353106389,,,
 linuxKernel.packages.linux_xanmod.ecapture,353106345,,,
 linuxKernel.packages.linux_xanmod.mbp2018-bridge-drv,353106382,,,
-linuxKernel.packages.linux_xanmod.shufflecake,353106421,,,
 linuxKernel.packages.linux_xanmod.vmm_clock,353106449,,,
 linuxKernel.packages.linux_xanmod_latest.apfs,353106502,,,
 linuxKernel.packages.linux_xanmod_latest.chipsec,353106519,,,
@@ -480,10 +460,7 @@ linuxKernel.packages.linux_xanmod_latest.lkrg,353106504,,,
 linuxKernel.packages.linux_xanmod_latest.mbp2018-bridge-drv,353106506,,,
 linuxKernel.packages.linux_xanmod_latest.nullfsvfs,353106513,,,
 linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta_open,353106515,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8189es,353106534,,,
-linuxKernel.packages.linux_xanmod_latest.rtl8189fs,353106536,,,
 linuxKernel.packages.linux_xanmod_latest.rtl8821cu,353106538,,,
-linuxKernel.packages.linux_xanmod_latest.shufflecake,353106543,,,
 linuxKernel.packages.linux_xanmod_latest.system76-acpi,353106545,,,
 linuxKernel.packages.linux_xanmod_latest.tsme-test,353106555,,,
 linuxKernel.packages.linux_xanmod_latest.vmm_clock,353106569,,,
@@ -494,10 +471,7 @@ linuxKernel.packages.linux_xanmod_stable.lkrg,353106628,,,
 linuxKernel.packages.linux_xanmod_stable.mbp2018-bridge-drv,353106629,,,
 linuxKernel.packages.linux_xanmod_stable.nullfsvfs,353106636,,,
 linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta_open,353106638,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8189es,353106655,,,
-linuxKernel.packages.linux_xanmod_stable.rtl8189fs,353106657,,,
 linuxKernel.packages.linux_xanmod_stable.rtl8821cu,353106658,,,
-linuxKernel.packages.linux_xanmod_stable.shufflecake,353106666,,,
 linuxKernel.packages.linux_xanmod_stable.system76-acpi,353106669,,,
 linuxKernel.packages.linux_xanmod_stable.tsme-test,353106679,,,
 linuxKernel.packages.linux_xanmod_stable.vmm_clock,353106695,,,
@@ -508,17 +482,13 @@ linuxKernel.packages.linux_zen.lkrg,353155243,,,
 linuxKernel.packages.linux_zen.mbp2018-bridge-drv,353155255,,,
 linuxKernel.packages.linux_zen.nullfsvfs,353155284,,,
 linuxKernel.packages.linux_zen.nvidia_x11_beta_open,353155264,,,
-linuxKernel.packages.linux_zen.rtl8189es,353155271,,,
-linuxKernel.packages.linux_zen.rtl8189fs,353155272,,,
 linuxKernel.packages.linux_zen.rtl8821cu,353155273,,,
-linuxKernel.packages.linux_zen.shufflecake,353155297,,,
 linuxKernel.packages.linux_zen.system76-acpi,353155290,,,
 linuxKernel.packages.linux_zen.tsme-test,353155288,,,
 linuxKernel.packages.linux_zen.vmm_clock,353155304,,,
 linuxPackages.chipsec,353078673,,,
 linuxPackages.ecapture,353078688,353078687,,
 linuxPackages.mbp2018-bridge-drv,353078732,,,
-linuxPackages.shufflecake,353078798,353078793,,
 linuxPackages.vmm_clock,353078839,,,
 linuxPackages_latest.apfs,353078869,353078870,,
 linuxPackages_latest.chipsec,353078886,,,
@@ -528,10 +498,7 @@ linuxPackages_latest.lkrg,353078948,353078941,,
 linuxPackages_latest.mbp2018-bridge-drv,353078946,,,
 linuxPackages_latest.nullfsvfs,353078956,353078957,,
 linuxPackages_latest.nvidia_x11_beta_open,353078962,353078959,,
-linuxPackages_latest.rtl8189es,353078987,353078984,,
-linuxPackages_latest.rtl8189fs,353078994,353078993,,
 linuxPackages_latest.rtl8821cu,353078996,353078995,,
-linuxPackages_latest.shufflecake,353079008,353079006,,
 linuxPackages_latest.sysdig,,353079015,,
 linuxPackages_latest.system76-acpi,353079010,,,
 linuxPackages_latest.tsme-test,353079025,,,
@@ -539,7 +506,6 @@ linuxPackages_latest.vmm_clock,353079045,,,
 linuxPackages_xanmod.chipsec,353106842,,,
 linuxPackages_xanmod.ecapture,353106853,,,
 linuxPackages_xanmod.mbp2018-bridge-drv,353106881,,,
-linuxPackages_xanmod.shufflecake,353106912,,,
 linuxPackages_xanmod.vmm_clock,353106936,,,
 linuxPackages_xanmod_latest.apfs,353106955,,,
 linuxPackages_xanmod_latest.chipsec,353106965,,,
@@ -548,10 +514,7 @@ linuxPackages_xanmod_latest.lkrg,353106999,,,
 linuxPackages_xanmod_latest.mbp2018-bridge-drv,353107001,,,
 linuxPackages_xanmod_latest.nullfsvfs,353107008,,,
 linuxPackages_xanmod_latest.nvidia_x11_beta_open,353107011,,,
-linuxPackages_xanmod_latest.rtl8189es,353107028,,,
-linuxPackages_xanmod_latest.rtl8189fs,353107029,,,
 linuxPackages_xanmod_latest.rtl8821cu,353107030,,,
-linuxPackages_xanmod_latest.shufflecake,353107037,,,
 linuxPackages_xanmod_latest.system76-acpi,353107039,,,
 linuxPackages_xanmod_latest.tsme-test,353107049,,,
 linuxPackages_xanmod_latest.vmm_clock,353107063,,,
@@ -562,10 +525,7 @@ linuxPackages_xanmod_stable.lkrg,353107122,,,
 linuxPackages_xanmod_stable.mbp2018-bridge-drv,353107126,,,
 linuxPackages_xanmod_stable.nullfsvfs,353107132,,,
 linuxPackages_xanmod_stable.nvidia_x11_beta_open,353107134,,,
-linuxPackages_xanmod_stable.rtl8189es,353107149,,,
-linuxPackages_xanmod_stable.rtl8189fs,353107151,,,
 linuxPackages_xanmod_stable.rtl8821cu,353107152,,,
-linuxPackages_xanmod_stable.shufflecake,353107158,,,
 linuxPackages_xanmod_stable.system76-acpi,353107161,,,
 linuxPackages_xanmod_stable.tsme-test,353107171,,,
 linuxPackages_xanmod_stable.vmm_clock,353107184,,,
@@ -576,10 +536,7 @@ linuxPackages_zen.lkrg,353155375,,,
 linuxPackages_zen.mbp2018-bridge-drv,353155378,,,
 linuxPackages_zen.nullfsvfs,353155383,,,
 linuxPackages_zen.nvidia_x11_beta_open,353155385,,,
-linuxPackages_zen.rtl8189es,353155403,,,
-linuxPackages_zen.rtl8189fs,353155404,,,
 linuxPackages_zen.rtl8821cu,353155406,,,
-linuxPackages_zen.shufflecake,353155413,,,
 linuxPackages_zen.system76-acpi,353155415,,,
 linuxPackages_zen.tsme-test,353155422,,,
 linuxPackages_zen.vmm_clock,353155437,,,
@@ -594,7 +551,7 @@ lldpd,,352416367,,
 llvmPackages_23.lldb,,,,352417243
 localproxy,,,,352417360
 log4shib,,,,352417406
-lon,,,,353079456
+lon,,,,353381248
 lrcget,,,,352872043
 lua51Packages.rustaceanvim,,353293272,,353293271
 luajitPackages.rustaceanvim,,353293275,,353293274
@@ -627,7 +584,6 @@ mountpoint-s3,352424724,352424723,,
 mp3fs,,,,352424800
 mpich-pmix,,,,352424887
 mpich,,,,352424884
-mqtt-exporter,353162671,353162665,,353162663
 mslicer,352425239,352425237,,
 mspds,352425259,,,
 multipart-parser-c,,,,352425397
@@ -673,9 +629,6 @@ nvidia-mig-parted,,,,352428916
 obitools3,352429132,352429131,,
 obs-studio-plugins.obs-advanced-masks,353300828,353300834,,
 obs-studio-plugins.obs-dvd-screensaver,353300841,353300840,,
-obs-studio-plugins.obs-noise,353300861,353300926,,
-obs-studio-plugins.obs-retro-effects,353300871,353300873,,
-obs-studio-plugins.obs-source-switcher,353300885,353300889,,
 obs-studio-plugins.obs-stroke-glow-shadow,353300890,353300929,,
 ocamlPackages.class_group_vdf,,,,352429732
 ocamlPackages.ecaml,,,,352430169
@@ -708,11 +661,8 @@ openbsd.makefs,,,,353160811
 opencl-cts,352438277,352438273,,352438283
 opencloud-desktop-shell-integration-resources,,,,353300963
 opencloud-desktop,,,,353300964
-opencomposite,,,,352438308
-opendataloader-pdf,,353073286,,
 openfoam-unwrapped,,,,352438387
 opengothic,,352438406,,
-openhack,352438496,352438502,,352438429
 openlogi,,,,353073295
 openobserve,352438613,352438615,,352438737
 openonload,352438624,,,
@@ -729,7 +679,6 @@ osmscout-server,352439296,352439280,,
 ossia-score,352439297,352439301,,
 ossim,352439288,352439287,,352439286
 outguess,,,,352439383
-owmods-gui,,,,352889089
 owncloud-client,,,,353301000
 oxker,,,,352439484
 p4c,352439518,352439517,,
@@ -738,7 +687,6 @@ packcc,,,,352872578
 pam-watchid,,,,352882208
 pam_gnupg,,,,352439679
 pam_xdg,,352439710,,352439709
-paml,,,,352439718
 paraview,,,,353048448
 partclone-utils,,,,352440248
 pawn-appetit,,,,352440446
@@ -828,7 +776,6 @@ powertabeditor,,,,352457617
 prmt,,,,352457872
 progress-tracker,352457950,352457947,,
 project-graph,353293650,353293649,,
-proto,352458312,352458309,,352458310
 protoc-gen-swift,,,,352882488
 pspy,,,,352458644
 pulumiPackages.pulumi-azure-native,,,,352458786
@@ -849,7 +796,6 @@ python313Packages.cert-chain-resolver,352463487,352463486,,352463485
 python313Packages.cgal,352463565,352463564,,
 python313Packages.clip,353180953,353180962,,353180957
 python313Packages.clr-loader,352463999,352463989,,352882527
-python313Packages.clustershell,352463922,352463932,,
 python313Packages.clx-sdk-xms,352463924,352463926,,352463923
 python313Packages.colcon-argcomplete,352464043,352464041,,352464040
 python313Packages.crewai,353301423,353301433,,
@@ -931,7 +877,6 @@ python313Packages.openai-agents,353157471,353157475,,353157474
 python313Packages.openbabel,,352477109,,
 python313Packages.openmm-torch,353181450,353181447,,
 python313Packages.opentelemetry-instrumentation-botocore,352477267,352477266,,352477265
-python313Packages.opentelemetry-instrumentation-system-metrics,,,,352477310
 python313Packages.optiland,,353181480,,353181473
 python313Packages.opytimark,352477424,,,
 python313Packages.otcextensions,353157490,353157520,,353301771
@@ -942,7 +887,6 @@ python313Packages.panel,353058431,353058429,,353058430
 python313Packages.panphon,352477750,352477749,,352477752
 python313Packages.peewee-migrate_1,352478071,352478072,,352478067
 python313Packages.pex-entysec,353181523,353181522,,
-python313Packages.pgsanity,353058455,353058470,,353058454
 python313Packages.phonopy,,,,352478241
 python313Packages.pillow-jpls,352478319,352478317,,352478321
 python313Packages.pint-pandas,352478347,352478345,,352478344
@@ -956,12 +900,10 @@ python313Packages.pydy,352480065,352480064,,352480073
 python313Packages.pykdtree,,352480665,,
 python313Packages.pylibjpeg-rle,,,,352480795
 python313Packages.pylsl,,,,352480866
-python313Packages.pymediainfo,353108122,353108121,,353108120
 python313Packages.pymupdf,,353181563,,
 python313Packages.pynest2d,352481138,352481132,,
 python313Packages.pyoxipng,352481339,,,
 python313Packages.pysail,352481722,352481719,,352481724
-python313Packages.pysfcgal,,,,353163928
 python313Packages.pytest-selenium,352482570,352482573,,352482592
 python313Packages.python-ipmi,,,,352482960
 python313Packages.python-prctl,,352483207,,
@@ -970,9 +912,6 @@ python313Packages.pytorch-pfn-extras,353181616,353181604,,
 python313Packages.pytorch3d,353181606,353181619,,353181605
 python313Packages.pyttsx3,,,,352483575
 python313Packages.qcodes,353058631,353058635,,353058628
-python313Packages.quantulum3,353058639,353058638,,353058637
-python313Packages.rapidyaml,352484125,352484131,,352484130
-python313Packages.raygeo,352484160,352484158,,352484157
 python313Packages.raylib,,,,352484168
 python313Packages.rds2py,,,,352484204
 python313Packages.real-ladybug,352484232,352484235,,
@@ -980,12 +919,11 @@ python313Packages.rmrl,352484739,352484738,,352484746
 python313Packages.robotframework,,,,353301921
 python313Packages.s3torchconnectorclient,353181676,353181661,,353181656
 python313Packages.scantree,,,,352485212
-python313Packages.scikit-rf,352485291,352485293,,352485288
 python313Packages.setuptools-odoo,352485630,352485636,,352485626
 python313Packages.silver-platter,352485859,352485863,,352485841
 python313Packages.siuba,352485921,352485917,,352485922
 python313Packages.skytemple-files,353108198,,,
-python313Packages.slack-sdk,,,,353164033
+python313Packages.slack-sdk,,,,353381781
 python313Packages.smpp-twisted3,,353301984,,
 python313Packages.solidpython2,352486270,352486269,,352486267
 python313Packages.specfile,,,,352874356
@@ -1000,7 +938,6 @@ python313Packages.surepy,353164122,353164113,,353164117
 python313Packages.svgdigitizer,353181742,,,353181747
 python313Packages.swi-tools,352487443,352487444,,352487442
 python313Packages.tcxparser,352487641,352487640,,352487638
-python313Packages.textnets,,,,353181843
 python313Packages.tiered-debug,352487998,352487997,,352487993
 python313Packages.tilelang,,,,353181773
 python313Packages.tinygrad,,353302051,,
@@ -1041,7 +978,6 @@ python314Packages.cgal,352497291,352497293,,
 python314Packages.class-doc,352497471,352497469,,352497470
 python314Packages.clip,353182034,353182036,,353182040
 python314Packages.clize,353160995,353160994,,353160996
-python314Packages.clustershell,352497647,352497649,,
 python314Packages.clx-sdk-xms,352497651,352497645,,352497644
 python314Packages.colcon-argcomplete,352497763,352497761,,352497760
 python314Packages.crewai,353302212,353302210,,
@@ -1063,6 +999,7 @@ python314Packages.django-filer,352499529,352499550,,352499525
 python314Packages.django-vcache,,,,353074374
 python314Packages.djvulibre-python,,,,352499972
 python314Packages.dlib,,,,352499980
+python314Packages.dmt-core,353381869,353381861,,353381862
 python314Packages.dtschema,352500347,352500346,,
 python314Packages.duct,,,,352500355
 python314Packages.duecredit,352874704,352874706,,352874705
@@ -1126,7 +1063,6 @@ python314Packages.openai-agents,353158318,353158310,,353158314
 python314Packages.openbabel,,352510768,,
 python314Packages.openmm-torch,353182517,353182519,,
 python314Packages.opentelemetry-instrumentation-botocore,352510936,352510934,,352510933
-python314Packages.opentelemetry-instrumentation-system-metrics,,,,352510971
 python314Packages.optiland,,353182524,,353182526
 python314Packages.opytimark,352511092,,,
 python314Packages.otcextensions,353158356,353158326,,353302522
@@ -1135,7 +1071,6 @@ python314Packages.panel,353059872,353059871,,353059870
 python314Packages.panphon,352511412,352511410,,352511409
 python314Packages.peewee-migrate_1,352511728,352511733,,352511727
 python314Packages.pex-entysec,353182573,353182577,,
-python314Packages.pgsanity,353059905,353059929,,353059917
 python314Packages.phonopy,,,,352511896
 python314Packages.pillow-jpls,352511976,352511984,,352511978
 python314Packages.pint-pandas,352512009,352512007,,352512010
@@ -1150,13 +1085,11 @@ python314Packages.pykdtree,,352514334,,
 python314Packages.pylance,,,,353182609
 python314Packages.pylibjpeg-rle,,,,352514450
 python314Packages.pylsl,,,,352514539
-python314Packages.pymediainfo,353108851,353108852,,353108850
 python314Packages.pymupdf,,353182615,,
 python314Packages.pynest2d,352514800,352514797,,
 python314Packages.pynetdicom,,,,352514799
 python314Packages.pyoxipng,352515013,,,
 python314Packages.pysail,352515390,352515392,,352515388
-python314Packages.pysfcgal,,,,353165223
 python314Packages.pytest-selenium,352516231,352516234,,352516230
 python314Packages.python-ipmi,,,,352516633
 python314Packages.python-prctl,,352516875,,
@@ -1166,9 +1099,6 @@ python314Packages.pytorch-pfn-extras,353182664,353182655,,
 python314Packages.pytorch3d,353182669,353182662,,353182668
 python314Packages.pyttsx3,,,,352517241
 python314Packages.qcodes,353060075,353060073,,353060080
-python314Packages.quantulum3,353060078,353060082,,353060101
-python314Packages.rapidyaml,352517798,352517796,,352517791
-python314Packages.raygeo,352517839,352517833,,352517831
 python314Packages.raylib,,,,352517841
 python314Packages.rds2py,,,,352517873
 python314Packages.real-ladybug,352517907,352517905,,
@@ -1177,12 +1107,10 @@ python314Packages.rmrl,352518410,352518407,,352518417
 python314Packages.ruff-api,,,,353083334
 python314Packages.s3torchconnectorclient,353182709,353182717,,353182715
 python314Packages.scantree,,,,352518867
-python314Packages.scikit-rf,352518946,352518947,,352518943
 python314Packages.setuptools-odoo,352519288,352519287,,352519280
 python314Packages.silver-platter,352519466,352519481,,352519475
 python314Packages.siuba,352519579,352519578,,352519577
 python314Packages.skytemple-files,353108946,,,
-python314Packages.slack-sdk,,353165350,,
 python314Packages.smpp-twisted3,,353302731,,
 python314Packages.solidpython2,352519930,352519931,,352519927
 python314Packages.specfile,,,,352875368
@@ -1223,7 +1151,6 @@ python314Packages.zigpy-zboss,353165626,353165599,,
 qbittorrent-enhanced-nox,,,,353302848
 qbittorrent-enhanced,,,,353302846
 qcm,352526672,352526673,,
-qdrant,352526708,352526709,,352526702
 qemu-python-utils,,,,352526731
 qmasterpassword-wayland,352526815,352526813,,
 qmasterpassword,352526812,352526811,,
@@ -1238,8 +1165,8 @@ raphael-xiv,,,,353302909
 rare-regex,,,,352527931
 rarezip,,,,352527935
 ratspeak,352527997,352527999,,
-rattler-build,352528005,352528007,,352528003
 rauthy,,,,352528021
+rayforge,353382107,353382106,,
 rdpgw,,,,352528153
 rdx,,353161118,,
 redo-apenwarr,,,,352528389
@@ -1300,13 +1227,9 @@ snort,352538363,352538362,,
 snouty,353199928,353199929,,352538822
 solana-agave,,,,353158915
 solarus-quest-editor,352538544,352538547,,
-sonobus,352538622,352538621,,
 spades,,,,352538803
-speech-denoiser,352538907,,,
 speech-tools,352538918,352538916,,
 spglib,,,,352538963
-splayer-next,352883403,352883404,,
-sploitscan,352539108,352539209,,352539107
 spoofdpi,,,,352539117
 sqlpage,352539312,352539314,,352539311
 squeekboard,352539352,352539351,,
@@ -1339,7 +1262,6 @@ terraform-providers.cloudposse_utils,,,,352542270
 terraform-providers.kreuzwerker_docker,,,,352542475
 tests.auto-patchelf-structured-log,,352543011,,352543014
 tests.build-environment-info,352543009,352543012,,352543018
-tests.cc-multilib-clang,352543089,,,
 tests.cc-wrapper.default,,,,352543175
 tests.cc-wrapper.gccTests.gccMultiStdenv,352543233,,,
 tests.cc-wrapper.llvmTests.llvmPackages.clang,,,,352543193
@@ -1381,7 +1303,7 @@ todds,,352549233,,
 tokscale,352549270,352549268,,352549267
 toxvpn,,,,352549469
 tpm2-totp,,,,352549769
-tpnote,,352549520,,
+tpnote,,353382225,,
 tracel-cli,,353084949,,353084947
 tracexec,,352549551,,
 translatelocally,352549628,352549622,,
@@ -1414,14 +1336,12 @@ verible,,,,353303310
 veridian,353303313,353303314,,
 victoriametrics,,353075268,,
 vodozemac-bindings-cpp,,,,352554803
-vrb,352554894,352554897,,
 wanderer,352556642,352556647,,352556643
 warzone2100,352556679,352556672,,
 way-displays,,353075323,,
 waylock,,352556926,,
 wayprompt,352556944,352556940,,
 webdev,352557177,352557086,,
-weblate,,353168233,,
 whale,,,,352557293
 whitesur-gtk-theme,,,,352557370
 wire-desktop,,,,352912144
@@ -1443,4 +1363,3 @@ zat,352560371,352560368,,
 zcash,352560446,352560445,,
 zerofs,,,,353050104
 zigscient,,,,352560695
-zulip-term,352561187,352561186,,352561185
