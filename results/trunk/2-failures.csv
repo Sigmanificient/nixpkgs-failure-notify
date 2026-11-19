@@ -287,6 +287,9 @@ id,name,system
 353048056,grafanaPlugins.prometheus,aarch64-darwin
 353048054,grafanaPlugins.tempo,aarch64-darwin
 352376551,grafx2,aarch64-darwin
+353981668,graphhopper,aarch64-darwin
+353981669,graphhopper,aarch64-linux
+353981662,graphhopper,x86_64-linux
 352376738,greenbone-feed-sync,aarch64-darwin
 352376846,groestlcoin,aarch64-darwin
 352376842,groestlcoin,aarch64-linux
@@ -296,6 +299,7 @@ id,name,system
 352376850,groestlcoind,x86_64-linux
 352377340,guile-zstd,aarch64-darwin
 353483628,ha-mcp,aarch64-darwin
+353981674,hal-hardware-analyzer,aarch64-darwin
 352377756,hashcash,aarch64-darwin
 352378082,haskellPackages.AppleScript,aarch64-darwin
 352378345,haskellPackages.GOST34112012-Hash,aarch64-darwin
@@ -800,6 +804,7 @@ id,name,system
 353751858,migrate,aarch64-linux
 353751857,migrate,x86_64-linux
 353981960,mistral-vibe,aarch64-darwin
+353981952,mistral-vibe,aarch64-linux
 352424115,mlton20130715,x86_64-linux
 352424244,mobsql,aarch64-darwin
 353914222,moji,aarch64-darwin
@@ -969,6 +974,7 @@ id,name,system
 352439709,pam_xdg,aarch64-darwin
 352439710,pam_xdg,aarch64-linux
 352440248,partclone-utils,aarch64-darwin
+353982062,passExtensions.pass-audit,aarch64-linux
 352440446,pawn-appetit,aarch64-darwin
 352872657,paxtest,aarch64-linux
 352872656,pcem,aarch64-linux
@@ -1109,6 +1115,7 @@ id,name,system
 352459642,python313Packages.aiohttp-remotes,x86_64-linux
 353395073,python313Packages.alphashape,aarch64-linux
 352882503,python313Packages.anki-mac-helper,aarch64-darwin
+353982195,python313Packages.ansible-runner,aarch64-darwin
 352462498,python313Packages.bayespy,aarch64-darwin
 352462499,python313Packages.bayespy,aarch64-linux
 352462500,python313Packages.bayespy,x86_64-linux
@@ -1239,6 +1246,7 @@ id,name,system
 352472265,python313Packages.kmock,aarch64-darwin
 352472658,python313Packages.ledgerblue,aarch64-darwin
 353181279,python313Packages.lerobot,aarch64-darwin
+353982492,python313Packages.lifx-async,aarch64-linux
 352473027,python313Packages.linode-api,aarch64-darwin
 352473030,python313Packages.linode-api,aarch64-linux
 352473029,python313Packages.linode-api,x86_64-linux
@@ -1318,6 +1326,7 @@ id,name,system
 352478540,python313Packages.plover-combo,aarch64-darwin
 353293891,python313Packages.plover-combo,aarch64-linux
 353293873,python313Packages.plover-combo,x86_64-linux
+353982741,python313Packages.posthog,aarch64-linux
 352478967,python313Packages.property-cached,aarch64-darwin
 352478962,python313Packages.property-cached,aarch64-linux
 352478958,python313Packages.property-cached,x86_64-linux
@@ -1353,6 +1362,7 @@ id,name,system
 352484204,python313Packages.rds2py,aarch64-darwin
 352484235,python313Packages.real-ladybug,aarch64-linux
 352484232,python313Packages.real-ladybug,x86_64-linux
+353982851,python313Packages.rerun-sdk,aarch64-darwin
 352484746,python313Packages.rmrl,aarch64-darwin
 352484738,python313Packages.rmrl,aarch64-linux
 352484739,python313Packages.rmrl,x86_64-linux
@@ -1361,6 +1371,7 @@ id,name,system
 353181661,python313Packages.s3torchconnectorclient,aarch64-linux
 353181676,python313Packages.s3torchconnectorclient,x86_64-linux
 352485212,python313Packages.scantree,aarch64-darwin
+353982875,python313Packages.setuptools-git-versioning,x86_64-linux
 352485626,python313Packages.setuptools-odoo,aarch64-darwin
 352485636,python313Packages.setuptools-odoo,aarch64-linux
 352485630,python313Packages.setuptools-odoo,x86_64-linux
@@ -1451,6 +1462,7 @@ id,name,system
 352493381,python314Packages.aiohttp-remotes,x86_64-linux
 353395360,python314Packages.alphashape,aarch64-linux
 352882854,python314Packages.anki-mac-helper,aarch64-darwin
+353982994,python314Packages.ansible-runner,aarch64-darwin
 353983024,python314Packages.atopile,aarch64-linux
 352496234,python314Packages.bayespy,aarch64-darwin
 352496238,python314Packages.bayespy,aarch64-linux
@@ -1583,6 +1595,7 @@ id,name,system
 353983192,python314Packages.kbcstorage,aarch64-darwin
 353983193,python314Packages.kbcstorage,aarch64-linux
 352505948,python314Packages.kmock,aarch64-darwin
+353983287,python314Packages.lifx-async,x86_64-linux
 352506693,python314Packages.linode-api,aarch64-darwin
 352506695,python314Packages.linode-api,aarch64-linux
 352506699,python314Packages.linode-api,x86_64-linux
@@ -1611,6 +1624,7 @@ id,name,system
 352509802,python314Packages.nanomsg-python,x86_64-linux
 353158289,python314Packages.nats-py,aarch64-linux
 353158284,python314Packages.nats-py,x86_64-linux
+353983491,python314Packages.nemo-relay,aarch64-linux
 353752950,python314Packages.nest,aarch64-darwin
 352510059,python314Packages.nfcpy,aarch64-darwin
 352510068,python314Packages.nglview,aarch64-darwin
@@ -1663,6 +1677,7 @@ id,name,system
 352512303,python314Packages.plover-combo,aarch64-darwin
 353294229,python314Packages.plover-combo,aarch64-linux
 353294240,python314Packages.plover-combo,x86_64-linux
+353983538,python314Packages.posthog,aarch64-linux
 352512610,python314Packages.property-cached,aarch64-darwin
 352512619,python314Packages.property-cached,aarch64-linux
 352512618,python314Packages.property-cached,x86_64-linux
@@ -1710,6 +1725,7 @@ id,name,system
 353182717,python314Packages.s3torchconnectorclient,aarch64-linux
 353182709,python314Packages.s3torchconnectorclient,x86_64-linux
 352518867,python314Packages.scantree,aarch64-darwin
+353983669,python314Packages.setuptools-git-versioning,x86_64-linux
 352519280,python314Packages.setuptools-odoo,aarch64-darwin
 352519287,python314Packages.setuptools-odoo,aarch64-linux
 352519288,python314Packages.setuptools-odoo,x86_64-linux
@@ -1796,10 +1812,11 @@ id,name,system
 352527640,quickwit,x86_64-linux
 352527639,quill,aarch64-linux
 352527638,quill,x86_64-linux
+353983767,radar,aarch64-darwin
+353983769,radar,aarch64-linux
 353302935,radian,aarch64-linux
 352875535,radicle-artifact,aarch64-linux
 353165643,radioboat,aarch64-darwin
-353302909,raphael-xiv,aarch64-darwin
 352527931,rare-regex,aarch64-darwin
 352527935,rarezip,aarch64-darwin
 352527999,ratspeak,aarch64-linux
@@ -1885,8 +1902,9 @@ id,name,system
 352538822,snouty,aarch64-darwin
 353199929,snouty,aarch64-linux
 353199928,snouty,x86_64-linux
+353983848,snowflake-cli,x86_64-linux
 353476559,snowflake,aarch64-linux
-353158915,solana-agave,aarch64-darwin
+353991142,solana-agave,aarch64-darwin
 352538547,solarus-quest-editor,aarch64-linux
 352538544,solarus-quest-editor,x86_64-linux
 352538803,spades,aarch64-darwin
@@ -1901,9 +1919,9 @@ id,name,system
 352539352,squeekboard,x86_64-linux
 353484317,sslstrip,aarch64-darwin
 353075015,stalwart-vandelay,aarch64-linux
-352539657,stalwart_0_16,aarch64-darwin
-352539663,stalwart_0_16,aarch64-linux
-352539662,stalwart_0_16,x86_64-linux
+353991155,stalwart_0_16,aarch64-darwin
+353991149,stalwart_0_16,aarch64-linux
+353991150,stalwart_0_16,x86_64-linux
 352539685,stardust-xr-flatland,aarch64-darwin
 352539861,steel,aarch64-linux
 352540006,stog,aarch64-darwin
@@ -1916,6 +1934,7 @@ id,name,system
 353158989,swiftPackages.swift-docc,aarch64-darwin
 353165756,switchfin,aarch64-darwin
 352541083,syzkaller,aarch64-darwin
+353983900,t3code,x86_64-linux
 352541153,tagainijisho,aarch64-linux
 352541154,tagainijisho,x86_64-linux
 352541392,task-master-ai,aarch64-linux
@@ -2052,6 +2071,7 @@ id,name,system
 353303313,veridian,x86_64-linux
 353484356,versitygw,aarch64-linux
 353484354,versitygw,x86_64-linux
+353983996,vfox,aarch64-linux
 353075268,victoriametrics,aarch64-linux
 352554803,vodozemac-bindings-cpp,aarch64-darwin
 352556643,wanderer,aarch64-darwin

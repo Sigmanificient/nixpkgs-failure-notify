@@ -177,11 +177,13 @@ grafana,,,,353981661
 grafanaPlugins.prometheus,,,,353048056
 grafanaPlugins.tempo,,,,353048054
 grafx2,,,,352376551
+graphhopper,353981662,353981669,,353981668
 greenbone-feed-sync,,,,352376738
 groestlcoin,352376845,352376842,,352376846
 groestlcoind,352376850,352376847,,352376844
 guile-zstd,,,,352377340
 ha-mcp,,,,353483628
+hal-hardware-analyzer,,,,353981674
 hashcash,,,,352377756
 haskellPackages.AppleScript,,,,352378082
 haskellPackages.GOST34112012-Hash,,352378346,,352378345
@@ -544,7 +546,7 @@ mev-boost,,352423378,,
 mgmt,353293323,353180147,,
 micropython,,353483716,,
 migrate,353751857,353751858,,
-mistral-vibe,,,,353981960
+mistral-vibe,,353981952,,353981960
 mlton20130715,352424115,,,
 mobsql,,,,352424244
 moji,,,,353914222
@@ -659,6 +661,7 @@ pam-watchid,,,,352882208
 pam_gnupg,,,,352439679
 pam_xdg,,352439710,,352439709
 partclone-utils,,,,352440248
+passExtensions.pass-audit,,353982062,,
 pawn-appetit,,,,352440446
 paxtest,,352872657,,
 pcem,,352872656,,
@@ -743,6 +746,7 @@ python-cosmopolitan,352459152,,,
 python313Packages.aiohttp-remotes,352459642,352459643,,352459641
 python313Packages.alphashape,,353395073,,
 python313Packages.anki-mac-helper,,,,352882503
+python313Packages.ansible-runner,,,,353982195
 python313Packages.bayespy,352462500,352462499,,352462498
 python313Packages.beanhub-cli,352462585,352462570,,352462583
 python313Packages.borb,352463015,352463020,,352463014
@@ -805,6 +809,7 @@ python313Packages.kbcstorage,,353982390,,353982391
 python313Packages.kmock,,,,352472265
 python313Packages.ledgerblue,,,,352472658
 python313Packages.lerobot,,,,353181279
+python313Packages.lifx-async,,353982492,,
 python313Packages.linode-api,352473029,352473030,,352473027
 python313Packages.llama-index-legacy,353163546,353163547,,353163538
 python313Packages.llama-index-readers-s3,,,,353483957
@@ -840,6 +845,7 @@ python313Packages.pillow-jpls,352478319,352478317,,352478321
 python313Packages.pint-pandas,352478347,352478345,,352478344
 python313Packages.piper-phonemize,353301778,353301781,,353301782
 python313Packages.plover-combo,353293873,353293891,,352478540
+python313Packages.posthog,,353982741,,
 python313Packages.property-cached,352478958,352478962,,352478967
 python313Packages.proton-core,,,,352479013
 python313Packages.psd-tools,353108110,,,353108101
@@ -861,10 +867,12 @@ python313Packages.qcodes,353058631,353058635,,353058628
 python313Packages.raylib,,,,352484168
 python313Packages.rds2py,,,,352484204
 python313Packages.real-ladybug,352484232,352484235,,
+python313Packages.rerun-sdk,,,,353982851
 python313Packages.rmrl,352484739,352484738,,352484746
 python313Packages.robotframework,,,,353301921
 python313Packages.s3torchconnectorclient,353181676,353181661,,353181656
 python313Packages.scantree,,,,352485212
+python313Packages.setuptools-git-versioning,353982875,,,
 python313Packages.setuptools-odoo,352485630,352485636,,352485626
 python313Packages.silver-platter,352485859,352485863,,352485841
 python313Packages.siuba,352485921,352485917,,352485922
@@ -909,6 +917,7 @@ python313Packages.zigpy-zboss,353164283,353164284,,
 python314Packages.aiohttp-remotes,352493381,352493380,,352493379
 python314Packages.alphashape,,353395360,,
 python314Packages.anki-mac-helper,,,,352882854
+python314Packages.ansible-runner,,,,353982994
 python314Packages.atopile,,353983024,,
 python314Packages.bayespy,352496236,352496238,,352496234
 python314Packages.beanhub-cli,352496330,352496338,,352496329
@@ -974,6 +983,7 @@ python314Packages.jax-jumpy,352505274,352505272,,352505273
 python314Packages.json-tricks,352505460,352505454,,352505453
 python314Packages.kbcstorage,,353983193,,353983192
 python314Packages.kmock,,,,352505948
+python314Packages.lifx-async,353983287,,,
 python314Packages.linode-api,352506699,352506695,,352506693
 python314Packages.llama-index-legacy,353164856,353164860,,353164863
 python314Packages.mdtraj,353182405,353182430,,353182409
@@ -987,6 +997,7 @@ python314Packages.mss,,352508509,,
 python314Packages.mygpoclient,,352508642,,
 python314Packages.nanomsg-python,352509802,352509798,,352509799
 python314Packages.nats-py,353158284,353158289,,
+python314Packages.nemo-relay,,353983491,,
 python314Packages.nest,,,,353752950
 python314Packages.nfcpy,,,,352510059
 python314Packages.nglview,352510070,352510075,,352510068
@@ -1010,6 +1021,7 @@ python314Packages.pillow-jpls,352511976,352511984,,352511978
 python314Packages.pint-pandas,352512009,352512007,,352512010
 python314Packages.piper-phonemize,353302532,353302528,,353302529
 python314Packages.plover-combo,353294240,353294229,,352512303
+python314Packages.posthog,,353983538,,
 python314Packages.property-cached,352512618,352512619,,352512610
 python314Packages.proton-core,,,,352512668
 python314Packages.psd-tools,353108837,,,353108826
@@ -1039,6 +1051,7 @@ python314Packages.rmrl,352518410,352518407,,352518417
 python314Packages.ruff-api,,,,353083334
 python314Packages.s3torchconnectorclient,353182709,353182717,,353182715
 python314Packages.scantree,,,,352518867
+python314Packages.setuptools-git-versioning,353983669,,,
 python314Packages.setuptools-odoo,352519288,352519287,,352519280
 python314Packages.silver-platter,352519466,352519481,,352519475
 python314Packages.siuba,352519579,352519578,,352519577
@@ -1083,10 +1096,10 @@ qmic,,,,352526817
 qucs-s,,,,352527593
 quickwit,352527640,352527636,,352527634
 quill,352527638,352527639,,
+radar,,353983769,,353983767
 radian,,353302935,,
 radicle-artifact,,352875535,,
 radioboat,,,,353165643
-raphael-xiv,,,,353302909
 rare-regex,,,,352527931
 rarezip,,,,352527935
 ratspeak,352527997,352527999,,
@@ -1144,8 +1157,9 @@ snagboot,352538228,352538231,,
 snid,,,,352538294
 snort,352538363,352538362,,
 snouty,353199928,353199929,,352538822
+snowflake-cli,353983848,,,
 snowflake,,353476559,,
-solana-agave,,,,353158915
+solana-agave,,,,353991142
 solarus-quest-editor,352538544,352538547,,
 spades,,,,352538803
 speech-tools,352538918,352538916,,
@@ -1155,7 +1169,7 @@ sqlpage,352539312,352539314,,352539311
 squeekboard,352539352,352539351,,
 sslstrip,,,,353484317
 stalwart-vandelay,,353075015,,
-stalwart_0_16,352539662,352539663,,352539657
+stalwart_0_16,353991150,353991149,,353991155
 stardust-xr-flatland,,,,352539685
 steel,,352539861,,
 stog,,,,352540006
@@ -1166,6 +1180,7 @@ super-slicer-beta,,,,353476581
 swiftPackages.swift-docc,,,,353158989
 switchfin,,,,353165756
 syzkaller,,,,352541083
+t3code,353983900,,,
 tagainijisho,352541154,352541153,,
 task-master-ai,352541393,352541392,,
 taskhound,,353382168,,
@@ -1248,6 +1263,7 @@ venus-protocol,,,,353060698
 verible,,,,353303310
 veridian,353303313,353303314,,
 versitygw,353484354,353484356,,
+vfox,,353983996,,
 victoriametrics,,353075268,,
 vodozemac-bindings-cpp,,,,352554803
 wanderer,352556642,352556647,,352556643
