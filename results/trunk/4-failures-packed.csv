@@ -10,6 +10,7 @@ anytype-cli,353072230,353072229,,
 apacheHttpdPackages.mod_tile,353751308,353751372,,
 apacheHttpdPackages_2_4.mod_tile,353751371,353751373,,
 apfs-fuse,,,,352348546
+apksigcopier,,,,354360231
 apprise,,353913891,,
 arcanist,,354327063,,354327066
 archivemount,,,,352348815
@@ -124,7 +125,7 @@ ferrishot,,,,352366829
 finalcut,,,,352367120
 firecracker,352911116,352911117,,
 flame,,,,352367485
-flamerobin,352870581,352870575,,
+flamerobin,354388944,354388945,,
 flet-client-flutter,,,,354360664
 flex-launcher,,,,352367634
 flye,,,,354328113
@@ -136,9 +137,10 @@ freeswitch,353162158,353162157,,
 fstar,,352368946,,352368891
 fsuae,352368831,,,
 g15daemon,,,,352369023
-gephgui-wry,352369999,352370004,,352370003
+gephgui-wry,354388991,354388993,,352370003
 gfs2-utils,,352370105,,
 ghidra-extensions.ghidra-firmware-utils,354360766,354360760,,354360739
+ghidra-extensions.gnudisassembler,354360744,354360740,,
 ghostunnel,,,,352370370
 gimme-aws-creds,352370486,352370484,,352370482
 git-chain,352370594,352370595,,352370593
@@ -150,7 +152,7 @@ gitpulsar,352371146,352371145,,352371144
 glances,353299384,353299385,,
 gnat16Packages.gpr2,352371750,352371752,,352371751
 gnatPackages.gpr2,352371818,352371808,,352371817
-gnudatalanguage,,353751605,,
+gnudatalanguage,,354389072,,
 goarista,352870781,352870777,,352870778
 google-amber,352375828,352375827,,
 gophernotes,352375918,352375915,,352375916
@@ -250,7 +252,6 @@ haskellPackages.xls,,,,352399745
 haskellPackages.xmonad-utils,,,,352399821
 haskellPackages.zlib-bytes,,,,352400198
 haskellPackages.zot,,,,352400223
-helixnotes,,354279628,,
 hexagonrpc,,,,352400544
 hilbish,352400702,352400703,,352400700
 home-assistant-custom-components.frigate,354359065,,,
@@ -276,7 +277,7 @@ ieda,,353299463,,
 iio-oscilloscope,352403496,352403493,,
 impactor,,,,354229556
 inochi-creator,352403977,352403975,,
-insulator2,354279663,354279662,,
+insulator2,354389156,354389157,,
 intel-lpmd,,352404043,,
 ios-webkit-debug-proxy,352404199,352404197,,
 ipfs-cluster,352404318,352404317,,352404313
@@ -297,13 +298,14 @@ julia_112-bin,352405634,352405629,,
 julia_113,,352405633,,352405635
 jx,352405733,352405734,,
 karmor,352406082,352406080,,352406079
-kdePackages.itinerary,354328735,354328734,,
+kdePackages.itinerary,354389200,354389213,,
 keeperrl,352407403,,,
 keifu,352407412,352407411,,352407410
 ketch,,353381092,,
 key,,,,354361108
 koboldcpp-vulkan,,353300457,,
 kodiPackages.plex-for-kodi,,,,352408006
+komikku,,354389274,,
 kopuz,,,,354252056
 kphotoalbum,353300467,353300470,,
 kubectl-kcl,352408493,352408491,,
@@ -506,7 +508,6 @@ mathemagix,,352422439,,
 mayo,,,,352422638
 mbuffer,,,,352422670
 mediasynclite,,,,352423040
-mercury,353300731,,,
 mesh-llm,,,,354329331
 metapixel,,,,352423339
 mev-boost,,352423378,,
@@ -556,6 +557,7 @@ nix-serve-ng,,352427409,,352427394
 nixel,,,,352427480
 nixops_unstablePlugins.nixops-vbox,352427513,352427522,,352427511
 nixops_unstablePlugins.nixopsvbox,352427525,352427515,,352427528
+nixos-rebuild-ng,,,,354361376
 nmstate,,,,352428161
 nnd,352428326,,,
 nodejs-slim_26,,,,353156011
@@ -681,7 +683,7 @@ pkgsRocm.spfft,354362061,,,
 plakar-plugin-nfs,352455409,352455407,,352455408
 plakar-plugin-sftp,352455421,352455420,,352455419
 plakar-plugin-smb,352455424,352455423,,352455422
-plugdata,352455605,352455603,,
+plugdata,354389908,354389906,,
 pnetcdf,,,,353752538
 pngoptimizer,352455703,352455705,,
 pomerium,352455931,352455930,,
@@ -711,7 +713,7 @@ postgresql19Packages.temporal_tables,354359745,354359760,,354359771
 postgresqlPackages.pg_duckdb,,,,353057302
 powertabeditor,,,,352457617
 prmt,,,,352457872
-project-graph,354280806,354280805,,
+project-graph,354389927,354389930,,
 protoc-gen-swift,,,,354362163
 pspy,,,,352458644
 pulumiPackages.pulumi-azure-native,,,,352458786
@@ -794,9 +796,11 @@ python313Packages.mflux,,,,354362961
 python313Packages.mip,352474271,,,
 python313Packages.mir-eval,352474269,352474264,,352474265
 python313Packages.mistral-common,,,,354252771
+python313Packages.mmcv,,,,354362967
 python313Packages.mpv,,,,354362986
 python313Packages.nanomsg-python,352476136,352476130,,352476127
 python313Packages.nats-py,,353157442,,
+python313Packages.nemo-relay,,,,354363074
 python313Packages.nest,,,,353752696
 python313Packages.nglview,352476398,352476400,,352476394
 python313Packages.nuclear,352476670,352476666,,352476667
@@ -819,6 +823,7 @@ python313Packages.pillow-jpls,352478319,352478317,,352478321
 python313Packages.pint-pandas,352478347,352478345,,352478344
 python313Packages.piper-phonemize,,353301781,,353301782
 python313Packages.plover-combo,353293873,353293891,,352478540
+python313Packages.posthog,354363110,,,
 python313Packages.property-cached,352478958,352478962,,352478967
 python313Packages.proton-core,,,,352479013
 python313Packages.psd-tools,353108110,,,353108101
@@ -831,6 +836,7 @@ python313Packages.pymupdf,,353181563,,
 python313Packages.pynest2d,352481138,352481132,,
 python313Packages.pyoxipng,352481339,,,
 python313Packages.pyreqwest,354230256,,,
+python313Packages.pyscf,,,,354363136
 python313Packages.pytest-selenium,352482570,352482573,,352482592
 python313Packages.python-prctl,,352483207,,
 python313Packages.python-redis-lock,,,,352483220
@@ -862,6 +868,8 @@ python313Packages.subarulink,352487275,352487276,,352487279
 python313Packages.surepy,353164122,353164113,,353164117
 python313Packages.swi-tools,352487443,352487444,,352487442
 python313Packages.tcxparser,352487641,352487640,,352487638
+python313Packages.temporalio,,,,354363189
+python313Packages.tencentcloud-sdk-python,,,,354363192
 python313Packages.toggl-cli,352488195,352488199,,352488181
 python313Packages.torch-checkpointing,,353982928,,353982933
 python313Packages.torch-cluster,,,,353181795
@@ -888,7 +896,6 @@ python314Packages.canopen,,,,352497078
 python314Packages.casatools,353983037,353983039,,
 python314Packages.cert-chain-resolver,352497218,352497217,,352497219
 python314Packages.cgal,352497291,352497293,,
-python314Packages.class-doc,352497471,352497469,,352497470
 python314Packages.clx-sdk-xms,352497651,352497645,,352497644
 python314Packages.cnvkit,,,,354325445
 python314Packages.colcon-argcomplete,352497763,352497761,,352497760
@@ -977,6 +984,7 @@ python314Packages.pillow-jpls,352511976,352511984,,352511978
 python314Packages.pint-pandas,352512009,352512007,,352512010
 python314Packages.piper-phonemize,,353302528,,353302529
 python314Packages.plover-combo,353294240,353294229,,352512303
+python314Packages.posthog,,354364132,,
 python314Packages.property-cached,352512618,352512619,,352512610
 python314Packages.proton-core,,,,352512668
 python314Packages.psd-tools,353108837,,,353108826
@@ -984,7 +992,6 @@ python314Packages.pycoin,352513457,352513477,,
 python314Packages.pykdtree,,352514334,,
 python314Packages.pylibjpeg-rle,,,,352514450
 python314Packages.pylsl,,,,352514539
-python314Packages.pymupdf,,353182615,,
 python314Packages.pynest2d,352514800,352514797,,
 python314Packages.pynetdicom,,,,352514799
 python314Packages.pyoxipng,352515013,,,
@@ -996,6 +1003,7 @@ python314Packages.python-redis-lock,,,,352516893
 python314Packages.pytorch3d,353182669,353182662,,353182668
 python314Packages.pyttsx3,,,,352517241
 python314Packages.qcodes,353060075,353060073,,353060080
+python314Packages.qtile-extras,,354364178,,
 python314Packages.raylib,,,,352517841
 python314Packages.rds2py,,,,352517873
 python314Packages.real-ladybug,352517907,352517905,,
@@ -1078,7 +1086,7 @@ s3fs,,,,352534501
 sail-riscv,,,,353476506
 satdump,,352534777,,
 sbclPackages.cl-gtk2-glib,,352535107,,352535099
-sbclPackages.cl-gtk4_dot_webkit,352535133,352535132,,
+sbclPackages.cl-gtk4_dot_webkit,354390354,354390356,,
 sbclPackages.cl-notify,,,,352535167
 sbclPackages.qt-libs,352535840,352535844,,352535838
 scantpaper,354333158,354333153,,

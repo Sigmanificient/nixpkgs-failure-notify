@@ -15,6 +15,7 @@ id,name,system
 353751373,apacheHttpdPackages_2_4.mod_tile,aarch64-linux
 353751371,apacheHttpdPackages_2_4.mod_tile,x86_64-linux
 352348546,apfs-fuse,aarch64-darwin
+354360231,apksigcopier,aarch64-darwin
 353913891,apprise,aarch64-linux
 354327066,arcanist,aarch64-darwin
 354327063,arcanist,aarch64-linux
@@ -186,8 +187,8 @@ id,name,system
 352911117,firecracker,aarch64-linux
 352911116,firecracker,x86_64-linux
 352367485,flame,aarch64-darwin
-352870575,flamerobin,aarch64-linux
-352870581,flamerobin,x86_64-linux
+354388945,flamerobin,aarch64-linux
+354388944,flamerobin,x86_64-linux
 354360664,flet-client-flutter,aarch64-darwin
 352367634,flex-launcher,aarch64-darwin
 354328113,flye,aarch64-darwin
@@ -203,12 +204,14 @@ id,name,system
 352368831,fsuae,x86_64-linux
 352369023,g15daemon,aarch64-darwin
 352370003,gephgui-wry,aarch64-darwin
-352370004,gephgui-wry,aarch64-linux
-352369999,gephgui-wry,x86_64-linux
+354388993,gephgui-wry,aarch64-linux
+354388991,gephgui-wry,x86_64-linux
 352370105,gfs2-utils,aarch64-linux
 354360739,ghidra-extensions.ghidra-firmware-utils,aarch64-darwin
 354360760,ghidra-extensions.ghidra-firmware-utils,aarch64-linux
 354360766,ghidra-extensions.ghidra-firmware-utils,x86_64-linux
+354360740,ghidra-extensions.gnudisassembler,aarch64-linux
+354360744,ghidra-extensions.gnudisassembler,x86_64-linux
 352370370,ghostunnel,aarch64-darwin
 352370482,gimme-aws-creds,aarch64-darwin
 352370484,gimme-aws-creds,aarch64-linux
@@ -235,7 +238,7 @@ id,name,system
 352371817,gnatPackages.gpr2,aarch64-darwin
 352371808,gnatPackages.gpr2,aarch64-linux
 352371818,gnatPackages.gpr2,x86_64-linux
-353751605,gnudatalanguage,aarch64-linux
+354389072,gnudatalanguage,aarch64-linux
 352870778,goarista,aarch64-darwin
 352870777,goarista,aarch64-linux
 352870781,goarista,x86_64-linux
@@ -370,7 +373,6 @@ id,name,system
 352399821,haskellPackages.xmonad-utils,aarch64-darwin
 352400198,haskellPackages.zlib-bytes,aarch64-darwin
 352400223,haskellPackages.zot,aarch64-darwin
-354279628,helixnotes,aarch64-linux
 352400544,hexagonrpc,aarch64-darwin
 352400700,hilbish,aarch64-darwin
 352400703,hilbish,aarch64-linux
@@ -413,8 +415,8 @@ id,name,system
 354229556,impactor,aarch64-darwin
 352403975,inochi-creator,aarch64-linux
 352403977,inochi-creator,x86_64-linux
-354279662,insulator2,aarch64-linux
-354279663,insulator2,x86_64-linux
+354389157,insulator2,aarch64-linux
+354389156,insulator2,x86_64-linux
 352404043,intel-lpmd,aarch64-linux
 352404197,ios-webkit-debug-proxy,aarch64-linux
 352404199,ios-webkit-debug-proxy,x86_64-linux
@@ -453,8 +455,8 @@ id,name,system
 352406079,karmor,aarch64-darwin
 352406080,karmor,aarch64-linux
 352406082,karmor,x86_64-linux
-354328734,kdePackages.itinerary,aarch64-linux
-354328735,kdePackages.itinerary,x86_64-linux
+354389213,kdePackages.itinerary,aarch64-linux
+354389200,kdePackages.itinerary,x86_64-linux
 352407403,keeperrl,x86_64-linux
 352407410,keifu,aarch64-darwin
 352407411,keifu,aarch64-linux
@@ -463,6 +465,7 @@ id,name,system
 354361108,key,aarch64-darwin
 353300457,koboldcpp-vulkan,aarch64-linux
 352408006,kodiPackages.plex-for-kodi,aarch64-darwin
+354389274,komikku,aarch64-linux
 354252056,kopuz,aarch64-darwin
 353300470,kphotoalbum,aarch64-linux
 353300467,kphotoalbum,x86_64-linux
@@ -728,7 +731,6 @@ id,name,system
 352422638,mayo,aarch64-darwin
 352422670,mbuffer,aarch64-darwin
 352423040,mediasynclite,aarch64-darwin
-353300731,mercury,x86_64-linux
 354329331,mesh-llm,aarch64-darwin
 352423339,metapixel,aarch64-darwin
 352423378,mev-boost,aarch64-linux
@@ -804,6 +806,7 @@ id,name,system
 352427528,nixops_unstablePlugins.nixopsvbox,aarch64-darwin
 352427515,nixops_unstablePlugins.nixopsvbox,aarch64-linux
 352427525,nixops_unstablePlugins.nixopsvbox,x86_64-linux
+354361376,nixos-rebuild-ng,aarch64-darwin
 352428161,nmstate,aarch64-darwin
 352428326,nnd,x86_64-linux
 353156011,nodejs-slim_26,aarch64-darwin
@@ -965,8 +968,8 @@ id,name,system
 352455422,plakar-plugin-smb,aarch64-darwin
 352455423,plakar-plugin-smb,aarch64-linux
 352455424,plakar-plugin-smb,x86_64-linux
-352455603,plugdata,aarch64-linux
-352455605,plugdata,x86_64-linux
+354389906,plugdata,aarch64-linux
+354389908,plugdata,x86_64-linux
 353752538,pnetcdf,aarch64-darwin
 352455705,pngoptimizer,aarch64-linux
 352455703,pngoptimizer,x86_64-linux
@@ -1019,8 +1022,8 @@ id,name,system
 353057302,postgresqlPackages.pg_duckdb,aarch64-darwin
 352457617,powertabeditor,aarch64-darwin
 352457872,prmt,aarch64-darwin
-354280805,project-graph,aarch64-linux
-354280806,project-graph,x86_64-linux
+354389930,project-graph,aarch64-linux
+354389927,project-graph,x86_64-linux
 354362163,protoc-gen-swift,aarch64-darwin
 352458644,pspy,aarch64-darwin
 352458786,pulumiPackages.pulumi-azure-native,aarch64-darwin
@@ -1173,11 +1176,13 @@ id,name,system
 352474264,python313Packages.mir-eval,aarch64-linux
 352474269,python313Packages.mir-eval,x86_64-linux
 354252771,python313Packages.mistral-common,aarch64-darwin
+354362967,python313Packages.mmcv,aarch64-darwin
 354362986,python313Packages.mpv,aarch64-darwin
 352476127,python313Packages.nanomsg-python,aarch64-darwin
 352476130,python313Packages.nanomsg-python,aarch64-linux
 352476136,python313Packages.nanomsg-python,x86_64-linux
 353157442,python313Packages.nats-py,aarch64-linux
+354363074,python313Packages.nemo-relay,aarch64-darwin
 353752696,python313Packages.nest,aarch64-darwin
 352476394,python313Packages.nglview,aarch64-darwin
 352476400,python313Packages.nglview,aarch64-linux
@@ -1227,6 +1232,7 @@ id,name,system
 352478540,python313Packages.plover-combo,aarch64-darwin
 353293891,python313Packages.plover-combo,aarch64-linux
 353293873,python313Packages.plover-combo,x86_64-linux
+354363110,python313Packages.posthog,x86_64-linux
 352478967,python313Packages.property-cached,aarch64-darwin
 352478962,python313Packages.property-cached,aarch64-linux
 352478958,python313Packages.property-cached,x86_64-linux
@@ -1244,6 +1250,7 @@ id,name,system
 352481138,python313Packages.pynest2d,x86_64-linux
 352481339,python313Packages.pyoxipng,x86_64-linux
 354230256,python313Packages.pyreqwest,x86_64-linux
+354363136,python313Packages.pyscf,aarch64-darwin
 352482592,python313Packages.pytest-selenium,aarch64-darwin
 352482573,python313Packages.pytest-selenium,aarch64-linux
 352482570,python313Packages.pytest-selenium,x86_64-linux
@@ -1306,6 +1313,8 @@ id,name,system
 352487638,python313Packages.tcxparser,aarch64-darwin
 352487640,python313Packages.tcxparser,aarch64-linux
 352487641,python313Packages.tcxparser,x86_64-linux
+354363189,python313Packages.temporalio,aarch64-darwin
+354363192,python313Packages.tencentcloud-sdk-python,aarch64-darwin
 352488181,python313Packages.toggl-cli,aarch64-darwin
 352488199,python313Packages.toggl-cli,aarch64-linux
 352488195,python313Packages.toggl-cli,x86_64-linux
@@ -1361,9 +1370,6 @@ id,name,system
 352497218,python314Packages.cert-chain-resolver,x86_64-linux
 352497293,python314Packages.cgal,aarch64-linux
 352497291,python314Packages.cgal,x86_64-linux
-352497470,python314Packages.class-doc,aarch64-darwin
-352497469,python314Packages.class-doc,aarch64-linux
-352497471,python314Packages.class-doc,x86_64-linux
 352497644,python314Packages.clx-sdk-xms,aarch64-darwin
 352497645,python314Packages.clx-sdk-xms,aarch64-linux
 352497651,python314Packages.clx-sdk-xms,x86_64-linux
@@ -1534,6 +1540,7 @@ id,name,system
 352512303,python314Packages.plover-combo,aarch64-darwin
 353294229,python314Packages.plover-combo,aarch64-linux
 353294240,python314Packages.plover-combo,x86_64-linux
+354364132,python314Packages.posthog,aarch64-linux
 352512610,python314Packages.property-cached,aarch64-darwin
 352512619,python314Packages.property-cached,aarch64-linux
 352512618,python314Packages.property-cached,x86_64-linux
@@ -1545,7 +1552,6 @@ id,name,system
 352514334,python314Packages.pykdtree,aarch64-linux
 352514450,python314Packages.pylibjpeg-rle,aarch64-darwin
 352514539,python314Packages.pylsl,aarch64-darwin
-353182615,python314Packages.pymupdf,aarch64-linux
 352514797,python314Packages.pynest2d,aarch64-linux
 352514800,python314Packages.pynest2d,x86_64-linux
 352514799,python314Packages.pynetdicom,aarch64-darwin
@@ -1564,6 +1570,7 @@ id,name,system
 353060080,python314Packages.qcodes,aarch64-darwin
 353060073,python314Packages.qcodes,aarch64-linux
 353060075,python314Packages.qcodes,x86_64-linux
+354364178,python314Packages.qtile-extras,aarch64-linux
 352517841,python314Packages.raylib,aarch64-darwin
 352517873,python314Packages.rds2py,aarch64-darwin
 352517905,python314Packages.real-ladybug,aarch64-linux
@@ -1696,8 +1703,8 @@ id,name,system
 352534777,satdump,aarch64-linux
 352535099,sbclPackages.cl-gtk2-glib,aarch64-darwin
 352535107,sbclPackages.cl-gtk2-glib,aarch64-linux
-352535132,sbclPackages.cl-gtk4_dot_webkit,aarch64-linux
-352535133,sbclPackages.cl-gtk4_dot_webkit,x86_64-linux
+354390356,sbclPackages.cl-gtk4_dot_webkit,aarch64-linux
+354390354,sbclPackages.cl-gtk4_dot_webkit,x86_64-linux
 352535167,sbclPackages.cl-notify,aarch64-darwin
 352535838,sbclPackages.qt-libs,aarch64-darwin
 352535844,sbclPackages.qt-libs,aarch64-linux
